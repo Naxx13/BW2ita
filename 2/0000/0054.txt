@@ -1,12 +1,12 @@
-You can change the language of the game.\xfffeDo you want to play in English?\xf000븀\x0000\xfffeOr do you want to play in Japanese?\xf000븁\x0000
-English
-Japanese
-The game will be played in English.\xf000븁\x0000
-The game will be played in Japanese.\xf000븁\x0000
-Please wait until save\xfffedata has been created.
-Hi there!\xf000븁\x0000\xfffeWelcome to the world of Pokémon!\xf000븁\x0000
-My name is Professor Juniper.\xfffeEveryone calls me the Pokémon Professor!\xf000븁\x0000
-That's right! This world is widely\xfffeinhabited by mysterious creatures\xf000븀\x0000\xfffecalled Pokémon!\xf000븁\x0000
+È possibile cambiare la lingua del gioco.\xfffeVuoi giocare in Italiano?\xf000븀\x0000\xfffeOppure vuoi giocare in Giapponese?\xf000븁\x0000
+Italiano
+Giapponese
+La partita si giocherà in lingua Italiana.\xf000븁\x0000
+La partita si giocherà in lingua Giapponese.\xf000븁\x0000
+Per favore attendere il salvataggio\xfffei dati sono stati creati.
+Ehilà!\xf000븁\x0000\xfffeBenvenuto nel mondo dei Pokémon!\xf000븁\x0000
+Il mio nome è Professor Juniper.\xfffeTutti mi chiamano il professore Pokémon!\xf000븁\x0000
+Proprio così! This world is widely\xfffeinhabited by mysterious creatures\xf000븀\x0000\xfffecalled Pokémon!\xf000븁\x0000
 Pokémon have mysterious powers.\xfffeThey come in many shapes\xf000븀\x0000\xfffeand live in many different places.\xf000븁\x0000\xfffeWe humans live happily with Pokémon!\xfffeLiving and working together,\xf000븀\x0000\xfffewe complement each other.\xf000븁\x0000\xfffeWe help each other out to\xfffeaccomplish difficult tasks.\xf000븁\x0000\xfffeHaving Pokémon battle one another\xfffeis particularly popular, and it deepens\xf000븀\x0000\xfffethe bonds between people and Pokémon.\xf000븀\x0000\xfffeAnd that is why I research Pokémon.\xf000븁\x0000
 Well, that's enough from me...\xfffeCould you tell me about yourself?\xf000븁\x0000
 Are you a boy?\xfffeOr a girl?\xf000븁\x0000
