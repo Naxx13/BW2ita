@@ -142,20 +142,20 @@ I tuoi strumenti sono stati\xfffeorganizzati!
 \xfffeOrganizzati per nome!
 おおいじゅんに\xfffeもちものを　せいり　しました！
 \xfffeOrganizzali in ordine ascendente!
-ぜんぶ
-フリースペースへ
-もとのポケットへ
+Tutto
+Spazio Libero
+Sotto
 Perfavore seleziona gli\xfffeche stai guardando!
-\xf000Ē\x0001\x0000に　いれる　もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
-\xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　いどう　しました！
-\xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　もどしました！
+\xf000Ē\x0001\x0000に　Messo li\xfffe\xf000Ȃ\x0001\x0001 E' stato trovato！
+\xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　Non Hai！
+\xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000 Ripristina
 In che modo vuoi organizzarli?
 Per tipo
 Per nome
-おおいじゅん
+Giu
 Dal più piccolo al più grande
 Ordine numerico
-もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
+E'\xfffe\xf000Ȃ\x0001\x0001 Stato trovato！
 \xfffeOrganizzati per nome!
 Non trovato
 Metti via
