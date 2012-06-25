@@ -1,4 +1,4 @@
-Yes
+Si
 No
-Confirmation
-Close
+Conferma
+Chiudi
