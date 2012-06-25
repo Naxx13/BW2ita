@@ -7,18 +7,18 @@
 これで　いいですか？
 なにか　ことばを　いれてください！
 なにも　しないで　やめますか？
-Yes
+Si
 No
 グループ\xfffeモード
 あいうえお\xfffeモード
-USE
-CONFIRM
-QUIT
-EDIT
-ADD NEW MESSAGES
-SELECT
-DELETE
-QUIT
+USA
+CONFERMA
+ESCI
+MODIFICA
+AGGIUNGI NUOVI MESSAGGI
+SELEZIONA
+ELIMINA
+ESCI
 Registered message list:\xfffePlease select the message\xfffeyou want to use.
 Please choose a message type\xfffeor the place you want\xfffeyour word or phrase to go.
 Please choose where you want\xfffeyour word or phrase to be placed.
