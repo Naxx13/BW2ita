@@ -173,28 +173,28 @@ WT
 もどる
 もどる
 リストに　もどります
-Give a nickname to the \xf000ā\x0001\x0000caught \xfffe?
-Give a nickname to the \xf000ā\x0001\x0000caught \xfffe?
-\xf000Ă\x0001\x0000 was transferred to\xfffe\xf000ċ\x0001\x0001 in PokéStation.net PC!
-\xf000Ă\x0001\x0000 was transferred to\xfffe\xf000ċ\x0001\x0001 in PokéStation's PC!
-Information
-Map/Area
-Voice/Cry
-Forme/Forms
-Compare
+Dare un soprannome al \xf000ā\x0001\x0000 \xfffecatturato?
+Dare un soprannome al \xf000ā\x0001\x0000 \xfffecatturato?
+\xf000Ă\x0001\x0000 è stato trasferito nel\xfffe\xf000ċ\x0001\x0001 nel PC del Team Phoenix!
+\xf000Ă\x0001\x0000 wè stato trasferito nel\xfffe\xf000ċ\x0001\x0001 nel PC del Team Phoenix!
+Informazioni
+Mappa/Area
+Verso/Grido
+Forma/Forme
+Compara
 \xf000Ȁ\x0001\x0000'\xf000ȁ\x0001\x0001"
-Forms seen
-Shiny seen
+Forme conosciute
+Forme cromatiche
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
 (Shiny)
-\xf000ā\x0001\x0000's Area
-Spring
-Summer
-Autumn
-Winter
+Habitat di \xf000ā\x0001\x0000
+Primavera
+Estate
+Autunno
+Inverno
 ???
-HT
+HT.
 HAUT.
 GR.
 ALTEZ.
