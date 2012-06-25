@@ -1,3 +1,40 @@
+OPZIONI
+VELOCITA' TESTO
+SCENA BATTAGLIA 
+STILE BATTAGLIA
+SUONO
+INGLESE
+Wi-Fi
+SALVA PRIMA INFRAROSSI
+CONFERMA
+USCIRE
+LENTO
+METÀ
+VELOCE
+ON
+OFF
+MAIUSC
+IMPOSTA
+STEREO
+MONO
+SI
+NO
+ACCESO 
+SPENTO
+SALVA
+NON SALVARE 
+È possibile scegliere tra tre differenti\xfffevelocità di scorrimento del testo.
+È possibile scegliere di cambiare Pokémon\xfffequando Pokémon avversario è esausto.
+È possibile scegliere se visualizzare\xfffeo meno le animazioni.
+È possibile scegliere il modo in cui si sentono i suoni del gioco.
+Puoi scegliere la lingua del gioco.
+È possibile attivare la comunicazione wireless\xfffeoppure no.
+È possibile scegliere di salvare il gioco\xfffeprima che il C-Gear si accenda.
+I dati sono già stati salvati.\xfffeNon è possibile modificare questa opzione.\xf000븁\x0000
+Vuoi apportare queste modifiche?
+Si
+No
+Falso Messaggio.
 OPTIONS
 TEXT SPEED
 BATTLE SCENE
