@@ -1,0 +1,107 @@
+『Search Mode』
+Please enter the search criteria.
+『Search Results』
+\xf000Ȃ\x0001\x0000 was not found.
+Please enter the order.
+Please enter the first letter in the name.
+Please enter the type.
+Please enter the form.
+Please enter the color.
+Pokémon found!
+No Pokémon found...
+Searching...
+ORDER
+NAME
+TYPE
+COLOR
+FORM
+Unova Pokédex: Search Mode
+National Pokédex: Search Mode
+RESET
+START
+CANCEL
+\xf000Ȃ\x0001\x0000．\xf000Ȁ\x0001\x0001
+ACCEPT
+CANCEL
+Number
+A to Z
+Heavy to Light
+Light to Heavy
+Tall to Short
+Short to Tall
+Dark
+Rock
+Psychic
+Fighting
+Grass
+Ice
+Ghost
+Ground
+Electric
+Poison
+Dragon
+Normal
+Steel
+Flying
+Fire
+Water
+Bug
+――――
+／
+――――
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+―
+Red
+Blue
+Yellow
+Green
+Black
+Brown
+Purple
+Gray
+White
+Pink
+――――

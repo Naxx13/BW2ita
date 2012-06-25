@@ -1,0 +1,28 @@
+ことばを　えらんでね！
+たいせんまえの　ことばを　かんがえよう
+かったときの　きめゼリフを　かんがえよう
+まけたときの　いいわけを　かんがえよう
+はやっている　ものは？
+ユニオンあいさつを　かんがえよう
+これで　いいですか？
+なにか　ことばを　いれてください！
+なにも　しないで　やめますか？
+Yes
+No
+グループ\xfffeモード
+あいうえお\xfffeモード
+USE
+CONFIRM
+QUIT
+EDIT
+ADD NEW MESSAGES
+SELECT
+DELETE
+QUIT
+Registered message list:\xfffePlease select the message\xfffeyou want to use.
+Please choose a message type\xfffeor the place you want\xfffeyour word or phrase to go.
+Please choose where you want\xfffeyour word or phrase to be placed.
+GROUP MODE:\xfffePlease choose a word or phrase\xfffefrom the group.
+ABC MODE:\xfffePlease choose a letter to\xfffenarrow down your choices.
+ABC MODE:\xfffePlease choose a word or phrase\xfffefrom the narrowed-down list.
+GROUP MODE:\xfffePlease choose a group of words\xfffeor phrases that'll go in that place.

@@ -1,0 +1,9 @@
+たいりょく
+Attack
+Defense
+すばやさ
+Sp. Atk
+Sp. Def
+めいちゅうりつ
+かいひりつ
+Max HP

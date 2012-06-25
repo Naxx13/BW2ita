@@ -1,0 +1,23 @@
+None
+Aquitaine
+Alsace
+Île-de-France
+Auvergne
+Corse
+Champagne-Ardenne
+Nord-Pas-de-Calais
+Lower Normandy
+Upper Normandy
+Picardy
+Franche-Comté
+Burgundy
+Brittany
+Provence-Alpes-Côte d'Azur
+Pays-de-la-Loire
+Poitou-Charentes
+Midi-Pyrenees
+Languedoc-Roussillon
+Limousin
+Rhône-Alpes
+Lorraine
+Centre
