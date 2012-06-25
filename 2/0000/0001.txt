@@ -1,9 +1,9 @@
 PS／PP
-Restore
+Terapie
 Stato
 Rimedi
 PS／PP
-Restore
+Terapie
 Strumenti lotta
 Pokéball
 Ultimo oggetto usato
@@ -21,7 +21,7 @@ Ultimo oggetto usato
 ×\xf000Ȃ\x0001\x0000
 Avanti
 PS/PP
-Restore
+Terapie
 Stato
 Guaritori
 Pokéball
