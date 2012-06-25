@@ -1,30 +1,30 @@
-ロードしています\xfffeしばらく　おまちください
-ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　ポケシフターを\xfffeきどうしなおして　ください\xf000븁\x0000
-ポケシフター　きどうちゅう……\xfffeまもなく　はじまります
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-レポートに　かきこみました\xf000븂\x0001<
-もういちど　ポケシフターで\xfffeあそびますか？
-ポケシフターを　しゅうりょうします\xfffeでんげんを　きって\xfffeしゅうりょうしてください
-もう１つの　ＤＳに\xfffeボックスの　あきが　たりません\xf000븁\x0000
-ポケシフターで　つかまえられる\xfffeポケモンが\xfffeボックスに　６ひき　いません\xf000븁\x0000
-データの　よみこみに\xfffeしっぱい　しました\xf000븁\x0000
-もう１つの　ＤＳの\xfffeせつぞくに　しっぱい　しました\xf000븁\x0000
-データの　かきこみに\xfffeしっぱい　しました\xf000븁\x0000
-つれてきた　ポケモンは\xfffeもう　もとの　ばしょには\xf000븁\x0000\xfffeもどれませんが\xfffeほんとうに　よろしいですか？
-ポケモンを　もとのちほうに\xfffeかえしました\xf000븁\x0000
-レポートを　よみこむことが\xfffeできませんでした\xfffeレポートが　かかれていないか\xfffeこわれている　かのうせいがあります\xf000븁\x0000
-ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　ポケシフターを\xfffeきどうしなおして　ください\xf000븁\x0000
-Yes
-No
-Ｌｖ．\xf000Ȃ\x0001\x0000
-タマゴは　ポケシフターで\xfffeつかまえることが　できません
-ひでんわざを　おぼえている　ポケモンは\xfffeポケシフターで　つかまえられません
-このポケモンは　ポケシフターで\xfffeつかまえられません
-この６ひきで　よろしいですか？
-オウ！\xf000븁\x0000\xfffeこの　ギザみみピチューは\xfffeもとの　ばしょに\xf000븀\x0000\xfffeステイさせたほうが　よさそうだ！\xf000븁\x0000\xfffeこのピチューは　ときわたりで\xfffeやってきた　ポケモンらしいね\xf000븁\x0000\xfffeみたところ　この　ピチューは\xfffeセレビィと　いっしょに　ながい　じかん\xf000븀\x0000\xfffeわたってきた　えいきょうが　からだに\xf000븀\x0000\xfffeのこってる　みたいだ\xf000븁\x0000\xfffeつれてくるのは　デンジャラス！\xfffeベリー　デンジャラスッ！\xf000븁\x0000\xfffeもとの　ばしょに　いるほうが\xfffeピチューに　とっても　ベストだろう！
-もっている　どうぐは　バッグに\xfffeもどりますが　よろしいですか？
-バッグに　いっぱいの　どうぐは\xfffeきえてしまいますが　よろしいですか？
-ポケシフターを　しゅうりょうしますか？
-ポケモンを　６ひき　えらんで\xfffeタッチペンをつかって　みぎのわくに\xfffeスライドさせて　ください
-じかんないに　ポケモンを\xfffeぜんぶ　つかまえろ！
+Caricamento in corso.\xfffeAttendi...
+Non è stata rilevata alcuna scheda\xfffeDS compatibile. Spegni la console,\xfffeinserisci un'altra scheda DS e\xffferiavvia il Pokétrasporto.\xf000븁\x0000
+Avvio del Pokétrasporto in corso.\xfffeAttendi...
+Salvataggio in corso.\xfffeNon spegnere la console.
+Salvataggio completato.\xf000븂\x0001<
+Vuoi usare di nuovo il Pokétrasporto?
+Questa sessione del Pokétrasporto\xfffeverrà terminata. Spegni la console.
+Nei Box dell'altro Nintendo DS\xfffenon c'è abbastanza spazio.\xf000븁\x0000
+Nei Box non ci sono i sei Pokémon\xfffeda prelevare con il Pokétrasporto.\xf000븁\x0000
+Lettura dei dati non riuscita.\xf000븁\x0000
+Il collegamento all'altra console\xfffeNintendo DS non è riuscito.\xf000븁\x0000
+Scrittura dei dati non riuscita.\xf000븁\x0000
+I Pokémon trasferiti non potranno più\xfffetornare nel gioco da dove provengono.\xf000븁\x0000\xfffeVuoi procedere comunque?
+Hai rimandato i Pokémon alla loro regione\xfffedi origine.\xf000븁\x0000
+Lettura dei dati non riuscita.\xfffeÈ possibile che non ci siano dati\xfffesalvati o che quelli presenti siano\xfffedanneggiati.\xf000븁\x0000
+Non è stata rilevata alcuna scheda\xfffeDS compatibile. Spegni la console,\xfffeinserisci un'altra scheda DS e\xffferiavvia il Pokétrasporto.\xf000븁\x0000
+SÌ
+NO
+L. \xf000Ȃ\x0001\x0000
+Non è possibile trasferire le Uova con\xfffeil Pokétrasporto.
+Non puoi trasferire Pokémon che conoscano\xfffemosse apprese tramite Macchine Nascoste.
+Non puoi prendere questo Pokémon\xfffecon il Pokétrasporto.
+Vanno bene questi sei Pokémon?
+Ehi!\xf000븁\x0000\xfffePichu Spunzorek è meglio lasciarlo dov'è!\xfffeQuesto Pokémon ha viaggiato nel tempo.\xf000븁\x0000\xfffeCiò deve aver modificato il suo corpo,\xfffeproprio come è successo a Celebi!\xf000븁\x0000\xfffeÈ pericoloso portarlo qui! Pericolosissimo!\xfffeLa cosa migliore è che rimanga dov'è!
+Gli strumenti che tengono saranno rimessi\xfffenella Borsa. Vuoi procedere comunque?
+Gli strumenti che non trovano posto nella\xfffeBorsa verranno eliminati. Vuoi procedere?
+Vuoi spegnere il Pokétrasporto?
+Scegli sei Pokémon. Toccali con lo stilo\xfffee poi trascinali nel riquadro a destra.
+Acchiappa tutti i Pokémon prima che\xfffescada il tempo!
 デバッグROM\xfffeDP　Y\xfffePT　X\xfffeGS　A
