@@ -1,1159 +1,1159 @@
 \xf000Ă\x0001\x0000 è esausto!
 \xf000Ă\x0001\x0000 selvatico è esausto!
 \xf000Ă\x0001\x0000 nemico è esausto!
-\xf000Ă\x0001\x0000\xfffesi è ripreso!
-\xf000Ă\x0001\x0000 selvatico\xfffesi è ripreso!
-\xf000Ă\x0001\x0000 nemico\xfffesi è ripreso!
-E' superefficace su\xfffe\xf000Ă\x0001\x0000!
-E' superefficace su\xfffe\xf000Ă\x0001\x0000 selvatico!
-E' superefficace su\xfffe\xf000Ă\x0001\x0000 nemico!
-E' superefficace su\xfffe\xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001!
-E' superefficace su\xfffe\xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001 selvatici!
-E' superefficace su\xfffe\xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001 nemici!
-E' superefficace su \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001, e \xf000Ă\x0001\x0002!
-E' superefficace su \xfffe\xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001, e \xf000Ă\x0001\x0002 selvatici!
-E' superefficace su \xfffe\xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001, e \xf000Ă\x0001\x0002 nemici!
+\xf000Ă\x0001\x0000 è ritornato in forze!
+\xf000Ă\x0001\x0000 selvatico è ritornato in forze!
+\xf000Ă\x0001\x0000 nemico è ritornato in forze!
+È superefficace su \xf000Ă\x0001\x0000!
+È superefficace su \xf000Ă\x0001\x0000 selvatico!
+È superefficace su \xf000Ă\x0001\x0000 nemico!
+È superefficace su \xf000Ă\x0001\x0000 e\xfffe\xf000Ă\x0001\x0001!
+È superefficace su \xf000Ă\x0001\x0000 e\xfffe\xf000Ă\x0001\x0001 selvatici!
+È superefficace su \xf000Ă\x0001\x0000 e\xfffe\xf000Ă\x0001\x0001 nemici!
+È superefficace su \xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001\xfffee \xf000Ă\x0001\x0002!
+È superefficace su \xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001\xfffee \xf000Ă\x0001\x0002 selvatici!
+È superefficace su \xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001\xfffee \xf000Ă\x0001\x0002 nemici!
 Non è molto efficace su \xf000Ă\x0001\x0000...
-Non è molto efficace su \xfffe\xf000Ă\x0001\x0000 selvatico...
-Non è molto efficace su \xfffe\xf000Ă\x0001\x0000 nemico...
-Non è molto efficace su \xfffe\xf000Ă\x0001\x0000 o \xf000Ă\x0001\x0001.
-Non è molto efficace su \xfffe\xf000Ă\x0001\x0000 o \xf000Ă\x0001\x0001 selvatici...
-Non è molto efficace su \xfffe\xf000Ă\x0001\x0000 o \xf000Ă\x0001\x0001 nemici...
-Non è molto efficace su \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001, o\xf000Ă\x0001\x0002...
-Non è molto efficace su \xfffe\xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001, o \xf000Ă\x0001\x0002 selvatici...
-Non è molto efficace su \xfffe\xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001, o \xf000Ă\x0001\x0002 nemici...
-But it failed to affect\xfffe\xf000Ă\x0001\x0000!
-But it failed to affect\xfffethe wild \xf000Ă\x0001\x0000!
-But it failed to affect\xfffethe foe's \xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0000's Attack\xffferose!
-The wild \xf000Ă\x0001\x0000's Attack\xffferose!
-The foe's \xf000Ă\x0001\x0000's Attack\xffferose!
-\xf000Ă\x0001\x0000's Defense\xffferose!
-The wild \xf000Ă\x0001\x0000's Defense\xffferose!
-The foe's \xf000Ă\x0001\x0000's Defense\xffferose!
-\xf000Ă\x0001\x0000's Special Attack\xffferose!
-The wild \xf000Ă\x0001\x0000's Special Attack\xffferose!
-The foe's \xf000Ă\x0001\x0000's Special Attack\xffferose!
-\xf000Ă\x0001\x0000's Special Defense\xffferose!
-The wild \xf000Ă\x0001\x0000's Special Defense\xffferose!
-The foe's \xf000Ă\x0001\x0000's Special Defense\xffferose!
-\xf000Ă\x0001\x0000's Speed\xffferose!
-The wild \xf000Ă\x0001\x0000's Speed\xffferose!
-The foe's \xf000Ă\x0001\x0000's Speed\xffferose!
-\xf000Ă\x0001\x0000's accuracy\xffferose!
-The wild \xf000Ă\x0001\x0000's accuracy\xffferose!
-The foe's \xf000Ă\x0001\x0000's accuracy\xffferose!
-\xf000Ă\x0001\x0000's evasiveness\xffferose!
-The wild \xf000Ă\x0001\x0000's evasiveness\xffferose!
-The foe's \xf000Ă\x0001\x0000's evasiveness\xffferose!
-\xf000Ă\x0001\x0000's Attack\xffferose sharply!
-The wild \xf000Ă\x0001\x0000's Attack\xffferose sharply!
-The foe's \xf000Ă\x0001\x0000's Attack\xffferose sharply!
-\xf000Ă\x0001\x0000's Defense\xffferose sharply!
-The wild \xf000Ă\x0001\x0000's Defense\xffferose sharply!
-The foe's \xf000Ă\x0001\x0000's Defense\xffferose sharply!
-\xf000Ă\x0001\x0000's Special Attack\xffferose sharply!
-The wild \xf000Ă\x0001\x0000's Special Attack\xffferose sharply!
-The foe's \xf000Ă\x0001\x0000's Special Attack\xffferose sharply!
-\xf000Ă\x0001\x0000's Special Defense\xffferose sharply!
-The wild \xf000Ă\x0001\x0000's Special Defense\xffferose sharply!
-The foe's \xf000Ă\x0001\x0000's Special Defense\xffferose sharply!
-\xf000Ă\x0001\x0000's Speed\xffferose sharply!
-The wild \xf000Ă\x0001\x0000's Speed\xffferose sharply!
-The foe's \xf000Ă\x0001\x0000's Speed\xffferose sharply!
-\xf000Ă\x0001\x0000's accuracy\xffferose sharply!
-The wild \xf000Ă\x0001\x0000's accuracy\xffferose sharply!
-The foe's \xf000Ă\x0001\x0000's accuracy\xffferose sharply!
-\xf000Ă\x0001\x0000's evasiveness\xffferose sharply!
-The wild \xf000Ă\x0001\x0000's evasiveness\xffferose sharply!
-The foe's \xf000Ă\x0001\x0000's evasiveness\xffferose sharply!
-\xf000Ă\x0001\x0000's Attack\xffferose drastically!
-The wild \xf000Ă\x0001\x0000's Attack\xffferose drastically!
-The foe's \xf000Ă\x0001\x0000's Attack\xffferose drastically!
-\xf000Ă\x0001\x0000's Defense\xffferose drastically!
-The wild \xf000Ă\x0001\x0000's Defense\xffferose drastically!
-The foe's \xf000Ă\x0001\x0000's Defense\xffferose drastically!
-\xf000Ă\x0001\x0000's Special Attack\xffferose drastically!
-The wild \xf000Ă\x0001\x0000's Special Attack\xffferose drastically!
-The foe's \xf000Ă\x0001\x0000's Special Attack\xffferose drastically!
-\xf000Ă\x0001\x0000's Special Defense\xffferose drastically!
-The wild \xf000Ă\x0001\x0000's Special Defense\xffferose drastically!
-The foe's \xf000Ă\x0001\x0000's Special Defense\xffferose drastically!
-\xf000Ă\x0001\x0000's Speed\xffferose drastically!
-The wild \xf000Ă\x0001\x0000's Speed\xffferose drastically!
-The foe's \xf000Ă\x0001\x0000's Speed\xffferose drastically!
-\xf000Ă\x0001\x0000's accuracy\xffferose drastically!
-The wild \xf000Ă\x0001\x0000's accuracy\xffferose drastically!
-The foe's \xf000Ă\x0001\x0000's accuracy\xffferose drastically!
-\xf000Ă\x0001\x0000's evasiveness\xffferose drastically!
-The wild \xf000Ă\x0001\x0000's evasiveness\xffferose drastically!
-The foe's \xf000Ă\x0001\x0000's evasiveness\xffferose drastically!
-\xf000Ă\x0001\x0000's Attack\xfffefell!
-The wild \xf000Ă\x0001\x0000's Attack\xfffefell!
-The foe's \xf000Ă\x0001\x0000's Attack\xfffefell!
-\xf000Ă\x0001\x0000's Defense\xfffefell!
-The wild \xf000Ă\x0001\x0000's Defense\xfffefell!
-The foe's \xf000Ă\x0001\x0000's Defense\xfffefell!
-\xf000Ă\x0001\x0000's Special Attack\xfffefell!
-The wild \xf000Ă\x0001\x0000's Special Attack\xfffefell!
-The foe's \xf000Ă\x0001\x0000's Special Attack\xfffefell!
-\xf000Ă\x0001\x0000's Special Defense\xfffefell!
-The wild \xf000Ă\x0001\x0000's Special Defense\xfffefell!
-The foe's \xf000Ă\x0001\x0000's Special Defense\xfffefell!
-\xf000Ă\x0001\x0000's Speed\xfffefell!
-The wild \xf000Ă\x0001\x0000's Speed\xfffefell!
-The foe's \xf000Ă\x0001\x0000's Speed\xfffefell!
-\xf000Ă\x0001\x0000's accuracy\xfffefell!
-The wild \xf000Ă\x0001\x0000's accuracy\xfffefell!
-The foe's \xf000Ă\x0001\x0000's accuracy\xfffefell!
-\xf000Ă\x0001\x0000's evasiveness\xfffefell!
-The wild \xf000Ă\x0001\x0000's evasiveness\xfffefell!
-The foe's \xf000Ă\x0001\x0000's evasiveness\xfffefell!
-\xf000Ă\x0001\x0000's Attack\xfffeharshly fell!
-The wild \xf000Ă\x0001\x0000's Attack\xfffeharshly fell!
-The foe's \xf000Ă\x0001\x0000's Attack\xfffeharshly fell!
-\xf000Ă\x0001\x0000's Defense\xfffeharshly fell!
-The wild \xf000Ă\x0001\x0000's Defense\xfffeharshly fell!
-The foe's \xf000Ă\x0001\x0000's Defense\xfffeharshly fell!
-\xf000Ă\x0001\x0000's Special Attack\xfffeharshly fell!
-The wild \xf000Ă\x0001\x0000's Special Attack\xfffeharshly fell!
-The foe's \xf000Ă\x0001\x0000's Special Attack\xfffeharshly fell!
-\xf000Ă\x0001\x0000's Special Defense\xfffeharshly fell!
-The wild \xf000Ă\x0001\x0000's Special Defense\xfffeharshly fell!
-The foe's \xf000Ă\x0001\x0000's Special Defense\xfffeharshly fell!
-\xf000Ă\x0001\x0000's Speed\xfffeharshly fell!
-The wild \xf000Ă\x0001\x0000's Speed\xfffeharshly fell!
-The foe's \xf000Ă\x0001\x0000's Speed\xfffeharshly fell!
-\xf000Ă\x0001\x0000's accuracy\xfffeharshly fell!
-The wild \xf000Ă\x0001\x0000's accuracy\xfffeharshly fell!
-The foe's \xf000Ă\x0001\x0000's accuracy\xfffeharshly fell!
-\xf000Ă\x0001\x0000's evasiveness\xfffeharshly fell!
-The wild \xf000Ă\x0001\x0000's evasiveness\xfffeharshly fell!
-The foe's \xf000Ă\x0001\x0000's evasiveness\xfffeharshly fell!
-\xf000Ă\x0001\x0000's Attack\xfffeseverely fell!
-The wild \xf000Ă\x0001\x0000's Attack\xfffeseverely fell!
-The foe's \xf000Ă\x0001\x0000's Attack\xfffeseverely fell!
-\xf000Ă\x0001\x0000's Defense\xfffeseverely fell!
-The wild \xf000Ă\x0001\x0000's Defense\xfffeseverely fell!
-The foe's \xf000Ă\x0001\x0000's Defense\xfffeseverely fell!
-\xf000Ă\x0001\x0000's Special Attack\xfffeseverely fell!
-The wild \xf000Ă\x0001\x0000's Special Attack\xfffeseverely fell!
-The foe's \xf000Ă\x0001\x0000's Special Attack\xfffeseverely fell!
-\xf000Ă\x0001\x0000's Special Defense\xfffeseverely fell!
-The wild \xf000Ă\x0001\x0000's Special Defense\xfffeseverely fell!
-The foe's \xf000Ă\x0001\x0000's Special Defense\xfffeseverely fell!
-\xf000Ă\x0001\x0000's Speed\xfffeseverely fell!
-The wild \xf000Ă\x0001\x0000's Speed\xfffeseverely fell!
-The foe's \xf000Ă\x0001\x0000's Speed\xfffeseverely fell!
-\xf000Ă\x0001\x0000's accuracy\xfffeseverely fell!
-The wild \xf000Ă\x0001\x0000's accuracy\xfffeseverely fell!
-The foe's \xf000Ă\x0001\x0000's accuracy\xfffeseverely fell!
-\xf000Ă\x0001\x0000's evasiveness\xfffeseverely fell!
-The wild \xf000Ă\x0001\x0000's evasiveness\xfffeseverely fell!
-The foe's \xf000Ă\x0001\x0000's evasiveness\xfffeseverely fell!
-\xf000Ă\x0001\x0000's Attack won't\xfffego any higher!
-The wild \xf000Ă\x0001\x0000's Attack\xfffewon't go any higher!
-The foe's \xf000Ă\x0001\x0000's Attack\xfffewon't go any higher!
-\xf000Ă\x0001\x0000's Defense won't\xfffego any higher!
-The wild \xf000Ă\x0001\x0000's Defense\xfffewon't go any higher!
-The foe's \xf000Ă\x0001\x0000's Defense\xfffewon't go any higher!
-\xf000Ă\x0001\x0000's Special Attack won't\xfffego any higher!
-The wild \xf000Ă\x0001\x0000's Special Attack\xfffewon't go any higher!
-The foe's \xf000Ă\x0001\x0000's Special Attack\xfffewon't go any higher!
-\xf000Ă\x0001\x0000's Special Defense won't\xfffego any higher!
-The wild \xf000Ă\x0001\x0000's Special Defense\xfffewon't go any higher!
-The foe's \xf000Ă\x0001\x0000's Special Defense\xfffewon't go any higher!
-\xf000Ă\x0001\x0000's Speed won't\xfffego any higher!
-The wild \xf000Ă\x0001\x0000's Speed\xfffewon't go any higher!
-The foe's \xf000Ă\x0001\x0000's Speed\xfffewon't go any higher!
-\xf000Ă\x0001\x0000's accuracy won't\xfffego any higher!
-The wild \xf000Ă\x0001\x0000's accuracy\xfffewon't go any higher!
-The foe's \xf000Ă\x0001\x0000's accuracy\xfffewon't go any higher!
-\xf000Ă\x0001\x0000's evasiveness won't\xfffego any higher!
-The wild \xf000Ă\x0001\x0000's evasiveness\xfffewon't go any higher!
-The foe's \xf000Ă\x0001\x0000's evasiveness\xfffewon't go any higher!
-\xf000Ă\x0001\x0000's Attack won't\xfffego any lower!
-The wild \xf000Ă\x0001\x0000's Attack\xfffewon't go any lower!
-The foe's \xf000Ă\x0001\x0000's Attack\xfffewon't go any lower!
-\xf000Ă\x0001\x0000's Defense won't\xfffego any lower!
-The wild \xf000Ă\x0001\x0000's Defense\xfffewon't go any lower!
-The foe's \xf000Ă\x0001\x0000's Defense\xfffewon't go any lower!
-\xf000Ă\x0001\x0000's Special Attack won't\xfffego any lower!
-The wild \xf000Ă\x0001\x0000's Special Attack\xfffewon't go any lower!
-The foe's \xf000Ă\x0001\x0000's Special Attack\xfffewon't go any lower!
-\xf000Ă\x0001\x0000's Special Defense won't\xfffego any lower!
-The wild \xf000Ă\x0001\x0000's Special Defense\xfffewon't go any lower!
-The foe's \xf000Ă\x0001\x0000's Special Defense\xfffewon't go any lower!
-\xf000Ă\x0001\x0000's Speed won't\xfffego any lower!
-The wild \xf000Ă\x0001\x0000's Speed\xfffewon't go any lower!
-The foe's \xf000Ă\x0001\x0000's Speed\xfffewon't go any lower!
-\xf000Ă\x0001\x0000's accuracy won't\xfffego any lower!
-The wild \xf000Ă\x0001\x0000's accuracy\xfffewon't go any lower!
-The foe's \xf000Ă\x0001\x0000's accuracy\xfffewon't go any lower!
-\xf000Ă\x0001\x0000's evasiveness won't\xfffego any lower!
-The wild \xf000Ă\x0001\x0000's evasiveness\xfffewon't go any lower!
-The foe's \xf000Ă\x0001\x0000's evasiveness\xfffewon't go any lower!
-\xf000Ă\x0001\x0000's stat changes\xfffewere removed!
-The wild \xf000Ă\x0001\x0000's stat changes\xfffewere removed!
-The foe's \xf000Ă\x0001\x0000's stat changes\xfffewere removed!
-\xf000Ă\x0001\x0000's stats\xfffewere not lowered!
-The wild \xf000Ă\x0001\x0000's stats\xfffewere not lowered!
-The foe's \xf000Ă\x0001\x0000's stats\xfffewere not lowered!
-\xf000Ă\x0001\x0000's Attack\xfffewas not lowered!
-The wild \xf000Ă\x0001\x0000's Attack\xfffewas not lowered!
-The foe's \xf000Ă\x0001\x0000's Attack\xfffewas not lowered!
-\xf000Ă\x0001\x0000's Defense\xfffewas not lowered!
-The wild \xf000Ă\x0001\x0000's Defense\xfffewas not lowered!
-The foe's \xf000Ă\x0001\x0000's Defense\xfffewas not lowered!
-\xf000Ă\x0001\x0000's accuracy\xfffewas not lowered!
-The wild \xf000Ă\x0001\x0000's accuracy\xfffewas not lowered!
-The foe's \xf000Ă\x0001\x0000's accuracy\xfffewas not lowered!
-It doesn't affect\xfffe\xf000Ă\x0001\x0000...
-It doesn't affect\xfffethe wild \xf000Ă\x0001\x0000...
-It doesn't affect\xfffethe foe's \xf000Ă\x0001\x0000...
-\xf000Ă\x0001\x0000 avoided\xfffethe attack!
-The wild \xf000Ă\x0001\x0000 avoided\xfffethe attack!
-The foe's \xf000Ă\x0001\x0000 avoided\xfffethe attack!
-\xf000Ă\x0001\x0000 is\xfffeunaffected!
-The wild \xf000Ă\x0001\x0000 is\xfffeunaffected!
-The foe's \xf000Ă\x0001\x0000 is\xfffeunaffected!
-The \xf000ĉ\x0001\x0001 weakened the damage\xfffeto \xf000Ă\x0001\x0000!
-The \xf000ĉ\x0001\x0001 weakened the damage\xfffeto the wild \xf000Ă\x0001\x0000!
-The \xf000ĉ\x0001\x0001 weakened the damage\xfffeto the foe's \xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0000 transformed!
-The wild \xf000Ă\x0001\x0000\xfffetransformed!
-The foe's \xf000Ă\x0001\x0000\xfffetransformed!
-\xf000Ă\x0001\x0000 dropped\xfffeits \xf000ĉ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 dropped\xfffeits \xf000ĉ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 dropped\xfffeits \xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000's status\xfffewas restored!
-The wild \xf000Ă\x0001\x0000's status\xfffewas restored!
-The foe's \xf000Ă\x0001\x0000's status\xfffewas restored!
-\xf000Ă\x0001\x0000 moved\xfffeto the center!
-The wild \xf000Ă\x0001\x0000 moved\xfffeto the center!
-The foe's \xf000Ă\x0001\x0000 moved\xfffeto the center!
-\xf000Ă\x0001\x0000\xfffewas poisoned!
-The wild \xf000Ă\x0001\x0000\xfffewas poisoned!
-The foe's \xf000Ă\x0001\x0000\xfffewas poisoned!
-\xf000Ă\x0001\x0000 was badly\xfffepoisoned!
-The wild \xf000Ă\x0001\x0000 was badly\xfffepoisoned!
-The foe's \xf000Ă\x0001\x0000 was badly\xfffepoisoned!
-\xf000Ă\x0001\x0000 was badly\xfffepoisoned by the \xf000ĉ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 was badly\xfffepoisoned by the \xf000ĉ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 was badly\xfffepoisoned by the \xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000 was hurt\xfffeby poison!
-The wild \xf000Ă\x0001\x0000 was hurt\xfffeby poison!
-The foe's \xf000Ă\x0001\x0000 was hurt\xfffeby poison!
-\xf000Ă\x0001\x0000 was cured of its\xfffepoisoning.
-\xf000Ă\x0001\x0000 was cured of its\xfffepoisoning.
-\xf000Ă\x0001\x0000 was cured of its\xfffepoisoning.
-\xf000Ă\x0001\x0000 is already\xfffepoisoned.
-The wild \xf000Ă\x0001\x0000 is already\xfffepoisoned.
-The foe's \xf000Ă\x0001\x0000 is already\xfffepoisoned.
-\xf000Ă\x0001\x0000 cannot\xfffebe poisoned!
-The wild \xf000Ă\x0001\x0000 cannot\xfffebe poisoned!
-The foe's \xf000Ă\x0001\x0000 cannot\xfffebe poisoned!
-\xf000Ă\x0001\x0000 was burned!
-The wild \xf000Ă\x0001\x0000\xfffewas burned!
-The foe's \xf000Ă\x0001\x0000\xfffewas burned!
-\xf000Ă\x0001\x0000 was burned by \xf000ĉ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000\xfffewas burned by \xf000ĉ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000\xfffewas burned by \xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000 was hurt\xfffeby its burn!
-The wild \xf000Ă\x0001\x0000 was hurt\xfffeby its burn!
-The foe's \xf000Ă\x0001\x0000 was hurt\xfffeby its burn!
-\xf000Ă\x0001\x0000's burn was healed.
-The wild \xf000Ă\x0001\x0000 healed its burn!
-The foe's \xf000Ă\x0001\x0000 healed its burn!
-\xf000Ă\x0001\x0000 already\xfffehas a burn.
-The wild \xf000Ă\x0001\x0000 already\xfffehas a burn.
-The foe's \xf000Ă\x0001\x0000 already\xfffehas a burn.
-\xf000Ă\x0001\x0000 cannot\xfffebe burned!
-The wild \xf000Ă\x0001\x0000 cannot\xfffebe burned!
-The foe's \xf000Ă\x0001\x0000 cannot\xfffebe burned!
-\xf000Ă\x0001\x0000 is paralyzed!\xfffeIt may be unable to move!
-The wild \xf000Ă\x0001\x0000 is paralyzed!\xfffeIt may be unable to move!
-The foe's \xf000Ă\x0001\x0000 is paralyzed!\xfffeIt may be unable to move!
-\xf000Ă\x0001\x0000 is paralyzed!\xfffeIt can't move!
-The wild \xf000Ă\x0001\x0000 is paralyzed!\xfffeIt can't move!
-The foe's \xf000Ă\x0001\x0000 is paralyzed!\xfffeIt can't move!
-\xf000Ă\x0001\x0000 was cured of\xfffeparalysis.
-The wild \xf000Ă\x0001\x0000 was cured of\xfffeparalysis.
-The foe's \xf000Ă\x0001\x0000 was cured of\xfffeparalysis.
-\xf000Ă\x0001\x0000 is\xfffealready paralyzed!
-The wild \xf000Ă\x0001\x0000 is\xfffealready paralyzed!
-The foe's \xf000Ă\x0001\x0000 is\xfffealready paralyzed!
-\xf000Ă\x0001\x0000 cannot\xfffebe paralyzed!
-The wild \xf000Ă\x0001\x0000 cannot\xfffebe paralyzed!
-The foe's \xf000Ă\x0001\x0000 cannot\xfffebe paralyzed!
-\xf000Ă\x0001\x0000 was\xfffefrozen solid!
-The wild \xf000Ă\x0001\x0000 was\xfffefrozen solid!
-The foe's \xf000Ă\x0001\x0000 was\xfffefrozen solid!
-\xf000Ă\x0001\x0000 is\xfffefrozen solid!
-The wild \xf000Ă\x0001\x0000 is\xfffefrozen solid!
-The foe's \xf000Ă\x0001\x0000 is\xfffefrozen solid!
-\xf000Ă\x0001\x0000 thawed out!
-The wild \xf000Ă\x0001\x0000 thawed out!
-The foe's \xf000Ă\x0001\x0000 thawed out!
-\xf000Ă\x0001\x0000 is\xfffealready frozen solid!
-The wild \xf000Ă\x0001\x0000 is\xfffealready frozen solid!
-The foe's \xf000Ă\x0001\x0000 is\xfffealready frozen solid!
-\xf000Ă\x0001\x0000 cannot be\xfffefrozen solid!
-The wild \xf000Ă\x0001\x0000 cannot be\xfffefrozen solid!
-The foe's \xf000Ă\x0001\x0000 cannot be\xfffefrozen solid!
-\xf000Ă\x0001\x0000's \xf000ć\x0001\x0001\xfffemelted the ice!
-The wild \xf000Ă\x0001\x0000's \xf000ć\x0001\x0001\xfffemelted the ice!
-The foe's \xf000Ă\x0001\x0000's \xf000ć\x0001\x0001\xfffemelted the ice!
-\xf000Ă\x0001\x0000\xfffefell asleep!
-The wild \xf000Ă\x0001\x0000\xfffefell asleep!
-The foe's \xf000Ă\x0001\x0000\xfffefell asleep!
-\xf000Ă\x0001\x0000 is fast\xfffeasleep.
-The wild \xf000Ă\x0001\x0000 is fast\xfffeasleep.
-The foe's \xf000Ă\x0001\x0000 is fast\xfffeasleep.
-\xf000Ă\x0001\x0000 woke up!
-The wild \xf000Ă\x0001\x0000\xfffewoke up!
-The foe's \xf000Ă\x0001\x0000\xfffewoke up!
-\xf000Ă\x0001\x0000 is\xfffealready asleep!
-The wild \xf000Ă\x0001\x0000 is\xfffealready asleep!
-The foe's \xf000Ă\x0001\x0000 is\xfffealready asleep!
-\xf000Ă\x0001\x0000 stays awake!
-The wild \xf000Ă\x0001\x0000 stays awake!
-The foe's \xf000Ă\x0001\x0000 stays awake!
-\xf000Ă\x0001\x0000 began having\xfffea nightmare!
-The wild \xf000Ă\x0001\x0000 began\xfffehaving a nightmare!
-The foe's \xf000Ă\x0001\x0000 began\xfffehaving a nightmare!
-\xf000Ă\x0001\x0000 is locked\xfffein a nightmare!
-The wild \xf000Ă\x0001\x0000 is locked\xfffein a nightmare!
-The foe's \xf000Ă\x0001\x0000 is locked\xfffein a nightmare!
-\xf000Ă\x0001\x0000\xfffefell in love!
-The wild \xf000Ă\x0001\x0000\xfffefell in love!
-The foe's \xf000Ă\x0001\x0000\xfffefell in love!
-\xf000Ă\x0001\x0000\xfffefell in love from the \xf000ĉ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000\xfffefell in love from the \xf000ĉ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000\xfffefell in love from the \xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000 is in love\xfffewith \xf000Ă\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 is in love\xfffewith \xf000Ă\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 is in love\xfffewith \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 is\xfffeimmobilized by love!
-The wild \xf000Ă\x0001\x0000 is\xfffeimmobilized by love!
-The foe's \xf000Ă\x0001\x0000 is\xfffeimmobilized by love!
-\xf000Ă\x0001\x0000 got over its\xfffeinfatuation.
-The wild \xf000Ă\x0001\x0000 got over its\xfffeinfatuation.
-The foe's \xf000Ă\x0001\x0000 got over its\xfffeinfatuation.
-\xf000Ă\x0001\x0000's status\xfffeis returned to normal!
-The wild \xf000Ă\x0001\x0000's status\xfffeis returned to normal!
-The foe's \xf000Ă\x0001\x0000's status\xfffeis returned to normal!
-\xf000Ă\x0001\x0000 became\xfffeconfused!
-The wild \xf000Ă\x0001\x0000 became\xfffeconfused!
-The foe's \xf000Ă\x0001\x0000 became\xfffeconfused!
-\xf000Ă\x0001\x0000 is\xfffeconfused!
-The wild \xf000Ă\x0001\x0000 is\xfffeconfused!
-The foe's \xf000Ă\x0001\x0000 is\xfffeconfused!
-\xf000Ă\x0001\x0000 snapped out of its\xfffeconfusion.
-The wild \xf000Ă\x0001\x0000 snapped\xfffeout of confusion!
-The foe's \xf000Ă\x0001\x0000 snapped\xfffeout of confusion!
-\xf000Ă\x0001\x0000 is\xfffealready confused!
-The wild \xf000Ă\x0001\x0000 is\xfffealready confused!
-The foe's \xf000Ă\x0001\x0000 is\xfffealready confused!
-\xf000Ă\x0001\x0000 doesn't\xfffebecome confused!
-The wild \xf000Ă\x0001\x0000 doesn't\xfffebecome confused!
-The foe's \xf000Ă\x0001\x0000 doesn't\xfffebecome confused!
-\xf000Ă\x0001\x0000 became\xfffeconfused due to fatigue!
-The wild \xf000Ă\x0001\x0000 became\xfffeconfused due to fatigue!
-The foe's \xf000Ă\x0001\x0000 became\xfffeconfused due to fatigue!
-\xf000Ă\x0001\x0000 flinched\xfffeand couldn't move!
-The wild \xf000Ă\x0001\x0000 flinched\xfffeand couldn't move!
-The foe's \xf000Ă\x0001\x0000 flinched\xfffeand couldn't move!
-\xf000Ă\x0001\x0000 lost its\xfffefocus and couldn't move!
-The wild \xf000Ă\x0001\x0000 lost its\xfffefocus and couldn't move!
-The foe's \xf000Ă\x0001\x0000 lost its\xfffefocus and couldn't move!
-\xf000Ă\x0001\x0000 was identified!
-The wild \xf000Ă\x0001\x0000 was identified!
-The foe's \xf000Ă\x0001\x0000 was identified!
-\xf000Ă\x0001\x0000 is hurt\xfffeby \xf000ć\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 is hurt\xfffeby \xf000ć\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 is hurt\xfffeby \xf000ć\x0001\x0001!
-\xf000Ă\x0001\x0000 was freed\xfffefrom \xf000ć\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 was freed\xfffefrom \xf000ć\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 was freed\xfffefrom \xf000ć\x0001\x0001!
-\xf000Ă\x0001\x0000 is damaged\xfffeby recoil!
-The wild \xf000Ă\x0001\x0000 is damaged\xfffeby recoil!
-The foe's \xf000Ă\x0001\x0000 is damaged\xfffeby recoil!
-It traced\xfffe\xf000Ă\x0001\x0000's \xf000Ć\x0001\x0001!
-It traced the wild\xfffe\xf000Ă\x0001\x0000's \xf000Ć\x0001\x0001!
-It traced the foe's\xfffe\xf000Ă\x0001\x0000's \xf000Ć\x0001\x0001!
-A critical hit on \xf000Ă\x0001\x0000!
-A critical hit on the wild \xf000Ă\x0001\x0000!
-A critical hit on the foe's \xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0000's HP was restored.
-The wild \xf000Ă\x0001\x0000 had its HP restored.
-The foe's \xf000Ă\x0001\x0000 had its HP restored.
-\xf000Ă\x0001\x0000 restored\xfffe\xf000ć\x0001\x0001's PP!
-The wild \xf000Ă\x0001\x0000 restored\xfffe\xf000ć\x0001\x0001's PP!
-The foe's \xf000Ă\x0001\x0000 restored\xfffe\xf000ć\x0001\x0001's PP!
-\xf000Ă\x0001\x0000 restored all its\xfffemoves' PP!
-The wild \xf000Ă\x0001\x0000 restored all its\xfffemoves' PP!
-The foe's \xf000Ă\x0001\x0000 restored all its\xfffemoves' PP!
-\xf000Ă\x0001\x0000 is buffeted\xfffeby the sandstorm!
-The wild \xf000Ă\x0001\x0000 is buffeted\xfffeby the sandstorm!
-The foe's \xf000Ă\x0001\x0000 is buffeted\xfffeby the sandstorm!
-\xf000Ă\x0001\x0000 is buffeted\xfffeby the hail!
-The wild \xf000Ă\x0001\x0000 is buffeted\xfffeby the hail!
-The foe's \xf000Ă\x0001\x0000 is buffeted\xfffeby the hail!
-\xf000Ă\x0001\x0000\xfffeis hurt!
-The wild \xf000Ă\x0001\x0000\xfffeis hurt!
-The foe's \xf000Ă\x0001\x0000\xfffeis hurt!
-\xf000Ă\x0001\x0000 acquired\xfffe\xf000Ć\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 acquired\xfffe\xf000Ć\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 acquired\xfffe\xf000Ć\x0001\x0001!
-\xf000Ă\x0001\x0000 floats in the air\xfffewith its Air Balloon!
-The wild \xf000Ă\x0001\x0000 floats in the air\xfffewith its Air Balloon!
-The foe's \xf000Ă\x0001\x0000 floats in the air\xfffewith its Air Balloon!
-\xf000Ă\x0001\x0000's Air Balloon\xfffepopped!
-The wild \xf000Ă\x0001\x0000's Air Balloon\xfffepopped!
-The foe's \xf000Ă\x0001\x0000's Air Balloon\xfffepopped!
-\xf000Ă\x0001\x0000 is switched out\xfffewith the Eject Button!
-The wild \xf000Ă\x0001\x0000 is switched out\xfffewith the Eject Button!
-The foe's \xf000Ă\x0001\x0000 is switched out\xfffewith the Eject Button!
-\xf000Ă\x0001\x0000 held up its Red Card\xfffeagainst \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 held up its Red Card\xfffeagainst the wild \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 held up its Red Card\xfffeagainst the foe's \xf000Ă\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 held up its Red Card\xfffeagainst \xf000Ă\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 held up its Red Card\xfffeagainst the wild \xf000Ă\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 held up its Red Card\xfffeagainst \xf000Ă\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 held up its Red Card\xfffeagainst the foe's \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 was hurt\xfffeby the Rocky Helmet!
-The wild \xf000Ă\x0001\x0000 was hurt\xfffeby the Rocky Helmet!
-The foe's \xf000Ă\x0001\x0000 was hurt\xfffeby the Rocky Helmet!
-The power of \xf000Ă\x0001\x0000's\xfffeFire-type moves rose!
-The power of the wild \xf000Ă\x0001\x0000's\xfffeFire-type moves rose!
-The power of the foe's \xf000Ă\x0001\x0000's\xfffeFire-type moves rose!
-\xf000Ă\x0001\x0000\xfffewas hurt!
-The wild \xf000Ă\x0001\x0000\xfffewas hurt!
-The foe's \xf000Ă\x0001\x0000\xfffewas hurt!
-It was alerted to \xf000Ă\x0001\x0000's\xfffe\xf000ć\x0001\x0001!
-It was alerted to the wild \xf000Ă\x0001\x0000's\xfffe\xf000ć\x0001\x0001!
-It was alerted to the foe's \xf000Ă\x0001\x0000's\xfffe\xf000ć\x0001\x0001!
-\xf000Ă\x0001\x0000\xfffeshuddered!
-The wild \xf000Ă\x0001\x0000\xfffeshuddered!
-The foe's \xf000Ă\x0001\x0000\xfffeshuddered!
-\xf000Ă\x0001\x0000 frisked its\xfffetarget and found one \xf000ĉ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 frisked its\xfffetarget and found one \xf000ĉ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 frisked its\xfffetarget and found one \xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000\xfffebreaks the mold!
-The wild \xf000Ă\x0001\x0000\xfffebreaks the mold!
-The foe's \xf000Ă\x0001\x0000\xfffebreaks the mold!
-\xf000Ă\x0001\x0000 is\xfffeloafing around!
-The wild \xf000Ă\x0001\x0000 is\xfffeloafing around!
-The foe's \xf000Ă\x0001\x0000 is\xfffeloafing around!
-\xf000Ă\x0001\x0000\xfffetook the attack!
-The wild \xf000Ă\x0001\x0000\xfffetook the attack!
-The foe's \xf000Ă\x0001\x0000\xfffetook the attack!
-\xf000Ă\x0001\x0000 stays awake!
-The wild \xf000Ă\x0001\x0000 stays awake!
-The foe's \xf000Ă\x0001\x0000 stays awake!
-\xf000Ă\x0001\x0000 anchors itself!
-The wild \xf000Ă\x0001\x0000 anchors itself!
-The foe's \xf000Ă\x0001\x0000 anchors itself!
-\xf000Ă\x0001\x0000 sucked up the\xfffeliquid ooze!
-The wild \xf000Ă\x0001\x0000 sucked up the\xfffeliquid ooze!
-The foe's \xf000Ă\x0001\x0000 sucked up the\xfffeliquid ooze!
-It stole\xfffe\xf000Ă\x0001\x0000's \xf000ĉ\x0001\x0001!
-It stole\xfffethe wild \xf000Ă\x0001\x0000's \xf000ĉ\x0001\x0001!
-It stole\xfffethe foe's \xf000Ă\x0001\x0000's \xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000's Ability\xfffebecame Mummy!
-The wild \xf000Ă\x0001\x0000's Ability\xfffebecame Mummy!
-The foe's \xf000Ă\x0001\x0000's Ability\xfffebecame Mummy!
-It bounced back\xfffe\xf000Ă\x0001\x0000's \xf000ć\x0001\x0001!
-It bounced back\xfffethe wild \xf000Ă\x0001\x0000's \xf000ć\x0001\x0001!
-It bounced back\xfffethe foe's \xf000Ă\x0001\x0000's \xf000ć\x0001\x0001!
-\xf000Ă\x0001\x0000 avoids attacks\xfffeby its ally Pokémon!
-The wild \xf000Ă\x0001\x0000 avoids attacks\xfffeby its ally Pokémon!
-The foe's \xf000Ă\x0001\x0000 avoids attacks\xfffeby its ally Pokémon!
-It poisoned \xf000Ă\x0001\x0000!
-It poisoned the wild \xf000Ă\x0001\x0000!
-It poisoned the foe's \xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0000 harvested\xfffeone \xf000ĉ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 harvested\xfffeone \xf000ĉ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 harvested\xfffeone \xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000's\xfffeillusion wore off!
-The wild \xf000Ă\x0001\x0000's\xfffeillusion wore off!
-The foe's \xf000Ă\x0001\x0000's\xfffeillusion wore off!
-\xf000Ă\x0001\x0000\xfffemaxed its Attack!
-The wild \xf000Ă\x0001\x0000\xfffemaxed its Attack!
-The foe's \xf000Ă\x0001\x0000\xfffemaxed its Attack!
-\xf000Ă\x0001\x0000\xfffeis tormented!
-The wild \xf000Ă\x0001\x0000\xfffeis tormented!
-The foe's \xf000Ă\x0001\x0000\xfffeis tormented!
-\xf000Ă\x0001\x0000 is exerting\xfffeits pressure!
-The wild \xf000Ă\x0001\x0000 is exerting\xfffeits pressure!
-The foe's \xf000Ă\x0001\x0000 is exerting\xfffeits pressure!
-\xf000Ă\x0001\x0000 found\xfffeone \xf000ĉ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 found\xfffeone \xf000ĉ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 found\xfffeone \xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000's item\xfffecannot be stolen!
-The wild \xf000Ă\x0001\x0000's item\xfffecannot be stolen!
-The foe's \xf000Ă\x0001\x0000's item\xfffecannot be stolen!
-\xf000Ă\x0001\x0000\xfffecan't get it going!
-The wild \xf000Ă\x0001\x0000\xfffecan't get it going!
-The foe's \xf000Ă\x0001\x0000\xfffecan't get it going!
-\xf000Ă\x0001\x0000 finally got\xfffeits act together!
-The wild \xf000Ă\x0001\x0000 finally got\xfffeits act together!
-The foe's \xf000Ă\x0001\x0000 finally got\xfffeits act together!
-\xf000Ă\x0001\x0000 is radiating\xfffea bursting aura!
-The wild \xf000Ă\x0001\x0000 is radiating\xfffea bursting aura!
-The foe's \xf000Ă\x0001\x0000 is radiating\xfffea bursting aura!
-\xf000Ă\x0001\x0000 is radiating\xfffea blazing aura!
-The wild \xf000Ă\x0001\x0000 is radiating\xfffea blazing aura!
-The foe's \xf000Ă\x0001\x0000 is radiating\xfffea blazing aura!
-\xf000Ă\x0001\x0000 swapped\xfffeAbilities with its target!
-The wild \xf000Ă\x0001\x0000 swapped\xfffeAbilities with its target!
-The foe's \xf000Ă\x0001\x0000 swapped\xfffeAbilities with its target!
-\xf000Ă\x0001\x0000 braced\xfffeitself!
-The wild \xf000Ă\x0001\x0000 braced\xfffeitself!
-The foe's \xf000Ă\x0001\x0000 braced\xfffeitself!
-\xf000Ă\x0001\x0000 endured\xfffethe hit!
-The wild \xf000Ă\x0001\x0000 endured\xfffethe hit!
-The foe's \xf000Ă\x0001\x0000 endured\xfffethe hit!
-\xf000Ă\x0001\x0000 protected\xfffeitself!
-The wild \xf000Ă\x0001\x0000 protected\xfffeitself!
-The foe's \xf000Ă\x0001\x0000 protected\xfffeitself!
-It broke through\xfffe\xf000Ă\x0001\x0000's protection!
-It broke through the wild\xfffe\xf000Ă\x0001\x0000's protection!
-It broke through the foe's\xfffe\xf000Ă\x0001\x0000's protection!
-\xf000Ă\x0001\x0000\xfffeprotected itself!
-The wild \xf000Ă\x0001\x0000\xfffeprotected itself!
-The foe's \xf000Ă\x0001\x0000\xfffeprotected itself!
-\xf000Ă\x0001\x0000 fell for\xfffethe feint!
-The wild \xf000Ă\x0001\x0000 fell for\xfffethe feint!
-The foe's \xf000Ă\x0001\x0000 fell for\xfffethe feint!
-\xf000Ă\x0001\x0000 flew\xfffeup high!
-The wild \xf000Ă\x0001\x0000 flew\xfffeup high!
-The foe's \xf000Ă\x0001\x0000 flew\xfffeup high!
-\xf000Ă\x0001\x0000's rage\xfffeis building!
-The wild \xf000Ă\x0001\x0000's rage\xfffeis building!
-The foe's \xf000Ă\x0001\x0000's rage\xfffeis building!
-\xf000Ă\x0001\x0000 hid\xfffeunderwater!
-The wild \xf000Ă\x0001\x0000 hid\xfffeunderwater!
-The foe's \xf000Ă\x0001\x0000 hid\xfffeunderwater!
-\xf000Ă\x0001\x0000 burrowed\xfffeits way under the ground!
-The wild \xf000Ă\x0001\x0000 burrowed\xfffeits way under the ground!
-The foe's \xf000Ă\x0001\x0000 burrowed\xfffeits way under the ground!
-\xf000Ă\x0001\x0000 vanished\xfffeinstantly!
-The wild \xf000Ă\x0001\x0000 vanished\xfffeinstantly!
-The foe's \xf000Ă\x0001\x0000 vanished\xfffeinstantly!
-\xf000Ă\x0001\x0000 sprang up!
-The wild \xf000Ă\x0001\x0000 sprang up!
-The foe's \xf000Ă\x0001\x0000 sprang up!
-\xf000Ă\x0001\x0000 whipped\xfffeup a whirlwind!
-The wild \xf000Ă\x0001\x0000 whipped\xfffeup a whirlwind!
-The foe's \xf000Ă\x0001\x0000 whipped\xfffeup a whirlwind!
-\xf000Ă\x0001\x0000 became\xfffecloaked in a harsh light!
-The wild \xf000Ă\x0001\x0000 became\xfffecloaked in a harsh light!
-The foe's \xf000Ă\x0001\x0000 became\xfffecloaked in a harsh light!
-\xf000Ă\x0001\x0000 absorbed\xfffelight!
-The wild \xf000Ă\x0001\x0000 absorbed\xfffelight!
-The foe's \xf000Ă\x0001\x0000 absorbed\xfffelight!
-\xf000Ă\x0001\x0000 tucked in\xfffeits head!
-The wild \xf000Ă\x0001\x0000 tucked in\xfffeits head!
-The foe's \xf000Ă\x0001\x0000 tucked in\xfffeits head!
-\xf000Ă\x0001\x0000 received\xfffean encore!
-The wild \xf000Ă\x0001\x0000 received\xfffean encore!
-The foe's \xf000Ă\x0001\x0000 received\xfffean encore!
-\xf000Ă\x0001\x0000's encore\xfffeended!
-The wild \xf000Ă\x0001\x0000's encore\xfffeended!
-The foe's \xf000Ă\x0001\x0000's encore\xfffeended!
-\xf000Ă\x0001\x0000's Ability\xfffewas suppressed!
-The wild \xf000Ă\x0001\x0000's Ability\xfffewas suppressed!
-The foe's \xf000Ă\x0001\x0000's Ability\xfffewas suppressed!
-\xf000Ă\x0001\x0000 fell for\xfffethe taunt!
-The wild \xf000Ă\x0001\x0000 fell for\xfffethe taunt!
-The foe's \xf000Ă\x0001\x0000 fell for\xfffethe taunt!
-\xf000Ă\x0001\x0000 can't use\xfffe\xf000ć\x0001\x0001 after the taunt!
-The wild \xf000Ă\x0001\x0000 can't use\xfffe\xf000ć\x0001\x0001 after the taunt!
-The foe's \xf000Ă\x0001\x0000 can't use\xfffe\xf000ć\x0001\x0001 after the taunt!
-\xf000Ă\x0001\x0000's taunt\xfffewore off!
-The wild \xf000Ă\x0001\x0000's taunt\xfffewore off!
-The foe's \xf000Ă\x0001\x0000's taunt\xfffewore off!
-\xf000Ă\x0001\x0000 was subjected\xfffeto torment!
-The wild \xf000Ă\x0001\x0000 was subjected\xfffeto torment!
-The foe's \xf000Ă\x0001\x0000 was subjected\xfffeto torment!
-\xf000Ă\x0001\x0000 can't use the same move\xfffetwice in a row due to the torment!
-The wild \xf000Ă\x0001\x0000 can't use the same move\xfffetwice in a row due to the torment!
-The foe's \xf000Ă\x0001\x0000 can't use the\xfffesame move twice in a row due to the torment!
-\xf000Ă\x0001\x0000's torment\xfffewore off!
-The wild \xf000Ă\x0001\x0000's torment\xfffewore off!
-The foe's \xf000Ă\x0001\x0000's torment\xfffewore off!
-\xf000Ă\x0001\x0000 sealed the\xfffeopponent's move(s)!
-The wild \xf000Ă\x0001\x0000 sealed the\xfffeopponent's move(s)!
-The foe's \xf000Ă\x0001\x0000 sealed the\xfffeopponent's move(s)!
-\xf000Ă\x0001\x0000 can't use\xfffethe sealed \xf000ć\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 can't use\xfffethe sealed \xf000ć\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 can't use\xfffethe sealed \xf000ć\x0001\x0001!
-\xf000Ă\x0001\x0000's \xf000ć\x0001\x0001\xfffewas disabled!
-The wild \xf000Ă\x0001\x0000's\xfffe\xf000ć\x0001\x0001 was disabled!
-The foe's \xf000Ă\x0001\x0000's\xfffe\xf000ć\x0001\x0001 was disabled!
-\xf000Ă\x0001\x0000's \xf000ć\x0001\x0001\xfffeis disabled!
-The wild \xf000Ă\x0001\x0000's\xfffe\xf000ć\x0001\x0001 is disabled!
-The foe's \xf000Ă\x0001\x0000's\xfffe\xf000ć\x0001\x0001 is disabled!
-\xf000Ă\x0001\x0000 is no\xfffelonger disabled!
-The wild \xf000Ă\x0001\x0000 is no\xfffelonger disabled!
-The foe's \xf000Ă\x0001\x0000 is no\xfffelonger disabled!
-\xf000Ă\x0001\x0000 surrounded\xfffeitself with a veil of water!
-The wild \xf000Ă\x0001\x0000 surrounded\xfffeitself with a veil of water!
-The foe's \xf000Ă\x0001\x0000 surrounded\xfffeitself with a veil of water!
-Aqua Ring restored\xfffe\xf000Ă\x0001\x0000's HP!
-Aqua Ring restored\xfffethe wild \xf000Ă\x0001\x0000's HP!
-Aqua Ring restored\xfffethe foe's \xf000Ă\x0001\x0000's HP!
-\xf000Ă\x0001\x0000 was seeded!
-The wild \xf000Ă\x0001\x0000\xfffewas seeded!
-The foe's \xf000Ă\x0001\x0000\xfffewas seeded!
-\xf000Ă\x0001\x0000's health is\xfffesapped by Leech Seed!
-The wild \xf000Ă\x0001\x0000's health is\xfffesapped by Leech Seed!
-The foe's \xf000Ă\x0001\x0000's health is\xfffesapped by Leech Seed!
-\xf000Ă\x0001\x0000 cut its own HP\xfffeand maximized its Attack!
-The wild \xf000Ă\x0001\x0000 cut its own HP\xfffeand maximized its Attack!
-The foe's \xf000Ă\x0001\x0000 cut its own HP\xfffeand maximized its Attack!
-\xf000Ă\x0001\x0000 is tightening\xfffeits focus!
-The wild \xf000Ă\x0001\x0000 is tightening\xfffeits focus!
-The foe's \xf000Ă\x0001\x0000 is tightening\xfffeits focus!
-\xf000Ă\x0001\x0000 copied\xfffe\xf000Ă\x0001\x0001's \xf000Ć\x0001\x0002!
-\xf000Ă\x0001\x0000 copied the wild\xfffe\xf000Ă\x0001\x0001's \xf000Ć\x0001\x0002!
-\xf000Ă\x0001\x0000 copied the foe's\xfffe\xf000Ă\x0001\x0001's \xf000Ć\x0001\x0002!
-The wild \xf000Ă\x0001\x0000 copied\xfffe\xf000Ă\x0001\x0001's \xf000Ć\x0001\x0002!
-The wild \xf000Ă\x0001\x0000 copied the wild\xfffe\xf000Ă\x0001\x0001's \xf000Ć\x0001\x0002!
-The foe's \xf000Ă\x0001\x0000 copied\xfffe\xf000Ă\x0001\x0001's \xf000Ć\x0001\x0002!
-The foe's \xf000Ă\x0001\x0000 copied the\xfffefoe's \xf000Ă\x0001\x0001's \xf000Ć\x0001\x0002!
-\xf000Ă\x0001\x0000 is trying\xfffeto take its foe down with it!
-The wild \xf000Ă\x0001\x0000 is trying\xfffeto take its foe down with it!
-The foe's \xf000Ă\x0001\x0000 is trying\xfffeto take its foe down with it!
-\xf000Ă\x0001\x0000 took its attacker\xfffedown with it!
-The wild \xf000Ă\x0001\x0000 took its attacker\xfffedown with it!
-The foe's \xf000Ă\x0001\x0000 took its attacker\xfffedown with it!
-\xf000Ă\x0001\x0000 wants its target\xfffeto bear a grudge!
-The wild \xf000Ă\x0001\x0000 wants its target\xfffeto bear a grudge!
-The foe's \xf000Ă\x0001\x0000 wants its target\xfffeto bear a grudge!
-\xf000Ă\x0001\x0000's\xfffe\xf000ć\x0001\x0001 lost all its PP\xf000븀\x0000\xfffedue to the grudge!
-The wild \xf000Ă\x0001\x0000's\xfffe\xf000ć\x0001\x0001 lost all its PP\xf000븀\x0000\xfffedue to the grudge!
-The foe's \xf000Ă\x0001\x0000's\xfffe\xf000ć\x0001\x0001 lost all its PP\xf000븀\x0000\xfffedue to the grudge!
-\xf000Ă\x0001\x0000 slept and\xfffebecame healthy!
-The wild \xf000Ă\x0001\x0000 slept and\xfffebecame healthy!
-The foe's \xf000Ă\x0001\x0000 slept and\xfffebecame healthy!
-It reduced the PP of \xf000Ă\x0001\x0000's\xfffe\xf000ć\x0001\x0001 by \xf000Ȁ\x0001\x0002!
-It reduced the PP of the wild\xfffe\xf000Ă\x0001\x0000's \xf000ć\x0001\x0001 by \xf000Ȁ\x0001\x0002!
-It reduced the PP of the foe's\xfffe\xf000Ă\x0001\x0000's \xf000ć\x0001\x0001 by \xf000Ȁ\x0001\x0002!
-\xf000Ă\x0001\x0000 transformed\xfffeinto \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 transformed\xfffeinto the wild \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 transformed\xfffeinto the foe's \xf000Ă\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 transformed\xfffeinto \xf000Ă\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 transformed\xfffeinto the wild \xf000Ă\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 transformed\xfffeinto \xf000Ă\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 transformed\xfffeinto the foe's \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 took aim at\xfffe\xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 took aim at\xfffethe wild \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 took aim at\xfffethe foe's \xf000Ă\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 took aim at\xfffe\xf000Ă\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 took aim at\xfffethe wild \xf000Ă\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 took aim at\xfffe\xf000Ă\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 took aim at\xfffethe foe's \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 levitated\xfffewith electromagnetism!
-The wild \xf000Ă\x0001\x0000 levitated\xfffewith electromagnetism!
-The foe's \xf000Ă\x0001\x0000 levitated\xfffewith electromagnetism!
-\xf000Ă\x0001\x0000's\xfffeelectromagnetism wore off!
-The wild \xf000Ă\x0001\x0000's\xfffeelectromagnetism wore off!
-The electromagnetism of the foe's\xfffe\xf000Ă\x0001\x0000 wore off!
-\xf000Ă\x0001\x0000 began\xfffecharging power!
-The wild \xf000Ă\x0001\x0000 began\xfffecharging power!
-The foe's \xf000Ă\x0001\x0000 began\xfffecharging power!
-\xf000Ă\x0001\x0000 grew drowsy!
-The wild \xf000Ă\x0001\x0000 grew drowsy!
-The foe's \xf000Ă\x0001\x0000 grew drowsy!
-\xf000Ă\x0001\x0000 became\xfffethe center of attention!
-The wild \xf000Ă\x0001\x0000 became\xfffethe center of attention!
-The foe's \xf000Ă\x0001\x0000 became\xfffethe center of attention!
-\xf000Ă\x0001\x0000 switched stat\xfffechanges with the target!
-The wild \xf000Ă\x0001\x0000 switched stat\xfffechanges with the target!
-The foe's \xf000Ă\x0001\x0000 switched stat\xfffechanges with the target!
-\xf000Ă\x0001\x0000 switched all\xfffechanges to its Attack and Sp. Atk\xf000븀\x0000\xfffewith the target!
-The wild \xf000Ă\x0001\x0000 switched all\xfffechanges to its Attack and Sp. Atk\xf000븀\x0000\xfffewith the target!
-The foe's \xf000Ă\x0001\x0000 switched all\xfffechanges to its Attack and Sp. Atk\xf000븀\x0000\xfffewith the target!
-\xf000Ă\x0001\x0000 switched all\xfffechanges to its Defense and Sp. Def\xf000븀\x0000\xfffewith the target!
-The wild \xf000Ă\x0001\x0000 switched all\xfffechanges to its Defense and Sp. Def\xf000븀\x0000\xfffewith the target!
-The foe's \xf000Ă\x0001\x0000 switched all\xfffechanges to its Defense and Sp. Def\xf000븀\x0000\xfffewith the target!
-\xf000Ă\x0001\x0000 switched\xfffeitems with its target!
-The wild \xf000Ă\x0001\x0000 switched\xfffeitems with its target!
-The foe's \xf000Ă\x0001\x0000 switched\xfffeitems with its target!
-\xf000Ă\x0001\x0000 obtained\xfffeone \xf000ĉ\x0001\x0001.
-The wild \xf000Ă\x0001\x0000 obtained\xfffeone \xf000ĉ\x0001\x0001.
-The foe's \xf000Ă\x0001\x0000 obtained\xfffeone \xf000ĉ\x0001\x0001.
-\xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001!
-\xf000Ă\x0001\x0000 sketched\xfffe\xf000ć\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 sketched\xfffe\xf000ć\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 sketched\xfffe\xf000ć\x0001\x0001!
-\xf000Ă\x0001\x0000 became cloaked\xfffein mystical moonlight!
-The wild \xf000Ă\x0001\x0000 became cloaked\xfffein mystical moonlight!
-The foe's \xf000Ă\x0001\x0000 became cloaked\xfffein mystical moonlight!
-The healing wish came true\xfffefor \xf000Ă\x0001\x0000!
-The healing wish came true\xfffefor the wild \xf000Ă\x0001\x0000!
-The healing wish came true\xfffefor the foe's \xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0000's wish\xfffecame true!
-The wild \xf000Ă\x0001\x0000's wish\xfffecame true!
-The foe's \xf000Ă\x0001\x0000's wish\xfffecame true!
-\xf000Ă\x0001\x0000 caused\xfffean uproar!
-The wild \xf000Ă\x0001\x0000 caused\xfffean uproar!
-The foe's \xf000Ă\x0001\x0000 caused\xfffean uproar!
-The uproar woke up\xfffethe \xf000Ă\x0001\x0000!
-The uproar woke up the\xfffewild \xf000Ă\x0001\x0000!
-The uproar woke up the\xfffefoe's \xf000Ă\x0001\x0000!
-But the uproar kept\xfffe\xf000Ă\x0001\x0000 awake!
-But the uproar kept\xfffethe wild \xf000Ă\x0001\x0000 awake!
-But the uproar kept\xfffethe foe's \xf000Ă\x0001\x0000 awake!
-But \xf000Ă\x0001\x0000 can't\xfffesleep in an uproar!
-But the wild \xf000Ă\x0001\x0000 can't\xfffesleep in an uproar!
-But the foe's \xf000Ă\x0001\x0000 can't\xfffesleep in an uproar!
-\xf000Ă\x0001\x0000 is making\xfffean uproar!
-The wild \xf000Ă\x0001\x0000 is making\xfffean uproar!
-The foe's \xf000Ă\x0001\x0000 is making\xfffean uproar!
-\xf000Ă\x0001\x0000\xfffecalmed down.
-The wild \xf000Ă\x0001\x0000\xfffecalmed down.
-The foe's \xf000Ă\x0001\x0000\xfffecalmed down.
-\xf000Ă\x0001\x0000 stockpiled \xf000Ȁ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 stockpiled \xf000Ȁ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 stockpiled \xf000Ȁ\x0001\x0001!
-\xf000Ă\x0001\x0000's stockpiled\xfffeeffect wore off!
-The wild \xf000Ă\x0001\x0000's stockpiled\xfffeeffect wore off!
-The foe's \xf000Ă\x0001\x0000's stockpiled\xfffeeffect wore off!
-\xf000Ă\x0001\x0000 can't use\xfffeitems anymore!
-The wild \xf000Ă\x0001\x0000 can't use\xfffeitems anymore!
-The foe's \xf000Ă\x0001\x0000 can't use\xfffeitems anymore!
-\xf000Ă\x0001\x0000 can use\xfffeitems again!
-The wild \xf000Ă\x0001\x0000 can use\xfffeitems again!
-The foe's \xf000Ă\x0001\x0000 can use\xfffeitems again!
-\xf000Ă\x0001\x0000 found\xfffeone \xf000ĉ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 found\xfffeone \xf000ĉ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 found\xfffeone \xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000 planted its roots!
-The wild \xf000Ă\x0001\x0000 planted\xfffeits roots!
-The foe's \xf000Ă\x0001\x0000 planted\xfffeits roots!
-\xf000Ă\x0001\x0000 absorbed\xfffenutrients with its roots!
-The wild \xf000Ă\x0001\x0000 absorbed\xfffenutrients with its roots!
-The foe's \xf000Ă\x0001\x0000 absorbed\xfffenutrients with its roots!
-\xf000Ă\x0001\x0000 anchored\xfffeitself with its roots!
-The wild \xf000Ă\x0001\x0000 anchored\xfffeitself with its roots!
-The foe's \xf000Ă\x0001\x0000 anchored\xfffeitself with its roots!
-\xf000Ă\x0001\x0000 is storing\xfffeenergy!
-The wild \xf000Ă\x0001\x0000 is storing\xfffeenergy!
-The foe's \xf000Ă\x0001\x0000 is storing\xfffeenergy!
-\xf000Ă\x0001\x0000 unleashed\xfffeenergy!
-The wild \xf000Ă\x0001\x0000 unleashed\xfffeenergy!
-The foe's \xf000Ă\x0001\x0000 unleashed\xfffeenergy!
-\xf000Ă\x0001\x0000 waits for a target\xfffeto make a move!
-The wild \xf000Ă\x0001\x0000 waits for\xfffea target to make a move!
-The foe's \xf000Ă\x0001\x0000 waits for\xfffea target to make a move!
-\xf000Ă\x0001\x0000 snatched\xfffe\xf000Ă\x0001\x0001's move!
-\xf000Ă\x0001\x0000 snatched the wild\xfffe\xf000Ă\x0001\x0001's move!
-\xf000Ă\x0001\x0000 snatched the foe's\xfffe\xf000Ă\x0001\x0001's move!
-The wild \xf000Ă\x0001\x0000 snatched\xfffe\xf000Ă\x0001\x0001's move!
-The wild \xf000Ă\x0001\x0000 snatched\xfffethe wild \xf000Ă\x0001\x0001's move!
-The foe's \xf000Ă\x0001\x0000 snatched\xfffe\xf000Ă\x0001\x0001's move!
-The foe's \xf000Ă\x0001\x0000 snatched\xfffethe foe's \xf000Ă\x0001\x0001's move!
-\xf000Ă\x0001\x0000 shrouded\xfffeitself with Magic Coat!
-The wild \xf000Ă\x0001\x0000 shrouded\xfffeitself with Magic Coat!
-The foe's \xf000Ă\x0001\x0000 shrouded\xfffeitself with Magic Coat!
-\xf000Ă\x0001\x0000\xfffebounced the \xf000ć\x0001\x0001 back!
-The wild \xf000Ă\x0001\x0000\xfffebounced the \xf000ć\x0001\x0001 back!
-The foe's \xf000Ă\x0001\x0000\xfffebounced the \xf000ć\x0001\x0001 back!
-\xf000Ă\x0001\x0000 fled\xfffefrom battle!
-The wild \xf000Ă\x0001\x0000 fled\xfffefrom battle!
-The foe's \xf000Ă\x0001\x0000 fled\xfffefrom battle!
-\xf000Ă\x0001\x0000 went back\xfffeto \xf000Ā\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 went back\xfffeto \xf000Ā\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 went back\xfffeto \xf000Ā\x0001\x0001!
-\xf000Ă\x0001\x0000 switched\xfffeits Attack and Defense!
-The wild \xf000Ă\x0001\x0000 switched\xfffeits Attack and Defense!
-The foe's \xf000Ă\x0001\x0000 switched\xfffeits Attack and Defense!
-\xf000Ă\x0001\x0000 stole and\xfffeate its target's \xf000ĉ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 stole and\xfffeate its target's \xf000ĉ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 stole and\xfffeate its target's \xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000 flung\xfffeits \xf000ĉ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 flung\xfffeits \xf000ĉ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 flung\xfffeits \xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000 blew away\xfffe\xf000ć\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 blew away\xfffe\xf000ć\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 blew away\xfffe\xf000ć\x0001\x0001!
-\xf000Ă\x0001\x0000 put in\xfffea substitute!
-The wild \xf000Ă\x0001\x0000 put in\xfffea substitute!
-The foe's \xf000Ă\x0001\x0000 put in\xfffea substitute!
-\xf000Ă\x0001\x0000 already\xfffehas a substitute!
-The wild \xf000Ă\x0001\x0000 already\xfffehas a substitute!
-The foe's \xf000Ă\x0001\x0000 already\xfffehas a substitute!
-The substitute took damage\xfffefor \xf000Ă\x0001\x0000!
-The substitute took damage\xfffefor the wild \xf000Ă\x0001\x0000!
-The substitute took damage\xfffefor the foe's \xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0000's\xfffesubstitute faded!
-The wild \xf000Ă\x0001\x0000's\xfffesubstitute faded!
-The foe's \xf000Ă\x0001\x0000's\xfffesubstitute faded!
-Wide Guard protected\xfffe\xf000Ă\x0001\x0000!
-Wide Guard protected\xfffethe wild \xf000Ă\x0001\x0000!
-Wide Guard protected\xfffethe foe's \xf000Ă\x0001\x0000!
-Quick Guard protected\xfffe\xf000Ă\x0001\x0000!
-Quick Guard protected\xfffethe wild \xf000Ă\x0001\x0000!
-Quick Guard protected\xfffethe foe's \xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0000 was squeezed\xfffeby \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 was squeezed\xfffeby the wild \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 was squeezed\xfffeby the foe's \xf000Ă\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 was squeezed\xfffeby \xf000Ă\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 was squeezed\xfffeby the wild \xf000Ă\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 was squeezed\xfffeby \xf000Ă\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 was squeezed\xfffeby the foe's \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 was wrapped by\xfffe\xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 was wrapped\xfffeby the wild \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 was wrapped\xfffeby the foe's \xf000Ă\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 was wrapped by\xfffe\xf000Ă\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 was wrapped\xfffeby the wild \xf000Ă\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 was wrapped\xfffeby \xf000Ă\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 was wrapped\xfffeby the foe's \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0001 clamped\xfffe\xf000Ă\x0001\x0000!
-The wild \xf000Ă\x0001\x0001 clamped\xfffe\xf000Ă\x0001\x0000!
-The foe's \xf000Ă\x0001\x0001 clamped\xfffe\xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0001 clamped\xfffethe wild \xf000Ă\x0001\x0000!
-The wild \xf000Ă\x0001\x0001 clamped\xfffethe wild \xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0001 clamped\xfffethe foe's \xf000Ă\x0001\x0000!
-The foe's \xf000Ă\x0001\x0001 clamped\xfffethe foe's \xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0000 became trapped\xfffein the vortex!
-The wild \xf000Ă\x0001\x0000 became trapped\xfffein the vortex!
-The foe's \xf000Ă\x0001\x0000 became trapped\xfffein the vortex!
-\xf000Ă\x0001\x0000 became trapped\xfffein the fiery vortex!
-The wild \xf000Ă\x0001\x0000 became trapped\xfffein the fiery vortex!
-The foe's \xf000Ă\x0001\x0000 became trapped\xfffein the fiery vortex!
-\xf000Ă\x0001\x0000 became\xfffetrapped by swirling magma!
-The wild \xf000Ă\x0001\x0000 became\xfffetrapped by swirling magma!
-The foe's \xf000Ă\x0001\x0000 became\xfffetrapped by swirling magma!
-\xf000Ă\x0001\x0000 became trapped\xfffeby Sand Tomb!
-The wild \xf000Ă\x0001\x0000 became trapped\xfffeby Sand Tomb!
-The foe's \xf000Ă\x0001\x0000 became trapped\xfffeby Sand Tomb!
-\xf000Ă\x0001\x0000 has no\xfffemoves left!
-The wild \xf000Ă\x0001\x0000 has no\xfffemoves left!
-The foe's \xf000Ă\x0001\x0000 has no\xfffemoves left!
-\xf000Ă\x0001\x0000 is protected\xfffeby Safeguard!
-The wild \xf000Ă\x0001\x0000 is protected\xfffeby Safeguard!
-The foe's \xf000Ă\x0001\x0000 is protected\xfffeby Safeguard!
-\xf000Ă\x0001\x0000 is protected\xfffeby the mist!
-The wild \xf000Ă\x0001\x0000 is protected\xfffeby the mist!
-The foe's \xf000Ă\x0001\x0000 is protected\xfffeby the mist!
-\xf000Ă\x0001\x0000 was\xfffedragged out!
-The wild \xf000Ă\x0001\x0000 was\xfffedragged out!
-The foe's \xf000Ă\x0001\x0000 was\xfffedragged out!
-\xf000Ă\x0001\x0000 must\xffferecharge!
-The wild \xf000Ă\x0001\x0000 must\xffferecharge!
-The foe's \xf000Ă\x0001\x0000 must\xffferecharge!
-\xf000Ă\x0001\x0000 is hurt\xfffeby the spikes!
-The wild \xf000Ă\x0001\x0000 is hurt\xfffeby the spikes!
-The foe's \xf000Ă\x0001\x0000 is hurt\xfffeby the spikes!
-Pointed stones dug into\xfffe\xf000Ă\x0001\x0000!
-Pointed stones dug into\xfffethe wild \xf000Ă\x0001\x0000!
-Pointed stones dug into\xfffethe foe's \xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0000 twisted\xfffethe dimensions!
-The wild \xf000Ă\x0001\x0000 twisted\xfffethe dimensions!
-The foe's \xf000Ă\x0001\x0000 twisted\xfffethe dimensions!
-\xf000Ă\x0001\x0000's perish count\xfffefell to \xf000Ȁ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000's perish count\xfffefell to \xf000Ȁ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000's perish count\xfffefell to \xf000Ȁ\x0001\x0001!
-\xf000Ă\x0001\x0000 became cloaked\xfffein a freezing light!
-The wild \xf000Ă\x0001\x0000 became cloaked\xfffein a freezing light!
-The foe's \xf000Ă\x0001\x0000 became cloaked\xfffein a freezing light!
-\xf000Ă\x0001\x0000 became cloaked\xfffein freezing air!
-The wild \xf000Ă\x0001\x0000 became cloaked\xfffein freezing air!
-The foe's \xf000Ă\x0001\x0000 became cloaked\xfffein freezing air!
-\xf000Ă\x0001\x0000 prevents\xfffeescape with \xf000Ć\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 prevents\xfffeescape with \xf000Ć\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 prevents\xfffeescape with \xf000Ć\x0001\x0001!
-\xf000Ă\x0001\x0000 can no\xfffelonger escape!
-The wild \xf000Ă\x0001\x0000 can no\xfffelonger escape!
-The foe's \xf000Ă\x0001\x0000 can no\xfffelonger escape!
-\xf000Ă\x0001\x0000\xfffecan't escape!
-The wild \xf000Ă\x0001\x0000\xfffecan't escape!
-The foe's \xf000Ă\x0001\x0000\xfffecan't escape!
+Non è molto efficace su \xf000Ă\x0001\x0000\xfffeselvatico...
+Non è molto efficace su \xf000Ă\x0001\x0000 nemico...
+Non è molto efficace su \xf000Ă\x0001\x0000 e\xfffe\xf000Ă\x0001\x0001...
+Non è molto efficace su \xf000Ă\x0001\x0000\xfffee \xf000Ă\x0001\x0001 selvatici...
+Non è molto efficace su \xf000Ă\x0001\x0000\xfffee \xf000Ă\x0001\x0001 nemici...
+Non è molto efficace su \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001 e \xf000Ă\x0001\x0002...
+Non è molto efficace su \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001 e \xf000Ă\x0001\x0002 selvatici...
+Non è molto efficace su \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001 e \xf000Ă\x0001\x0002 nemici...
+Ma fallisce su \xf000Ă\x0001\x0000!
+Ma fallisce su \xf000Ă\x0001\x0000 selvatico!
+Ma fallisce su \xf000Ă\x0001\x0000 nemico!
+L'Attacco di \xf000Ă\x0001\x0000 aumenta!
+L'Attacco di \xf000Ă\x0001\x0000 selvatico aumenta!
+L'Attacco di \xf000Ă\x0001\x0000 nemico aumenta!
+La Difesa di \xf000Ă\x0001\x0000 aumenta!
+La Difesa di \xf000Ă\x0001\x0000 selvatico aumenta!
+La Difesa di \xf000Ă\x0001\x0000 nemico aumenta!
+L'Attacco Speciale di \xf000Ă\x0001\x0000 aumenta!
+L'Attacco Speciale di \xf000Ă\x0001\x0000 selvatico\xfffeaumenta!
+L'Attacco Speciale di \xf000Ă\x0001\x0000 nemico\xfffeaumenta!
+La Difesa Speciale di \xf000Ă\x0001\x0000 aumenta!
+La Difesa Speciale di \xf000Ă\x0001\x0000 selvatico\xfffeaumenta!
+La Difesa Speciale di \xf000Ă\x0001\x0000 nemico\xfffeaumenta!
+La Velocità di \xf000Ă\x0001\x0000 aumenta!
+La Velocità di \xf000Ă\x0001\x0000 selvatico aumenta!
+La Velocità di \xf000Ă\x0001\x0000 nemico aumenta!
+La precisione di \xf000Ă\x0001\x0000 aumenta!
+La precisione di \xf000Ă\x0001\x0000 selvatico\xfffeaumenta!
+La precisione di \xf000Ă\x0001\x0000 nemico aumenta!
+L'elusione di \xf000Ă\x0001\x0000 aumenta!
+L'elusione di \xf000Ă\x0001\x0000 selvatico aumenta!
+L'elusione di \xf000Ă\x0001\x0000 nemico aumenta!
+L'Attacco di \xf000Ă\x0001\x0000 aumenta di molto!
+L'Attacco di \xf000Ă\x0001\x0000 selvatico aumenta\xfffedi molto!
+L'Attacco di \xf000Ă\x0001\x0000 nemico aumenta di\xfffemolto!
+La Difesa di \xf000Ă\x0001\x0000 aumenta di molto!
+La Difesa di \xf000Ă\x0001\x0000 selvatico aumenta di\xfffemolto!
+La Difesa di \xf000Ă\x0001\x0000 nemico aumenta di\xfffemolto!
+L'Attacco Speciale di \xf000Ă\x0001\x0000 aumenta di\xfffemolto!
+L'Attacco Speciale di \xf000Ă\x0001\x0000 selvatico\xfffeaumenta di molto!
+L'Attacco Speciale di \xf000Ă\x0001\x0000 nemico\xfffeaumenta di molto!
+La Difesa Speciale di \xf000Ă\x0001\x0000 aumenta di\xfffemolto!
+La Difesa Speciale di \xf000Ă\x0001\x0000 selvatico\xfffeaumenta di molto!
+La Difesa Speciale di \xf000Ă\x0001\x0000 nemico\xfffeaumenta di molto!
+La Velocità di \xf000Ă\x0001\x0000 aumenta di molto!
+La Velocità di \xf000Ă\x0001\x0000 selvatico aumenta\xfffedi molto!
+La Velocità di \xf000Ă\x0001\x0000 nemico aumenta di\xfffemolto!
+La precisione di \xf000Ă\x0001\x0000 aumenta\xfffedi molto!
+La precisione di \xf000Ă\x0001\x0000 selvatico\xfffeaumenta di molto!
+La precisione di \xf000Ă\x0001\x0000 nemico aumenta\xfffedi molto!
+L'elusione di \xf000Ă\x0001\x0000 aumenta di molto!
+L'elusione di \xf000Ă\x0001\x0000 selvatico aumenta\xfffedi molto!
+L'elusione di \xf000Ă\x0001\x0000 nemico aumenta di\xfffemolto!
+L'Attacco di \xf000Ă\x0001\x0000 aumenta moltissimo!
+L'Attacco di \xf000Ă\x0001\x0000 selvatico aumenta\xfffemoltissimo!
+L'Attacco di \xf000Ă\x0001\x0000 nemico aumenta\xfffemoltissimo!
+La Difesa di \xf000Ă\x0001\x0000 aumenta moltissimo!
+La Difesa di \xf000Ă\x0001\x0000 selvatico aumenta\xfffemoltissimo!
+La Difesa di \xf000Ă\x0001\x0000 nemico aumenta\xfffemoltissimo!
+L'Attacco Speciale di \xf000Ă\x0001\x0000 aumenta\xfffemoltissimo!
+L'Attacco Speciale di \xf000Ă\x0001\x0000 selvatico\xfffeaumenta moltissimo!
+L'Attacco Speciale di \xf000Ă\x0001\x0000 nemico\xfffeaumenta moltissimo!
+La Difesa Speciale di \xf000Ă\x0001\x0000 aumenta\xfffemoltissimo!
+La Difesa Speciale di \xf000Ă\x0001\x0000 selvatico\xfffeaumenta moltissimo!
+La Difesa Speciale di \xf000Ă\x0001\x0000 nemico\xfffeaumenta moltissimo!
+La Velocità di \xf000Ă\x0001\x0000 aumenta\xfffemoltissimo!
+La Velocità di \xf000Ă\x0001\x0000 selvatico aumenta\xfffemoltissimo!
+La Velocità di \xf000Ă\x0001\x0000 nemico aumenta\xfffemoltissimo!
+La precisione di \xf000Ă\x0001\x0000 aumenta\xfffemoltissimo!
+La precisione di \xf000Ă\x0001\x0000 selvatico\xfffeaumenta moltissimo!
+La precisione di \xf000Ă\x0001\x0000 nemico aumenta\xfffemoltissimo!
+L'elusione di \xf000Ă\x0001\x0000 aumenta moltissimo!
+L'elusione di \xf000Ă\x0001\x0000 selvatico aumenta\xfffemoltissimo!
+L'elusione di \xf000Ă\x0001\x0000 nemico aumenta\xfffemoltissimo!
+L'Attacco di \xf000Ă\x0001\x0000 diminuisce!
+L'Attacco di \xf000Ă\x0001\x0000 selvatico\xfffediminuisce!
+L'Attacco di \xf000Ă\x0001\x0000 nemico diminuisce!
+La Difesa di \xf000Ă\x0001\x0000 diminuisce!
+La Difesa di \xf000Ă\x0001\x0000 selvatico diminuisce!
+La Difesa di \xf000Ă\x0001\x0000 nemico diminuisce!
+L'Attacco Speciale di \xf000Ă\x0001\x0000 diminuisce!
+L'Attacco Speciale di \xf000Ă\x0001\x0000 selvatico\xfffediminuisce!
+L'Attacco Speciale di \xf000Ă\x0001\x0000 nemico\xfffediminuisce!
+La Difesa Speciale di \xf000Ă\x0001\x0000 diminuisce!
+La Difesa Speciale di \xf000Ă\x0001\x0000 selvatico\xfffediminuisce!
+La Difesa Speciale di \xf000Ă\x0001\x0000 nemico\xfffediminuisce!
+La Velocità di \xf000Ă\x0001\x0000 diminuisce!
+La Velocità di \xf000Ă\x0001\x0000 selvatico\xfffediminuisce!
+La Velocità di \xf000Ă\x0001\x0000 nemico diminuisce!
+La precisione di \xf000Ă\x0001\x0000 diminuisce!
+La precisione di \xf000Ă\x0001\x0000 selvatico\xfffediminuisce!
+La precisione di \xf000Ă\x0001\x0000 nemico\xfffediminuisce!
+L'elusione di \xf000Ă\x0001\x0000 diminuisce!
+L'elusione di \xf000Ă\x0001\x0000 selvatico\xfffediminuisce!
+L'elusione di \xf000Ă\x0001\x0000 nemico diminuisce!
+L'Attacco di \xf000Ă\x0001\x0000 diminuisce di molto!
+L'Attacco di \xf000Ă\x0001\x0000 selvatico diminuisce\xfffedi molto!
+L'Attacco di \xf000Ă\x0001\x0000 nemico diminuisce\xfffedi molto!
+La Difesa di \xf000Ă\x0001\x0000 diminuisce di molto!
+La Difesa di \xf000Ă\x0001\x0000 selvatico diminuisce\xfffedi molto!
+La Difesa di \xf000Ă\x0001\x0000 nemico diminuisce\xfffedi molto!
+L'Attacco Speciale di \xf000Ă\x0001\x0000 diminuisce\xfffedi molto!
+L'Attacco Speciale di \xf000Ă\x0001\x0000 selvatico\xfffediminuisce di molto!
+L'Attacco Speciale di \xf000Ă\x0001\x0000 nemico\xfffediminuisce di molto!
+La Difesa Speciale di \xf000Ă\x0001\x0000 diminuisce di\xfffemolto!
+La Difesa Speciale di \xf000Ă\x0001\x0000 selvatico\xfffediminuisce di molto!
+La Difesa Speciale di \xf000Ă\x0001\x0000 nemico\xfffediminuisce di molto!
+La Velocità di \xf000Ă\x0001\x0000 diminuisce\xfffedi molto!
+La Velocità di \xf000Ă\x0001\x0000 selvatico\xfffediminuisce di molto!
+La Velocità di \xf000Ă\x0001\x0000 nemico diminuisce\xfffedi molto!
+La precisione di \xf000Ă\x0001\x0000 diminuisce\xfffedi molto!
+La precisione di \xf000Ă\x0001\x0000 selvatico\xfffediminuisce di molto!
+La precisione di \xf000Ă\x0001\x0000 nemico diminuisce\xfffedi molto!
+L'elusione di \xf000Ă\x0001\x0000 diminuisce di molto!
+L'elusione di \xf000Ă\x0001\x0000 selvatico diminuisce\xfffedi molto!
+L'elusione di \xf000Ă\x0001\x0000 nemico diminuisce di\xfffemolto!
+L'Attacco di \xf000Ă\x0001\x0000 cala a picco!
+L'Attacco di \xf000Ă\x0001\x0000 selvatico cala a\xfffepicco!
+L'Attacco di \xf000Ă\x0001\x0000 nemico cala a picco!
+La Difesa di \xf000Ă\x0001\x0000 cala a picco!
+La Difesa di \xf000Ă\x0001\x0000 selvatico cala\xfffea picco!
+La Difesa di \xf000Ă\x0001\x0000 nemico cala a picco!
+L'Attacco Speciale di \xf000Ă\x0001\x0000 cala\xfffea picco!
+L'Attacco Speciale di \xf000Ă\x0001\x0000 selvatico\xfffecala a picco!
+L'Attacco Speciale di \xf000Ă\x0001\x0000 nemico\xfffecala a picco!
+La Difesa Speciale di \xf000Ă\x0001\x0000 cala\xfffea picco!
+La Difesa Speciale di \xf000Ă\x0001\x0000 selvatico\xfffecala a picco!
+La Difesa Speciale di \xf000Ă\x0001\x0000 nemico\xfffecala a picco!
+La Velocità di \xf000Ă\x0001\x0000 cala a picco!
+La Velocità di \xf000Ă\x0001\x0000 selvatico cala a\xfffepicco!
+La Velocità di \xf000Ă\x0001\x0000 nemico cala\xfffea picco!
+La precisione di \xf000Ă\x0001\x0000 cala a picco!
+La precisione di \xf000Ă\x0001\x0000 selvatico cala a\xfffepicco!
+La precisione di \xf000Ă\x0001\x0000 nemico cala\xfffea picco!
+L'elusione di \xf000Ă\x0001\x0000 cala a picco!
+L'elusione di \xf000Ă\x0001\x0000 selvatico cala a\xfffepicco!
+L'elusione di \xf000Ă\x0001\x0000 nemico cala a picco!
+L'Attacco di \xf000Ă\x0001\x0000 non può aumentare\xfffedi più!
+L'Attacco di \xf000Ă\x0001\x0000 selvatico non può\xfffeaumentare di più!
+L'Attacco di \xf000Ă\x0001\x0000 nemico non può\xfffeaumentare di più!
+La Difesa di \xf000Ă\x0001\x0000 non può aumentare\xfffedi più!
+La Difesa di \xf000Ă\x0001\x0000 selvatico non può\xfffeaumentare di più!
+La Difesa di \xf000Ă\x0001\x0000 nemico non può\xfffeaumentare di più!
+L'Attacco Speciale di \xf000Ă\x0001\x0000 non può\xfffeaumentare di più!
+L'Attacco Speciale di \xf000Ă\x0001\x0000 selvatico\xfffenon può aumentare di più!
+L'Attacco Speciale di \xf000Ă\x0001\x0000 nemico non\xfffepuò aumentare di più!
+La Difesa Speciale di \xf000Ă\x0001\x0000 non può\xfffeaumentare di più!
+La Difesa Speciale di \xf000Ă\x0001\x0000 selvatico\xfffenon può aumentare di più!
+La Difesa Speciale di \xf000Ă\x0001\x0000 nemico non\xfffepuò aumentare di più!
+La Velocità di \xf000Ă\x0001\x0000 non può aumentare\xfffedi più!
+La Velocità di \xf000Ă\x0001\x0000 selvatico non può\xfffeaumentare di più!
+La Velocità di \xf000Ă\x0001\x0000 nemico non può\xfffeaumentare di più!
+La precisione di \xf000Ă\x0001\x0000 non può\xfffeaumentare di più!
+La precisione di \xf000Ă\x0001\x0000 selvatico non\xfffepuò aumentare di più!
+La precisione di \xf000Ă\x0001\x0000 nemico non può\xfffeaumentare di più!
+L'elusione di \xf000Ă\x0001\x0000 non può aumentare\xfffedi più!
+L'elusione di \xf000Ă\x0001\x0000 selvatico non può\xfffeaumentare di più!
+L'elusione di \xf000Ă\x0001\x0000 nemico non può\xfffeaumentare di più!
+L'Attacco di \xf000Ă\x0001\x0000 non può diminuire\xfffedi più!
+L'Attacco di \xf000Ă\x0001\x0000 selvatico non può\xfffediminuire di più!
+L'Attacco di \xf000Ă\x0001\x0000 nemico non può\xfffediminuire di più!
+La Difesa di \xf000Ă\x0001\x0000 non può diminuire\xfffedi più!
+La Difesa di \xf000Ă\x0001\x0000 selvatico non può\xfffediminuire di più!
+La Difesa di \xf000Ă\x0001\x0000 nemico non può\xfffediminuire di più!
+L'Attacco Speciale di \xf000Ă\x0001\x0000 non può\xfffediminuire di più!
+L'Attacco Speciale di \xf000Ă\x0001\x0000 selvatico\xfffenon può diminuire di più!
+L'Attacco Speciale di \xf000Ă\x0001\x0000 nemico\xfffenon può diminuire di più!
+La Difesa Speciale di \xf000Ă\x0001\x0000 non può\xfffediminuire di più!
+La Difesa Speciale di \xf000Ă\x0001\x0000 selvatico\xfffenon può diminuire di più!
+La Difesa Speciale di \xf000Ă\x0001\x0000 nemico non\xfffepuò diminuire di più!
+La Velocità di \xf000Ă\x0001\x0000 non può diminuire\xfffedi più!
+La Velocità di \xf000Ă\x0001\x0000 selvatico non può\xfffediminuire di più!
+La Velocità di \xf000Ă\x0001\x0000 nemico non può\xfffediminuire di più!
+La precisione di \xf000Ă\x0001\x0000 non può\xfffediminuire di più!
+La precisione di \xf000Ă\x0001\x0000 selvatico non\xfffepuò diminuire di più!
+La precisione di \xf000Ă\x0001\x0000 nemico non può\xfffediminuire di più!
+L'elusione di \xf000Ă\x0001\x0000 non può diminuire\xfffedi più!
+L'elusione di \xf000Ă\x0001\x0000 selvatico non può\xfffediminuire di più!
+L'elusione di \xf000Ă\x0001\x0000 nemico non può\xfffediminuire di più!
+Le statistiche di \xf000Ă\x0001\x0000 tornano alla\xfffenormalità!
+Le statistiche di \xf000Ă\x0001\x0000 selvatico\xfffetornano alla normalità!
+Le statistiche di \xf000Ă\x0001\x0000 nemico tornano\xfffealla normalità!
+La diminuzione delle statistiche di\xfffe\xf000Ă\x0001\x0000 è stata evitata!
+La diminuzione delle statistiche di\xfffe\xf000Ă\x0001\x0000 selvatico è stata evitata!
+La diminuzione delle statistiche di\xfffe\xf000Ă\x0001\x0000 nemico è stata evitata!
+La diminuzione dell'Attacco di \xf000Ă\x0001\x0000\xfffeè stata evitata!
+La diminuzione dell'Attacco di \xf000Ă\x0001\x0000\xfffeselvatico è stata evitata!
+La diminuzione dell'Attacco di \xf000Ă\x0001\x0000\xfffenemico è stata evitata!
+La diminuzione della Difesa di \xf000Ă\x0001\x0000\xfffeè stata evitata!
+La diminuzione della Difesa di \xf000Ă\x0001\x0000\xfffeselvatico è stata evitata!
+La diminuzione della Difesa di \xf000Ă\x0001\x0000\xfffenemico è stata evitata!
+La diminuzione della precisione di \xf000Ă\x0001\x0000\xfffeè stata evitata!
+La diminuzione della precisione di \xf000Ă\x0001\x0000\xfffeselvatico è stata evitata!
+La diminuzione della precisione di \xf000Ă\x0001\x0000\xfffenemico è stata evitata!
+Non ha effetto su \xf000Ă\x0001\x0000...
+Non ha effetto su \xf000Ă\x0001\x0000 selvatico...
+Non ha effetto su \xf000Ă\x0001\x0000 nemico...
+\xf000Ă\x0001\x0000 evita l'attacco!
+\xf000Ă\x0001\x0000 selvatico evita l'attacco!
+\xf000Ă\x0001\x0000 nemico evita l'attacco!
+\xf000Ă\x0001\x0000 è incolume!
+\xf000Ă\x0001\x0000 selvatico è incolume!
+\xf000Ă\x0001\x0000 nemico è incolume!
+\xf000ĉ\x0001\x0001 riduce i danni inflitti a\xfffe\xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 riduce i danni inflitti a\xfffe\xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 riduce i danni inflitti a\xfffe\xf000Ă\x0001\x0000 nemico!
+\xf000Ă\x0001\x0000 si è trasformato!
+\xf000Ă\x0001\x0000 selvatico si è trasformato!
+\xf000Ă\x0001\x0000 nemico si è trasformato!
+\xf000Ă\x0001\x0000 ha lasciato cadere\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico ha lasciato cadere\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico ha lasciato cadere\xfffe\xf000ĉ\x0001\x0001!
+Eliminate tutte le modifiche alle statistiche\xfffedi \xf000Ă\x0001\x0000!
+Eliminate tutte le modifiche alle statistiche\xfffedi \xf000Ă\x0001\x0000 selvatico!
+Eliminate tutte le modifiche alle statistiche\xfffedi \xf000Ă\x0001\x0000 nemico!
+\xf000Ă\x0001\x0000 passa in prima linea!
+\xf000Ă\x0001\x0000 selvatico passa in prima linea!
+\xf000Ă\x0001\x0000 nemico passa in prima linea!
+\xf000Ă\x0001\x0000 è stato avvelenato!
+\xf000Ă\x0001\x0000 selvatico è stato avvelenato!
+\xf000Ă\x0001\x0000 nemico è stato avvelenato!
+\xf000Ă\x0001\x0000 è stato iperavvelenato!
+\xf000Ă\x0001\x0000 selvatico è stato\xfffeiperavvelenato!
+\xf000Ă\x0001\x0000 nemico è stato iperavvelenato!
+\xf000Ă\x0001\x0000 è stato iperavvelenato con\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico è stato iperavvelenato\xfffecon \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico è stato iperavvelenato\xfffecon \xf000ĉ\x0001\x0001!
+Il veleno ha effetto su \xf000Ă\x0001\x0000!
+Il veleno ha effetto su \xf000Ă\x0001\x0000\xfffeselvatico!
+Il veleno ha effetto su \xf000Ă\x0001\x0000 nemico!
+\xf000Ă\x0001\x0000 è stato curato dal veleno.
+\xf000Ă\x0001\x0000 selvatico è stato\xfffecurato dal veleno.
+\xf000Ă\x0001\x0000 nemico è stato curato dal\xfffeveleno.
+\xf000Ă\x0001\x0000 è già avvelenato.
+\xf000Ă\x0001\x0000 selvatico è già avvelenato.
+\xf000Ă\x0001\x0000 nemico è già avvelenato.
+\xf000Ă\x0001\x0000 non può essere avvelenato!
+\xf000Ă\x0001\x0000 selvatico non può essere\xfffeavvelenato!
+\xf000Ă\x0001\x0000 nemico non può essere\xfffeavvelenato!
+\xf000Ă\x0001\x0000 è stato scottato!
+\xf000Ă\x0001\x0000 selvatico è stato scottato!
+\xf000Ă\x0001\x0000 nemico è stato scottato!
+\xf000Ă\x0001\x0000 è stato scottato con\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico è stato scottato con\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico è stato scottato con\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 soffre per la scottatura!
+\xf000Ă\x0001\x0000 selvatico soffre per la\xfffescottatura!
+\xf000Ă\x0001\x0000 nemico soffre per la scottatura!
+\xf000Ă\x0001\x0000 guarisce dalla scottatura!
+\xf000Ă\x0001\x0000 selvatico guarisce dalla\xfffescottatura!
+\xf000Ă\x0001\x0000 nemico guarisce dalla\xfffescottatura!
+\xf000Ă\x0001\x0000 è già scottato.
+\xf000Ă\x0001\x0000 selvatico è già scottato.
+\xf000Ă\x0001\x0000 nemico è già scottato.
+\xf000Ă\x0001\x0000 non può essere scottato!
+\xf000Ă\x0001\x0000 selvatico non può essere\xfffescottato!
+\xf000Ă\x0001\x0000 nemico non può essere scottato!
+\xf000Ă\x0001\x0000 è stato paralizzato! Forse non\xffferiuscirà ad agire!
+\xf000Ă\x0001\x0000 selvatico è stato paralizzato!\xfffeForse non riuscirà ad agire!
+\xf000Ă\x0001\x0000 nemico è stato paralizzato!\xfffeForse non riuscirà ad agire!
+\xf000Ă\x0001\x0000 è paralizzato! Non può agire!
+\xf000Ă\x0001\x0000 selvatico è paralizzato! Non può\xfffeagire!
+\xf000Ă\x0001\x0000 nemico è paralizzato! Non può\xfffeagire!
+\xf000Ă\x0001\x0000 guarisce dalla paralisi!
+\xf000Ă\x0001\x0000 selvatico guarisce dalla\xfffeparalisi!
+\xf000Ă\x0001\x0000 nemico guarisce dalla paralisi!
+\xf000Ă\x0001\x0000 è già paralizzato!
+\xf000Ă\x0001\x0000 selvatico è già paralizzato!
+\xf000Ă\x0001\x0000 nemico è già paralizzato!
+\xf000Ă\x0001\x0000 non può essere paralizzato!
+\xf000Ă\x0001\x0000 selvatico non può essere\xfffeparalizzato!
+\xf000Ă\x0001\x0000 nemico non può essere\xfffeparalizzato!
+\xf000Ă\x0001\x0000 è stato congelato!
+\xf000Ă\x0001\x0000 selvatico è stato congelato!
+\xf000Ă\x0001\x0000 nemico è stato congelato!
+\xf000Ă\x0001\x0000 è congelato! Non può agire!
+\xf000Ă\x0001\x0000 selvatico è congelato! Non può\xfffeagire!
+\xf000Ă\x0001\x0000 nemico è congelato! Non può\xfffeagire!
+\xf000Ă\x0001\x0000 non è più congelato!
+\xf000Ă\x0001\x0000 selvatico non è più congelato!
+\xf000Ă\x0001\x0000 nemico non è più congelato!
+\xf000Ă\x0001\x0000 è già congelato.
+\xf000Ă\x0001\x0000 selvatico è già congelato.
+\xf000Ă\x0001\x0000 nemico è già congelato.
+\xf000Ă\x0001\x0000 non può essere congelato!
+\xf000Ă\x0001\x0000 selvatico non può essere\xfffecongelato!
+\xf000Ă\x0001\x0000 nemico non può essere\xfffecongelato!
+\xf000ć\x0001\x0001 di \xf000Ă\x0001\x0000 scioglie\xfffeil ghiaccio!
+\xf000ć\x0001\x0001 di \xf000Ă\x0001\x0000 selvatico\xfffescioglie il ghiaccio!
+\xf000ć\x0001\x0001 di \xf000Ă\x0001\x0000 nemico\xfffescioglie il ghiaccio!
+\xf000Ă\x0001\x0000 si è addormentato!
+\xf000Ă\x0001\x0000 selvatico si è addormentato!
+\xf000Ă\x0001\x0000 nemico si è addormentato!
+\xf000Ă\x0001\x0000 dorme.
+\xf000Ă\x0001\x0000 selvatico dorme.
+\xf000Ă\x0001\x0000 nemico dorme.
+\xf000Ă\x0001\x0000 si è svegliato!
+\xf000Ă\x0001\x0000 selvatico si è svegliato!
+\xf000Ă\x0001\x0000 nemico si è svegliato!
+\xf000Ă\x0001\x0000 sta già dormendo!
+\xf000Ă\x0001\x0000 selvatico sta già dormendo!
+\xf000Ă\x0001\x0000 nemico sta già dormendo!
+\xf000Ă\x0001\x0000 rimane sveglio!
+\xf000Ă\x0001\x0000 selvatico rimane sveglio!
+\xf000Ă\x0001\x0000 nemico rimane sveglio!
+\xf000Ă\x0001\x0000 ha un incubo!
+\xf000Ă\x0001\x0000 selvatico ha un incubo!
+\xf000Ă\x0001\x0000 nemico ha un incubo!
+\xf000Ă\x0001\x0000 è intrappolato in un incubo!
+\xf000Ă\x0001\x0000 selvatico è intrappolato in un\xfffeincubo!
+\xf000Ă\x0001\x0000 nemico è intrappolato in un\xfffeincubo!
+\xf000Ă\x0001\x0000 è innamorato!
+\xf000Ă\x0001\x0000 selvatico è innamorato!
+\xf000Ă\x0001\x0000 nemico è innamorato!
+\xf000ĉ\x0001\x0001 fa innamorare \xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 fa innamorare \xf000Ă\x0001\x0000\xfffeselvatico!
+\xf000ĉ\x0001\x0001 fa innamorare \xf000Ă\x0001\x0000\xfffenemico!
+\xf000Ă\x0001\x0000 è innamorato di \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico è innamorato di\xfffe\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico è innamorato di\xfffe\xf000Ă\x0001\x0001!
+L'innamoramento impedisce a \xf000Ă\x0001\x0000 di\xfffeagire!
+L'innamoramento impedisce a \xf000Ă\x0001\x0000\xfffeselvatico di agire!
+L'innamoramento impedisce a \xf000Ă\x0001\x0000\xfffenemico di agire!
+\xf000Ă\x0001\x0000 non è più innamorato!
+\xf000Ă\x0001\x0000 selvatico non è più innamorato!
+\xf000Ă\x0001\x0000 nemico non è più innamorato!
+Lo stato di \xf000Ă\x0001\x0000 torna normale.
+Lo stato di \xf000Ă\x0001\x0000 selvatico torna\xfffenormale.
+Lo stato di \xf000Ă\x0001\x0000 nemico torna\xfffenormale.
+\xf000Ă\x0001\x0000 è stato confuso!
+\xf000Ă\x0001\x0000 selvatico è stato confuso!
+\xf000Ă\x0001\x0000 nemico è stato confuso!
+\xf000Ă\x0001\x0000 è confuso!
+\xf000Ă\x0001\x0000 selvatico è confuso!
+\xf000Ă\x0001\x0000 nemico è confuso!
+\xf000Ă\x0001\x0000 non è più confuso!
+\xf000Ă\x0001\x0000 selvatico non è più confuso!
+\xf000Ă\x0001\x0000 nemico non è più confuso!
+\xf000Ă\x0001\x0000 è già confuso!
+\xf000Ă\x0001\x0000 selvatico è già confuso!
+\xf000Ă\x0001\x0000 nemico è già confuso!
+\xf000Ă\x0001\x0000 non è stato confuso!
+\xf000Ă\x0001\x0000 selvatico non è stato confuso!
+\xf000Ă\x0001\x0000 nemico non è stato confuso!
+\xf000Ă\x0001\x0000 è confuso per la fatica!
+\xf000Ă\x0001\x0000 selvatico è confuso per la\xfffefatica!
+\xf000Ă\x0001\x0000 nemico è confuso per la fatica!
+\xf000Ă\x0001\x0000 tentenna! Non può agire!
+\xf000Ă\x0001\x0000 selvatico tentenna! Non può\xfffeagire!
+\xf000Ă\x0001\x0000 nemico tentenna! Non può agire!
+\xf000Ă\x0001\x0000 perde la concentrazione e non\xfffepuò agire!
+\xf000Ă\x0001\x0000 selvatico perde la\xfffeconcentrazione e non può agire!
+\xf000Ă\x0001\x0000 nemico perde la concentrazione\xfffee non può agire!
+\xf000Ă\x0001\x0000 è stato identificato!
+\xf000Ă\x0001\x0000 selvatico è stato identificato!
+\xf000Ă\x0001\x0000 nemico è stato identificato!
+\xf000Ă\x0001\x0000 subisce i danni della mossa\xfffe\xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico subisce i danni della\xfffemossa \xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico subisce i danni della\xfffemossa \xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 si è liberato da \xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico si è liberato da\xfffe\xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico si è liberato da\xfffe\xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 ha subito il contraccolpo!
+\xf000Ă\x0001\x0000 selvatico ha subito il\xfffecontraccolpo!
+\xf000Ă\x0001\x0000 nemico ha subito il contraccolpo!
+\xf000Ć\x0001\x0001 di \xf000Ă\x0001\x0000 viene copiata\xfffecon Traccia!
+\xf000Ć\x0001\x0001 di \xf000Ă\x0001\x0000 selvatico viene\xfffecopiata con Traccia!
+\xf000Ć\x0001\x0001 di \xf000Ă\x0001\x0000 nemico viene\xfffecopiata con Traccia!
+Brutto colpo su \xf000Ă\x0001\x0000!
+Brutto colpo su \xf000Ă\x0001\x0000 selvatico!
+Brutto colpo su \xf000Ă\x0001\x0000 nemico!
+\xf000Ă\x0001\x0000 ha recuperato dei Punti Salute!
+\xf000Ă\x0001\x0000 selvatico ha recuperato dei\xfffePunti Salute!
+\xf000Ă\x0001\x0000 nemico ha recuperato dei\xfffePunti Salute!
+\xf000Ă\x0001\x0000 recupera i Punti Potenza di\xfffe\xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico recupera i Punti\xfffePotenza di \xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico recupera i Punti Potenza\xfffedi \xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 recupera i Punti Potenza di\xfffetutte le mosse!
+\xf000Ă\x0001\x0000 selvatico recupera i Punti\xfffePotenza di tutte le mosse!
+\xf000Ă\x0001\x0000 nemico recupera i Punti\xfffePotenza di tutte le mosse!
+La tempesta di sabbia infligge danni a\xfffe\xf000Ă\x0001\x0000!
+La tempesta di sabbia infligge danni a\xfffe\xf000Ă\x0001\x0000 selvatico!
+La tempesta di sabbia infligge danni a\xfffe\xf000Ă\x0001\x0000 nemico!
+La Grandine infligge danni a \xf000Ă\x0001\x0000!
+La Grandine infligge danni a \xf000Ă\x0001\x0000\xfffeselvatico!
+La Grandine infligge danni a \xf000Ă\x0001\x0000\xfffenemico!
+\xf000Ă\x0001\x0000 è ferito!
+\xf000Ă\x0001\x0000 selvatico è ferito!
+\xf000Ă\x0001\x0000 nemico è ferito!
+L'abilità di \xf000Ă\x0001\x0000 è ora \xf000Ć\x0001\x0001!
+L'abilità di \xf000Ă\x0001\x0000 selvatico è ora\xfffe\xf000Ć\x0001\x0001!
+L'abilità di \xf000Ă\x0001\x0000 nemico è ora\xfffe\xf000Ć\x0001\x0001!
+\xf000Ă\x0001\x0000 galleggia in aria grazie a un\xfffePalloncino!
+\xf000Ă\x0001\x0000 selvatico galleggia in aria\xfffegrazie a un Palloncino!
+\xf000Ă\x0001\x0000 nemico galleggia in aria\xfffegrazie a un Palloncino!
+Il Palloncino di \xf000Ă\x0001\x0000 è scoppiato!
+Il Palloncino di \xf000Ă\x0001\x0000 selvatico è\xfffescoppiato!
+Il Palloncino di \xf000Ă\x0001\x0000 nemico è\xfffescoppiato!
+\xf000Ă\x0001\x0000 è sostituito grazie a\xfffePulsantefuga!
+\xf000Ă\x0001\x0000 selvatico è sostituito\xfffegrazie a Pulsantefuga!
+\xf000Ă\x0001\x0000 nemico è sostituito\xfffegrazie a Pulsantefuga!
+\xf000Ă\x0001\x0000 dà un Cartelrosso a\xfffe\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 dà un Cartelrosso a\xfffe\xf000Ă\x0001\x0001 selvatico!
+\xf000Ă\x0001\x0000 dà un Cartelrosso a\xfffe\xf000Ă\x0001\x0001 nemico!
+\xf000Ă\x0001\x0000 selvatico dà un Cartelrosso a\xfffe\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico dà un Cartelrosso a\xfffe\xf000Ă\x0001\x0001 selvatico!
+\xf000Ă\x0001\x0000 nemico dà un Cartelrosso a\xfffe\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico dà un Cartelrosso a\xfffe\xf000Ă\x0001\x0001 nemico!
+\xf000Ă\x0001\x0000 è ferito da Bitorzolelmo!
+\xf000Ă\x0001\x0000 selvatico è ferito da\xfffeBitorzolelmo!
+\xf000Ă\x0001\x0000 nemico è ferito da Bitorzolelmo!
+La potenza delle mosse di tipo Fuoco di\xfffe\xf000Ă\x0001\x0000 aumenta!
+La potenza delle mosse di tipo Fuoco di\xfffe\xf000Ă\x0001\x0000 selvatico aumenta!
+La potenza delle mosse di tipo Fuoco di\xfffe\xf000Ă\x0001\x0000 nemico aumenta!
+\xf000Ă\x0001\x0000 si è fatto male!
+\xf000Ă\x0001\x0000 selvatico si è fatto male!
+\xf000Ă\x0001\x0000 nemico si è fatto male!
+La mossa \xf000ć\x0001\x0001 di \xf000Ă\x0001\x0000 è\xfffestata scoperta!
+La mossa \xf000ć\x0001\x0001 di \xf000Ă\x0001\x0000\xfffeselvatico è stata scoperta!
+La mossa \xf000ć\x0001\x0001 di \xf000Ă\x0001\x0000 \xfffenemico è stata scoperta!
+\xf000Ă\x0001\x0000 rabbrividisce!
+\xf000Ă\x0001\x0000 selvatico rabbrividisce!
+\xf000Ă\x0001\x0000 nemico rabbrividisce!
+\xf000Ă\x0001\x0000 perquisisce l'avversario e trova\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico perquisisce\xfffel'avversario e trova \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico perquisisce l'avversario\xfffee trova \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 ha Rompiforma!
+\xf000Ă\x0001\x0000 selvatico ha Rompiforma!
+\xf000Ă\x0001\x0000 nemico ha Rompiforma!
+\xf000Ă\x0001\x0000 sta ciondolando!
+\xf000Ă\x0001\x0000 selvatico sta ciondolando!
+\xf000Ă\x0001\x0000 nemico sta ciondolando!
+\xf000Ă\x0001\x0000 attira l'attacco su di sé!
+\xf000Ă\x0001\x0000 selvatico attira l'attacco su di\xfffesé!
+\xf000Ă\x0001\x0000 nemico attira l'attacco su di sé!
+\xf000Ă\x0001\x0000 rimane sveglio!
+\xf000Ă\x0001\x0000 selvatico rimane sveglio!
+\xf000Ă\x0001\x0000 nemico rimane sveglio!
+\xf000Ă\x0001\x0000 è ancorato al suolo grazie alle\xfffeVentose!
+\xf000Ă\x0001\x0000 selvatico è ancorato al suolo\xfffegrazie alle Ventose!
+\xf000Ă\x0001\x0000 nemico è ancorato al suolo\xfffegrazie alle Ventose!
+\xf000Ă\x0001\x0000 ha assorbito la melma!
+\xf000Ă\x0001\x0000 selvatico ha assorbito la melma!
+\xf000Ă\x0001\x0000 nemico ha assorbito la melma!
+Ruba \xf000ĉ\x0001\x0001 a \xf000Ă\x0001\x0000!
+Ruba \xf000ĉ\x0001\x0001 a \xf000Ă\x0001\x0000 selvatico!
+Ruba \xf000ĉ\x0001\x0001 a \xf000Ă\x0001\x0000 nemico!
+L'abilità di \xf000Ă\x0001\x0000 è diventata Mummia!
+L'abilità di \xf000Ă\x0001\x0000 selvatico è diventata\xfffeMummia!
+L'abilità di \xf000Ă\x0001\x0000 nemico è diventata\xfffeMummia!
+La mossa \xf000ć\x0001\x0001 di \xf000Ă\x0001\x0000 è\xfffestata riflessa!
+La mossa \xf000ć\x0001\x0001 di \xf000Ă\x0001\x0000\xfffeselvatico è stata riflessa!
+La mossa \xf000ć\x0001\x0001 di \xf000Ă\x0001\x0000 nemico\xfffeè stata riflessa!
+\xf000Ă\x0001\x0000 non può essere attaccato da un\xfffealleato!
+\xf000Ă\x0001\x0000 selvatico non può essere\xfffeattaccato da un alleato!
+\xf000Ă\x0001\x0000 nemico non può essere attaccato\xfffeda un alleato!
+\xf000Ă\x0001\x0000 viene cosparso di veleno!
+\xf000Ă\x0001\x0000 selvatico viene cosparso di\xfffeveleno!
+\xf000Ă\x0001\x0000 nemico viene cosparso di veleno!
+\xf000Ă\x0001\x0000 raccoglie \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico raccoglie\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico raccoglie \xf000ĉ\x0001\x0001!
+L'illusione di \xf000Ă\x0001\x0000 viene sfatata!
+L'illusione di \xf000Ă\x0001\x0000 selvatico viene\xfffesfatata!
+L'illusione di \xf000Ă\x0001\x0000 nemico viene\xfffesfatata!
+\xf000Ă\x0001\x0000 aumenta al massimo il suo\xfffeAttacco!
+\xf000Ă\x0001\x0000 selvatico aumenta al massimo\xfffeil suo Attacco!
+\xf000Ă\x0001\x0000 nemico aumenta al massimo\xfffeil suo Attacco!
+\xf000Ă\x0001\x0000 ha il sonno inquieto!
+\xf000Ă\x0001\x0000 selvatico ha il sonno inquieto!
+\xf000Ă\x0001\x0000 nemico ha il sonno inquieto!
+\xf000Ă\x0001\x0000 esercita pressione!
+\xf000Ă\x0001\x0000 selvatico esercita pressione!
+\xf000Ă\x0001\x0000 nemico esercita pressione!
+\xf000Ă\x0001\x0000 trova \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico trova \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico trova \xf000ĉ\x0001\x0001!
+Lo strumento di \xf000Ă\x0001\x0000 non può essere\xffferubato!
+Lo strumento di \xf000Ă\x0001\x0000 selvatico non\xfffepuò essere rubato!
+Lo strumento di \xf000Ă\x0001\x0000 nemico non può\xfffeessere rubato!
+\xf000Ă\x0001\x0000 non ingrana!
+\xf000Ă\x0001\x0000 selvatico non ingrana!
+\xf000Ă\x0001\x0000 nemico non ingrana!
+\xf000Ă\x0001\x0000 riordina le idee!
+\xf000Ă\x0001\x0000 selvatico riordina le idee!
+\xf000Ă\x0001\x0000 nemico riordina le idee!
+\xf000Ă\x0001\x0000 emana un'aura repulsiva!
+\xf000Ă\x0001\x0000 selvatico emana un'aura\xffferepulsiva!
+\xf000Ă\x0001\x0000 nemico emana un'aura\xffferepulsiva!
+\xf000Ă\x0001\x0000 emana un'aura infuocata!
+\xf000Ă\x0001\x0000 selvatico emana un'aura\xfffeinfuocata!
+\xf000Ă\x0001\x0000 nemico emana un'aura\xfffeinfuocata!
+\xf000Ă\x0001\x0000 scambia la sua abilità con\xfffel'avversario!
+\xf000Ă\x0001\x0000 selvatico scambia la sua abilità\xfffecon l'avversario!
+\xf000Ă\x0001\x0000 nemico scambia la sua abilità con\xfffel'avversario!
+\xf000Ă\x0001\x0000 si rinvigorisce!
+\xf000Ă\x0001\x0000 selvatico si rinvigorisce!
+\xf000Ă\x0001\x0000 nemico si rinvigorisce!
+\xf000Ă\x0001\x0000 sopporta il colpo!
+\xf000Ă\x0001\x0000 selvatico sopporta il colpo!
+\xf000Ă\x0001\x0000 nemico sopporta il colpo!
+\xf000Ă\x0001\x0000 si è protetto!
+\xf000Ă\x0001\x0000 selvatico si è protetto!
+\xf000Ă\x0001\x0000 nemico si è protetto!
+La protezione di \xf000Ă\x0001\x0000 è stata\xfffeinfranta!
+La protezione di \xf000Ă\x0001\x0000 selvatico è\xfffestata infranta!
+La protezione di \xf000Ă\x0001\x0000 nemico è stata\xfffeinfranta!
+\xf000Ă\x0001\x0000 si protegge!
+\xf000Ă\x0001\x0000 selvatico si protegge!
+\xf000Ă\x0001\x0000 nemico si protegge!
+Fintoattacco inganna \xf000Ă\x0001\x0000!
+Fintoattacco inganna \xf000Ă\x0001\x0000 selvatico!
+Fintoattacco inganna \xf000Ă\x0001\x0000 nemico!
+\xf000Ă\x0001\x0000 vola in alto!
+\xf000Ă\x0001\x0000 selvatico vola in alto!
+\xf000Ă\x0001\x0000 nemico vola in alto!
+Cresce l'ira di \xf000Ă\x0001\x0000!
+Cresce l'ira di \xf000Ă\x0001\x0000 selvatico!
+Cresce l'ira di \xf000Ă\x0001\x0000 nemico!
+\xf000Ă\x0001\x0000 sparisce sott'acqua!
+\xf000Ă\x0001\x0000 selvatico sparisce sott'acqua!
+\xf000Ă\x0001\x0000 nemico sparisce sott'acqua!
+\xf000Ă\x0001\x0000 si nasconde sottoterra!
+\xf000Ă\x0001\x0000 selvatico si nasconde\xfffesottoterra!
+\xf000Ă\x0001\x0000 nemico si nasconde sottoterra!
+\xf000Ă\x0001\x0000 sparisce all'istante!
+\xf000Ă\x0001\x0000 selvatico sparisce all'istante!
+\xf000Ă\x0001\x0000 nemico sparisce all'istante!
+\xf000Ă\x0001\x0000 salta in alto!
+\xf000Ă\x0001\x0000 selvatico salta in alto!
+\xf000Ă\x0001\x0000 nemico salta in alto!
+\xf000Ă\x0001\x0000 genera un turbine!
+\xf000Ă\x0001\x0000 selvatico genera un turbine!
+\xf000Ă\x0001\x0000 nemico genera un turbine!
+\xf000Ă\x0001\x0000 è avvolto da una luce intensa!
+\xf000Ă\x0001\x0000 selvatico è avvolto da una luce\xfffeintensa!
+\xf000Ă\x0001\x0000 nemico è avvolto da una luce\xfffeintensa!
+\xf000Ă\x0001\x0000 assorbe la luce!
+\xf000Ă\x0001\x0000 selvatico assorbe la luce!
+\xf000Ă\x0001\x0000 nemico assorbe la luce!
+\xf000Ă\x0001\x0000 abbassa la testa!
+\xf000Ă\x0001\x0000 selvatico abbassa la testa!
+\xf000Ă\x0001\x0000 nemico abbassa la testa!
+\xf000Ă\x0001\x0000 è colpito da Ripeti!
+\xf000Ă\x0001\x0000 selvatico è colpito da Ripeti!
+\xf000Ă\x0001\x0000 nemico è colpito da Ripeti!
+Termina l'effetto di Ripeti su \xf000Ă\x0001\x0000!
+Termina l'effetto di Ripeti su \xf000Ă\x0001\x0000\xfffeselvatico!
+Termina l'effetto di Ripeti su \xf000Ă\x0001\x0000\xfffenemico!
+L'abilità di \xf000Ă\x0001\x0000 perde ogni efficacia!
+L'abilità di \xf000Ă\x0001\x0000 selvatico perde ogni\xfffeefficacia!
+L'abilità di \xf000Ă\x0001\x0000 nemico perde ogni\xfffeefficacia!
+\xf000Ă\x0001\x0000 è in balia di Provocazione!
+\xf000Ă\x0001\x0000 selvatico è in balia di\xfffeProvocazione!
+\xf000Ă\x0001\x0000 nemico è in balia di\xfffeProvocazione!
+A causa di Provocazione \xf000Ă\x0001\x0000 non può\xfffeusare \xf000ć\x0001\x0001!
+A causa di Provocazione \xf000Ă\x0001\x0000\xfffeselvatico non può usare \xf000ć\x0001\x0001!
+A causa di Provocazione \xf000Ă\x0001\x0000 nemico\xfffenon può usare \xf000ć\x0001\x0001!
+Provocazione non ha più effetto su\xfffe\xf000Ă\x0001\x0000!
+Provocazione non ha più effetto su\xfffe\xf000Ă\x0001\x0000 selvatico!
+Provocazione non ha più effetto su\xfffe\xf000Ă\x0001\x0000 nemico!
+\xf000Ă\x0001\x0000 subisce Attaccalite!
+\xf000Ă\x0001\x0000 selvatico subisce Attaccalite!
+\xf000Ă\x0001\x0000 nemico subisce Attaccalite!
+Attaccalite impedisce a \xf000Ă\x0001\x0000 di\xfffesferrare la stessa mossa più volte di fila!
+Attaccalite impedisce a \xf000Ă\x0001\x0000 selvatico\xfffedi sferrare la stessa mossa più volte di fila!
+Attaccalite impedisce a \xf000Ă\x0001\x0000 nemico di\xfffesferrare la stessa mossa più volte di fila!
+L'effetto di Attaccalite è terminato per\xfffe\xf000Ă\x0001\x0000!
+L'effetto di Attaccalite è terminato per\xfffe\xf000Ă\x0001\x0000 selvatico!
+L'effetto di Attaccalite è terminato per\xfffe\xf000Ă\x0001\x0000 nemico!
+\xf000Ă\x0001\x0000 blocca una o più mosse\xfffedell'avversario!
+\xf000Ă\x0001\x0000 selvatico blocca una o più mosse\xfffedell'avversario!
+\xf000Ă\x0001\x0000 nemico blocca una o più mosse\xfffedell'avversario!
+\xf000Ă\x0001\x0000 non può usare la mossa\xfffe\xf000ć\x0001\x0001: è bloccata!
+\xf000Ă\x0001\x0000 selvatico non può usare la mossa\xfffe\xf000ć\x0001\x0001: è bloccata!
+\xf000Ă\x0001\x0000 nemico non può usare la mossa\xfffe\xf000ć\x0001\x0001: è bloccata!
+Inibitore ha messo fuori uso \xf000ć\x0001\x0001 di\xfffe\xf000Ă\x0001\x0000!
+Inibitore ha messo fuori uso \xf000ć\x0001\x0001 di\xfffe\xf000Ă\x0001\x0000 selvatico!
+Inibitore ha messo fuori uso \xf000ć\x0001\x0001 di\xfffe\xf000Ă\x0001\x0000 nemico!
+A causa di Inibitore, \xf000ć\x0001\x0001 di\xfffe\xf000Ă\x0001\x0000 è fuori uso!
+A causa di Inibitore, \xf000ć\x0001\x0001 di\xfffe\xf000Ă\x0001\x0000 selvatico è fuori uso!
+A causa di Inibitore, \xf000ć\x0001\x0001 di\xfffe\xf000Ă\x0001\x0000 nemico è fuori uso!
+Termina l'effetto di Inibitore su\xfffe\xf000Ă\x0001\x0000!
+Termina l'effetto di Inibitore su \xf000Ă\x0001\x0000\xfffeselvatico!
+Termina l'effetto di Inibitore su \xf000Ă\x0001\x0000\xfffenemico!
+Un velo d'acqua avvolge \xf000Ă\x0001\x0000!
+Un velo d'acqua avvolge \xf000Ă\x0001\x0000\xfffeselvatico!
+Un velo d'acqua avvolge \xf000Ă\x0001\x0000 nemico!
+Un velo d'acqua fa recuperare Punti Salute\xfffea \xf000Ă\x0001\x0000!
+Un velo d'acqua fa recuperare Punti Salute\xfffea \xf000Ă\x0001\x0000 selvatico!
+Un velo d'acqua fa recuperare Punti Salute\xfffea \xf000Ă\x0001\x0000 nemico!
+\xf000Ă\x0001\x0000 è pieno di semi!
+\xf000Ă\x0001\x0000 selvatico è pieno di semi!
+\xf000Ă\x0001\x0000 nemico è pieno di semi!
+Parassiseme sottrae energia a \xf000Ă\x0001\x0000!
+Parassiseme sottrae energia a \xf000Ă\x0001\x0000\xfffeselvatico!
+Parassiseme sottrae energia a \xf000Ă\x0001\x0000\xfffenemico!
+\xf000Ă\x0001\x0000 riduce i suoi Punti Salute e\xfffeaumenta al massimo il suo Attacco!
+\xf000Ă\x0001\x0000 selvatico riduce i suoi Punti\xfffeSalute e aumenta al massimo il suo Attacco!
+\xf000Ă\x0001\x0000 nemico riduce i suoi Punti Salute\xfffee aumenta al massimo il suo Attacco!
+\xf000Ă\x0001\x0000 si concentra al massimo!
+\xf000Ă\x0001\x0000 selvatico si concentra al\xfffemassimo!
+\xf000Ă\x0001\x0000 nemico si concentra al massimo!
+\xf000Ă\x0001\x0000 copia \xf000Ć\x0001\x0002 di\xfffe\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 copia \xf000Ć\x0001\x0002 di\xfffe\xf000Ă\x0001\x0001 selvatico!
+\xf000Ă\x0001\x0000 copia \xf000Ć\x0001\x0002 di\xfffe\xf000Ă\x0001\x0001 nemico!
+\xf000Ă\x0001\x0000 selvatico copia \xf000Ć\x0001\x0002 di\xfffe\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico copia \xf000Ć\x0001\x0002 di\xfffe\xf000Ă\x0001\x0001 selvatico!
+\xf000Ă\x0001\x0000 nemico copia \xf000Ć\x0001\x0002 di\xfffe\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico copia \xf000Ć\x0001\x0002 di\xfffe\xf000Ă\x0001\x0001 nemico!
+\xf000Ă\x0001\x0000 tenta di trascinare con sé\xfffel'avversario!
+\xf000Ă\x0001\x0000 selvatico tenta di trascinare\xfffecon sé l'avversario!
+\xf000Ă\x0001\x0000 nemico tenta di trascinare\xfffecon sé l'avversario!
+\xf000Ă\x0001\x0000 trascina con sé l'avversario.
+\xf000Ă\x0001\x0000 selvatico trascina con sé\xfffel'avversario!
+\xf000Ă\x0001\x0000 nemico trascina con sé\xfffel'avversario.
+\xf000Ă\x0001\x0000 serba rancore all'avversario!
+\xf000Ă\x0001\x0000 selvatico serba rancore\xfffeall'avversario!
+\xf000Ă\x0001\x0000 nemico serba rancore\xfffeall'avversario!
+\xf000ć\x0001\x0001 di \xf000Ă\x0001\x0000 perde tutti i\xfffePunti Potenza a causa di Rancore!
+\xf000ć\x0001\x0001 di \xf000Ă\x0001\x0000 selvatico perde\xfffetutti i Punti Potenza a causa di Rancore!
+\xf000ć\x0001\x0001 di \xf000Ă\x0001\x0000 nemico perde\xfffetutti i Punti Potenza a causa di Rancore!
+\xf000Ă\x0001\x0000 ha recuperato le energie\xfffedurante il sonno!
+\xf000Ă\x0001\x0000 selvatico ha recuperato le\xfffeenergie durante il sonno!
+\xf000Ă\x0001\x0000 nemico ha recuperato le energie\xfffedurante il sonno!
+\xf000ć\x0001\x0001 di \xf000Ă\x0001\x0000 cala di \xf000Ȁ\x0001\x0002 Punti\xfffePotenza!
+\xf000ć\x0001\x0001 di \xf000Ă\x0001\x0000 selvatico cala\xfffedi \xf000Ȁ\x0001\x0002 Punti Potenza!
+\xf000ć\x0001\x0001 di \xf000Ă\x0001\x0000 nemico cala\xfffedi \xf000Ȁ\x0001\x0002 Punti Potenza!
+\xf000Ă\x0001\x0000 si trasforma in \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 si trasforma in \xf000Ă\x0001\x0001\xfffeselvatico!
+\xf000Ă\x0001\x0000 si trasforma in \xf000Ă\x0001\x0001\xfffenemico!
+\xf000Ă\x0001\x0000 selvatico si trasforma in\xfffe\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico si trasforma in\xfffe\xf000Ă\x0001\x0001 selvatico!
+\xf000Ă\x0001\x0000 nemico si trasforma in\xfffe\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico si trasforma in\xfffe\xf000Ă\x0001\x0001 nemico!
+\xf000Ă\x0001\x0000 prende la mira su \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 prende la mira su \xf000Ă\x0001\x0001\xfffeselvatico!
+\xf000Ă\x0001\x0000 prende la mira su \xf000Ă\x0001\x0001\xfffenemico!
+\xf000Ă\x0001\x0000 selvatico prende la mira su\xfffe\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico prende la mira su\xfffe\xf000Ă\x0001\x0001 selvatico!
+\xf000Ă\x0001\x0000 nemico prende la mira su\xfffe\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico prende la mira su\xfffe\xf000Ă\x0001\x0001 nemico!
+\xf000Ă\x0001\x0000 si solleva in aria a causa\xfffedell'elettromagnetismo!
+\xf000Ă\x0001\x0000 selvatico si solleva in aria a\xfffecausa dell'elettromagnetismo!
+\xf000Ă\x0001\x0000 nemico si solleva in aria a causa\xfffedell'elettromagnetismo!
+Finito l'effetto dell'elettromagnetismo di\xfffe\xf000Ă\x0001\x0000!
+Finito l'effetto dell'elettromagnetismo di\xfffe\xf000Ă\x0001\x0000 selvatico!
+Finito l'effetto dell'elettromagnetismo di\xfffe\xf000Ă\x0001\x0000 nemico!
+\xf000Ă\x0001\x0000 si carica!
+\xf000Ă\x0001\x0000 selvatico si carica!
+\xf000Ă\x0001\x0000 nemico si carica!
+\xf000Ă\x0001\x0000 sta per assopirsi!
+\xf000Ă\x0001\x0000 selvatico sta per assopirsi!
+\xf000Ă\x0001\x0000 nemico sta per assopirsi!
+\xf000Ă\x0001\x0000 è al centro dell'attenzione!
+\xf000Ă\x0001\x0000 selvatico è al centro\xfffedell'attenzione!
+\xf000Ă\x0001\x0000 nemico è al centro\xfffedell'attenzione!
+\xf000Ă\x0001\x0000 scambia le modifiche alle\xfffestatistiche con il suo bersaglio!
+\xf000Ă\x0001\x0000 selvatico scambia le modifiche\xfffealle statistiche con il suo bersaglio!
+\xf000Ă\x0001\x0000 nemico scambia le modifiche\xfffealle statistiche con il suo bersaglio!
+\xf000Ă\x0001\x0000 scambia col bersaglio\xfffele modifiche ad Attacco e Attacco Speciale!
+\xf000Ă\x0001\x0000 selvatico scambia col bersaglio\xfffele modifiche ad Attacco e Attacco Speciale!
+\xf000Ă\x0001\x0000 nemico scambia col bersaglio\xfffele modifiche ad Attacco e Attacco Speciale!
+\xf000Ă\x0001\x0000 scambia col bersaglio tutte le\xfffemodifiche a Difesa e Difesa Speciale!
+\xf000Ă\x0001\x0000 selvatico scambia col bersaglio\xfffetutte le modifiche a Difesa e Difesa Speciale!
+\xf000Ă\x0001\x0000 nemico scambia col bersaglio\xfffetutte le modifiche a Difesa e Difesa Speciale!
+\xf000Ă\x0001\x0000 scambia lo strumento che ha con\xfffequello del bersaglio!
+\xf000Ă\x0001\x0000 selvatico scambia lo strumento\xfffeche ha con quello del bersaglio!
+\xf000Ă\x0001\x0000 nemico scambia lo strumento che\xfffeha con quello del bersaglio!
+\xf000Ă\x0001\x0000 ottiene \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico ottiene \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico ottiene \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 impara \xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico impara \xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico impara \xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 disegna uno Schizzo di\xfffe\xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico disegna uno Schizzo di\xfffe\xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico disegna uno Schizzo di\xfffe\xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 è avvolto dalla luce mistica del\xfffechiaro di luna!
+\xf000Ă\x0001\x0000 selvatico è avvolto dalla luce\xfffemistica del chiaro di luna!
+\xf000Ă\x0001\x0000 nemico è avvolto dalla luce\xfffemistica del chiaro di luna!
+Curardore giova a \xf000Ă\x0001\x0000!
+Curardore giova a \xf000Ă\x0001\x0000 selvatico!
+Curardore giova a \xf000Ă\x0001\x0000 nemico!
+Il desiderio di \xf000Ă\x0001\x0000 si avvera!
+Il desiderio di \xf000Ă\x0001\x0000 selvatico si\xfffeavvera!
+Il desiderio di \xf000Ă\x0001\x0000 nemico si avvera!
+\xf000Ă\x0001\x0000 scatena una baraonda!
+\xf000Ă\x0001\x0000 selvatico scatena una baraonda!
+\xf000Ă\x0001\x0000 nemico scatena una baraonda!
+\xf000Ă\x0001\x0000 si sveglia a causa di Baraonda!
+\xf000Ă\x0001\x0000 selvatico si sveglia a causa di\xfffeBaraonda!
+\xf000Ă\x0001\x0000 nemico si sveglia a causa di\xfffeBaraonda!
+Ma Baraonda tiene \xf000Ă\x0001\x0000 sveglio!
+Ma Baraonda tiene \xf000Ă\x0001\x0000 selvatico\xfffesveglio!
+Ma Baraonda tiene \xf000Ă\x0001\x0000 nemico\xfffesveglio!
+Ma \xf000Ă\x0001\x0000 non riesce a dormire con\xfffeBaraonda!
+Ma \xf000Ă\x0001\x0000 selvatico non riesce a\xfffedormire con Baraonda!
+Ma \xf000Ă\x0001\x0000 nemico non riesce a\xfffedormire con Baraonda!
+\xf000Ă\x0001\x0000 continua con Baraonda!
+\xf000Ă\x0001\x0000 selvatico continua con\xfffeBaraonda!
+\xf000Ă\x0001\x0000 nemico continua con\xfffeBaraonda!
+\xf000Ă\x0001\x0000 si calma.
+\xf000Ă\x0001\x0000 selvatico si calma.
+\xf000Ă\x0001\x0000 nemico si calma.
+\xf000Ă\x0001\x0000 ha usato Accumulo la \xf000Ȁ\x0001\x0001ª volta!
+\xf000Ă\x0001\x0000 selvatico ha usato Accumulo\xfffela \xf000Ȁ\x0001\x0001ª volta!
+\xf000Ă\x0001\x0000 nemico ha usato Accumulo\xfffela \xf000Ȁ\x0001\x0001ª volta!
+Finito l'effetto di Accumulo di \xf000Ă\x0001\x0000!
+Finito l'effetto di Accumulo di \xf000Ă\x0001\x0000\xfffeselvatico!
+Finito l'effetto di Accumulo di \xf000Ă\x0001\x0000\xfffenemico!
+\xf000Ă\x0001\x0000 non può usare strumenti!
+\xf000Ă\x0001\x0000 selvatico non può usare\xfffestrumenti!
+\xf000Ă\x0001\x0000 nemico non può usare strumenti!
+\xf000Ă\x0001\x0000 può di nuovo usare strumenti!
+\xf000Ă\x0001\x0000 selvatico può di nuovo usare\xfffestrumenti!
+\xf000Ă\x0001\x0000 nemico può di nuovo usare\xfffestrumenti!
+\xf000Ă\x0001\x0000 ricicla \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico ricicla \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico ricicla \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 pianta le radici!
+\xf000Ă\x0001\x0000 selvatico pianta le radici!
+\xf000Ă\x0001\x0000 nemico pianta le radici!
+\xf000Ă\x0001\x0000 assorbe sostanze nutritive con\xfffele radici!
+\xf000Ă\x0001\x0000 selvatico assorbe sostanze\xfffenutritive con le radici!
+\xf000Ă\x0001\x0000 nemico assorbe sostanze\xfffenutritive con le radici!
+\xf000Ă\x0001\x0000 è ancorato al suolo grazie alle\xffferadici!
+\xf000Ă\x0001\x0000 selvatico è ancorato al suolo\xfffegrazie alle radici!
+\xf000Ă\x0001\x0000 nemico è ancorato al suolo\xfffegrazie alle radici!
+\xf000Ă\x0001\x0000 accumula energia!
+\xf000Ă\x0001\x0000 selvatico accumula energia!
+\xf000Ă\x0001\x0000 nemico accumula energia!
+\xf000Ă\x0001\x0000 libera energia!
+\xf000Ă\x0001\x0000 selvatico libera energia!
+\xf000Ă\x0001\x0000 nemico libera energia!
+\xf000Ă\x0001\x0000 aspetta la mossa del bersaglio!
+\xf000Ă\x0001\x0000 selvatico aspetta la mossa del\xfffebersaglio!
+\xf000Ă\x0001\x0000 nemico aspetta la mossa del\xfffebersaglio!
+\xf000Ă\x0001\x0000 ruba la mossa di \xf000Ă\x0001\x0001 con\xfffeScippo!
+\xf000Ă\x0001\x0000 ruba la mossa di \xf000Ă\x0001\x0001\xfffeselvatico con Scippo!
+\xf000Ă\x0001\x0000 ruba la mossa di \xf000Ă\x0001\x0001\xfffenemico con Scippo!
+\xf000Ă\x0001\x0000 selvatico ruba la mossa di\xfffe\xf000Ă\x0001\x0001 con Scippo!
+\xf000Ă\x0001\x0000 selvatico ruba la mossa di\xfffe\xf000Ă\x0001\x0001 selvatico con Scippo!
+\xf000Ă\x0001\x0000 nemico ruba la mossa di\xfffe\xf000Ă\x0001\x0001 con Scippo!
+\xf000Ă\x0001\x0000 nemico ruba la mossa di\xfffe\xf000Ă\x0001\x0001 nemico con Scippo!
+\xf000Ă\x0001\x0000 si avvolge in Magivelo!
+\xf000Ă\x0001\x0000 selvatico si avvolge in Magivelo!
+\xf000Ă\x0001\x0000 nemico si avvolge in Magivelo!
+\xf000Ă\x0001\x0000 respinge \xf000ć\x0001\x0001, che\xffferimanda al mittente!
+\xf000Ă\x0001\x0000 selvatico respinge\xfffe\xf000ć\x0001\x0001, che rimanda al mittente!
+\xf000Ă\x0001\x0000 nemico respinge \xf000ć\x0001\x0001,\xfffeche rimanda al mittente!
+\xf000Ă\x0001\x0000 se la dà a gambe!
+\xf000Ă\x0001\x0000 selvatico se la dà a gambe!
+\xf000Ă\x0001\x0000 nemico se la dà a gambe!
+\xf000Ă\x0001\x0000 torna da \xf000Ā\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico torna da \xf000Ā\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico torna da \xf000Ā\x0001\x0001!
+\xf000Ă\x0001\x0000 inverte l'Attacco con la Difesa!
+\xf000Ă\x0001\x0000 selvatico inverte l'Attacco con\xfffela Difesa!
+\xf000Ă\x0001\x0000 nemico inverte l'Attacco con la\xfffeDifesa!
+\xf000Ă\x0001\x0000 ruba e mangia la \xf000ĉ\x0001\x0001\xfffedel bersaglio!
+\xf000Ă\x0001\x0000 selvatico ruba e mangia la\xfffe\xf000ĉ\x0001\x0001 del bersaglio!
+\xf000Ă\x0001\x0000 nemico ruba e mangia la\xfffe\xf000ĉ\x0001\x0001 del bersaglio!
+\xf000Ă\x0001\x0000 lancia \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico lancia \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico lancia \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 spazza via \xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico spazza via\xfffe\xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico spazza via\xfffe\xf000ć\x0001\x0001!
+Appare un sostituto di \xf000Ă\x0001\x0000!
+Appare un sostituto di \xf000Ă\x0001\x0000\xfffeselvatico!
+Appare un sostituto di \xf000Ă\x0001\x0000 nemico!
+\xf000Ă\x0001\x0000 ha già un sostituto!
+\xf000Ă\x0001\x0000 selvatico ha già un sostituto!
+\xf000Ă\x0001\x0000 nemico ha già un sostituto!
+Il sostituto è colpito al posto di\xfffe\xf000Ă\x0001\x0000!
+Il sostituto è colpito al posto di\xfffe\xf000Ă\x0001\x0000 selvatico!
+Il sostituto è colpito al posto di\xfffe\xf000Ă\x0001\x0000 nemico!
+Il sostituto di \xf000Ă\x0001\x0000 svanisce!
+Il sostituto di \xf000Ă\x0001\x0000 selvatico\xfffesvanisce!
+Il sostituto di \xf000Ă\x0001\x0000 nemico svanisce!
+\xf000Ă\x0001\x0000 è protetto da Bodyguard!
+\xf000Ă\x0001\x0000 selvatico è protetto da\xfffeBodyguard!
+\xf000Ă\x0001\x0000 nemico è protetto da Bodyguard!
+\xf000Ă\x0001\x0000 è protetto da Anticipo!
+\xf000Ă\x0001\x0000 selvatico è protetto da\xfffeAnticipo!
+\xf000Ă\x0001\x0000 nemico è protetto da Anticipo!
+\xf000Ă\x0001\x0001 stritola \xf000Ă\x0001\x0000 con\xfffeLegatutto!
+\xf000Ă\x0001\x0001 selvatico stritola \xf000Ă\x0001\x0000\xfffecon Legatutto!
+\xf000Ă\x0001\x0001 nemico stritola \xf000Ă\x0001\x0000 con\xfffeLegatutto!
+\xf000Ă\x0001\x0001 stritola \xf000Ă\x0001\x0000 selvatico\xfffecon Legatutto!
+\xf000Ă\x0001\x0001 selvatico stritola \xf000Ă\x0001\x0000\xfffeselvatico con Legatutto!
+\xf000Ă\x0001\x0001 stritola \xf000Ă\x0001\x0000 nemico con\xfffeLegatutto!
+\xf000Ă\x0001\x0001 nemico stritola \xf000Ă\x0001\x0000\xfffenemico con Legatutto!
+\xf000Ă\x0001\x0001 stritola \xf000Ă\x0001\x0000 con\xfffeAvvolgibotta!
+\xf000Ă\x0001\x0001 selvatico stritola \xf000Ă\x0001\x0000\xfffecon Avvolgibotta!
+\xf000Ă\x0001\x0001 nemico stritola \xf000Ă\x0001\x0000 con\xfffeAvvolgibotta!
+\xf000Ă\x0001\x0001 stritola \xf000Ă\x0001\x0000 selvatico\xfffecon Avvolgibotta!
+\xf000Ă\x0001\x0001 selvatico stritola \xf000Ă\x0001\x0000\xfffeselvatico con Avvolgibotta!
+\xf000Ă\x0001\x0001 stritola \xf000Ă\x0001\x0000 nemico con\xfffeAvvolgibotta!
+\xf000Ă\x0001\x0001 nemico stritola \xf000Ă\x0001\x0000\xfffenemico con Avvolgibotta!
+\xf000Ă\x0001\x0001 stritola \xf000Ă\x0001\x0000 con\xfffeTenaglia!
+\xf000Ă\x0001\x0001 selvatico stritola \xf000Ă\x0001\x0000\xfffecon Tenaglia!
+\xf000Ă\x0001\x0001 nemico stritola \xf000Ă\x0001\x0000 con\xfffeTenaglia!
+\xf000Ă\x0001\x0001 stritola \xf000Ă\x0001\x0000 selvatico\xfffecon Tenaglia!
+\xf000Ă\x0001\x0001 selvatico stritola \xf000Ă\x0001\x0000\xfffeselvatico con Tenaglia!
+\xf000Ă\x0001\x0001 stritola \xf000Ă\x0001\x0000 nemico con\xfffeTenaglia!
+\xf000Ă\x0001\x0001 nemico stritola \xf000Ă\x0001\x0000\xfffenemico con Tenaglia!
+\xf000Ă\x0001\x0000 è intrappolato nel Mulinello!
+\xf000Ă\x0001\x0000 selvatico è intrappolato nel\xfffeMulinello!
+\xf000Ă\x0001\x0000 nemico è intrappolato nel\xfffeMulinello!
+\xf000Ă\x0001\x0000 è intrappolato in un turbine di\xfffefuoco!
+\xf000Ă\x0001\x0000 selvatico è intrappolato in un\xfffeturbine di fuoco!
+\xf000Ă\x0001\x0000 nemico è intrappolato in un\xfffeturbine di fuoco!
+\xf000Ă\x0001\x0000 è intrappolato in un turbine di\xfffemagma!
+\xf000Ă\x0001\x0000 selvatico è intrappolato in un\xfffeturbine di magma!
+\xf000Ă\x0001\x0000 nemico è intrappolato in un\xfffeturbine di magma!
+\xf000Ă\x0001\x0000 è intrappolato da Sabbiotomba!
+\xf000Ă\x0001\x0000 selvatico è intrappolato da\xfffeSabbiotomba!
+\xf000Ă\x0001\x0000 nemico è intrappolato da\xfffeSabbiotomba!
+\xf000Ă\x0001\x0000 non ha più mosse da sferrare!
+\xf000Ă\x0001\x0000 selvatico non ha più mosse da\xfffesferrare!
+\xf000Ă\x0001\x0000 nemico non ha più mosse da\xfffesferrare!
+Salvaguardia protegge \xf000Ă\x0001\x0000!
+Salvaguardia protegge \xf000Ă\x0001\x0000\xfffeselvatico!
+Salvaguardia protegge \xf000Ă\x0001\x0000 nemico!
+\xf000Ă\x0001\x0000 è protetto dalla nebbia!
+\xf000Ă\x0001\x0000 selvatico è protetto dalla\xfffenebbia!
+\xf000Ă\x0001\x0000 nemico è protetto dalla nebbia!
+\xf000Ă\x0001\x0000 è trascinato nella lotta!
+\xf000Ă\x0001\x0000 selvatico è trascinato nella\xfffelotta!
+\xf000Ă\x0001\x0000 nemico è trascinato nella lotta!
+\xf000Ă\x0001\x0000 deve ricaricarsi!
+\xf000Ă\x0001\x0000 selvatico deve ricaricarsi!
+\xf000Ă\x0001\x0000 nemico deve ricaricarsi!
+\xf000Ă\x0001\x0000 è colpito da Punte!
+\xf000Ă\x0001\x0000 selvatico è colpito da Punte!
+\xf000Ă\x0001\x0000 nemico è colpito da Punte!
+Rocce aguzze colpiscono \xf000Ă\x0001\x0000!
+Rocce aguzze colpiscono \xf000Ă\x0001\x0000\xfffeselvatico!
+Rocce aguzze colpiscono \xf000Ă\x0001\x0000 nemico!
+\xf000Ă\x0001\x0000 crea una dimensione distorta!
+\xf000Ă\x0001\x0000 selvatico crea una dimensione\xfffedistorta!
+\xf000Ă\x0001\x0000 nemico crea una dimensione\xfffedistorta!
+Il conto alla rovescia di Ultimocanto per\xfffe\xf000Ă\x0001\x0000 scende a \xf000Ȁ\x0001\x0001!
+Il conto alla rovescia di Ultimocanto per\xfffe\xf000Ă\x0001\x0000 selvatico scende a \xf000Ȁ\x0001\x0001!
+Il conto alla rovescia di Ultimocanto per\xfffe\xf000Ă\x0001\x0000 nemico scende a \xf000Ȁ\x0001\x0001!
+\xf000Ă\x0001\x0000 è avvolto da una luce fredda!
+\xf000Ă\x0001\x0000 selvatico è avvolto da una luce\xfffefredda!
+\xf000Ă\x0001\x0000 nemico è avvolto da una luce\xfffefredda!
+\xf000Ă\x0001\x0000 è avvolto da un'atmosfera\xfffegelida!
+\xf000Ă\x0001\x0000 selvatico è avvolto da\xfffeun'atmosfera gelida!
+\xf000Ă\x0001\x0000 nemico è avvolto da\xfffeun'atmosfera gelida!
+\xf000Ă\x0001\x0000 impedisce la fuga con\xfffe\xf000Ć\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico impedisce la fuga con\xfffe\xf000Ć\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico impedisce la fuga con\xfffe\xf000Ć\x0001\x0001!
+\xf000Ă\x0001\x0000 non può più scappare!
+\xf000Ă\x0001\x0000 selvatico non può più scappare!
+\xf000Ă\x0001\x0000 nemico non può più scappare!
+\xf000Ă\x0001\x0000 non può scappare!
+\xf000Ă\x0001\x0000 selvatico non può scappare!
+\xf000Ă\x0001\x0000 nemico non può scappare!
 
 
 
-\xf000Ă\x0001\x0000 was prevented\xfffefrom healing!
-The wild \xf000Ă\x0001\x0000 was prevented\xfffefrom healing!
-The foe's \xf000Ă\x0001\x0000 was prevented\xfffefrom healing!
-\xf000Ă\x0001\x0000's Heal Block\xfffewore off!
-The wild \xf000Ă\x0001\x0000's Heal Block\xfffewore off!
-The foe's \xf000Ă\x0001\x0000's Heal Block\xfffewore off!
-\xf000Ă\x0001\x0000 was prevented\xfffefrom healing due to Heal Block!
-The wild \xf000Ă\x0001\x0000 was prevented\xfffefrom healing due to Heal Block!
-The foe's \xf000Ă\x0001\x0000 was prevented\xfffefrom healing due to Heal Block!
-\xf000Ă\x0001\x0000 can't use\xfffe\xf000ć\x0001\x0001 because of Heal Block!
-The wild \xf000Ă\x0001\x0000 can't use\xfffe\xf000ć\x0001\x0001 because of Heal Block!
-The foe's \xf000Ă\x0001\x0000 can't use\xfffe\xf000ć\x0001\x0001 because of Heal Block!
-\xf000Ă\x0001\x0000's\xfffeHP is full!
-The wild \xf000Ă\x0001\x0000's\xfffeHP is full!
-The foe's \xf000Ă\x0001\x0000's\xfffeHP is full!
-\xf000Ă\x0001\x0000 transformed\xfffeinto the \xf000ă\x0001\x0001 type!
-The wild \xf000Ă\x0001\x0000 transformed\xfffeinto the \xf000ă\x0001\x0001 type!
-The foe's \xf000Ă\x0001\x0000 transformed\xfffeinto the \xf000ă\x0001\x0001 type!
-\xf000Ă\x0001\x0000 had its\xfffeenergy drained!
-The wild \xf000Ă\x0001\x0000 had its\xfffeenergy drained!
-The foe's \xf000Ă\x0001\x0000 had its\xfffeenergy drained!
-\xf000Ă\x0001\x0000 kept going\xfffeand crashed!
-The wild \xf000Ă\x0001\x0000 kept going\xfffeand crashed!
-The foe's \xf000Ă\x0001\x0000 kept going\xfffeand crashed!
-\xf000Ă\x0001\x0000\xfffecannot use \xf000ć\x0001\x0001!
-The wild \xf000Ă\x0001\x0000\xfffecannot use \xf000ć\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000\xfffecannot use \xf000ć\x0001\x0001!
-\xf000Ă\x0001\x0000 restored its\xfffehealth using its \xf000ĉ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 restored its\xfffehealth using its \xf000ĉ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 restored its\xfffehealth using its \xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000 restored\xfffe\xf000ć\x0001\x0002's PP using its\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 restored\xfffe\xf000ć\x0001\x0002's PP using its\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 restored\xfffe\xf000ć\x0001\x0002's PP using its\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000 restored\xfffea little HP using its \xf000ĉ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 restored\xfffea little HP using its \xf000ĉ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 restored\xfffea little HP using its \xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000's \xf000ĉ\x0001\x0001\xfffecured its poison!
-The wild \xf000Ă\x0001\x0000's\xfffe\xf000ĉ\x0001\x0001 cured its poison!
-The foe's \xf000Ă\x0001\x0000's\xfffe\xf000ĉ\x0001\x0001 cured its poison!
-\xf000Ă\x0001\x0000's \xf000ĉ\x0001\x0001\xfffecured its paralysis!
-The wild \xf000Ă\x0001\x0000's\xfffe\xf000ĉ\x0001\x0001 cured its paralysis!
-The foe's \xf000Ă\x0001\x0000's\xfffe\xf000ĉ\x0001\x0001 cured its paralysis!
-\xf000Ă\x0001\x0000's \xf000ĉ\x0001\x0001\xfffewoke it up!
-The wild \xf000Ă\x0001\x0000's \xf000ĉ\x0001\x0001\xfffewoke it up!
-The foe's \xf000Ă\x0001\x0000's \xf000ĉ\x0001\x0001\xfffewoke it up!
-\xf000Ă\x0001\x0000's \xf000ĉ\x0001\x0001\xfffedefrosted it!
-The wild \xf000Ă\x0001\x0000's\xfffe\xf000ĉ\x0001\x0001 defrosted it!
-The foe's \xf000Ă\x0001\x0000's\xfffe\xf000ĉ\x0001\x0001 defrosted it!
-\xf000Ă\x0001\x0000's \xf000ĉ\x0001\x0001\xfffehealed its burn!
-The wild \xf000Ă\x0001\x0000's\xfffe\xf000ĉ\x0001\x0001 healed its burn!
-The foe's \xf000Ă\x0001\x0000's\xfffe\xf000ĉ\x0001\x0001 healed its burn!
-\xf000Ă\x0001\x0000's \xf000ĉ\x0001\x0001\xfffesnapped it out of its confusion!
-The wild \xf000Ă\x0001\x0000's\xfffe\xf000ĉ\x0001\x0001 snapped it out of\xf000븀\x0000\xfffeits confusion!
-The foe's \xf000Ă\x0001\x0000's\xfffe\xf000ĉ\x0001\x0001 snapped it out of\xf000븀\x0000\xfffeits confusion!
-\xf000Ă\x0001\x0000 cured its\xfffeinfatuation status\xf000븀\x0000\xfffeusing its \xf000ĉ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 cured its\xfffeinfatuation status\xf000븀\x0000\xfffeusing its \xf000ĉ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 cured its\xfffeinfatuation status\xf000븀\x0000\xfffeusing its \xf000ĉ\x0001\x0001!
-The \xf000ĉ\x0001\x0001 raised\xfffe\xf000Ă\x0001\x0000's Attack!
-The \xf000ĉ\x0001\x0001 raised\xfffethe wild \xf000Ă\x0001\x0000's Attack!
-The \xf000ĉ\x0001\x0001 raised\xfffethe foe's \xf000Ă\x0001\x0000's Attack!
-The \xf000ĉ\x0001\x0001 raised\xfffe\xf000Ă\x0001\x0000's Defense!
-The \xf000ĉ\x0001\x0001 raised\xfffethe wild \xf000Ă\x0001\x0000's Defense!
-The \xf000ĉ\x0001\x0001 raised\xfffethe foe's \xf000Ă\x0001\x0000's Defense!
-The \xf000ĉ\x0001\x0001 raised\xfffe\xf000Ă\x0001\x0000's Special Attack!
-The \xf000ĉ\x0001\x0001 raised\xfffethe wild \xf000Ă\x0001\x0000's Special Attack!
-The \xf000ĉ\x0001\x0001 raised\xfffethe foe's \xf000Ă\x0001\x0000's Special Attack!
-The \xf000ĉ\x0001\x0001 raised\xfffe\xf000Ă\x0001\x0000's Special Defense!
-The \xf000ĉ\x0001\x0001 raised\xfffethe wild \xf000Ă\x0001\x0000's Special Defense!
-The \xf000ĉ\x0001\x0001 raised\xfffethe foe's \xf000Ă\x0001\x0000's Special Defense!
-The \xf000ĉ\x0001\x0001 raised\xfffe\xf000Ă\x0001\x0000's Speed!
-The \xf000ĉ\x0001\x0001 raised\xfffethe wild \xf000Ă\x0001\x0000's Speed!
-The \xf000ĉ\x0001\x0001 raised\xfffethe foe's \xf000Ă\x0001\x0000's Speed!
-The \xf000ĉ\x0001\x0001 raised\xfffe\xf000Ă\x0001\x0000's accuracy!
-The \xf000ĉ\x0001\x0001 raised\xfffethe wild \xf000Ă\x0001\x0000's accuracy!
-The \xf000ĉ\x0001\x0001 raised\xfffethe foe's \xf000Ă\x0001\x0000's accuracy!
-The \xf000ĉ\x0001\x0001 raised\xfffe\xf000Ă\x0001\x0000's evasiveness!
-The \xf000ĉ\x0001\x0001 raised\xfffethe wild \xf000Ă\x0001\x0000's evasiveness!
-The \xf000ĉ\x0001\x0001 raised\xfffethe foe's \xf000Ă\x0001\x0000's evasiveness!
-The \xf000ĉ\x0001\x0001 sharply raised\xfffe\xf000Ă\x0001\x0000's Attack!
-The \xf000ĉ\x0001\x0001 sharply raised\xfffethe wild \xf000Ă\x0001\x0000's Attack!
-The \xf000ĉ\x0001\x0001 sharply raised\xfffethe foe's \xf000Ă\x0001\x0000's Attack!
-The \xf000ĉ\x0001\x0001 sharply raised\xfffe\xf000Ă\x0001\x0000's Defense!
-The \xf000ĉ\x0001\x0001 sharply raised\xfffethe wild \xf000Ă\x0001\x0000's Defense!
-The \xf000ĉ\x0001\x0001 sharply raised\xfffethe foe's \xf000Ă\x0001\x0000's Defense!
-The \xf000ĉ\x0001\x0001 sharply raised\xfffe\xf000Ă\x0001\x0000's Special Attack!
-The \xf000ĉ\x0001\x0001 sharply raised\xfffethe wild \xf000Ă\x0001\x0000's Special Attack!
-The \xf000ĉ\x0001\x0001 sharply raised\xfffethe foe's \xf000Ă\x0001\x0000's Special Attack!
-The \xf000ĉ\x0001\x0001 sharply raised\xfffe\xf000Ă\x0001\x0000's Special Defense!
-The \xf000ĉ\x0001\x0001 sharply raised\xfffethe wild \xf000Ă\x0001\x0000's Special Defense!
-The \xf000ĉ\x0001\x0001 sharply raised\xfffethe foe's \xf000Ă\x0001\x0000's Special Defense!
-The \xf000ĉ\x0001\x0001 sharply raised\xfffe\xf000Ă\x0001\x0000's Speed!
-The \xf000ĉ\x0001\x0001 sharply raised\xfffethe wild \xf000Ă\x0001\x0000's Speed!
-The \xf000ĉ\x0001\x0001 sharply raised\xfffethe foe's \xf000Ă\x0001\x0000's Speed!
-The \xf000ĉ\x0001\x0001 sharply raised\xfffe\xf000Ă\x0001\x0000's accuracy!
-The \xf000ĉ\x0001\x0001 sharply raised\xfffethe wild \xf000Ă\x0001\x0000's accuracy!
-The \xf000ĉ\x0001\x0001 sharply raised\xfffethe foe's \xf000Ă\x0001\x0000's accuracy!
-The \xf000ĉ\x0001\x0001 sharply raised\xfffe\xf000Ă\x0001\x0000's evasiveness!
-The \xf000ĉ\x0001\x0001 sharply raised\xfffethe wild \xf000Ă\x0001\x0000's evasiveness!
-The \xf000ĉ\x0001\x0001 sharply raised\xfffethe foe's \xf000Ă\x0001\x0000's evasiveness!
-The \xf000ĉ\x0001\x0001 drastically raised\xfffe\xf000Ă\x0001\x0000's Attack!
-The \xf000ĉ\x0001\x0001 drastically raised\xfffethe wild \xf000Ă\x0001\x0000's Attack!
-The \xf000ĉ\x0001\x0001 drastically raised\xfffethe foe's \xf000Ă\x0001\x0000's Attack!
-The \xf000ĉ\x0001\x0001 drastically raised\xfffe\xf000Ă\x0001\x0000's Defense!
-The \xf000ĉ\x0001\x0001 drastically raised\xfffethe wild \xf000Ă\x0001\x0000's Defense!
-The \xf000ĉ\x0001\x0001 drastically raised\xfffethe foe's \xf000Ă\x0001\x0000's Defense!
-The \xf000ĉ\x0001\x0001 drastically raised\xfffe\xf000Ă\x0001\x0000's Special Attack!
-The \xf000ĉ\x0001\x0001 drastically raised\xfffethe wild \xf000Ă\x0001\x0000's Special Attack!
-The \xf000ĉ\x0001\x0001 drastically raised\xfffethe foe's \xf000Ă\x0001\x0000's Special Attack!
-The \xf000ĉ\x0001\x0001 drastically raised\xfffe\xf000Ă\x0001\x0000's Special Defense!
-The \xf000ĉ\x0001\x0001 drastically raised\xfffethe wild \xf000Ă\x0001\x0000's Special Defense!
-The \xf000ĉ\x0001\x0001 drastically raised\xfffethe foe's \xf000Ă\x0001\x0000's Special Defense!
-The \xf000ĉ\x0001\x0001 drastically raised\xfffe\xf000Ă\x0001\x0000's Speed!
-The \xf000ĉ\x0001\x0001 drastically raised\xfffethe wild \xf000Ă\x0001\x0000's Speed!
-The \xf000ĉ\x0001\x0001 drastically raised\xfffethe foe's \xf000Ă\x0001\x0000's Speed!
-The \xf000ĉ\x0001\x0001 drastically raised\xfffe\xf000Ă\x0001\x0000's accuracy!
-The \xf000ĉ\x0001\x0001 drastically raised\xfffethe wild \xf000Ă\x0001\x0000's accuracy!
-The \xf000ĉ\x0001\x0001 drastically raised\xfffethe foe's \xf000Ă\x0001\x0000's accuracy!
-The \xf000ĉ\x0001\x0001 drastically raised\xfffe\xf000Ă\x0001\x0000's evasiveness!
-The \xf000ĉ\x0001\x0001 drastically raised\xfffethe wild \xf000Ă\x0001\x0000's evasiveness!
-The \xf000ĉ\x0001\x0001 drastically raised\xfffethe foe's \xf000Ă\x0001\x0000's evasiveness!
-\xf000Ă\x0001\x0000 used\xfffethe \xf000ĉ\x0001\x0001 to get pumped!
-The wild \xf000Ă\x0001\x0000 used\xfffethe \xf000ĉ\x0001\x0001 to get pumped!
-The foe's \xf000Ă\x0001\x0000 used\xfffethe \xf000ĉ\x0001\x0001 to get pumped!
-\xf000Ă\x0001\x0000 fled\xfffeusing its \xf000ĉ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 fled\xfffeusing its \xf000ĉ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 fled\xfffeusing its \xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000 hung on\xfffeusing its \xf000ĉ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 hung on\xfffeusing its \xf000ĉ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 hung on\xfffeusing its \xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000 restored its\xfffestatus using its \xf000ĉ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 restored its\xfffestatus using its \xf000ĉ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 restored its\xfffestatus using its \xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000 lost\xfffesome of its HP!
-The wild \xf000Ă\x0001\x0000 lost\xfffesome of its HP!
-The foe's \xf000Ă\x0001\x0000 lost\xfffesome of its HP!
-...But \xf000Ă\x0001\x0000\xfffeis not here!
-...But the wild \xf000Ă\x0001\x0000\xfffeis not here!
-...But the foe's \xf000Ă\x0001\x0000\xfffeis not here!
-...But \xf000Ă\x0001\x0000 was not\xfffeholding a usable item!
-...But the wild \xf000Ă\x0001\x0000 was not\xfffeholding a usable item!
-...But the foe's \xf000Ă\x0001\x0000 was not\xfffeholding a usable item!
-\xf000Ă\x0001\x0000 became fully\xfffecharged due to its \xf000ĉ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 became fully\xfffecharged due to its \xf000ĉ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 became fully\xfffecharged due to its \xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000's \xf000ĉ\x0001\x0001\xfffelet it move first!
-The wild \xf000Ă\x0001\x0000's\xfffe\xf000ĉ\x0001\x0001 let it move first!
-The foe's \xf000Ă\x0001\x0000's\xfffe\xf000ĉ\x0001\x0001 let it move first!
-\xf000Ă\x0001\x0000 boosted\xfffethe accuracy of its next move\xf000븀\x0000\xfffeusing its \xf000ĉ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 boosted\xfffethe accuracy of its next move\xf000븀\x0000\xfffeusing its \xf000ĉ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 boosted\xfffethe accuracy of its next move\xf000븀\x0000\xfffeusing its \xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000 is hurt by\xfffe\xf000Ă\x0001\x0001's \xf000ĉ\x0001\x0002!
-\xf000Ă\x0001\x0000 is hurt by the wild\xfffe\xf000Ă\x0001\x0001's \xf000ĉ\x0001\x0002!
-\xf000Ă\x0001\x0000 is hurt by the foe's\xfffe\xf000Ă\x0001\x0001's \xf000ĉ\x0001\x0002!
-The wild \xf000Ă\x0001\x0000 is hurt by\xfffe\xf000Ă\x0001\x0001's \xf000ĉ\x0001\x0002!
-The wild \xf000Ă\x0001\x0000 is hurt by\xfffethe wild \xf000Ă\x0001\x0001's \xf000ĉ\x0001\x0002!
-The foe's \xf000Ă\x0001\x0000 is hurt by\xfffe\xf000Ă\x0001\x0001's \xf000ĉ\x0001\x0002!
-The foe's \xf000Ă\x0001\x0000 is hurt by\xfffethe foe's \xf000Ă\x0001\x0001's \xf000ĉ\x0001\x0002!
-\xf000Ă\x0001\x0000 is hurt\xfffeby its \xf000ĉ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 is hurt\xfffeby its \xf000ĉ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 is hurt\xfffeby its \xf000ĉ\x0001\x0001!
-\xf000Ă\x0001\x0000 is getting\xfffepumped!
-The wild \xf000Ă\x0001\x0000 is getting\xfffepumped!
-The foe's \xf000Ă\x0001\x0000 is getting\xfffepumped!
-\xf000Ă\x0001\x0000 is ready to\xfffehelp \xf000Ă\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 is ready to\xfffehelp \xf000Ă\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 is ready to\xfffehelp \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 copied\xfffe\xf000Ă\x0001\x0001's stat changes!
-The wild \xf000Ă\x0001\x0000 copied\xfffe\xf000Ă\x0001\x0001's stat changes!
-The foe's \xf000Ă\x0001\x0000 copied\xfffe\xf000Ă\x0001\x0001's stat changes!
-\xf000Ă\x0001\x0000 knocked off\xfffe\xf000Ă\x0001\x0001's \xf000ĉ\x0001\x0002!
-\xf000Ă\x0001\x0000 knocked off the wild\xfffe\xf000Ă\x0001\x0001's \xf000ĉ\x0001\x0002!
-\xf000Ă\x0001\x0000 knocked off the foe's\xfffe\xf000Ă\x0001\x0001's \xf000ĉ\x0001\x0002!
-The wild \xf000Ă\x0001\x0000 knocked off\xfffe\xf000Ă\x0001\x0001's \xf000ĉ\x0001\x0002!
-The wild \xf000Ă\x0001\x0000 knocked off the\xfffewild \xf000Ă\x0001\x0001's \xf000ĉ\x0001\x0002!
-The foe's \xf000Ă\x0001\x0000 knocked off\xfffe\xf000Ă\x0001\x0001's \xf000ĉ\x0001\x0002!
-The foe's \xf000Ă\x0001\x0000 knocked off\xfffethe foe's \xf000Ă\x0001\x0001's\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0002!
-\xf000Ă\x0001\x0000 stole\xfffe\xf000Ă\x0001\x0001's \xf000ĉ\x0001\x0002!
-\xf000Ă\x0001\x0000 stole the wild\xfffe\xf000Ă\x0001\x0001's \xf000ĉ\x0001\x0002!
-\xf000Ă\x0001\x0000 stole the foe's\xfffe\xf000Ă\x0001\x0001's \xf000ĉ\x0001\x0002!
-The wild \xf000Ă\x0001\x0000 stole\xfffe\xf000Ă\x0001\x0001's \xf000ĉ\x0001\x0002!
-The wild \xf000Ă\x0001\x0000 stole the wild\xfffe\xf000Ă\x0001\x0001's \xf000ĉ\x0001\x0002!
-The foe's \xf000Ă\x0001\x0000 stole\xfffe\xf000Ă\x0001\x0001's \xf000ĉ\x0001\x0002!
-The foe's \xf000Ă\x0001\x0000 stole the\xfffefoe's \xf000Ă\x0001\x0001's \xf000ĉ\x0001\x0002!
-\xf000Ă\x0001\x0000 cut its own HP\xfffeand laid a curse on \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 cut its own HP\xfffeand laid a curse on the wild \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 cut its own HP\xfffeand laid a curse on the foe's \xf000Ă\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 cut its own HP\xfffeand laid a curse on \xf000Ă\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 cut its own HP\xfffeand laid a curse on the wild \xf000Ă\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 cut its own HP\xfffeand laid a curse on \xf000Ă\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 cut its own HP\xfffeand laid a curse on the foe's \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 is afflicted\xfffeby the curse!
-The wild \xf000Ă\x0001\x0000 is afflicted\xfffeby the curse!
-The foe's \xf000Ă\x0001\x0000 is afflicted\xfffeby the curse!
-\xf000Ă\x0001\x0000 foresaw\xfffean attack!
-The wild \xf000Ă\x0001\x0000 foresaw\xfffean attack!
-The foe's \xf000Ă\x0001\x0000 foresaw\xfffean attack!
-\xf000Ă\x0001\x0000 chose\xfffeDoom Desire as its destiny!
-The wild \xf000Ă\x0001\x0000 chose\xfffeDoom Desire as its destiny!
-The foe's \xf000Ă\x0001\x0000 chose\xfffeDoom Desire as its destiny!
-\xf000Ă\x0001\x0000 took\xfffethe \xf000ć\x0001\x0001 attack!
-The wild \xf000Ă\x0001\x0000 took\xfffethe \xf000ć\x0001\x0001 attack!
-The foe's \xf000Ă\x0001\x0000 took\xfffethe \xf000ć\x0001\x0001 attack!
-\xf000Ă\x0001\x0000 couldn't stay\xfffeairborne because of gravity!
-The wild \xf000Ă\x0001\x0000 couldn't stay\xfffeairborne because of gravity!
-The foe's \xf000Ă\x0001\x0000 couldn't stay\xfffeairborne because of gravity!
-\xf000Ă\x0001\x0000 can't use\xfffe\xf000ć\x0001\x0001 because of gravity!
-The wild \xf000Ă\x0001\x0000 can't use\xfffe\xf000ć\x0001\x0001 because of gravity!
-The foe's \xf000Ă\x0001\x0000 can't use\xfffe\xf000ć\x0001\x0001 because of gravity!
-\xf000Ă\x0001\x0000's type\xfffechanged to match \xf000Ă\x0001\x0001's!
-\xf000Ă\x0001\x0000's type\xfffechanged to match the wild \xf000Ă\x0001\x0001's!
-\xf000Ă\x0001\x0000's type\xfffechanged to match the foe's \xf000Ă\x0001\x0001's!
-The wild \xf000Ă\x0001\x0000's type\xfffechanged to match \xf000Ă\x0001\x0001's!
-The wild \xf000Ă\x0001\x0000's type\xfffechanged to match the wild \xf000Ă\x0001\x0001's!
-The foe's \xf000Ă\x0001\x0000's type\xfffechanged to match \xf000Ă\x0001\x0001's!
-The foe's \xf000Ă\x0001\x0000's type\xfffechanged to match the foe's \xf000Ă\x0001\x0001's!
-\xf000Ă\x0001\x0000 shared its\xfffepower with the target!
-The wild \xf000Ă\x0001\x0000 shared its\xfffepower with the target!
-The foe's \xf000Ă\x0001\x0000 shared its\xfffepower with the target!
-\xf000Ă\x0001\x0000 shared its\xfffeguard with the target!
-The wild \xf000Ă\x0001\x0000 shared its\xfffeguard with the target!
-The foe's \xf000Ă\x0001\x0000 shared its\xfffeguard with the target!
-\xf000Ă\x0001\x0000 became nimble!
-The wild \xf000Ă\x0001\x0000 became nimble!
-The foe's \xf000Ă\x0001\x0000 became nimble!
-The bursting flame hit \xf000Ă\x0001\x0000!
-The bursting flame hit the wild \xf000Ă\x0001\x0000!
-The bursting flame hit the foe's \xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0000's \xf000ĉ\x0001\x0001\xfffewas burnt up!
-The wild \xf000Ă\x0001\x0000's \xf000ĉ\x0001\x0001\xfffewas burnt up!
-The foe's \xf000Ă\x0001\x0000's \xf000ĉ\x0001\x0001\xfffewas burnt up!
-\xf000Ă\x0001\x0000 received \xf000ĉ\x0001\x0002\xfffefrom \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 received \xf000ĉ\x0001\x0002\xfffefrom the wild \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 received \xf000ĉ\x0001\x0002\xfffefrom the foe's \xf000Ă\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 received \xf000ĉ\x0001\x0002\xfffefrom \xf000Ă\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 received \xf000ĉ\x0001\x0002\xfffefrom the wild \xf000Ă\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 received \xf000ĉ\x0001\x0002\xfffefrom \xf000Ă\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 received \xf000ĉ\x0001\x0002\xfffefrom the foe's \xf000Ă\x0001\x0001!
-\xf000Ă\x0001\x0000 took\xfffe\xf000Ă\x0001\x0001 into the sky!
-\xf000Ă\x0001\x0000 took\xfffethe wild \xf000Ă\x0001\x0001 into the sky!
-\xf000Ă\x0001\x0000 took\xfffethe foe's \xf000Ă\x0001\x0001 into the sky!
-The wild \xf000Ă\x0001\x0000 took\xfffe\xf000Ă\x0001\x0001 into the sky!
-The wild \xf000Ă\x0001\x0000 took\xfffethe wild \xf000Ă\x0001\x0001 into the sky!
-The foe's \xf000Ă\x0001\x0000 took\xfffe\xf000Ă\x0001\x0001 into the sky!
-The foe's \xf000Ă\x0001\x0000 took\xfffethe foe's \xf000Ă\x0001\x0001 into the sky!
-\xf000Ă\x0001\x0000 was freed\xfffefrom the Sky Drop!
-The wild \xf000Ă\x0001\x0000 was freed\xfffefrom the Sky Drop!
-The foe's \xf000Ă\x0001\x0000 was freed\xfffefrom the Sky Drop!
-\xf000Ă\x0001\x0000 fell\xfffestraight down!
-The wild \xf000Ă\x0001\x0000 fell\xfffestraight down!
-The foe's \xf000Ă\x0001\x0000 fell\xfffestraight down!
-\xf000Ă\x0001\x0000's move\xfffewas postponed!
-The wild \xf000Ă\x0001\x0000's move\xfffewas postponed!
-The foe's \xf000Ă\x0001\x0000's move\xfffewas postponed!
-\xf000Ă\x0001\x0000\xfffetook the kind offer!
-The wild \xf000Ă\x0001\x0000\xfffetook the kind offer!
-The foe's \xf000Ă\x0001\x0000\xfffetook the kind offer!
-\xf000Ă\x0001\x0000 and\xfffe\xf000Ă\x0001\x0001 switched places!
-The wild \xf000Ă\x0001\x0000 and\xfffe\xf000Ă\x0001\x0001 switched places!
-The foe's \xf000Ă\x0001\x0000 and\xfffe\xf000Ă\x0001\x0001 switched places!
-\xf000Ă\x0001\x0000 was hurled\xfffeinto the air!
-The wild \xf000Ă\x0001\x0000 was hurled\xfffeinto the air!
-The foe's \xf000Ă\x0001\x0000 was hurled\xfffeinto the air!
-\xf000Ă\x0001\x0000 was freed\xfffefrom the telekinesis!
-The wild \xf000Ă\x0001\x0000 was freed\xfffefrom the telekinesis!
-The foe's \xf000Ă\x0001\x0000 was freed\xfffefrom the telekinesis!
-\xf000Ă\x0001\x0000 is waiting\xfffefor \xf000Ă\x0001\x0001's move...
-\xf000Ă\x0001\x0000 is waiting\xfffefor the wild \xf000Ă\x0001\x0001's move...
-\xf000Ă\x0001\x0000 is waiting\xfffefor the foe's \xf000Ă\x0001\x0001...
-The wild \xf000Ă\x0001\x0000 is waiting\xfffefor \xf000Ă\x0001\x0001's move...
-The wild \xf000Ă\x0001\x0000 is waiting\xfffefor the wild \xf000Ă\x0001\x0001's move...
-The foe's \xf000Ă\x0001\x0000 is waiting\xfffefor \xf000Ă\x0001\x0001's move...
-The foe's \xf000Ă\x0001\x0000 is waiting\xfffefor the foe's \xf000Ă\x0001\x0001's move...
-It is completely synchronized\xfffewith \xf000Ă\x0001\x0000!
-It is completely synchronized\xfffewith the wild \xf000Ă\x0001\x0000!
-It is completely synchronized\xfffewith the foe's \xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0000 is hurt\xfffeby the sea of fire!
-The wild \xf000Ă\x0001\x0000 is hurt\xfffeby the sea of fire!
-The foe's \xf000Ă\x0001\x0000 is hurt\xfffeby the sea of fire!
+\xf000Ă\x0001\x0000 non può curarsi!
+\xf000Ă\x0001\x0000 selvatico non può curarsi!
+\xf000Ă\x0001\x0000 nemico non può curarsi!
+\xf000Ă\x0001\x0000 può nuovamente curarsi!
+\xf000Ă\x0001\x0000 selvatico può nuovamente\xfffecurarsi!
+\xf000Ă\x0001\x0000 nemico può nuovamente curarsi!
+\xf000Ă\x0001\x0000 non può guarire a causa di\xfffeAnticura!
+\xf000Ă\x0001\x0000 selvatico non può guarire a\xfffecausa di Anticura!
+\xf000Ă\x0001\x0000 nemico non può guarire a causa\xfffedi Anticura!
+\xf000Ă\x0001\x0000 non può usare \xf000ć\x0001\x0001 a\xfffecausa di Anticura!
+\xf000Ă\x0001\x0000 selvatico non può usare\xfffe\xf000ć\x0001\x0001 a causa di Anticura!
+\xf000Ă\x0001\x0000 nemico non può usare\xfffe\xf000ć\x0001\x0001 a causa di Anticura!
+\xf000Ă\x0001\x0000 ha già tutti i Punti Salute!
+\xf000Ă\x0001\x0000 selvatico ha già tutti i Punti\xfffeSalute!
+\xf000Ă\x0001\x0000 nemico ha già tutti i Punti\xfffeSalute!
+\xf000Ă\x0001\x0000 si trasforma nel tipo\xfffe\xf000ă\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico si trasforma nel tipo\xfffe\xf000ă\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico si trasforma nel tipo\xfffe\xf000ă\x0001\x0001!
+Viene prelevata energia da \xf000Ă\x0001\x0000!
+Viene prelevata energia da \xf000Ă\x0001\x0000\xfffeselvatico!
+Viene prelevata energia da \xf000Ă\x0001\x0000\xfffenemico!
+\xf000Ă\x0001\x0000 si sbilancia e si schianta!
+\xf000Ă\x0001\x0000 selvatico si sbilancia e si\xfffeschianta!
+\xf000Ă\x0001\x0000 nemico si sbilancia e si schianta!
+\xf000Ă\x0001\x0000 non può utilizzare\xfffe\xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico non può utilizzare\xfffe\xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico non può utilizzare\xfffe\xf000ć\x0001\x0001!
+\xf000ĉ\x0001\x0001 ristabilisce la salute di\xfffe\xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 ristabilisce la salute di\xfffe\xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 ristabilisce la salute di\xfffe\xf000Ă\x0001\x0000 nemico!
+\xf000Ă\x0001\x0000 ristabilisce i Punti Potenza di\xfffe\xf000ć\x0001\x0002 con \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico ristabilisce i Punti\xfffePotenza di \xf000ć\x0001\x0002 con \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico ristabilisce i Punti\xfffePotenza di \xf000ć\x0001\x0002 con \xf000ĉ\x0001\x0001!
+\xf000ĉ\x0001\x0001 ristabilisce parte dei Punti\xfffeSalute di \xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 ristabilisce parte dei Punti\xfffeSalute di \xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 ristabilisce parte dei Punti\xfffeSalute di \xf000Ă\x0001\x0000 nemico!
+\xf000Ă\x0001\x0000 guarisce dall'avvelenamento\xfffegrazie a \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico guarisce\xfffedall'avvelenamento grazie a \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico guarisce\xfffedall'avvelenamento grazie a \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 guarisce dalla paralisi grazie a\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico guarisce dalla paralisi\xfffegrazie a \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico guarisce dalla paralisi\xfffegrazie a \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 si è svegliato grazie a\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico si è svegliato grazie a\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico si è svegliato grazie a\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 si è scongelato grazie a\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico si è scongelato grazie\xfffea \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico si è scongelato grazie a\xfffe\xf000ĉ\x0001\x0001!
+\xf000ĉ\x0001\x0001 guarisce la scottatura di\xfffe\xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 guarisce la scottatura di\xfffe\xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 guarisce la scottatura di\xfffe\xf000Ă\x0001\x0000 nemico!
+\xf000ĉ\x0001\x0001 guarisce la confusione di\xfffe\xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 guarisce la confusione di\xfffe\xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 guarisce la confusione di\xfffe\xf000Ă\x0001\x0000 nemico!
+\xf000Ă\x0001\x0000 si disamora grazie a\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico si disamora grazie a\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico si disamora grazie a\xfffe\xf000ĉ\x0001\x0001!
+\xf000ĉ\x0001\x0001 aumenta l'Attacco di\xfffe\xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 aumenta l'Attacco di\xfffe\xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 aumenta l'Attacco di\xfffe\xf000Ă\x0001\x0000 nemico!
+\xf000ĉ\x0001\x0001 aumenta la Difesa di\xfffe\xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 aumenta la Difesa di\xfffe\xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 aumenta la Difesa di\xfffe\xf000Ă\x0001\x0000 nemico!
+\xf000ĉ\x0001\x0001 aumenta l'Attacco Speciale di\xfffe\xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 aumenta l'Attacco Speciale di\xfffe\xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 aumenta l'Attacco Speciale di\xfffe\xf000Ă\x0001\x0000 nemico!
+\xf000ĉ\x0001\x0001 aumenta la Difesa Speciale di\xfffe\xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 aumenta la Difesa Speciale di\xfffe\xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 aumenta la Difesa Speciale di\xfffe\xf000Ă\x0001\x0000 nemico!
+\xf000ĉ\x0001\x0001 aumenta la Velocità di\xfffe\xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 aumenta la Velocità di\xfffe\xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 aumenta la Velocità di\xfffe\xf000Ă\x0001\x0000 nemico!
+\xf000ĉ\x0001\x0001 aumenta la precisione di\xfffe\xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 aumenta la precisione di\xfffe\xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 aumenta la precisione di\xfffe\xf000Ă\x0001\x0000 nemico!
+\xf000ĉ\x0001\x0001 aumenta l'elusione di\xfffe\xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 aumenta l'elusione di\xfffe\xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 aumenta l'elusione di\xfffe\xf000Ă\x0001\x0000 nemico!
+\xf000ĉ\x0001\x0001 aumenta molto l'Attacco di\xfffe\xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 aumenta molto l'Attacco di\xfffe\xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 aumenta molto l'Attacco di\xfffe\xf000Ă\x0001\x0000 nemico!
+\xf000ĉ\x0001\x0001 aumenta molto la Difesa di\xfffe\xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 aumenta molto la Difesa di\xfffe\xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 aumenta molto la Difesa di\xfffe\xf000Ă\x0001\x0000 nemico!
+\xf000ĉ\x0001\x0001 aumenta molto l'Attacco\xfffeSpeciale di \xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 aumenta molto l'Attacco\xfffeSpeciale di \xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 aumenta molto l'Attacco\xfffeSpeciale di \xf000Ă\x0001\x0000 nemico!
+\xf000ĉ\x0001\x0001 aumenta molto la Difesa\xfffeSpeciale di \xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 aumenta molto la Difesa\xfffeSpeciale di \xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 aumenta molto la Difesa\xfffeSpeciale di \xf000Ă\x0001\x0000 nemico!
+\xf000ĉ\x0001\x0001 aumenta molto la Velocità di\xfffe\xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 aumenta molto la Velocità di\xfffe\xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 aumenta molto la Velocità di\xfffe\xf000Ă\x0001\x0000 nemico!
+\xf000ĉ\x0001\x0001 aumenta molto la precisione di\xfffe\xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 aumenta molto la precisione di\xfffe\xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 aumenta molto la precisione di\xfffe\xf000Ă\x0001\x0000 nemico!
+\xf000ĉ\x0001\x0001 aumenta molto l'elusione di\xfffe\xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 aumenta molto l'elusione di\xfffe\xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 aumenta molto l'elusione di\xfffe\xf000Ă\x0001\x0000 nemico!
+\xf000ĉ\x0001\x0001 aumenta moltissimo l'Attacco\xfffedi \xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 aumenta moltissimo l'Attacco\xfffedi \xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 aumenta moltissimo l'Attacco\xfffedi \xf000Ă\x0001\x0000 nemico!
+\xf000ĉ\x0001\x0001 aumenta moltissimo la Difesa\xfffedi \xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 aumenta moltissimo la Difesa\xfffedi \xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 aumenta moltissimo la Difesa\xfffedi \xf000Ă\x0001\x0000 nemico!
+\xf000ĉ\x0001\x0001 aumenta moltissimo l'Attacco\xfffeSpeciale di \xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 aumenta moltissimo l'Attacco\xfffeSpeciale di \xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 aumenta moltissimo l'Attacco\xfffeSpeciale di \xf000Ă\x0001\x0000 nemico!
+\xf000ĉ\x0001\x0001 aumenta moltissimo la Difesa\xfffeSpeciale di \xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 aumenta moltissimo la Difesa\xfffeSpeciale di \xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 aumenta moltissimo la Difesa\xfffeSpeciale di \xf000Ă\x0001\x0000 nemico!
+\xf000ĉ\x0001\x0001 aumenta moltissimo la Velocità\xfffedi \xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 aumenta moltissimo la Velocità\xfffedi \xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 aumenta moltissimo la Velocità\xfffedi \xf000Ă\x0001\x0000 nemico!
+\xf000ĉ\x0001\x0001 aumenta moltissimo la\xfffeprecisione di \xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 aumenta moltissimo la\xfffeprecisione di \xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 aumenta moltissimo la\xfffeprecisione di \xf000Ă\x0001\x0000 nemico!
+\xf000ĉ\x0001\x0001 aumenta moltissimo l'elusione\xfffedi \xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 aumenta moltissimo l'elusione\xfffedi \xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 aumenta moltissimo l'elusione\xfffedi \xf000Ă\x0001\x0000 nemico!
+\xf000Ă\x0001\x0000 usa \xf000ĉ\x0001\x0001: ha più\xfffeprobabilità di sferrare brutti colpi!
+\xf000Ă\x0001\x0000 selvatico usa \xf000ĉ\x0001\x0001: ha\xfffepiù probabilità di sferrare brutti colpi!
+\xf000Ă\x0001\x0000 nemico usa \xf000ĉ\x0001\x0001: ha più\xfffeprobabilità di sferrare brutti colpi!
+\xf000Ă\x0001\x0000 fugge usando \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico fugge usando\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico fugge usando\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 resiste usando \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico resiste usando\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico resiste usando\xfffe\xf000ĉ\x0001\x0001!
+\xf000ĉ\x0001\x0001 ristabilisce le statistiche di\xfffe\xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 ristabilisce le statistiche di\xfffe\xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0001 ristabilisce le statistiche di\xfffe\xf000Ă\x0001\x0000 nemico!
+\xf000Ă\x0001\x0000 perde qualche Punto Salute!
+\xf000Ă\x0001\x0000 selvatico perde qualche Punto\xfffeSalute!
+\xf000Ă\x0001\x0000 nemico perde qualche Punto\xfffeSalute!
+Ma \xf000Ă\x0001\x0000 in questo momento non c'è!
+Ma \xf000Ă\x0001\x0000 selvatico in questo momento\xfffenon c'è!
+Ma \xf000Ă\x0001\x0000 nemico in questo momento non\xfffec'è!
+Ma \xf000Ă\x0001\x0000 non ha più strumenti da\xfffeusare!
+Ma \xf000Ă\x0001\x0000 selvatico non ha più\xfffestrumenti da usare!
+Ma \xf000Ă\x0001\x0000 nemico non ha più strumenti\xfffeda usare!
+\xf000Ă\x0001\x0000 è completamente carico grazie a\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico è completamente carico\xfffegrazie a \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico è completamente carico\xfffegrazie a \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 fa la prima mossa grazie a\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico fa la prima mossa\xfffegrazie a \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico fa la prima mossa grazie a\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 aumenta la precisione della sua\xfffeprossima mossa con \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico aumenta la precisione\xfffedella sua prossima mossa con \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico aumenta la precisione\xfffedella sua prossima mossa con \xf000ĉ\x0001\x0001!
+\xf000ĉ\x0001\x0002 di \xf000Ă\x0001\x0001 ferisce\xfffe\xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0002 di \xf000Ă\x0001\x0001 selvatico\xfffeferisce \xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0002 di \xf000Ă\x0001\x0001 nemico\xfffeferisce \xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0002 di \xf000Ă\x0001\x0001 ferisce\xfffe\xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0002 di \xf000Ă\x0001\x0001 selvatico\xfffeferisce \xf000Ă\x0001\x0000 selvatico!
+\xf000ĉ\x0001\x0002 di \xf000Ă\x0001\x0001 ferisce\xfffe\xf000Ă\x0001\x0000 nemico!
+\xf000ĉ\x0001\x0002 di \xf000Ă\x0001\x0001 nemico ferisce\xfffe\xf000Ă\x0001\x0000 nemico!
+\xf000Ă\x0001\x0000 è ferito da \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico è ferito da\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico è ferito da\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 si prepara alla lotta!
+\xf000Ă\x0001\x0000 selvatico si prepara alla lotta!
+\xf000Ă\x0001\x0000 nemico si prepara alla lotta!
+\xf000Ă\x0001\x0000 è pronto ad aiutare \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico è pronto ad aiutare\xfffe\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico è pronto ad aiutare\xfffe\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 copia le modifiche alle\xfffestatistiche di \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico copia le modifiche\xfffealle statistiche di \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico copia le modifiche\xfffealle statistiche di \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 fa cadere \xf000ĉ\x0001\x0002 di\xfffe\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 fa cadere \xf000ĉ\x0001\x0002 di\xfffe\xf000Ă\x0001\x0001 selvatico!
+\xf000Ă\x0001\x0000 fa cadere \xf000ĉ\x0001\x0002 di\xfffe\xf000Ă\x0001\x0001 nemico!
+\xf000Ă\x0001\x0000 selvatico fa cadere\xfffe\xf000ĉ\x0001\x0002 di \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico fa cadere\xfffe\xf000ĉ\x0001\x0002 di \xf000Ă\x0001\x0001 selvatico!
+\xf000Ă\x0001\x0000 nemico fa cadere \xf000ĉ\x0001\x0002\xfffedi \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico fa cadere \xf000ĉ\x0001\x0002\xfffedi \xf000Ă\x0001\x0001 nemico!
+\xf000Ă\x0001\x0000 ruba \xf000ĉ\x0001\x0002 di\xfffe\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 ruba \xf000ĉ\x0001\x0002 di\xfffe\xf000Ă\x0001\x0001 selvatico!
+\xf000Ă\x0001\x0000 ruba \xf000ĉ\x0001\x0002 di\xfffe\xf000Ă\x0001\x0001 nemico!
+\xf000Ă\x0001\x0000 selvatico ruba \xf000ĉ\x0001\x0002 di\xfffe\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico ruba \xf000ĉ\x0001\x0002 di\xfffe\xf000Ă\x0001\x0001 selvatico!
+\xf000Ă\x0001\x0000 nemico ruba \xf000ĉ\x0001\x0002 di\xfffe\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico ruba \xf000ĉ\x0001\x0002 di\xfffe\xf000Ă\x0001\x0001 nemico!
+\xf000Ă\x0001\x0000 riduce i suoi Punti Salute per\xfffelanciare Maledizione su \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 riduce i suoi Punti Salute per\xfffelanciare Maledizione su \xf000Ă\x0001\x0001\xf000븀\x0000\xfffeselvatico!
+\xf000Ă\x0001\x0000 riduce i suoi Punti Salute per\xfffelanciare Maledizione su \xf000Ă\x0001\x0001 nemico!
+\xf000Ă\x0001\x0000 selvatico riduce i suoi Punti\xfffeSalute per lanciare Maledizione su\xf000븀\x0000\xfffe\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico riduce i suoi Punti\xfffeSalute per lanciare Maledizione su\xf000븀\x0000\xfffe\xf000Ă\x0001\x0001 selvatico!
+\xf000Ă\x0001\x0000 nemico riduce i suoi Punti Salute\xfffeper lanciare Maledizione su \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico riduce i suoi Punti Salute\xfffeper lanciare Maledizione su \xf000Ă\x0001\x0001\xf000븀\x0000\xfffenemico!
+\xf000Ă\x0001\x0000 è colpito da Maledizione!
+\xf000Ă\x0001\x0000 selvatico è colpito da\xfffeMaledizione!
+\xf000Ă\x0001\x0000 nemico è colpito da Maledizione!
+\xf000Ă\x0001\x0000 presagisce il futuro imminente!
+\xf000Ă\x0001\x0000 selvatico presagisce il futuro\xfffeimminente!
+\xf000Ă\x0001\x0000 nemico presagisce il futuro\xfffeimminente!
+\xf000Ă\x0001\x0000 affida al futuro il suo\xfffeObbliderio!
+\xf000Ă\x0001\x0000 selvatico affida al futuro il suo\xfffeObbliderio!
+\xf000Ă\x0001\x0000 nemico affida al futuro il suo\xfffeObbliderio!
+\xf000Ă\x0001\x0000 subisce \xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico subisce \xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico subisce \xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 non riesce a rimanere in aria a\xfffecausa di Gravità!
+\xf000Ă\x0001\x0000 selvatico non riesce a rimanere\xfffein aria a causa di Gravità!
+\xf000Ă\x0001\x0000 nemico non riesce a rimanere in\xfffearia a causa di Gravità!
+Gravità impedisce a \xf000Ă\x0001\x0000 di usare\xfffe\xf000ć\x0001\x0001!
+Gravità impedisce a \xf000Ă\x0001\x0000 selvatico di\xfffeusare \xf000ć\x0001\x0001!
+Gravità impedisce a \xf000Ă\x0001\x0000 nemico di\xfffeusare \xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 assume il tipo di \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 assume il tipo di \xf000Ă\x0001\x0001\xfffeselvatico!
+\xf000Ă\x0001\x0000 assume il tipo di \xf000Ă\x0001\x0001\xfffenemico!
+\xf000Ă\x0001\x0000 selvatico assume il tipo di\xfffe\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico assume il tipo di\xfffe\xf000Ă\x0001\x0001 selvatico!
+\xf000Ă\x0001\x0000 nemico assume il tipo di\xfffe\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico assume il tipo di\xfffe\xf000Ă\x0001\x0001 nemico!
+\xf000Ă\x0001\x0000 condivide la sua forza!
+\xf000Ă\x0001\x0000 selvatico condivide la sua forza!
+\xf000Ă\x0001\x0000 nemico condivide la sua forza!
+\xf000Ă\x0001\x0000 condivide le sue capacità\xfffedifensive!
+\xf000Ă\x0001\x0000 selvatico condivide le sue\xfffecapacità difensive!
+\xf000Ă\x0001\x0000 nemico condivide le sue capacità\xfffedifensive!
+\xf000Ă\x0001\x0000 diventa velocissimo!
+\xf000Ă\x0001\x0000 selvatico diventa velocissimo!
+\xf000Ă\x0001\x0000 nemico diventa velocissimo!
+Le fiamme raggiungono anche \xf000Ă\x0001\x0000!
+Le fiamme raggiungono anche \xf000Ă\x0001\x0000\xfffeselvatico!
+Le fiamme raggiungono anche \xf000Ă\x0001\x0000\xfffenemico!
+Lo strumento \xf000ĉ\x0001\x0001 di \xf000Ă\x0001\x0000\xfffeviene distrutto dal fuoco!
+Lo strumento \xf000ĉ\x0001\x0001 di \xf000Ă\x0001\x0000\xfffeselvatico viene distrutto dal fuoco!
+Lo strumento \xf000ĉ\x0001\x0001 di \xf000Ă\x0001\x0000\xfffenemico viene distrutto dal fuoco!
+\xf000Ă\x0001\x0000 ottiene \xf000ĉ\x0001\x0002 di\xfffe\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 ottiene \xf000ĉ\x0001\x0002 di\xfffe\xf000Ă\x0001\x0001 selvatico!
+\xf000Ă\x0001\x0000 ottiene \xf000ĉ\x0001\x0002 di\xfffe\xf000Ă\x0001\x0001 nemico!
+\xf000Ă\x0001\x0000 selvatico ottiene \xf000ĉ\x0001\x0002\xfffedi \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 selvatico ottiene \xf000ĉ\x0001\x0002\xfffedi \xf000Ă\x0001\x0001 selvatico!
+\xf000Ă\x0001\x0000 nemico ottiene \xf000ĉ\x0001\x0002 di\xfffe\xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 nemico ottiene \xf000ĉ\x0001\x0002 di\xfffe\xf000Ă\x0001\x0001 nemico!
+\xf000Ă\x0001\x0000 trascina \xf000Ă\x0001\x0001 in alto nel\xfffecielo!
+\xf000Ă\x0001\x0000 trascina \xf000Ă\x0001\x0001 selvatico in\xfffealto nel cielo!
+\xf000Ă\x0001\x0000 trascina \xf000Ă\x0001\x0001 nemico in\xfffealto nel cielo!
+\xf000Ă\x0001\x0000 selvatico trascina \xf000Ă\x0001\x0001\xfffein alto nel cielo!
+\xf000Ă\x0001\x0000 selvatico trascina \xf000Ă\x0001\x0001\xfffeselvatico in alto nel cielo!
+\xf000Ă\x0001\x0000 nemico trascina \xf000Ă\x0001\x0001 in\xfffealto nel cielo!
+\xf000Ă\x0001\x0000 nemico trascina \xf000Ă\x0001\x0001\xfffenemico in alto nel cielo!
+\xf000Ă\x0001\x0000 si libera da Cadutalibera!
+\xf000Ă\x0001\x0000 selvatico si libera da\xfffeCadutalibera!
+\xf000Ă\x0001\x0000 nemico si libera da Cadutalibera!
+Abbattimento fa schiantare \xf000Ă\x0001\x0000 al\xfffesuolo!
+Abbattimento fa schiantare \xf000Ă\x0001\x0000\xfffeselvatico al suolo!
+Abbattimento fa schiantare \xf000Ă\x0001\x0000\xfffenemico al suolo!
+Il turno di \xf000Ă\x0001\x0000 slitta!
+Il turno di \xf000Ă\x0001\x0000 selvatico slitta!
+Il turno di \xf000Ă\x0001\x0000 nemico slitta!
+\xf000Ă\x0001\x0000 approfitta della Cortesia!
+\xf000Ă\x0001\x0000 selvatico approfitta della\xfffeCortesia!
+\xf000Ă\x0001\x0000 nemico approfitta della\xfffeCortesia!
+\xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001 si scambiano di\xfffeposto!
+\xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001 selvatici si\xfffescambiano di posto!
+\xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001 nemici si scambiano\xfffedi posto!
+\xf000Ă\x0001\x0000 è stato lanciato in aria!
+\xf000Ă\x0001\x0000 selvatico è stato lanciato\xfffein aria!
+\xf000Ă\x0001\x0000 nemico è stato lanciato in aria!
+\xf000Ă\x0001\x0000 si libera da Telecinesi!
+\xf000Ă\x0001\x0000 selvatico si libera da Telecinesi!
+\xf000Ă\x0001\x0000 nemico si libera da Telecinesi!
+\xf000Ă\x0001\x0000 attende \xf000Ă\x0001\x0001...
+\xf000Ă\x0001\x0000 attende \xf000Ă\x0001\x0001 selvatico...
+\xf000Ă\x0001\x0000 attende \xf000Ă\x0001\x0001 nemico...
+\xf000Ă\x0001\x0000 selvatico attende \xf000Ă\x0001\x0001...
+\xf000Ă\x0001\x0000 selvatico attende \xf000Ă\x0001\x0001\xfffeselvatico...
+\xf000Ă\x0001\x0000 nemico attende \xf000Ă\x0001\x0001...
+\xf000Ă\x0001\x0000 nemico attende \xf000Ă\x0001\x0001\xfffenemico...
+Si sincronizza alla perfezione con\xfffe\xf000Ă\x0001\x0000!
+Si sincronizza alla perfezione con\xfffe\xf000Ă\x0001\x0000 selvatico!
+Si sincronizza alla perfezione con\xfffe\xf000Ă\x0001\x0000 nemico!
+\xf000Ă\x0001\x0000 è ferito da un mare di\xfffefiamme!
+\xf000Ă\x0001\x0000 selvatico è ferito da un mare di\xfffefiamme!
+\xf000Ă\x0001\x0000 nemico è ferito da un mare di\xfffefiamme!
