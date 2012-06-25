@@ -30,16 +30,16 @@ Il nemico è debole! Forza, \xf000Ă\x0001\x0000!
 \xf000Ă\x0001\x0000, bene! Rientra!
 \xf000Ă\x0001\x0002 è stato ritirato dalla lotta da\xfffe\xf000Ā\x0001\x0001 (\xf000Ď\x0001\x0000)!
 \xf000Ă\x0001\x0001 è stato ritirato dalla lotta da\xfffe\xf000Ā\x0001\x0000!
-Hit \xf000Ȁ\x0001\x0000 time(s)!
-\xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.
-\xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001\xfffeused one \xf000ĉ\x0001\x0002!
-\xf000Ā\x0001\x0000 launched the \xf000ĉ\x0001\x0002\xfffetoward \xf000Ă\x0001\x0001!
-You cannot use your\xfffeWonder Launcher now!
-\xf000Ā\x0001\x0000's Pokémon\xffferotated to the left!
-\xf000Ā\x0001\x0000's Pokémon\xffferotated to the left!
-\xf000Ā\x0001\x0000's Pokémon\xffferotated to the right!
-\xf000Ā\x0001\x0000's Pokémon\xffferotated to the right!
+Colpi inflitti: \xf000Ȁ\x0001\x0000!
+\xf000Ā\x0001\x0000 usa \xf000ĉ\x0001\x0001!
+\xf000Ā\x0001\x0000 usa \xf000ĉ\x0001\x0001!
+\xf000Ā\x0001\x0001 (\xf000Ď\x0001\x0000) ha usato lo\xfffestrumento \xf000ĉ\x0001\x0002!
+\xf000Ā\x0001\x0000 lancia \xf000ĉ\x0001\x0002 verso\xfffe\xf000Ă\x0001\x0001!
+Non puoi usare il Mirabilancere adesso!
+I Pokémon di \xf000Ā\x0001\x0000 ruotano verso\xfffesinistra!
+I Pokémon di \xf000Ā\x0001\x0000 ruotano verso\xfffesinistra!
+I Pokémon di \xf000Ā\x0001\x0000 ruotano verso\xfffedestra!
+I Pokémon di \xf000Ā\x0001\x0000 ruotano verso\xfffedestra!
 Punti Esperienza ricevuti da \xf000Č\x0001\x0000:\xfffe\xf000Ȇ\x0001\x0001!
 Bonus Punti Esperienza ricevuto da\xfffe\xf000Č\x0001\x0000: \xf000Ȇ\x0001\x0001!
 Hai avuto la meglio su \xf000Ā\x0001\x0001\xfffe(\xf000Ď\x0001\x0000)!
@@ -69,13 +69,13 @@ La Poké Ball è stata respinta! Non puoi\xfffeprendere i Pokémon altrui: è co
 Ma è inefficace!
 Cosa deve fare \xf000Č\x0001\x0000?
 Tocca a \xf000Ā\x0001\x0000. Cosa deve fare?
-\xf000븉\x0001<But it failed!
+\xf000븉\x0001<Ma fallisce!
 Scampato pericolo!
 Non sei riuscito a scappare!
 Non si scappa!
-The wild \xf000Ă\x0001\x0000 fled!
-No! There's no running\xfffefrom a Trainer battle!
-Would you like to forfeit the match\xfffeand quit now?
+\xf000Ă\x0001\x0000 selvatico è fuggito!
+Non puoi sottrarti alla lotta con un\xfffeAllenatore!
+Vuoi rinunciare all'incontro e uscire ora?
 È superefficace!
 Non è molto efficace...
 È così confuso da colpirsi da solo!
