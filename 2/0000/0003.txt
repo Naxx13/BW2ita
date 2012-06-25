@@ -20,11 +20,11 @@ Limite di tempo:
 RECORD PRECEDENTI
 Colosseo Singolo,\xfffeSenza Restrizioni
 Colosseo Singolo,\xfffeFlat
-Colosseo Singolo,\xfffeNo Restrictions, Launcher On
+Colosseo Singolo,\xfffeSenza Restrizioni, Launcher On
 Colosseo Singolo,\xfffeFlat, Launcher On
 Colosseo Doppio,\xfffeSenza Restrizioni
 Colosseo Doppio,\xfffeFlat
-Colosseo Doppio,\xfffeNo Restrictions, Launcher On
+Colosseo Doppio,\xfffeSenza Restrizioni, Launcher On
 Colosseo Doppio,\xfffeFlat, Launcher On
 Colosseo Triplo,\xfffeSenza Restrizioni
 Colosseo Triplo,\xfffeFlat
