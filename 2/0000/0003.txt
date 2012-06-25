@@ -17,45 +17,45 @@ L'ultima lotta non può essere registrata.
 Limite di tempo:
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
-PREVIOUS RECORD
-Colosseum Singolo,\xfffeNo Restrictions
-Colosseum Singolo,\xfffeFlat
-Colosseum Singolo,\xfffeNo Restrictions, Launcher On
-Colosseum Singolo,\xfffeFlat, Launcher On
-Colosseum Doppio,\xfffeNo Restrictions
-Colosseum Doppio,\xfffeFlat
-Colosseum Doppio,\xfffeNo Restrictions, Launcher On
-Colosseum Doppio,\xfffeFlat, Launcher On
-Colosseum Triplo,\xfffeNo Restrictions
-Colosseum Triplo,\xfffeFlat
-Colosseum Triplo,\xfffeNo Restrictions, Launcher On
-Colosseum Triplo,\xfffeFlat, Launcher On
-Colosseum Rotation,\xfffeNo Restrictions
-Colosseum Rotation,\xfffeFlat
-Colosseum Rotation,\xfffeNo Restrictions, Launcher On
-Colosseum Rotation,\xfffeFlat, Launcher On
-Colosseum Multi,\xfffeNo Restrictions
-Colosseum Multi,\xfffeFlat
-Colosseum Multi,\xfffeNo Restrictions, Launcher On
-Colosseum Multi,\xfffeFlat, Launcher On
-Battle Subway,\xfffeSingle
-Battle Subway,\xfffeDouble
-Battle Subway,\xfffeMulti
-Random Matchup, Free\xfffeSingle
-Random Matchup, Free\xfffeDouble
-Random Matchup, Free\xfffeTriple
-Random Matchup, Free\xfffeRotation
-Random Matchup, Free\xfffeLauncher Battle
-Random Matchup, Rating\xfffeSingle
-Random Matchup, Rating\xfffeDouble
-Random Matchup, Rating\xfffeTriple
-Random Matchup, Rating\xfffeRotation
-Random Matchup, Rating\xfffeLauncher Battle
-たいかい　シングル\xfffeシューターなし
-たいかい　シングル\xfffeシューターあり
-たいかい　ダブル\xfffeシューターなし
-たいかい　ダブル\xfffeシューターあり
-たいかい　トリプル\xfffeシューターなし
-たいかい　トリプル\xfffeシューターあり
-たいかい　ローテーション\xfffeシューターなし
-たいかい　ローテーション\xfffeシューターあり
+RECORD PRECEDENTI
+Colosseo Singolo,\xfffeSenza Restrizioni
+Colosseo Singolo,\xfffeFlat
+Colosseo Singolo,\xfffeNo Restrictions, Launcher On
+Colosseo Singolo,\xfffeFlat, Launcher On
+Colosseo Doppio,\xfffeSenza Restrizioni
+Colosseo Doppio,\xfffeFlat
+Colosseo Doppio,\xfffeNo Restrictions, Launcher On
+Colosseo Doppio,\xfffeFlat, Launcher On
+Colosseo Triplo,\xfffeSenza Restrizioni
+Colosseo Triplo,\xfffeFlat
+Colosseo Triplo,\xfffeSenza Restrizioni, Launcher On
+Colosseo Triplo,\xfffeSenza Restrizioni, Launcher On
+Colosseo Rotazione,\xfffeSenza  Restrizioni
+Colosseo Rotazione,\xfffeFlat
+Colosseo Rotazione,\xfffeSenza Restrizioni, Launcher On
+Colosseo Rotazione,\xfffeFlat, Launcher On
+Colosseo Multi,\xfffeSenza Restrizioni
+Colosseo Multi,\xfffeFlat
+Colosseo Multi,\xfffeSenza Restrizioni, Launcher On
+Colosseo Multi,\xfffeFlat, Launcher On
+Battaglia Metro,\xfffeSingolo
+Battaglia Metro,\xfffeDoppio
+Battaglia Metro,\xfffeMulti
+Match Casuale, Free\xfffeSingolo
+Match Casuale, Free\xfffeDoppio
+Match Casuale, Free\xfffeTriplo
+Match Casuale, Free\xfffeRotazione
+Match Casuale, Free\xfffeLauncher Battle
+Match Casuale, Valutazione\xfffeSingolo
+Match Casuale, Valutazione\xfffeDoppio
+Match Casuale, Valutazione\xfffeTriplo
+Match Casuale, Valutazione\xfffeRotazione
+Match Casuale, Valutazione\xfffeInizia battaglia 
+Torneo Singolo\xfffeシューターなし
+Torneo Singolo\xfffeシューターあり
+Torneo Singolo\xfffeシューターなし
+Torneo Singolo\xfffeシューターあり
+Torneo Singolo\xfffeシューターなし
+Torneo Singolo\xfffeシューターあり
+Torneo a Rotazione\xfffeシューターなし
+Torneo a Rotazione\xfffeシューターあり
