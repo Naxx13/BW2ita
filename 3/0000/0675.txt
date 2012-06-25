@@ -1,20 +1,20 @@
-Welcome to the Global Terminal!\xf000븁\x0000
-Would you like to use\xfffeNintendo Wi-Fi Connection?
-Please do visit again.
-Connect to Nintendo Wi-Fi Connection?
-Take a look here！\xf000븁\x0000
-In the Global Terminal, you can battle or\xfffetrade Pokémon with Pokémon fans from\xf000븁\x0000\xfffearound the world by connecting to\xfffeNintendo Wi-Fi Connection.\xf000븁\x0000\xfffeFor details, please listen to the\xfffeexplanation at each facility.
-This area is under construction.\xfffePlease come back later.
-You do not have\xfffePokemon
-A communication error has occured.
+Benvenuti al Centro Globale!\xf000븁\x0000
+Vuoi usare la\xfffeNintendo Wi-Fi Connection?
+Grazie, torna a trovarci.
+Connetti alla Nintendo Wi-Fi Connection?
+Guarda qui！\xf000븁\x0000
+Nel Centro Globale, puoi lottare o\xfffescambiare Pokémon con Pokémon fans da\xf000븁\x0000\xfffetutto il mondo connettendoti alla\xfffeNintendo Wi-Fi Connection.\xf000븁\x0000\xfffePer ulteriori dettagli, ascolta la\xfffespiegazione ad ogni impianto.
+Quest'area è in costruzione.\xfffeTorna più tardi.
+Non hai\xfffePokémon
+Si è verificato un errore di comunicazione.
 Random Matchup
 Global Trade
 ミュージカルショット
-Battle Videos
+Video Battaglie
 Info
-Cancel
-Would you like to make a Global Trade?
-You may trade Pokémon with other Pokémon fans from around the world with\xfffeGlobal Trade.\xf000븁\x0000\xfffeGlobal Trade has two forms: GTS and\xfffeGTS Negotiations.\xf000븁\x0000\xfffePlease be careful, because each has a\xfffedifferent way of trading.
+Cancella
+Vuoi fare un Global Trade?
+Dovresti scambiare Pokémon con altri Pokémon fan di tutto il mondo tramite\xfffeGlobal Trade.\xf000븁\x0000\xfffeGlobal Trade ha due funzioni: GTS e\xfffeGTS Negotiations.\xf000븁\x0000\xfffePlease be careful, because each has a\xfffedifferent way of trading.
 GTS
 GTS Negotiations
 Info
