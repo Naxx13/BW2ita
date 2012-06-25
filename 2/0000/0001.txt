@@ -1,12 +1,12 @@
-ＨＰ／ＰＰ
+PS／PP
 Restore
-Status
-Healing Items
-ＨＰ／ＰＰ
+Stato
+Rimedi
+PS／PP
 Restore
-Battle Items
-Poké Balls 
-Item used last
+Strumenti lotta
+Pokéball
+Ultimo oggetto usato
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
@@ -19,35 +19,34 @@ Item used last
 ×\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-Next
-HP/PP
+Avanti
+PS/PP
 Restore
-Status
+Stato
 Healers
-Poké Balls
-Battle Items
+Pokéball
+Strumenti lotta
 ／
 \xf000Ȁ\x0001\x0000
 \xf000Ȁ\x0001\x0000
-Use
+Usa
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-It will not do any good using that!
-It was wrapped in white fog！\xfffe
+Non avrà alcun effetto!
+E' avvolto dalla nebbia！\xfffe
 \xf000Ă\x0001\x0000 \xfffeis getting Pumped!
-\xf000Ă\x0001\x0000's \xfffeAttack Rose!
-\xf000Ă\x0001\x0000's \xfffeSpecial Attack Rose!
-\xf000Ă\x0001\x0000's \xfffeSpeed Rose!
-\xf000Ă\x0001\x0000's \xfffeSpecial Defense Rose!
-\xf000Ă\x0001\x0000's \xfffeDefense Rose!
-\xf000Ă\x0001\x0000's \xfffeAccuracy Rose!
-\xf000ĉ\x0001\x0000 \xfffewas used!
-Second Pokémon\xfffemakes it impossible to aim!
-There is not room left in your PC!
-\xf000ć\x0001\x0001‘s　effect prevents the use of another item! \xfffe\xf000Ă\x0001\x0000
-It’s no good, it’s impossible\xfffeto aim at a Pokémon not in sight!
-It’s no good, it's impossible\xfffeto aim at a Pokémon not in sight!
-Not enough energy!
-Professor Juniper’s words echoed...\xfffeThere is a time and place for everything! But not now.\xf000븀\x0000\xfffe
-You cannot throw the ball\xfffewithout concentrating!
-The Ball cannot be used \xfffebecause of the Ghetsis device used!
+L'Attacco di \xf000Ă\x0001\x0000\xfffesale!
+L'Attacco Speciale di \xf000Ă\x0001\x0000\xfffesale!
+La Velocità di \xf000Ă\x0001\x0000\xfffesale!
+La Difesa Speciale di \xf000Ă\x0001\x0000\xfffesale!
+La DIfesa di \xf000Ă\x0001\x0000\xfffesalesale!
+E' stato usato\xfffe\xf000ĉ\x0001\x0000!
+Il secondo Pokémon\xfffelo rende impossibile da mirare!
+Non è rimasto nessun box libero nel PC!
+L'effetto di \xf000ć\x0001\x0001\xffferende impossibile usare un altro oggetto! \xf000Ă\x0001\x0000
+Non va bene, è impossibile mirare\xfffead un Pokémon che non si vede!
+Non va bene, è impossibile mirare\xfffead un Pokémon che non si vede!
+Energia insufficiente!
+Le parole della prof.ssa Aralia eccheggiano...\xfffeC'è un tempo e un luogo per tutto, ma non ora.\xf000븀\x0000\xfffe
+Non puoi lanciare la Ball\xfffesenza concentrarti!
+La Ball non può essere usata\xfffeper il dispositivo usato da Ghetsis!
