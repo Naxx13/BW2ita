@@ -4,11 +4,11 @@
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
-Choose a Pokémon.
-Use on which Pokémon?
-Replace which one?
-Battle using which Pokémon?
-Switch out which Pokémon?
+Scegli un Pokémon.
+Usa su quale Pokémon?
+Sostituisci con quale Pokémon?
+Lotta con quale Pokémon?
+Cambiare con quale Pokémon?
 L\xf000Ȃ\x0001\x0000
 /
 \xf000Ȃ\x0001\x0000
@@ -22,33 +22,33 @@ PP
 SHIFT
 ♂
 ♀
-SUMMARY
-CHECK MOVES
-CANNOT BATTLE
-IN BATTLE
+SOMMARIO
+CONTROLLA MOSSE
+NON PUO' LOTTARE
+IN CAMPO
 STAND BY
-PARTNER'S
-No item held
+AVVERSARIO
+Nessun strumento tenuto
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
-Lv.
+L.
 \xf000Ȃ\x0001\x0000
-NEXT LV
+PROSS. L.
 \xf000ȅ\x0001\x0000
 \xf000Ć\x0001\x0000
-HP
+PS
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
 ／
-ATTACK
+ATTACCO
 \xf000Ȃ\x0001\x0000
-DEFENSE
+DIFESA
 \xf000Ȃ\x0001\x0000
-SP. ATK
+ATTACCO SP.
 \xf000Ȃ\x0001\x0000
-SP. DEF
+DIFESA SP.
 \xf000Ȃ\x0001\x0000
-SPEED
+VELOCITA'
 \xf000Ȃ\x0001\x0000
 \xf000ć\x0001\x0000
 PP
@@ -56,19 +56,19 @@ PP
 \xf000ȁ\x0001\x0000
 ／
 ――
-POWER
+POTENZA
 \xf000Ȃ\x0001\x0000
 ―
-ACCURACY
+PRECISIONE
 \xf000Ȃ\x0001\x0000
-CATEGORY
-PHYSICAL
-STATUS
-SPECIAL
+CATEGORIA
+FISICO
+STATO
+SPECIALE
 APPEAL POINT(s)
-FORGET
-CANCEL
-HM moves can't be\xfffeforgotten now.
+SCORDA
+ANNULLA
+Le MN ora non si possono\xfffepiù dimenticare.
 \xf000ć\x0001\x0000
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
@@ -84,25 +84,25 @@ HM moves can't be\xfffeforgotten now.
 \xf000ć\x0001\x0000
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
-\xf000Ă\x0001\x0000 \xfffeis already in battle!
-\xf000Ă\x0001\x0000 has no energy left to battle!
-\xf000Ă\x0001\x0000 \xfffecan't be switched out!
-An Egg can't battle!
-You can't switch your partner's Pokémon with one of yours!
-It won't have any effect.
-\xf000Ă\x0001\x0000's　HP was restored by\xfffe\xf000Ȃ\x0001\x0001 points!
-\xf000Ă\x0001\x0000 was cured of its\xfffepoisoning.
-\xf000Ă\x0001\x0000 was cured of its\xfffeparalysis.
-\xf000Ă\x0001\x0000's\xfffeburn was healed.
-\xf000Ă\x0001\x0000\xfffewas thawed out.
-PP was restored.　
-\xf000Ă\x0001\x0000 \xffferecovered from fainting!
-\xf000Ă\x0001\x0000 \xfffebecame healthy.
-\xf000Ă\x0001\x0000 \xfffesnapped out of its confusion.
-\xf000Ă\x0001\x0000 \xfffegot over its infatuation.
-\xf000Ă\x0001\x0000 \xfffewoke up.
-\xf000Ă\x0001\x0000 has already\xfffebeen selected.
-Restore which move?
-\xf000ć\x0001\x0001's　effect prevents the item's use on\xfffe\xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0000 can't be switched\xfffeout!
-\xf000Ă\x0001\x0000 is already switched\xfffeout.
+\xf000Ă\x0001\x0000 \xfffeè già in campo!
+\xf000Ă\x0001\x0000 è esausto!
+\xf000Ă\x0001\x0000 \xfffenon può essere cambiato!
+Un uovo non può lottare!
+Non puoi scambiare i Pokémon del tuo avversario con i tuoi!
+Non avrebbe alcun effetto.
+I PS di \xf000Ă\x0001\x0000 sono stati ripristinati\xfffedi \xf000Ȃ\x0001\x0001 punti!
+\xf000Ă\x0001\x0000 è stato\xfffedisintossicato.
+\xf000Ă\x0001\x0000 è stato curato dalla\xfffeparalisi.
+La scottatura di \xf000Ă\x0001\x0000\xfffeè stata curata.
+\xf000Ă\x0001\x0000\xfffeè stato scongelato.
+PP ripristinati.　
+\xf000Ă\x0001\x0000 \xfffesi è ripreso!
+\xf000Ă\x0001\x0000 \xfffeora sta bene.
+\xf000Ă\x0001\x0000 \xfffenon è più confuso.
+\xf000Ă\x0001\x0000 \xfffenon è più infatuato.
+\xf000Ă\x0001\x0000 \xfffesi è svegliato.
+\xf000Ă\x0001\x0000 hè già stato\xfffeselezionato.
+Ripristina quale mossa?
+L'effeto di \xf000ć\x0001\x0001 impedisce\xfffel'uso dell'oggetto su \xf000Ă\x0001\x0000!
+\xf000Ă\x0001\x0000 non può essere\xfffesostituito!
+\xf000Ă\x0001\x0000 è già stato\xfffesostituito.
