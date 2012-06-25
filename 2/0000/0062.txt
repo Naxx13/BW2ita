@@ -1,47 +1,47 @@
-BATTLE
-TRADE
-QUIT
-BATTLES FOR TWO
-BATTLES FOR FOUR
-SINGLE BATTLE
-DOUBLE BATTLE
-TRIPLE BATTLE
-Make an Infrared Connection\xfffewith your opponent(s).
-Make an Infrared Connection\xfffewith your partner.
+BATTAGLIA
+SCAMBIA
+ESCI
+BATTAGLIA A DUE
+BATTAGLIA A QUATTRO
+BATTAGLIA SINGOLA
+BATTAGLIA DOPPIA
+BATTAGLIA TRIPLA
+Crea una connessione a infrarossi\xfffecon il tuo avversario.
+Crea una connessione a infrarossi\xfffecon il tuo partner.
 リーダーに　なりました！
-Make an Infrared Connection\xfffewith your opponents' leader.
-Please wait a moment.
-FRIEND CODE
-FEELING\xfffeCHECK
-Will you quit?
-Make an Infrared Connection\xfffewith your trade partner.
+Crea una connessione a infrarossi\xfffecon il leader dei tuoi avversari.
+Attendi un momento perfavore.
+CODICE AMICO
+CONTROLLA\xfffeAMICIZIA
+Vuoi uscire?
+Crea una connessione a infrarossi\xfffecon il tuo compagno di scambio.
 ポケモンこうかん
 てもち
 こうかんしますか？
 Ｌｖ．\xf000Ȃ\x0001\x0000
 しゅうりょうしますか？
 こうかんしました
-Please wait a moment.
-You and your friend(s) did not select the\xfffesame thing. Returning to previous menu.
-Would you like to save the game?
-YES
+Attendi un momento perfavore.
+Tu e i tuoi compagni non avete selezionato la\xfffestessa cosa. Ritorno al menu precedente.
+Vuoi salvare il gioco?
+SI
 NO
-Saving...\xfffeDon't turn off the power.
-The trade will be started...\xfffePlease wait a moment.
-The battle will be started...\xfffePlease wait a moment.
-ROTATION BATTLE
-Please make an Infrared Connection\xfffewith a friend to exchange Friend Codes.
-Your Friend Roster is full.\xfffeYou cannot register a new friend.
+Salvataggio...\xfffenon spegnere la console.
+Lo scambio sta per cominciare...\xfffeAttendi un momento perfavore.
+La battaglia sta per cominciare...\xfffeAttendi un momento perfavore.
+BATTAGLIA A ROTAZIONE
+Crea una connessione a infrarossi\xfffecon un amico per scambiarvi il codice amico.
+Il tuo blocco amici è pieno.\xfffenon puoi registrare altri amici.
 \xf000봂\x0000Registered Friends\xfffe\xf000봂\x0000\xf000ȁ\x0001\x0000/32
-CONFIRM
-Is the number of members OK?
-Please make an Infrared Connection\xfffewith all of the participants.
-Make an Infrared Connection with the\xfffeleader who decided the show.
-Communicating with \xf000Ȁ\x0001\x0000 people.\xfffeCONFIRM: Proceed
-BATTLE USING THE BATTLE BOX
-BATTLE USING YOUR PARTY
-Your friend has been registered\xfffein the Friend Roster!
-The Friend Roster has been updated!
-You need at least two Pokémon\xfffein your party if you want to trade!
-There is already a saved game file.\xfffeIt is impossible to save.\xf000븁\x0000\xfffePlease refer to the Instruction\xfffeBooklet for details.\xf000븁\x0000\xfffePress Up + SELECT + B Button on\xfffethe title screen if you want to erase\xf000븀\x0000\xfffethe current saved game file.
-Please make an Infrared Connection\xfffewith the friend you want to play with.
+CONFERMA
+E il numero dei membri?
+Crea una connessione a infrarossi\xfffecon tutti i partecipanti.
+Crea una connessione a infrarossi con il\xfffeleader che decide lo spettacolo.
+Comunica con le\xf000Ȁ\x0001\x0000 persone .\xfffeCONFERMA: Procedi
+COMBATTI USANDO IL BOX LOTTA
+COMBATTI USANDO LA TUA SQUADRA
+Il tuo amico è stato registrato\xfffenel blocco amici!
+Il tuo blocco amici è stato aggiornato!
+Devi avere almeno due pokèmon\xfffenella tua squadra per scambiare!
+C'è già un file di salvataggio.\xfffeE impossibile salvare.\xf000븁\x0000\xfffePerfavore consulta il\xfffemanuale per i dettagli.\xf000븁\x0000\xfffePremi su+select+B sullo\xfffeschermo del titolo se vuoi cancellare\xf000븀\x0000\xfffeil salvataggio attuale.
+Crea una connessione a infrarossi\xfffecon gli amici con cui vuoi giocare.
