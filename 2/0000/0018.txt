@@ -2,26 +2,26 @@
 \xf000Ă\x0001\x0000 selvatico è esausto!
 \xf000Ă\x0001\x0000 nemico è esausto!
 \xf000Ă\x0001\x0000\xfffesi è ripreso!
-The wild \xf000Ă\x0001\x0000 recovered\xfffefrom fainting!
-The foe's \xf000Ă\x0001\x0000 recovered\xfffefrom fainting!
-It's super effective on\xfffe\xf000Ă\x0001\x0000!
-It's super effective on\xfffethe wild \xf000Ă\x0001\x0000!
-It's super effective on\xfffethe foe's \xf000Ă\x0001\x0000!
-It's super effective on\xfffe\xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!
-It's super effective on the wild\xfffe\xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!
-It's super effective on\xfffethe foe's \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!
-It's super effective on \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001, and \xf000Ă\x0001\x0002!
-It's super effective on the wild\xfffe\xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001, and \xf000Ă\x0001\x0002!
-It's super effective on the foe's\xfffe\xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001, and \xf000Ă\x0001\x0002!
-It's not very effective on \xf000Ă\x0001\x0000.
-It's not very effective on\xfffethe wild \xf000Ă\x0001\x0000.
-It's not very effective on\xfffethe foe's \xf000Ă\x0001\x0000.
-It's not very effective on\xfffe\xf000Ă\x0001\x0000 or \xf000Ă\x0001\x0001.
-It's not very effective on the wild\xfffe\xf000Ă\x0001\x0000 or \xf000Ă\x0001\x0001.
-It's not very effective on the foe's\xfffe\xf000Ă\x0001\x0000 or \xf000Ă\x0001\x0001.
-It's not very effective on \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001, or \xf000Ă\x0001\x0002!
-It's not very effective on the wild\xfffe\xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001, or \xf000Ă\x0001\x0002!
-It's not very effective on the foe's\xfffe\xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001, or \xf000Ă\x0001\x0002!
+\xf000Ă\x0001\x0000 selvatico\xfffesi è ripreso!
+\xf000Ă\x0001\x0000 nemico\xfffesi è ripreso!
+E' superefficace su\xfffe\xf000Ă\x0001\x0000!
+E' superefficace su\xfffe\xf000Ă\x0001\x0000 selvatico!
+E' superefficace su\xfffe\xf000Ă\x0001\x0000 nemico!
+E' superefficace su\xfffe\xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001!
+E' superefficace su\xfffe\xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001 selvatici!
+E' superefficace su\xfffe\xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001 nemici!
+E' superefficace su \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001, e \xf000Ă\x0001\x0002!
+E' superefficace su \xfffe\xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001, e \xf000Ă\x0001\x0002 selvatici!
+E' superefficace su \xfffe\xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001, e \xf000Ă\x0001\x0002 nemici!
+Non è molto efficace su \xf000Ă\x0001\x0000...
+Non è molto efficace su \xfffe\xf000Ă\x0001\x0000 selvatico...
+Non è molto efficace su \xfffe\xf000Ă\x0001\x0000 nemico...
+Non è molto efficace su \xfffe\xf000Ă\x0001\x0000 o \xf000Ă\x0001\x0001.
+Non è molto efficace su \xfffe\xf000Ă\x0001\x0000 o \xf000Ă\x0001\x0001 selvatici...
+Non è molto efficace su \xfffe\xf000Ă\x0001\x0000 o \xf000Ă\x0001\x0001 nemici...
+Non è molto efficace su \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001, o\xf000Ă\x0001\x0002...
+Non è molto efficace su \xfffe\xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001, o \xf000Ă\x0001\x0002 selvatici...
+Non è molto efficace su \xfffe\xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001, o \xf000Ă\x0001\x0002 nemici...
 But it failed to affect\xfffe\xf000Ă\x0001\x0000!
 But it failed to affect\xfffethe wild \xf000Ă\x0001\x0000!
 But it failed to affect\xfffethe foe's \xf000Ă\x0001\x0000!
