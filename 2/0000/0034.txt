@@ -1,8 +1,8 @@
-The Hall of Fame!
+La Sala d'Onore!
 \xf000Ă\x0001\x0000
-Lv.
+L.
 \xf000Ȃ\x0001\x0000
-Pokémon League Champion! Congratulations!
+Campione della Lega Pokémon! Congratulazioni!
 \xf000Ā\x0001\x0000
 ID No.\xf000Ȅ\x0001\x0000
 \xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
