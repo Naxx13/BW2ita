@@ -1,35 +1,35 @@
 ●●
-A wild \xf000ā\x0001\x0000 appeared!
-Oh! A wild \xf000ā\x0001\x0000 and\xfffe\xf000ā\x0001\x0001 appeared!
-A wild \xf000ā\x0001\x0000 appeared!
-A wild \xf000ā\x0001\x0000 appeared!
-The \xf000ā\x0001\x0000 your Pokémon saw\xfffein the dream appeared!
-\xf000ā\x0001\x0000 appeared!
-You are challenged by\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!\xf000븁\x0000
-You are challenged by\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
-You are challenged by\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 and\xf000븀\x0000\xfffe\xf000Ď\x0001\x0002 \xf000Ā\x0001\x0003!\xf000븁\x0000
-You are challenged by\xfffe\xf000Ā\x0001\x0000 and \xf000Ā\x0001\x0001!\xf000븁\x0000
-Go! \xf000Ă\x0001\x0000!
-Go! \xf000Ă\x0001\x0000 and\xfffe\xf000Ă\x0001\x0001!
-Go! \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001, and \xf000Ă\x0001\x0002!
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 sent\xfffeout \xf000Ă\x0001\x0002!
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 sent out\xfffe\xf000Ă\x0001\x0002 and \xf000Ă\x0001\x0003!
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 sent out\xfffe\xf000Ă\x0001\x0002, \xf000Ă\x0001\x0003,\xf000븀\x0000\xfffeand \xf000Ă\x0001\x0004!
-\xf000Ā\x0001\x0000 sent out\xfffe\xf000Ă\x0001\x0001!
-\xf000Ā\x0001\x0000 sent out\xfffe\xf000Ă\x0001\x0001 and \xf000Ă\x0001\x0002!
-\xf000Ā\x0001\x0000 sent out\xfffe\xf000Ă\x0001\x0001, \xf000Ă\x0001\x0002,\xf000븀\x0000\xfffeand \xf000Ă\x0001\x0003!
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 is\xfffeabout to send in \xf000Ă\x0001\x0002.\xf000븀\x0000\xfffeWill you switch your Pokémon?
-You're in charge, \xf000Ă\x0001\x0000!
-Go for it, \xf000Ă\x0001\x0000!
-Just a little more!\xfffeHang in there, \xf000Ă\x0001\x0000!
-Your foe's weak!\xfffeGet 'em, \xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0000, switch out!\xfffeCome back!
-\xf000Ă\x0001\x0000, come back!
-\xf000Ă\x0001\x0000, enough!\xfffeGet back!
-\xf000Ă\x0001\x0000, OK!\xfffeCome back!
-\xf000Ă\x0001\x0000, good job!\xfffeGet back!
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001\xfffewithdrew \xf000Ă\x0001\x0002!
-\xf000Ā\x0001\x0000\xfffewithdrew \xf000Ă\x0001\x0001!
+Appare \xf000ā\x0001\x0000 selvatico!
+Appaiono \xf000ā\x0001\x0000 e \xf000ā\x0001\x0001 selvatici!
+Appare \xf000ā\x0001\x0000 selvatico!
+Appare \xf000ā\x0001\x0000 selvatico!
+Appare \xf000ā\x0001\x0000 visto in sogno!
+Appare \xf000ā\x0001\x0000!
+Parte la sfida di \xf000Ā\x0001\x0001\xfffe(\xf000Ď\x0001\x0000)!\xf000븁\x0000
+Parte la sfida di \xf000Ā\x0001\x0000!\xf000븁\x0000
+Parte la sfida di \xf000Ā\x0001\x0001 (\xf000Ď\x0001\x0000)\xfffee \xf000Ā\x0001\x0003 (\xf000Ď\x0001\x0002)!\xf000븁\x0000
+Parte la sfida di \xf000Ā\x0001\x0000 e \xf000Ā\x0001\x0001!\xf000븁\x0000
+Avanti, \xf000Ă\x0001\x0000!
+Avanti, \xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001!
+Avanti, \xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001\xfffee \xf000Ă\x0001\x0002!
+\xf000Ā\x0001\x0001 (\xf000Ď\x0001\x0000) manda in campo\xfffe\xf000Ă\x0001\x0002!
+\xf000Ă\x0001\x0002 e \xf000Ă\x0001\x0003 vengono mandati\xfffein campo da \xf000Ā\x0001\x0001 (\xf000Ď\x0001\x0000)!
+\xf000Ā\x0001\x0001 (\xf000Ď\x0001\x0000) manda in campo\xfffe\xf000Ă\x0001\x0002, \xf000Ă\x0001\x0003 e \xf000Ă\x0001\x0004!
+\xf000Ā\x0001\x0000 manda in campo \xf000Ă\x0001\x0001!
+\xf000Ā\x0001\x0000 manda in campo \xf000Ă\x0001\x0001 e\xfffe\xf000Ă\x0001\x0002!
+\xf000Ā\x0001\x0000 manda in campo \xf000Ă\x0001\x0001,\xfffe\xf000Ă\x0001\x0002 e \xf000Ă\x0001\x0003!
+La prossima scelta di \xf000Ā\x0001\x0001\xfffe(\xf000Ď\x0001\x0000) sarà \xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeVuoi cambiare Pokémon?
+Dai, \xf000Ă\x0001\x0000!
+Coraggio, \xf000Ă\x0001\x0000!
+Ancora un piccolo sforzo, \xf000Ă\x0001\x0000!\xfffeNon mollare!
+Il nemico è debole! Forza, \xf000Ă\x0001\x0000!
+\xf000Ă\x0001\x0000, è ora! Rientra!
+\xf000Ă\x0001\x0000, rientra!
+\xf000Ă\x0001\x0000, può bastare! Rientra!
+\xf000Ă\x0001\x0000, ok! Rientra!
+\xf000Ă\x0001\x0000, bene! Rientra!
+\xf000Ă\x0001\x0002 è stato ritirato dalla lotta da\xfffe\xf000Ā\x0001\x0001 (\xf000Ď\x0001\x0000)!
+\xf000Ă\x0001\x0001 è stato ritirato dalla lotta da\xfffe\xf000Ā\x0001\x0000!
 Hit \xf000Ȁ\x0001\x0000 time(s)!
 \xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.
 \xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.
@@ -40,46 +40,46 @@ You cannot use your\xfffeWonder Launcher now!
 \xf000Ā\x0001\x0000's Pokémon\xffferotated to the left!
 \xf000Ā\x0001\x0000's Pokémon\xffferotated to the right!
 \xf000Ā\x0001\x0000's Pokémon\xffferotated to the right!
-\xf000Č\x0001\x0000 gained\xfffe\xf000Ȇ\x0001\x0001 Exp. Points!
-\xf000Č\x0001\x0000 gained a boosted\xfffe\xf000Ȇ\x0001\x0001 Exp. Points!
-Player defeated\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
-Player beat\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001\xf000븀\x0000\xfffeand \xf000Ď\x0001\x0002 \xf000Ā\x0001\x0003!
-Player lost against\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
-Player battled to a draw against\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
-Player defeated\xfffe\xf000Ā\x0001\x0000!
-Player defeated \xf000Ā\x0001\x0000\xfffeand \xf000Ā\x0001\x0001!
-Player lost against\xfffe\xf000Ā\x0001\x0000!
-Player lost to \xf000Ā\x0001\x0000\xfffeand \xf000Ā\x0001\x0001!
-Player battled to a draw against\xfffe\xf000Ā\x0001\x0000!
-Player battled to a draw against\xfffe\xf000Ā\x0001\x0000 and \xf000Ā\x0001\x0001!
-\xf000Ā\x0001\x0000 is out of\xfffeusable Pokémon!\xf000븁\x0000
-\xf000Ā\x0001\x0000 dropped $\xf000Ȅ\x0001\x0001\xfffein panic...
-\xf000Ā\x0001\x0000 paid out $\xf000Ȅ\x0001\x0001\xfffeto the winner...
-\xf000Ā\x0001\x0000 blacked out!
-\xf000Ā\x0001\x0000 got $\xf000Ȅ\x0001\x0001\xfffefor winning!
-\xf000Ā\x0001\x0000 picked up\xfffe$\xf000Ȅ\x0001\x0001!
-\xf000Č\x0001\x0000 grew to\xfffeLv. \xf000Ȃ\x0001\x0001!
-Oh, no!\xfffeThe Pokémon broke free!
-Aww!\xfffeIt appeared to be caught!
-Aargh!\xfffeAlmost had it!
-Shoot!\xfffeIt was so close, too!
-Gotcha!\xfffe\xf000ā\x0001\x0000 was caught!
-\xf000ā\x0001\x0000's data was\xfffeadded to the Pokédex.
-The Trainer blocked the ball!\xf000븁\x0000\xfffeDon't be a thief!
-But it had no effect!
-What will \xf000Č\x0001\x0000 do?
-What will \xf000Ā\x0001\x0000 do?
+Punti Esperienza ricevuti da \xf000Č\x0001\x0000:\xfffe\xf000Ȇ\x0001\x0001!
+Bonus Punti Esperienza ricevuto da\xfffe\xf000Č\x0001\x0000: \xf000Ȇ\x0001\x0001!
+Hai avuto la meglio su \xf000Ā\x0001\x0001\xfffe(\xf000Ď\x0001\x0000)!
+Hai sconfitto \xf000Ā\x0001\x0001 (\xf000Ď\x0001\x0000) e\xfffe\xf000Ā\x0001\x0003 (\xf000Ď\x0001\x0002)!
+La sfida è stata vinta da \xf000Ā\x0001\x0001\xfffe(\xf000Ď\x0001\x0000)!
+La sfida contro \xf000Ā\x0001\x0001 (\xf000Ď\x0001\x0000)\xfffesi è conclusa in parità!
+Hai avuto la meglio su \xf000Ā\x0001\x0000!
+\xf000Ā\x0001\x0001 e \xf000Ā\x0001\x0000 hanno perso\xfffela sfida!
+\xf000Ā\x0001\x0000 ha vinto la sfida!
+\xf000Ā\x0001\x0001 e \xf000Ā\x0001\x0000 hanno vinto\xfffela sfida!
+La sfida contro \xf000Ā\x0001\x0000 si è conclusa in\xfffeparità!
+La sfida contro \xf000Ā\x0001\x0001 e \xf000Ā\x0001\x0000\xfffesi è conclusa in parità!
+\xf000Ā\x0001\x0000 non ha più Pokémon disponibili!\xf000븁\x0000
+Nella confusione \xf000Ā\x0001\x0000 fa cadere\xfffe$\xf000Ȅ\x0001\x0001!
+\xf000Ā\x0001\x0000 ha sborsato $\xf000Ȅ\x0001\x0001 al vincitore!
+\xf000Ā\x0001\x0000 non ci vede più!
+\xf000Ā\x0001\x0000 ha vinto $\xf000Ȅ\x0001\x0001!
+\xf000Ā\x0001\x0000 ha raccolto $\xf000Ȅ\x0001\x0001!
+\xf000Č\x0001\x0000 è salito al livello \xf000Ȃ\x0001\x0001!
+Oh, no! Il Pokémon si è liberato!
+Ah! Sembrava preso, eh? E invece no!
+Grrr! Per un pelo!
+Nooo! Era così vicino!
+Preso! \xf000ā\x0001\x0000 è stato catturato!
+I dati di \xf000ā\x0001\x0000 sono stati inseriti nel\xfffePokédex.
+La Poké Ball è stata respinta! Non puoi\xfffeprendere i Pokémon altrui: è come rubare!
+Ma è inefficace!
+Cosa deve fare \xf000Č\x0001\x0000?
+Tocca a \xf000Ā\x0001\x0000. Cosa deve fare?
 \xf000븉\x0001<But it failed!
-Got away safely!
-Couldn't get away!
-Can't escape!
+Scampato pericolo!
+Non sei riuscito a scappare!
+Non si scappa!
 The wild \xf000Ă\x0001\x0000 fled!
 No! There's no running\xfffefrom a Trainer battle!
 Would you like to forfeit the match\xfffeand quit now?
-It's super effective!
-It's not very effective...
-It hurt itself in its confusion!
-A critical hit!
+È superefficace!
+Non è molto efficace...
+È così confuso da colpirsi da solo!
+Brutto colpo!
 But there was no PP left\xfffefor the move!
 \xf000Ā\x0001\x0000 came to the rescue\xfffeto restore \xf000Ă\x0001\x0001's health!
 The sunlight turned harsh!
