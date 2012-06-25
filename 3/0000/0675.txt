@@ -1,11 +1,11 @@
 Welcome to the Global Terminal!\xf000븁\x0000
 Would you like to use\xfffeNintendo Wi-Fi Connection?
 Please do visit again.
-Connect to Nintendo Wi-Fi Connection?
+Vuoi connetterti alla WI-FI Connection?
 Take a look here！\xf000븁\x0000
 In the Global Terminal, you can battle or\xfffetrade Pokémon with Pokémon fans from\xf000븁\x0000\xfffearound the world by connecting to\xfffeNintendo Wi-Fi Connection.\xf000븁\x0000\xfffeFor details, please listen to the\xfffeexplanation at each facility.
-This area is under construction.\xfffePlease come back later.
-You do not have\xfffePokemon
+Area in costruzione.\xfffeTorna più tardi.
+Non hai \xfffePokemon
 A communication error has occured.
 Random Matchup
 Global Trade
@@ -22,12 +22,12 @@ Back
 Would you like to make a GTS trade?
 Trade
 Info
-Back
+Indietro
 You may trade Pokémon in two ways when\xfffe using GTS.\xf000븁\x0000\xfffeYou may offer a Pokémon for trade\xfffeor search among offered Pokémon.
 Should I describe things in\xfffegreater detail?
 You will be asked to put up the\xfffePokémon you are offering to trade.\xf000븁\x0000\xfffeAt that time, you will be asked what\xfffePokémon you would like in return.\xf000븁\x0000\xfffeIf the other player offers your desired\xfffePokémon in return for your offered\xf000븁\x0000\xfffePokémon, the trade will go through.\xf000븁\x0000
 You may search among the Pokémon\xfffethat are offered by other Trainers.\xf000븁\x0000\xfffeThey will identify what Pokémon\xfffetheir Trainers want back in return.\xf000븁\x0000\xfffeIf you find one that you want, you\xfffemust provide us with the kind of\xf000븁\x0000\xfffePokémon wanted in return.\xf000븁\x0000
-Offer Pokémon?
+Offri dei Pokémon?
 Seek Pokémon?
 Understood
 Would you like to start\xfffePokémon GTS Negotiations?
