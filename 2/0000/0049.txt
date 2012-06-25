@@ -1,9 +1,7 @@
-This & That
-Exercising
-Reading
-Music
-Movies
-Traveling
-Cooking
-Fishing
-Video Games
+Questo & Quello
+EsercitazioneLettura
+Musica
+FilmViaggio
+Cucina
+Pesca
+Video Giochi
