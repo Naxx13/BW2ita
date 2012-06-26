@@ -7,8 +7,8 @@ Vuoi rinunciare a far imparare\xfffeuna mossa a \xf000Ă\x0001\x0000？
 Al suo posto, \xf000Ă\x0001\x0000 impara\xfffe\xf000ć\x0001\x0001!\xf000븁\x0000
 Blocca l'apprendimento di\xfffe\xf000ć\x0001\x0001?
 \xf000Ă\x0001\x0000 non ha imparato\xfffe\xf000ć\x0001\x0001.\xf000븁\x0000
-\xf000Ā\x0001\x0002は　おれいに\xfffeハートのウロコを　１まい　あげた！
-\xf000ć\x0001\x0000を\xfffeわすれさせて　よろしいですね？
+\xf000Ā\x0001\x0002 ha dato in segno\xfffedi gratitudine una Squama Cuore!
+Va bene far dimenticare\xfffe\xf000ć\x0001\x0000？
 Che mossadeve ricordare\xfffe\xf000Ă\x0001\x0000?
 Va bene \xf000ć\x0001\x0001?
 Rinuncia a far ricordare a\xfffe\xf000Ă\x0001\x0000 una mossa?
@@ -34,7 +34,7 @@ INDIETRO
 －－－
 ESCI
 INSEGNA
-どのわざを　おぼえさせる？
+Cosa vuoi insegnare?
 \xf000Ă\x0001\x0000
 L．\xf000Ȃ\x0001\x0000
 MOSSE IMPARATE
