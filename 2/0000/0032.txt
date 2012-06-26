@@ -3,7 +3,7 @@ VELOCITA' TESTO
 SCENA BATTAGLIA 
 STILE BATTAGLIA
 SUONO
-INGLESE
+ITALIANO
 Wi-Fi
 SALVA PRIMA INFRAROSSI
 CONFERMA
@@ -35,40 +35,40 @@ Vuoi apportare queste modifiche?
 Si
 No
 Falso Messaggio.
-OPTIONS
-TEXT SPEED
-BATTLE SCENE
-BATTLE STYLE
-SOUND
+OPZIONI
+VELOCITA TESTO
+SCENA BATTAGLIA
+STILE BATTAGLIA
+SUONO
 ENGLISH
 Wi-Fi
 SAVE BEFORE IR
-CONFIRM
-QUIT
-SLOW
-MID
-FAST
-ON
-OFF
-SHIFT
-SET
+CONFERMA
+ESCI
+LENTO
+MEDIO
+VELOCE
+ACCESO
+SPENTO
+CAMBIA
+IMPOSTA
 STEREO
 MONO
-YES
+SI
 NO
-ON
-OFF
-SAVE
-NO SAVE
-You can choose from three different\xfffetext-scrolling speeds.
-You can choose to switch Pokémon\xfffewhen an opponent's Pokémon faints.
-You can choose whether to view\xfffemove animations.
-You can choose the way the game sounds.
-You can change the game's language.
-You can turn wireless communication\xfffeon or off.
-You can choose to save the game\xfffeebefore C-Gear launches infrared.
-You have saved data already.\xfffeYou cannot change this option.\xf000븁\x0000
-Would you like to make these changes?
-Yes
+ACCESO
+SPENTO
+SALVA
+NON SALVARE
+È possibile scegliere tra tre diverse\xfffevelocità di scorrimento testo.
+È possibile scegliere di cambiare Pokémon\xfffequando un Pokémon avversario perde i sensi.
+È possibile scegliere se visualizzare\xfffespostare animazioni.
+È possibile scegliere il modo in cui i suoni del gioco.
+È possibile cambiare la lingua del gioco.
+È possibile attivare la comunicazione wireless\xfffeacceso o spento.
+È possibile scegliere di salvare il gioco\xfffeeprima che il C-Gear avvia IR.
+Dati sono stati salvati già.\xfffeNon è possibile modificare questa opzione.\xf000븁\x0000
+Vuoi apportare queste modifiche?
+Si
 No
-Dummy Message.
+Falso Messaggio.
