@@ -67,11 +67,11 @@ Questo è il Centro Pokémon!\xfffeSembra sempre lo stesso in tutte le città!\x
 E' bello vederti di nuovo Belle!\xf000븁\x0000\xfffeSembra che \xf000Ā\x0001\x0000 abbia scelto \xfffe\xf000ā\x0001\x0002!\xf000븁\x0000\xfffe*Risatina*\xfffePenso che tu abbia scelto giusto!\xf000븁\x0000
 Oh! Stavo per dimenticare!\xf000븁\x0000\xfffePrendi queste Scarpe da Corsa!\xf000븁\x0000
 \xf000Ā\x0001\x0000 riceve le \xfffe\xf000\xff00\x0001\x0002Scarpe da Corsa\xf000\xff00\x0001\x0000!
-Aren't I the perfect mom?\xfffeI'll read the instructions.\xf000븁\x0000\xfffeRun faster than ever before\xfffeby pressing the B button.\xf000븀\x0000\xfffeNow you can run faster!\xf000븁\x0000\xfffeWith \xf000ā\x0001\x0002, \xfffeyou'll be running everywhere!\xf000븁\x0000
-Here, you'll need this!\xf000븁\x0000
-\xf000Ā\x0001\x0000 received the \xfffe\xf000\xff00\x0001\x0002Town map\xf000\xff00\x0001\x0000!
-Hey! You gave \xf000Ā\x0001\x0000 two Town maps!\xfffeWhy two?\xf000븁\x0000
-One for \xf000Ā\x0001\x0000,\xfffeand one for my brother.\xf000븁\x0000
+Non sono la mamma perfetta eh?\xfffeTi leggo le istruzioni.\xf000븁\x0000\xfffePer correre più veloce\xfffepremi il tasto B.\xf000븀\x0000\xfffeOra puoi correre più velocemente!\xf000븁\x0000\xfffeCon \xf000ā\x0001\x0002, \xfffePuoi correre dappertutto!\xf000븁\x0000
+Avrai bisogno di questa!\xf000븁\x0000
+\xf000Ā\x0001\x0000 Hai ricevuto la \xfffe\xf000\xff00\x0001\x0002Mappa città\xf000\xff00\x0001\x0000!
+Hey! hai ricevuto \xf000Ā\x0001\x0000 due mappe città!\xfffePerchè due?\xf000븁\x0000
+Una per \xf000Ā\x0001\x0000,\xfffee una per mio fratello.\xf000븁\x0000
 You'll have to cross the sea.\xfffeAccording to the map.\xf000븁\x0000\xfffeIt'll be nice to have a Town map! \xf000븁\x0000\xfffeWith the Town map, \xfffeyou can see the whole region!\xf000븁\x0000\xfffeIt's a good thing to know \xfffewhere you are!\xf000븁\x0000
 ...Ehehe\xf000븁\x0000\xfffeI'm glad I traveled here!\xf000븁\x0000\xfffeCome on! Let's go to Route 19!\xf000븁\x0000\xfffeI'll show you how to catch a Pokemon!\xf000븁\x0000
 Have a nice day!\xfffeThe more people, the more Pokemon!
