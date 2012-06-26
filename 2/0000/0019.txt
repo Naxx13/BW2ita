@@ -112,22 +112,22 @@ Magnitudo 10!
 A bell chimed!
 A soothing aroma wafted\xfffethrough the area!
 The battlers shared\xfffetheir pain!
-Fire's power was weakened!
-Electricity's power was weakened!
+La forza del fuoco è stata indebolita!
+La potenza dell'elettricità è stata indebolita!
 The twisted dimensions returned\xfffeto normal!
-Gravity intensified!
-Gravity returned to normal!
+La forza di gravità si intensifica!
+La gravità torna normale!
 All Pokémon hearing the song\xfffewill faint in three turns!
 Waggling a finger\xfffelet it use \xf000ć\x0001\x0000!
-Nature Power turned into\xfffe\xf000ć\x0001\x0000!
-Coins were scattered everywhere!
+Naturforza diventa\xfffe\xf000ć\x0001\x0000!
+Le monete sono sparse ovunque!
 It was too weak to make\xfffea substitute!
 Reflect raised your team's\xfffeDefense!
 Reflect raised the\xfffeopposing team's Defense!
 Your team's Reflect\xfffewore off!
 The opposing team's Reflect\xfffewore off!
-Light Screen raised your team's\xfffeSpecial Defense!
-Light Screen raised\xfffethe opposing team's Special Defense!
+Schermoluce aumenta la Difesa Speciale\xfffedella tua squadra!
+Schermoluce aumente\xfffethe la Difesa Speciale della squadra avversaria!
 Your team's Light Screen\xfffewore off!
 The opposing team's Light Screen\xfffewore off!
 Your team became cloaked in\xfffea mystical veil!
@@ -158,10 +158,10 @@ Pointed stones float in the air\xfffearound your team!
 Pointed stones float in the air\xfffearound your foe's team!
 The pointed stones disappeared\xfffefrom around your team!
 The pointed stones disappeared\xfffefrom around the foe's team!
-Wide Guard protected your team!
-Wide Guard protected the foe's team!
-Quick Guard protected your team!
-Quick Guard protected the foe's team!
+Bodyguard ha protetto la tua squadra!
+Bodyguard ha protetto la squadra avversaria!
+Anticipo ha protetto la tua squadra!
+Anticipo ha protetto la squadra avversaria!
 A rainbow appeared in the sky\xfffeon your team's side!
 A rainbow appeared in the sky\xfffeon the foe's team's side!
 The rainbow on your team's side\xfffedisappeared!
@@ -186,11 +186,11 @@ The battle is too long.\xfffePlayback canceled.
 Zen Mode triggered!
 Zen Mode ended!
 The two moves are joined!\xfffeIt's a combined move!
-\xf000Č\x0001\x0000 won't obey!
+\xf000Č\x0001\x0000 non ubbidisce!
 \xf000Č\x0001\x0000 is\xfffeloafing around!
 \xf000Č\x0001\x0000 turned away!
 \xf000Č\x0001\x0000 pretended\xfffenot to notice!
-\xf000Č\x0001\x0000 ignored orders!
+\xf000Č\x0001\x0000 ignora gli ordini!
 \xf000Č\x0001\x0000 began to nap!
 \xf000Č\x0001\x0000 ignored\xfffeorders while asleep!
 Automatic center!
