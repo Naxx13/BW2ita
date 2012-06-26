@@ -1,3 +1,6 @@
 Si prega di iniziare il gioco \xfffe in atto con 
 \Xfffe ...... il pulsante B per annullare Attendere prego
-\ Xf000 븁 \ x0000 Seleziona attrarre \ xfffe3 Quindi unire i Pokemon \ Xf000 븁 \ x0000 Seleziona attrarre \ xfffe4 Quindi unire i Pokemon \ Xf000 븁 \ x0000 Seleziona attrarre \ xfffe6 Quindi unire i Pokemon Sei sicuro di voler \ xfffe finisce il gioco? Attendere \ xfffe per terminare il gioco \ mi ha mostrato \ xfffe caso di formatore xf000Ā \ x0001 \ x0000!
+\ Xf000 븁 \ x0000 Seleziona attrarre \ xfffe3 Quindi unire i Pokemon 
+\ Xf000 븁 \ x0000 Seleziona attrarre \ xfffe4 Quindi unire i Pokemon 
+\ Xf000 븁 \ x0000 Seleziona attrarre \ xfffe6 Quindi unire i Pokemon Sei sicuro di voler \ xfffe finisce il gioco? 
+Attendere \ xfffe per terminare il gioco \ mi ha mostrato \ xfffe caso di formatore xf000Ā \ x0001 \ x0000!
