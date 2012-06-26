@@ -74,8 +74,8 @@ Ehi! hai ricevuto \xf000Ā\x0001\x0000 due mappe città!\xfffePerchè due?\xf000
 Una per \xf000Ā\x0001\x0000,\xfffee una per mio fratello.\xf000븁\x0000
 Dovrai attraversare il mare.\xfffeCome dice la mappa.\xf000븁\x0000\xfffeSarà bello avere una Mappa Città! \xf000븁\x0000\xfffeCon una Mappa Città, \xfffepuoi vedere l'intera regione!\xf000븁\x0000\xfffeE' una buona cosa sapere \xfffedove ti trovi!\xf000븁\x0000
 ...Ehehe\xf000븁\x0000\xfffeSono orgogliosa di essere venuta qui|\xf000븁\x0000\xfffeForza! Andiamo al Percorso 19!\xf000븁\x0000\xfffeTi mostrerò come catturare un Pokemon!\xf000븁\x0000
-Have a nice day!\xfffeThe more people, the more Pokemon!
-I'll learn \xfffehow to raise Pokemon!
+Buona giornata!\xfffePiù persone, più Pokémon!
+Imparerò come \xfffeallenare Pokemon!
 ベル『おうい！\xf000븁\x0000
 ベル『ねえねえ！\xf000븁\x0000
 どうだった？\xfffeジムリーダーとの　ポケモンしょうぶ\xf000븁\x0000\xfffeって！　それは\xfffeベーシックバッジ！\xf000븁\x0000\xfffeすごいすごーい！　ポケモンと\xfffeたびを　はじめたばかり　なのに！\xf000븁\x0000\xfffeあなたには　トレーナーの\xfffeさいのうが　あるよ　ぜったい！！\xf000븁\x0000\xfffeじゃあ　わたしからは　これ\xfffe「おんがえし」の　わざマシン　だよ！\xf000븁\x0000
@@ -125,7 +125,7 @@ Sei certo?\xf000븁\x0000\xfffeNon ci impiegherò molto.\xfffeTi contatterò!\xf
 Si!\xfffeBelle?\xf000븁\x0000\xfffeLa conosco!\xfffeHa un grande cappello verde, giusto?\xf000븁\x0000\xfffeSi. Si.\xfffeGiustissimo! Giustissimo!\xf000븁\x0000
 Questa è Alisopoli.\xfffeE' ancora in sviluppo.
 Casa di \xf000Ā\x0001\x0000
-Aspertia City Lookout Ahead\xfffeA one of a kind view!
-Trainers School\xfffeCurrently under construction
-Aspertia City Pokemon Gym\xfffeGym Leader Cheren\xf000븀\x0000\xfffeSeeking the truth
-Let's Go!!
+Terrazzo Panoramico\xfffeUno dei punti di vista!
+Scuola per Allenatori\xfffeAttualmente in costruzione
+Palestra di Alisopoli\xfffeCapopalestra Komor\xf000븀\x0000\xfffeColui che cerca la verità
+Andiamo!!
