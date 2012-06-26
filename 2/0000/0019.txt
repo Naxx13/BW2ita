@@ -80,35 +80,35 @@ Vuoi rinunciare all'incontro e uscire ora?
 Non è molto efficace...
 È così confuso da colpirsi da solo!
 Brutto colpo!
-But there was no PP left\xfffefor the move!
-\xf000Ā\x0001\x0000 came to the rescue\xfffeto restore \xf000Ă\x0001\x0001's health!
-The sunlight turned harsh!
-It started to rain!
-A sandstorm kicked up!
-It started to hail!
-Fog crept up as thick as soup!
-The sunlight faded.
-The rain stopped.
-The sandstorm subsided.
-The hail stopped.
-The fog lifted.
-The effects of weather disappeared.
-The sandstorm rages.
-The hail crashes down.
-It's a one-hit KO!
-The \xf000ĉ\x0001\x0000 weakened\xfffe\xf000ć\x0001\x0001's power!
-The \xf000ĉ\x0001\x0000 allows the\xfffeuse of only \xf000ć\x0001\x0001!
+Ma non ci sono più PP\xfffeper quella mossa!
+\xf000Ā\x0001\x0000 ritorno al salvataggio\xfffeper ristorarti \xf000Ă\x0001\x0001l'energia!
+Il sole splende nel cielo!
+Comincia a piovere!
+Comincia una tempesta di sabbia
+Comincia a grandinare!
+La nebbia offusca la visione!
+Il sole cala.
+La pioggia si ferma.
+La tempesta di sabbia è terminata.
+Ha smesso di grandinare.
+La nebbia si dirada.
+Gli effetti del clima sono scomparsi.
+La tempesta continua.
+La grandine continua a scendere.
+E stato un Ko in un attacco!
+La \xf000ĉ\x0001\x0000 è stata\xfffe\xf000ć\x0001\x0001indebolita!
+Il \xf000ĉ\x0001\x0000 consente\xfffel'uso di un solo \xf000ć\x0001\x0001!
 \xf000Č\x0001\x0000 can use only\xfffe\xf000ć\x0001\x0001!
-All stat changes were eliminated!
-But nothing happened!
+I cambiamenti alle statistiche sono stati annullati!
+Ma non succede nulla!
 \xf000Ă\x0001\x0000's\xfffe\xf000Ć\x0001\x0001
-Magnitude 4!
-Magnitude 5!
-Magnitude 6!
-Magnitude 7!
-Magnitude 8!
-Magnitude 9!
-Magnitude 10!
+Magnitudo 4!
+Magnitudo 5!
+Magnitudo 6!
+Magnitudo 7!
+Magnitudo 8!
+Magnitudo 9!
+Magnitudo 10!
 A bell chimed!
 A soothing aroma wafted\xfffethrough the area!
 The battlers shared\xfffetheir pain!
