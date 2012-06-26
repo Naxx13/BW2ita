@@ -1,7 +1,7 @@
-\xf000봂\x0000プレイヤー　\xf000Ā\x0001\x0000さま
-\xf000봂\x0000イッシュちほうの　ポケモン\xfffe\xf000봂\x0000すべてを　つかまえた\xfffe\xf000봂\x0000いだいなこうせきを　たたえ\xfffe\xf000봂\x0000ここに　しょうめい　します
-ぜんこく　ポケモンずかんを\xfffeみごと　かんせい　させた\xfffeいだいなこうせきを　たたえ\xfffeここに　しょうめい　します
-\xf000봂\x0000ゲームフリーク\xfffe\xf000봂\x0000スタッフいちどう
-プレイヤー　\xf000Ā\x0001\x0000さま
-\xf000봃\x0001\x0000ゲームフリーク\xfffe\xf000봃\x0001\x0000スタッフいちどう
-ぜんこく　ポケモンずかんを\xfffeみごと　かんせい　させた\xfffeいだいなこうせきを　たたえ\xfffeここに　しょうめい　します
+\xf000봂\x0000GIOCATORE: \xf000Ā\x0001\x0000
+\xf000봂\x0000Questo documento certifica che\xfffe\xf000봂\x0000tu hai compiuto la grande\xfffe\xf000봂\x0000impresa di aver catturato tutti\xfffe\xf000봂\x0000i Pokémon della regione di Unima.
+Questo documento certifica\xfffethat you have successfully\xfffecompleted your\xfffeNational Pokédex.
+\xf000봂\x0000GAME FREAK\xfffe\xf000봂\x0000All the staff
+PLAYER: \xf000Ā\x0001\x0000
+\xf000봃\x0001\x0000GAME FREAK\xfffe\xf000봃\x0001\x0000All the staff
+This document certifies\xfffethat you have successfully\xfffecompleted your\xfffeNational Pokédex.
