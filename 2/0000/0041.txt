@@ -1,6 +1,6 @@
-でんどういり　おめでとう！
-おしまい
-ゲームクリア　おめでとう！
-ポケモンレポートに　かきこんでいます\xfffeでんげんを　きらないで　ください
-\xf000Ā\x0001\x0000は\xfffeレポートに　しっかり　かきのこした！
-レポートが　かけませんでした
+Congratulazioni per essere\xfffeentrato nella Sala d'Onore!
+Fine
+Complimenti per aver\xfffefinito il gioco!
+Salvataggio in corso...\xfffeNon spegnere la console.
+\xf000Ā\x0001\x0000 ha salvato il gioco!
+Non si ha potuto salvare il gioco.
