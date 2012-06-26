@@ -52,7 +52,7 @@ Successive records
 Earlier train
 Please select whether to use your\xfffeparty Pokémon or your Battle Box.
 In party
-Battle Box
+Box Lotta
 Cancel
 Would you like to communicate with a\xfffefriend and take this challenge together?
 \xf000Ā\x0001\x0000's current rank is \xf000ȁ\x0001\x0001.\xf000븁\x0000
@@ -67,7 +67,7 @@ Hi! I'm Hilbert!\xf000븁\x0000\xfffeIt's your first time challenging the\xfffeM
 Hi! I'm Hilda!\xf000븁\x0000\xfffeYou're challenging the Multi Train for the\xfffefirst time, right?\xf000븁\x0000\xfffeYou can't take this challenge alone.\xfffeYou need a partner!\xf000븁\x0000
 Hi, \xf000Ā\x0001\x0000!\xfffeGood to see you again!\xf000븁\x0000
 Hi, \xf000Ā\x0001\x0000!\xfffeNice to see you again!\xf000븁\x0000
-Are you looking for a partner?\xf000븁\x0000\xfffeThen why don't you team up\xfffewith me? Yeah! It'll be great!\xf000븁\x0000\xfffeWhat sort of Pokémon should I use?
+Stai cercando un partner?\xf000븁\x0000\xfffeThen why don't you team up\xfffewith me? Yeah! It'll be great!\xf000븁\x0000\xfffeWhat sort of Pokémon should I use?
 Are you here by yourself today?\xf000븁\x0000\xfffeWhy don't you team up with me, then?\xfffeIt'll be fun!\xf000븁\x0000\xfffeWhat sort of Pokémon should I use?
 FOCUSED ON ATTACK
 FOCUSED ON DEFENSE
@@ -80,8 +80,8 @@ OK. I'll focus on Defense!\xfffeThen, let's begin!\xf000븁\x0000
 OK. I'll focus on a balance between\xfffeAttack and Defense! Let's begin!\xf000븁\x0000
 You don't want to team up with me?\xfffeOK then, bye!\xf000븁\x0000
 You don't want to team up with me?\xfffeOK then, bye!\xf000븁\x0000
-Become leader
-Join group
+Diventa Leader
+Unisciti al gruppo
 Launch DS Wireless Communications?
 つうしんの　せつだんに\xfffeしっぱい　しました
 Saving...\xfffeDon't turn off the power.
@@ -95,10 +95,10 @@ Welcome to the Battle Subway.\xf000븁\x0000\xfffeI am sorry, but this Super Dou
 Welcome to the Battle Subway.\xf000븁\x0000\xfffeI am sorry, but this Super Multi Train is\xfffeonly for those who beat the Multi Train.\xf000븁\x0000
 That was awesome!\xfffeLet's battle together again!\xf000븁\x0000
 That was really fun!\xfffeLet's battle together again!\xf000븁\x0000
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeI'm sorry, but this Super Single Train\xfffeisn't ready yet.\xf000븁\x0000
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeI'm sorry, but this Super Double Train\xfffeisn't ready yet.\xf000븁\x0000
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeI'm sorry, but this Super Multi Train\xfffeisn't ready yet.\xf000븁\x0000
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeI'm sorry, but this Wi-Fi Train\xfffeisn't ready yet.\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeMi dispiace, ma questo Super Single Train\xfffenon è pronto.\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeMi dispiace, ma questo Super Double Train\xfffenon è pronto.\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeMi dispiace, ma questo Super Multi Train\xfffenon è pronto.\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeMi dispiace, ma questo Treno Wi-Fi\xfffenon è pronto.\xf000븁\x0000
 Would you like to send these\xffferesults using Nintendo WFC?
 Communicating. Please stand by...
 What kinds of Pokémon\xfffeshould I enter?
@@ -107,7 +107,7 @@ What kinds of Pokémon\xfffeshould I enter?
 \xf000Ā\x0001\x0000 achieved a win streak of \xf000ȃ\x0001\x0001\xfffein the Multi Train challenge with a friend.\xf000븁\x0000
 \xf000Ā\x0001\x0000 achieved a win streak of\xfffe\xf000ȃ\x0001\x0001 in the Multi Train challenge with a\xf000븀\x0000\xfffeTrainer and a win streak of \xf000ȃ\x0001\x0002 in\xf000븀\x0000\xfffethe Multi Train challenge with a friend.\xf000븁\x0000
 NO DATA
-Would you like to board\xfffethe train to Anville Town?
-The train is leaving the station shortly.\xfffeAll aboard!\xf000븁\x0000
+Vuoi prendere il treno\xfffeper Roteolia?
+Il treno presto lascerà la stazione.\xfffeTutti a bordo!\xf000븁\x0000
 We hope to see you again!
 We hope to see you again!\xf000븁\x0000
