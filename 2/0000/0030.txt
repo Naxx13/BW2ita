@@ -1,8 +1,24 @@
-つごうが　わるいみたい……　\xf000Ȅ\x0001\x0009
-つうしんエラーが\xfffeはっせい　しました\xfffe\xfffeユニオンルームの　ばあいは\xfffeユニオンルームに　はいりなおします\xfffeそれいがいの　ばあいは\xfffeさいごに　レポートをかいた\xfffeばしょに　もどります\xfffeＡボタンを　おしてください
-つうしんちゅう　に　エラーが\xfffeはっせい　しました（\xf000Ȅ\x0001\x0000）\xfffeでんげんを　きって\xfffeいれなおして　ください\xfffe\xfffeなんども\xfffeこのメッセージが　でるときは\xfffeサポートセンターに\xfffeおといあわせ　ください
-つうしんエラーが\xfffeはっせい　しました\xfffe\xfffeタイトルがめんに　もどります\xfffeＡボタンを　おしてください
-ただいま　ＧＴＳが　こみあっています\xfffeしばらく　じかんを　おいて\xfffeもういちど　おためし　ください\xfffe\xfffeＷｉ－Ｆｉコネクション　から\xfffeせつだん　しました\xfffeＡボタンを　おしてください
-つうしんちゅう　に　エラーが\xfffeはっせい　しました\xfffeでんげんを　きって\xfffeいれなおして　ください\xfffe\xfffeなんども\xfffeこのメッセージが　でるときは\xfffeサポートセンターに\xfffeおといあわせ　ください
-つうしんエラーが\xfffeはっせい　しました\xfffe\xfffeＷｉ－Ｆｉコネクション　から\xfffeせつだん　しました\xfffeさいごに　レポートをかいた\xfffeばしょに　もどります\xfffeＡボタンを　おしてください
-つうしんエラーが\xfffeはっせい　しました\xfffe\xfffeＷｉ－Ｆｉコネクション　から\xfffeせつだん　しました\xfffeタイトルがめんに　もどります\xfffeＡボタンを　おしてください
+
+Sembra scomodo ...... \ xf000Ȅ \ x0001 \ x0009
+ Se il \ xfffe \ xfffe dell'Unione Camera un errore di comunicazione è verificato \ xfffe altrimenti \ xfffe rientrò \ xfffe Camera dell'Unione è tornato a posto \ xfffe ha scritto una relazione all'ultimo momento \ xfffe Si prega di premere il pulsante \ xfffeA
+ Quando questo messaggio \ xfffe Domo ciò Dell \ xfffe \ xfffe, si prega di ciclo \ xfffe spegnimento (\ xf000Ȅ \ x0001 \ x0000) \ xfffe errore si è verificato \ xfffe durante la comunicazione \ Support Center xfffe Vi preghiamo di contattarci \ xfffe di
+ Si prega di premere il tasto \ xfffeA tasto \ xfffe \ xfffe titolo un errore di comunicazione è verificato \ xfffe tornerà in superficie
+ Si prega di premere il pulsante \ xfffeA è stato scollegato \ xfffe da \ xfffe \ xfffeWi-Fi, riprova \ xfffe mettere il sottosegretario per un po \ xfffe GTS è stata affollata Tadaima
+ Quando questo messaggio \ xfffe Domo ciò Dell \ xfffe \ xfffe, si prega di ciclo \ potenza xfffe giù \ xfffe errore si è verificato \ xfffe nella comunicazione, si prega di contattare \ xfffe a \ Support Center xfffe
+ Si prega di premere il pulsante \ xfffeA per tornare al luogo \ xfffe ha scritto una relazione all'ultimo momento \ xfffe si è disconnesso \ xfffe da \ xfffe \ xfffeWi-Fi errore di collegamento di comunicazione si è verificato \ xfffe
+ Si prega di premere il tasto \ xfffeA tasto \ title xfffe si è disconnesso \ xfffe da \ xfffe \ xfffeWi-Fi errore di collegamento di comunicazione si è verificato \ xfffe tornerà in superficie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
