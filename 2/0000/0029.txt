@@ -1,46 +1,46 @@
-X BUTTON
+PULSANTE X
 SELECT
-B BUTTON
-Use the graffiti marker
-Freeze frame
-Quit graffiti mode
-Change pen size
-Select color with the dropper
-Use as an eraser
-Close the graffiti marker
-Stamps
-GRAFFITI MODE
+PULSANTE B
+Usa il marcatore di graffiti
+Fermo immagine
+Abbandona modalità graffiti
+cambia la grandezza della penna
+Seleziona il colore col contagocce
+Usa come gomma
+Chiudi il marcatore di graffiti
+Francobolli
+MODALITÁ GRAFFITI
 REC
 GRAFFITI
 ID\xf000Ȅ\x0001\x0000
 ―／―
 \xf000Ȁ\x0001\x0000／４
-Please select your friend(s).
-CALL FRIEND(S)
-JOIN
-Calling!
-Calling.
-Calling..
-Calling...
-Connecting!
-Connecting.
-Connecting..
-Connecting...
-Searching for your friends!
-Searching for your friends.
-Searching for your friends..
-Searching for your friends...
-Would you like to stop the Xtransceiver?
-If the leader drops out, the group will\xfffebe disbanded. Is that OK?
-YES
+Seleziona uno più tuoi amici.
+Chiama uno o più amici
+CHIAMA
+Chiamata in corso!
+Chiamata in corso.
+Chiamata in corso..
+Chiamata in corso...
+Connessione in corso!
+Connessione in corso.
+Connessione in corso..
+Connessione in corso...
+Ricerca del tuo amico in corso!
+Ricerca del tuo amico in corso.
+Ricerca del tuo amico in corso..
+Ricerca del tuo amico in corso...
+Vuoi fermare  RicetrasmittenteX?
+Se il Capo abbandona, il gruppo verrà\xfffesciolto. Va Bene?
+SI
 NO
-Since the leader dropped out,\xfffethe group will be disbanded.
-The other Trainer has left the group.\xfffeThe communication will be ended.
-There are no members.\xfffeThe communication will be ended.
-Call failed.
-Failed to connect.
-Parental Controls prohibits the transfer\xfffeof photos.\xfffeIf you wish to send them, please change\xfffethe System Settings to allow this.
-Waiting for the other player to finish...
+Dal momento che il Capo ha abbandonato,\xfffeil gruppo verrà sciolto.
+L'altro Allenatore ha lasciato il gruppo.\xfffela comunicazione verrà terminata.
+Non ci sono membri.\xfffeLa comunicazione verrà terminata.
+Chiamata fallita.
+Connessione fallita.
+Il Parental Controls ha proibito il trasferimento\xfffedelle foto.\xfffeSe vuoi inviarmele, cambia\xfffele Impostazioni di Sistema per consentire l'invio.
+Aspetta che anche l'altro Allenatore finisca...
 ただいま　『\xf000Ĝ\x0001\x0000』の\xfffeさんかしゃを　ぼしゅうちゅうです！\xfffeしめきりまで　あと\xf000ȁ\x0001\x0001びょうです！
 『\xf000Ĝ\x0001\x0000』の\xfffeかいしまで　しばらくおまちください
 『\xf000Ĝ\x0001\x0000』が\xfffeちゅうし　されました
