@@ -1,9 +1,9 @@
-This & That
-Student
-Office Worker
-Creator
-Self-Employed
-Public Official
-Homemaker
-Artist
-Job-Hopper
+Questo & Quello
+Studente
+Impiegato
+Creatore
+Lavoratore autonomo
+Pubblico ufficiale
+Casalinga
+Artista
+Cercalavoro
