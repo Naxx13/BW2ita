@@ -1,14 +1,14 @@
-\xf000Ă\x0001\x0000を　どうする？
-マーキング　してください
+Cosa fai con \xf000Ă\x0001\x0000?
+Per favore segnalo
 Liberare questo pokèmon?
 \xf000Ă\x0001\x0000 è stato liberato.
 Ciao\xf000Ă\x0001\x0000!
 La tua squadra è al completo!
-Questo  è il tuo ultimo pokèmon!
+Questo è il tuo ultimo pokèmon!
 Cosa vuoi fare?
 A quale box vuoi andare?
-Perfavore scegli un tema.
-Perfavore seleziona uno sfondo.
+Per favore scegli un tema.
+Per favore seleziona uno sfondo.
 Vuoi fare altro nel box?
 Il box è pieno.
 La borsa è piena.
@@ -16,16 +16,16 @@ Hai preso il\xf000ĉ\x0001\x0000.
 \xf000ĉ\x0001\x0000 è attualmente assegnato.
 Cosa vuoi prendere?
 In quale box vuoi depositarlo?
-もちものなし
+Senza effetti personali
 ♂
 ♀
 Prendi questo \xf000ĉ\x0001\x0000?
 Le mail non possono essere ottenute dappertutto.
-\xf000ĉ\x0001\x0000 è stato sekezionato.
+\xf000ĉ\x0001\x0000 è stato selezionato.
 Metti via \xf000ĉ\x0001\x0000?
 Posato \xf000ĉ\x0001\x0000 nella borsa.
 Può tenere uno strumento.
-Perfavore rimuovi la mail.
+Per favore rimuovi la mail.
 Non puoi abbandonare un uovo.
 がったいした　キュレムは　にがせません！
 \xf000Ă\x0001\x0000 torna indietro!
@@ -50,7 +50,7 @@ Le mail non possono essere spostate!
 Non può tenere una mail qui.
 Le uova non possono essere selezionate!
 \xf000Ă\x0001\x0000 Vuoi nasconderti nel.\xfffeOk?
-Questo Pokémon non sembra\xfffeora dorme.
+Questo Pokémon non sembra\xfffeche dorma ora.
 Vuoi cambiare Pokémon?
 Il tuo box lotta è bloccato.\xfffeNon puoi spostare i tuoi Pokémon.
 Il tuo box lotta è bloccato.\xfffeGli strumenti non possono essere dati o presi.
