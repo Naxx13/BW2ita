@@ -1,9 +1,9 @@
-たいりょく
-Attack
-Defense
-すばやさ
-Sp. Atk
-Sp. Def
-めいちゅうりつ
-かいひりつ
-Max HP
+Salute
+Attacco
+Difesa
+Velocità
+Att. Sp.
+Dif. Sp.
+Precisione
+Evasione
+PS Max.
