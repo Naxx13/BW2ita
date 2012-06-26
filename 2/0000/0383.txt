@@ -1,51 +1,51 @@
-Pokémon Trainer
-Pokémon Trainer
-Youngster
-Lass
-School Kid
-School Kid
-Smasher
-Linebacker
-Waiter
-Waitress
-Leader
-Leader
-Leader
-Nursery Aide
-Preschooler
-Preschooler
-Twins
-⒆⒇ Breeder
-⒆⒇ Breeder
-Leader
-no data
-no data
-no data
-no data
+Allenatore di Pokémon
+Allenatore di Pokémon
+Ragazzo
+Ragazza
+Scolaro
+Scolaro
+Attaccante
+Difensore
+Cameriere
+Cameriera
+Capo
+Capo
+Capo
+Maestra Asilo
+Prescolare
+Prescolare
+Gemelli
+⒆⒇ Allevatore
+⒆⒇ Allevatore
+Capo
+nessun dato
+nessun dato
+nessun dato
+nessun dato
 ⒆⒇ Ranger
 ⒆⒇ Ranger
-Worker
-Backpacker
-Backpacker
-Fisherman
-Musician
-Dancer
-Harlequin
-Artist
-Baker
-Psychic
-Psychic
-no data
-⒆⒇ Trainer
-no data
-⒆⒇ Trainer
+Lavoratore
+Viaggiatore
+Viaggiatore
+Pescatore
+Musicista
+Ballerino
+Buffone
+Artista
+Pasticciere
+Psichico
+Psichico
+nessun dato
+⒆⒇ Allenatore
+nessun dato
+⒆⒇ Allenatore
 おぼっちゃま
 おじょうさま
 パイロット
 さぎょういん
 バスケせんしゅ
 けんきゅういん
-no data
+nessun dato
 ＯＬ
 エリートトレーナー
 エリートトレーナー
@@ -53,8 +53,8 @@ no data
 けんきゅういん
 サッカーせんしゅ
 ハチク
-no data
-no data
+nessun dato
+nessun dato
 スキンヘッズ
 せいそういん
 だいすきクラブ
@@ -75,12 +75,12 @@ no data
 やまおとこ
 マダム
 ジェントルマン
-no data
+nessun dato
 してんのう
 してんのう
 してんのう
 してんのう
-no data
+nessun dato
 てつどういん
 かいパンやろう
 ビキニのおねえさん
@@ -91,17 +91,17 @@ no data
 サイクリング
 サイクリング
 バイクずき
-no data
-no data
-no data
-no data
+nessun dato
+nessun dato
+nessun dato
+nessun dato
 ゲームフリーク
-no data
-no data
+nessun dato
+nessun dato
 ポケモントレーナー
 プラズマだん
 サブウェイマスター
-no data
+nessun dato
 ポケモントレーナー
 ポケモントレーナー
 ポケモントレーナー
@@ -154,7 +154,7 @@ no data
 ボストレーナー
 ボストレーナー
 サブウェイマスター
-no data
+nessun dato
 ボストレーナー
 ボストレーナー
 ボストレーナー
@@ -164,7 +164,7 @@ no data
 ボストレーナー
 ボストレーナー
 サブウェイマスター
-no data
+nessun dato
 ヒョウタ
 ナタネ
 メリッサ
@@ -229,7 +229,7 @@ no data
 ポケモントレーナー
 ポケモントレーナー
 ポケモントレーナー
-no data
+nessun dato
 みらいじん
 クラウン
 レッド
