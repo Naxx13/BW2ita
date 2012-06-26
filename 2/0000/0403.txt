@@ -1,303 +1,303 @@
 -----
-Pound
-Karate Chop
-DoubleSlap
-Comet Punch
-Mega Punch
-Pay Day
-Fire Punch
-Ice Punch
-ThunderPunch
-Scratch
-ViceGrip
-Guillotine
-Razor Wind
-Swords Dance
-Cut
-Gust
-Wing Attack
-Whirlwind
-Fly
-Bind
-Slam
-Vine Whip
-Stomp
-Double Kick
-Mega Kick
-Jump Kick
-Rolling Kick
-Sand-Attack
-Headbutt
-Horn Attack
-Fury Attack
-Horn Drill
-Tackle
-Body Slam
-Wrap
-Take Down
-Thrash
-Double-Edge
-Tail Whip
-Poison Sting
-Twineedle
-Pin Missile
-Leer
-Bite
-Growl
-Roar
-Sing
-Supersonic
-SonicBoom
-Disable
-Acid
-Ember
-Flamethrower
-Mist
-Water Gun
-Hydro Pump
+Botta
+Colpokarate
+Doppiasberla
+Cometapugno
+Megapugno
+Giornopaga
+Fuocopugno
+Gelopugno
+Tuonopugno
+Graffio
+Presa
+Ghigliottina
+Ventagliente
+Danzaspada
+Taglio
+Raffica
+Attacco d'Ala
+Turbine
+Volo
+Legatutto
+Schianto
+Frustata
+Pestone
+Doppiocalcio
+Megacalcio
+Calciosalto
+Calciorullo
+Turbosabbia
+Bottintesta
+Incornata
+Furia
+Perfocorno
+Azione
+Corposcontro
+Avvolgibotta
+Riduttore
+Colpo
+Sdoppiatore
+Colpocoda
+Velenospina
+Doppio Ago
+Missilspillo
+Fulmisguardo
+Morso
+Ruggito
+Boato
+Canto
+Supersuono
+Sonicboom
+Inibitore
+Acido
+Braciere
+Lanciafiamme
+Nebbia
+Pistolacqua
+Idropompa
 Surf
-Ice Beam
-Blizzard
-Psybeam
-BubbleBeam
-Aurora Beam
-Hyper Beam
-Peck
-Drill Peck
-Submission
-Low Kick
-Counter
-Seismic Toss
-Strength
-Absorb
-Mega Drain
-Leech Seed
-Growth
-Razor Leaf
-SolarBeam
-PoisonPowder
-Stun Spore
-Sleep Powder
-Petal Dance
-String Shot
-Dragon Rage
-Fire Spin
-ThunderShock
-Thunderbolt
-Thunder Wave
-Thunder
-Rock Throw
-Earthquake
-Fissure
-Dig
-Toxic
-Confusion
-Psychic
-Hypnosis
-Meditate
-Agility
-Quick Attack
-Rage
-Teleport
-Night Shade
-Mimic
-Screech
-Double Team
-Recover
-Harden
-Minimize
-SmokeScreen
-Confuse Ray
-Withdraw
-Defense Curl
-Barrier
-Light Screen
-Haze
-Reflect
-Focus Energy
-Bide
-Metronome
-Mirror Move
-Selfdestruct
-Egg Bomb
-Lick
+Geloraggio
+Bora
+Psicoraggio
+Bollaraggio
+Raggiaurora
+Iper Raggio
+Beccata
+Perforbecco
+Sottomissione
+Colpo Basso
+Contatore
+Movimento Sismico
+Forza
+Assorbimento
+Megassorbimento
+Parassiseme
+Crescita
+Foglielama
+Solarraggio
+Velenpolvere
+Paralizzante
+Sonnifero
+Petalodanza
+Millebave
+Ira di Drago
+Turbofuoco
+Tuonoshock
+Fulmine
+Tuononda
+Tuono
+Sassata
+Terremoto
+Abisso
+Fossa
+Tossina
+Confusione
+Psichico
+Ipnosi
+Meditazione
+Agilità
+Attacco Rapido
+Ira
+Teletrasporto
+Ombra Notturna
+Mimica
+Stridio
+Doppioteam
+Ripresa
+Rafforzatore
+Minimizzato
+Muro di Fumo
+Stordiraggio
+Ritirata
+Ricciolscudo
+Barriera
+Schermoluce
+Nube
+Riflesso
+Focalenergia
+Pazienza
+Metronomo
+Speculmossa
+Autodistruzione
+Uovobomba
+Leccata
 Smog
-Sludge
-Bone Club
-Fire Blast
-Waterfall
-Clamp
-Swift
-Skull Bash
-Spike Cannon
-Constrict
+Fango
+Ossoclava
+Fuocobomba
+Cascata
+Tenaglia
+Comete
+Capocciata
+Sparalance
+Limitazione
 Amnesia
-Kinesis
-Softboiled
-Hi Jump Kick
-Glare
-Dream Eater
-Poison Gas
-Barrage
-Leech Life
-Lovely Kiss
-Sky Attack
-Transform
-Bubble
-Dizzy Punch
-Spore
+Cinèsi
+Covauova
+Calcinvolo
+Bagliore
+Mangiasogni
+Velenogas
+Attacco Pioggia
+Sanguisuga
+Demonbacio
+aeroattacco
+Trasformazione
+Bolla
+Stordipugno
+Spora
 Flash
-Psywave
+Psiconda
 Splash
-Acid Armor
-Crabhammer
-Explosion
-Fury Swipes
-Bonemerang
-Rest
-Rock Slide
-Hyper Fang
-Sharpen
-Conversion
-Tri Attack
-Super Fang
-Slash
-Substitute
-Struggle
-Sketch
-Triple Kick
-Thief
-Spider Web
-Mind Reader
-Nightmare
-Flame Wheel
-Snore
-Curse
-Flail
-Conversion 2
-Aeroblast
-Cotton Spore
-Reversal
-Spite
-Powder Snow
-Protect
-Mach Punch
-Scary Face
-Faint Attack
-Sweet Kiss
-Belly Drum
-Sludge Bomb
-Mud-Slap
+scudo Acido
+Martellata
+Esplosione
+Sfuriate
+Ossomerang
+Riposo
+Frana
+Iperzanna
+Affilatore
+Conversione
+Tripletta
+Superzanna
+Lacerazione
+Sostituto
+Scontro
+Schizzo
+Triplocalcio
+Furto
+Ragnatela
+Leggimente
+Incubo
+Ruotafuoco
+Russare
+Maledizione
+Flagello
+Conversione2
+Aerocolpo
+Cottonspora
+Contropiede
+Dispetto
+Polneve
+Protezione
+Pugnorapido
+Visotruce
+Finta
+Dolcebacio
+Panciamburo
+Fangobomba
+Fangosberla
 Octazooka
-Spikes
-Zap Cannon
-Foresight
-Destiny Bond
-Perish Song
-Icy Wind
-Detect
-Bone Rush
-Lock-On
-Outrage
-Sandstorm
-Giga Drain
-Endure
-Charm
-Rollout
-False Swipe
-Swagger
-Milk Drink
-Spark
-Fury Cutter
-Steel Wing
-Mean Look
-Attract
-Sleep Talk
-Heal Bell
-Return
-Present
-Frustration
-Safeguard
-Pain Split
-Sacred Fire
-Magnitude
-DynamicPunch
-Megahorn
-DragonBreath
-Baton Pass
-Encore
-Pursuit
-Rapid Spin
-Sweet Scent
-Iron Tail
-Metal Claw
-Vital Throw
-Morning Sun
-Synthesis
-Moonlight
-Hidden Power
-Cross Chop
-Twister
-Rain Dance
-Sunny Day
-Crunch
-Mirror Coat
-Psych Up
-ExtremeSpeed
-AncientPower
-Shadow Ball
-Future Sight
-Rock Smash
-Whirlpool
-Beat Up
-Fake Out
-Uproar
-Stockpile
-Spit Up
-Swallow
-Heat Wave
-Hail
-Torment
-Flatter
-Will-O-Wisp
+Punte
+Falcecannone
+Preveggenza
+Destinobbligato
+Ultimocanto
+Ventogelato
+Individua
+Ossoraffica
+Localizza
+Oltraggio
+Terrempesta
+Gigassorbimento
+Resitenza
+Fascino
+Rotolamento
+Falsofinale
+Bullo
+Buonlatte
+Scintilla
+Tagliofuria
+Alacciaio
+Malosguardo
+Attrazione
+Sonnolalia
+Rintoccasana
+Ritorno
+Regalino
+Frustrazione
+Salvaguardia
+Malcomune
+Magifuoco
+Magnitudo
+Dinamipugno
+Megacorno
+Dragospiro
+Staffetta
+Ripeti
+Inseguimento
+Rapigiro
+Profumino
+Codacciaio
+Ferrartigli
+Vitaltiro
+Mattindoro
+Sintesi
+Lucelunare
+Introforza
+Incrocolpo
+Tornado
+Pioggiadanza
+Giornodisole
+Sgranocchio
+Specchiovelo
+Psicamisù
+Extrarapido
+Forzantica
+Palla Ombra
+Divinazione
+Spaccaroccia
+Mulinello
+Picchiaduro
+Bruciapelo
+Braonda
+Accumulo
+Sfoghenergia
+Introenergia
+Ondacalda
+Grandine
+Attaccalite
+Adulazione
+Fuocofauto
 Memento
-Facade
-Focus Punch
-SmellingSalt
-Follow Me
-Nature Power
-Charge
-Taunt
-Helping Hand
-Trick
-Role Play
-Wish
-Assist
-Ingrain
-Superpower
-Magic Coat
-Recycle
-Revenge
-Brick Break
-Yawn
-Knock Off
-Endeavor
-Eruption
-Skill Swap
-Imprison
-Refresh
-Grudge
-Snatch
-Secret Power
-Dive
-Arm Thrust
-Camouflage
-Tail Glow
-Luster Purge
-Mist Ball
-FeatherDance
-Teeter Dance
-Blaze Kick
+Facciata
+Centripugno
+Maniereforti
+Sonoqui
+Naturforza
+Sottocarica
+Provocazione
+Altruismo
+Raggiro
+Giocodiruolo
+Desiderio
+Assistente
+Radicamento
+Troppoforte
+Magivelo
+Riciclo
+Vendetta
+Breccia
+Sbadiglio
+Privazione
+Rimonta
+Eruzione
+Baratto
+Esclusiva
+Rinfrescata
+Rancore
+Scippo
+Forzasegreta
+Sub
+Sberletese
+Camuffamento
+Codadiluce
+Abbagliante
+Foschisfera
+Danzadipiume
+Strampadanza
+Calciardente
 Mud Sport
 Ice Ball
 Needle Arm
