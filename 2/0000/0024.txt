@@ -13,21 +13,20 @@ About “Survey Radar"
 About “Customization"
 About “ON/OFF"
 About “ON/OFF"
-せきがいせんを　つかって\xfffeめのまえにいる　ともだちと　きがるに\xfffeたいせんや　こうかんが　できます。\xfffeまた　あいしょうが　わかる\xfffeフィーリングチェックや\xfffeともだちコードの　こうかんも　できます。
-ゲームシンクという　ボタンで\xfffeねむらせる　ポケモンを　えらび\xfffeＷｉ－Ｆｉコネクションで\xfffeレポートを　おくることが　できます。
-Ｗｉ－Ｆｉの　でんぱを　キャッチしても\xfffeほんたいせっていが　できていないと\xfffeＷｉ－Ｆｉに　せつぞく　できません。
-ワイヤレスつうしんを　つかって\xfffeちかくにいる　ともだちと\xfffeつぎの　あそびが　できます。\xfffe・ライブキャスター\xfffe・ハイリンク
-ライブキャスターは\xfffeＣギアで　ともだちコードを\xfffeこうかんしたり　Ｗｉ－Ｆｉクラブで\xfffeいっしょに　あそんだことの　ある\xfffeともだちと　ライブキャスターを\xfffeつかって　あそべます。
-ハイリンクは　ボタンを　タッチすれば\xfffeいっしゅんで　ハイリンクに　いけます。
-じぶんの　まわりで　げんざい\xfffeユニオンルームに　はいっている\xfffeにんずうが　わかります。\xfffeまた　ちかくで　ワイヤレスの\xfffeはいしんを　おこなっているかも\xfffeわかります。
-それと　Ｃギアの　でんげんを\xfffeオンにしている　ひとが\xfffeまわりに　いるか　わかります。\xfffeちかくに　ひとが　いると\xfffeすれちがいや　ちょうさレーダーの\xfffeつうしんを　キャッチ　しやすいです。
-すれちがった　ひとが\xfffeどんなことを　しているのかが\xfffeリアルタイムで　ひょうじされます。\xfffeタッチすることで　あいてについて\xfffeくわしく　みたり\xfffeじゆうに　はつげん　できます。
-また　フェスミッションが\xfffeかいさい　されているときは\xfffeＦＥＳ　ＭＩＳＳＩＯＮ！　の　もじが\xfffeみぎから　ひだりへ　ながれます。\xfffeフェスミッションは\xfffeすれちがいログから　さんかできます。
-すれちがった　ひとの\xfffeこのみや　しゅみを　ちょうさできます。\xfffeちょうさしたい　ないようを　きめれば\xfffeきょう　すれちがった　ひとの　データ\xfffeいままでに　すれちがった　ひとの\xfffeデータを　みることが　できます。
-すれちがいちょうさたい　で\xfffeうけた　ちょうさが　かんりょうすると\xfffeボタンが　てんめつ　します。\xfffeヒウンの　ちょうさたい　たいちょうに\xfffeほうこく　しましょう。
-カスタムマークを　タッチすると\xfffeマークが　てんめつ　します。\xfffeボタンを　タッチしながら　うごかすと\xfffeばしょを　かえることが　できます。\xfffeまた　リングを　タッチすると\xfffeリングの　いろが　へんかします。
-でんげんマークを　タッチすると\xfffeオンと　オフを　きりかえるかの\xfffeかくにんがめんに　かわります。\xfffeオフにすると　タッチぶぶんが\xfffeくらくなり　どうじに\xfffeむせんの　つうしんが　オフになります。
-のこされた　でんりょくが\xfffeすくない　じょうたいで\xfffeＤＳの　ふたが　とじられていると\xfffeＣギアの　でんげんが\xfffeじどうてきに　オフになります。
-Next
+Puoi giocare contro o sostituire \ xfffe amici ed io facilmente di fronte \ xfffe tramite infrarossi. \ È inoltre possibile scambiare i codici amico \ xfffe e \ sentimento xfffe si intende anche verificare la compatibilità xfffe.
+È possibile inviare un report \ xfffe in \ xfffeWi-Fi sceglie il Pokemon sopite \ xfffe il pulsante che dice gioco di sincronizzazione.
+Impossibile connettersi a \ xfffeWi-Fi e non si sta impostando il corpo \ xfffe anche se si cattura la diffusione del Wi-Fi.
+Puoi giocare il prossimo \ xfffe e gli amici sono vicini \ xfffe utilizzando la comunicazione wireless. \ Xfffe · caster Live \ xfffe · collegamento ad alta
+Caster Live può riprodurre utilizzando gli amici xfffe \ e caster dal vivo xfffe \ che tu abbia mai giocato insieme \ xfffe in Wi-Fi locale e lo scambio di codici amico \ xfffe in marcia \ xfffeC.
+Collegamento ad alta vi porterà in un collegamento immediato ad alta \ xfffe se il tocco di un pulsante.
+Numero \ xfffe che viene fornito con \ xfffe dell'Unione attualmente camera potete vedere intorno a loro. \ Sai \ xfffe fare la consegna \ xfffe del wireless nelle vicinanze anche xfffe.
+Sapete che circa \ xfffe persone sono \ xfffe sul potere della marcia C con esso. \ E 'facile prendere le comunicazioni \ xfffe di passare radar e di ricerca \ xfffe che ci sono persone vicine a xfffe.
+Per ciò che \ xfffe la persona che ha passato l'altro verrà visualizzato in \ xfffe real-time. \ Può essere espresso sulla base \ xfffe o uno sguardo più da vicino \ xfffe xfffe circa l'altra persona attraverso il tatto.
+Quando il festival missione è stata tenuta \ xfffe è \ MISSIONE xfffeFES di nuovo! Carattere scorrerà da destra a sinistra \ xfffe. \ Xfffe missione Fes può partecipare a passare dal registro xfffe \.
+È possibile esaminare questo hobby casa xfffe \ di persone che passati. \ È possibile visualizzare i dati \ xfffe della persona che abbia mai superato ogni dato xfffe \ delle persone che ho passato oggi \ xfffe essere determinata a voler indagare xfffe uso interno.
+\ Xfffe pulsante lampeggia a conclusione delle indagini è stato ricevuto \ indagine che passa xfffe in Thailandia. \ Let 's reports \ xfffe il sondaggio condizione fisica del xfffe vogliono destino.
+\ Xfffe marchio lampeggia quando si tocca un marchio personalizzato. \ È possibile modificare la posizione \ xfffe xfffe premere il pulsante e spostarsi. \ Cambierà il colore di \ 'anello xfffe a toccare anche l'anello xfffe.
+Controllare \ xfffe o spegnendo xfffe \ il potere di toccare il segno cambierà in superficie. \ Comunicazioni Wireless \ xfffe si spegne allo stesso tempo parte diventa scura tocco \ xfffe Se xfffe off.
+Potenza di attrezzi \ xfffeC si spegnerà automaticamente \ xfffe ed è stato chiuso coperchio \ xfffeDS con meno potenza \ xfffe che è stato lasciato.Next
 Quit
 Previous
