@@ -197,8 +197,8 @@
 
 
 
+Forma Unica
 
-One form
 
 
 
@@ -346,9 +346,9 @@ One form
 
 
 
+Normale
 
 
-Normal
 
 
 
@@ -381,9 +381,9 @@ Normal
 
 
 
+Forma Normale
 
 
-ノーマルフォルム
 
 
 
@@ -407,20 +407,18 @@ Normal
 
 
 
+Manto Pianta
+Manto Pianta
 
 
-Plant Cloak
-Plant Cloak
 
 
 
 
 
-
-
-Overcast Form
-West Sea
-West Sea
+Forma Nuvola
+Mare Ovest
+Mare Ovest
 
 
 
@@ -484,12 +482,12 @@ Rotom
 
 
 
-Altered Forme
+Forma Alterata
 
 
 
 
-Land Forme
+Forma Terra
 Arceus
 
 
@@ -547,12 +545,12 @@ Arceus
 
 
 
-Red-Striped Form
+Forma Lineablu
 
 
 
 
-Standard Mode
+Normale
 
 
 
@@ -582,8 +580,8 @@ Standard Mode
 
 
 
-Spring Form
-Spring Form
+Primavera
+Primavera
 
 
 
@@ -638,63 +636,63 @@ Spring Form
 
 
 
-けしんフォルム
-けしんフォルム
+Forma Incarnazione
+Forma Incarnazione
 
 
-けしんフォルム
+Forma Incarnazione
 キュレムのすがた
 いつものすがた
-ボイスフォルム
+Canto
 ゲノセクトのすがた
 
-One form
-One form
-One form
-One form
-One form
-One form
-One form
-One form
-One form
-One form
-One form
-One form
-One form
-One form
-One form
-One form
-One form
-One form
-One form
-One form
-One form
-One form
-One form
-One form
-One form
-One form
-One form
-Sunny Form
-Rainy Form
-Snowy Form
-Attack Forme
-Defense Forme
-Speed Forme
-Sandy Cloak
-Trash Cloak
-Sandy Cloak
-Trash Cloak
-Sunshine Form
-East Sea
-East Sea
-Heat Rotom
-Wash Rotom
-Frost Rotom
-Fan Rotom
-Mow Rotom
-Origin Forme
-Sky Forme
+Forma Unica
+Forma Unica
+Forma Unica
+Forma Unica
+Forma Unica
+Forma Unica
+Forma Unica
+Forma Unica
+Forma Unica
+Forma Unica
+Forma Unica
+Forma Unica
+Forma Unica
+Forma Unica
+Forma Unica
+Forma Unica
+Forma Unica
+Forma Unica
+Forma Unica
+Forma Unica
+Forma Unica
+Forma Unica
+Forma Unica
+Forma Unica
+Forma Unica
+Forma Unica
+Forma Unica
+Sole
+Pioggia
+Nuvola di Neve
+Forma Attacco
+Forma Difesa
+Forma Velocità
+Manto Sabbia
+Manto Scarti
+Manto Sabbia
+Manto Scarti
+Forma Splendore
+Mare Est
+mare Est
+Rotom Calore
+Rotom Lavaggio
+Rotom Gelo
+Rotom Vortice
+Rotom Taglio
+Forma Origine
+Forma Cielo
 Arceus
 Arceus
 Arceus
@@ -711,21 +709,21 @@ Arceus
 Arceus
 Arceus
 Arceus
-Blue-Striped Form
-Zen Mode
-Summer Form
-Autumn Form
-Winter Form
-Summer Form
-Autumn Form
-Winter Form
-れいじゅうフォルム
-れいじゅうフォルム
-れいじゅうフォルム
-ホワイトキュレム
-ブラックキュレム
-かくごのすがた
-Pirouette Forme
+Forma Linablu
+Stato Zen
+Estate
+Autunno
+Inverno
+Estate
+Autunno
+Inverno
+Forma Totem
+Forma Totem
+Forma Totem
+Kyurem Bianco
+Kyurem Nero
+Forma Risoluzione
+Danza
 ゲノセクトのすがた
 ゲノセクトのすがた
 ゲノセクトのすがた
