@@ -1,135 +1,135 @@
 ●●
-A wild \xf000ā\x0001\x0000 appeared!
-Oh! A wild \xf000ā\x0001\x0000 and\xfffe\xf000ā\x0001\x0001 appeared!
-A wild \xf000ā\x0001\x0000 appeared!
-A wild \xf000ā\x0001\x0000 appeared!
-The \xf000ā\x0001\x0000 your Pokémon saw\xfffein the dream appeared!
-\xf000ā\x0001\x0000 appeared!
-You are challenged by\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!\xf000븁\x0000
-You are challenged by\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
-You are challenged by\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 and\xf000븀\x0000\xfffe\xf000Ď\x0001\x0002 \xf000Ā\x0001\x0003!\xf000븁\x0000
-You are challenged by\xfffe\xf000Ā\x0001\x0000 and \xf000Ā\x0001\x0001!\xf000븁\x0000
-Go! \xf000Ă\x0001\x0000!
-Go! \xf000Ă\x0001\x0000 and\xfffe\xf000Ă\x0001\x0001!
-Go! \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001, and \xf000Ă\x0001\x0002!
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 sent\xfffeout \xf000Ă\x0001\x0002!
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 sent out\xfffe\xf000Ă\x0001\x0002 and \xf000Ă\x0001\x0003!
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 sent out\xfffe\xf000Ă\x0001\x0002, \xf000Ă\x0001\x0003,\xf000븀\x0000\xfffeand \xf000Ă\x0001\x0004!
-\xf000Ā\x0001\x0000 sent out\xfffe\xf000Ă\x0001\x0001!
-\xf000Ā\x0001\x0000 sent out\xfffe\xf000Ă\x0001\x0001 and \xf000Ă\x0001\x0002!
-\xf000Ā\x0001\x0000 sent out\xfffe\xf000Ă\x0001\x0001, \xf000Ă\x0001\x0002,\xf000븀\x0000\xfffeand \xf000Ă\x0001\x0003!
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 is\xfffeabout to send in \xf000Ă\x0001\x0002.\xf000븀\x0000\xfffeWill you switch your Pokémon?
-You're in charge, \xf000Ă\x0001\x0000!
-Go for it, \xf000Ă\x0001\x0000!
-Just a little more!\xfffeHang in there, \xf000Ă\x0001\x0000!
-Your foe's weak!\xfffeGet 'em, \xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0000, switch out!\xfffeCome back!
-\xf000Ă\x0001\x0000, come back!
-\xf000Ă\x0001\x0000, enough!\xfffeGet back!
-\xf000Ă\x0001\x0000, OK!\xfffeCome back!
-\xf000Ă\x0001\x0000, good job!\xfffeGet back!
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001\xfffewithdrew \xf000Ă\x0001\x0002!
-\xf000Ā\x0001\x0000\xfffewithdrew \xf000Ă\x0001\x0001!
-Hit \xf000Ȁ\x0001\x0000 time(s)!
-\xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.
-\xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001\xfffeused one \xf000ĉ\x0001\x0002!
-\xf000Ā\x0001\x0000 launched the \xf000ĉ\x0001\x0002\xfffetoward \xf000Ă\x0001\x0001!
-You cannot use your\xfffeWonder Launcher now!
-\xf000Ā\x0001\x0000's Pokémon\xffferotated to the left!
-\xf000Ā\x0001\x0000's Pokémon\xffferotated to the left!
-\xf000Ā\x0001\x0000's Pokémon\xffferotated to the right!
-\xf000Ā\x0001\x0000's Pokémon\xffferotated to the right!
-\xf000Č\x0001\x0000 gained\xfffe\xf000Ȇ\x0001\x0001 Exp. Points!
-\xf000Č\x0001\x0000 gained a boosted\xfffe\xf000Ȇ\x0001\x0001 Exp. Points!
-Player defeated\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
-Player beat\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001\xf000븀\x0000\xfffeand \xf000Ď\x0001\x0002 \xf000Ā\x0001\x0003!
-Player lost against\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
-Player battled to a draw against\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
-Player defeated\xfffe\xf000Ā\x0001\x0000!
-Player defeated \xf000Ā\x0001\x0000\xfffeand \xf000Ā\x0001\x0001!
-Player lost against\xfffe\xf000Ā\x0001\x0000!
-Player lost to \xf000Ā\x0001\x0000\xfffeand \xf000Ā\x0001\x0001!
-Player battled to a draw against\xfffe\xf000Ā\x0001\x0000!
-Player battled to a draw against\xfffe\xf000Ā\x0001\x0000 and \xf000Ā\x0001\x0001!
-\xf000Ā\x0001\x0000 is out of\xfffeusable Pokémon!\xf000븁\x0000
-\xf000Ā\x0001\x0000 dropped $\xf000Ȅ\x0001\x0001\xfffein panic...
-\xf000Ā\x0001\x0000 paid out $\xf000Ȅ\x0001\x0001\xfffeto the winner...
-\xf000Ā\x0001\x0000 blacked out!
-\xf000Ā\x0001\x0000 got $\xf000Ȅ\x0001\x0001\xfffefor winning!
-\xf000Ā\x0001\x0000 picked up\xfffe$\xf000Ȅ\x0001\x0001!
-\xf000Č\x0001\x0000 grew to\xfffeLv. \xf000Ȃ\x0001\x0001!
-Oh, no!\xfffeThe Pokémon broke free!
-Aww!\xfffeIt appeared to be caught!
-Aargh!\xfffeAlmost had it!
-Shoot!\xfffeIt was so close, too!
-Gotcha!\xfffe\xf000ā\x0001\x0000 was caught!
-\xf000ā\x0001\x0000's data was\xfffeadded to the Pokédex.
-The Trainer blocked the ball!\xf000븁\x0000\xfffeDon't be a thief!
-But it had no effect!
-What will \xf000Č\x0001\x0000 do?
-What will \xf000Ā\x0001\x0000 do?
-\xf000븉\x0001<But it failed!
-Got away safely!
-Couldn't get away!
-Can't escape!
-The wild \xf000Ă\x0001\x0000 fled!
-No! There's no running\xfffefrom a Trainer battle!
-Would you like to forfeit the match\xfffeand quit now?
-It's super effective!
-It's not very effective...
-It hurt itself in its confusion!
-A critical hit!
-But there was no PP left\xfffefor the move!
-\xf000Ā\x0001\x0000 came to the rescue\xfffeto restore \xf000Ă\x0001\x0001's health!
-The sunlight turned harsh!
-It started to rain!
-A sandstorm kicked up!
-It started to hail!
-Fog crept up as thick as soup!
-The sunlight faded.
-The rain stopped.
-The sandstorm subsided.
-The hail stopped.
-The fog lifted.
-The effects of weather disappeared.
-The sandstorm rages.
-The hail crashes down.
-It's a one-hit KO!
-The \xf000ĉ\x0001\x0000 weakened\xfffe\xf000ć\x0001\x0001's power!
-The \xf000ĉ\x0001\x0000 allows the\xfffeuse of only \xf000ć\x0001\x0001!
-\xf000Č\x0001\x0000 can use only\xfffe\xf000ć\x0001\x0001!
-All stat changes were eliminated!
-But nothing happened!
-\xf000Ă\x0001\x0000's\xfffe\xf000Ć\x0001\x0001
-Magnitude 4!
-Magnitude 5!
-Magnitude 6!
-Magnitude 7!
-Magnitude 8!
-Magnitude 9!
-Magnitude 10!
-A bell chimed!
-A soothing aroma wafted\xfffethrough the area!
-The battlers shared\xfffetheir pain!
-Fire's power was weakened!
-Electricity's power was weakened!
-The twisted dimensions returned\xfffeto normal!
-Gravity intensified!
-Gravity returned to normal!
-All Pokémon hearing the song\xfffewill faint in three turns!
-Waggling a finger\xfffelet it use \xf000ć\x0001\x0000!
-Nature Power turned into\xfffe\xf000ć\x0001\x0000!
-Coins were scattered everywhere!
-It was too weak to make\xfffea substitute!
-Reflect raised your team's\xfffeDefense!
-Reflect raised the\xfffeopposing team's Defense!
-Your team's Reflect\xfffewore off!
-The opposing team's Reflect\xfffewore off!
-Light Screen raised your team's\xfffeSpecial Defense!
-Light Screen raised\xfffethe opposing team's Special Defense!
-Your team's Light Screen\xfffewore off!
-The opposing team's Light Screen\xfffewore off!
+Appare un \xf000ā\x0001\x0000 selvatico!
+Oh! Appaiono \xf000ā\x0001\x0000 e\xfffe\xf000ā\x0001\x0001 selvatici!
+Appare un \xf000ā\x0001\x0000 selvatico!
+Appare un \xf000ā\x0001\x0000 selvatico!
+Appare un \xf000ā\x0001\x0000 che\xfffeavevi visto nel sogno!
+Appare \xf000ā\x0001\x0000!
+Sei sfidato da\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!\xf000븁\x0000
+Sei sfidato da\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
+Sei sfidato da\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 e\xf000븀\x0000\xfffe\xf000Ď\x0001\x0002 \xf000Ā\x0001\x0003!\xf000븁\x0000
+Sei sfidato da\xfffe\xf000Ā\x0001\x0000 e \xf000Ā\x0001\x0001!\xf000븁\x0000
+Vai, \xf000Ă\x0001\x0000!
+Andate, \xf000Ă\x0001\x0000 e\xfffe\xf000Ă\x0001\x0001!
+Andate, \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001, e \xf000Ă\x0001\x0002!
+\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 manda in campo\xfffexf000Ă\x0001\x0002!
+\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 manda in campo\xfffe\xf000Ă\x0001\x0002 e\xf000Ă\x0001\x0003!
+\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 manda in campo\xfffe\xf000Ă\x0001\x0002, \xf000Ă\x0001\x0003,\xf000븀\x0000\xfffee \xf000Ă\x0001\x0004!
+\xf000Ā\x0001\x0000 manda in campo\xfffe\xf000Ă\x0001\x0001!
+\xf000Ā\x0001\x0000 manda in campo\xfffe\xf000Ă\x0001\x0001 e \xf000Ă\x0001\x0002!
+\xf000Ā\x0001\x0000 manda in campo\xfffe\xf000Ă\x0001\x0001, \xf000Ă\x0001\x0002,\xf000븀\x0000\xfffee \xf000Ă\x0001\x0003!
+Il prossimo pokémon di \xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001\xfffesarà \xf000Ă\x0001\x0002.\xf000븀\x0000\xfffeVuoi cambiare Pokémon?
+Sei forte, \xf000Ă\x0001\x0000!
+Combatti, \xf000Ă\x0001\x0000!
+Ancora uno sforzo!\xfffeTieni duro, \xf000Ă\x0001\x0000!
+Il tuo nemico è debole!\xfffeVai, \xf000Ă\x0001\x0000!
+Cambio, \xf000Ă\x0001\x0000!\xfffeRitorna!
+\xf000Ă\x0001\x0000, ritorna!
+\xf000Ă\x0001\x0000, è sufficiente!\xfffeRitorna!
+\xf000Ă\x0001\x0000, OK!\xfffeRitorna!
+\xf000Ă\x0001\x0000, ben fatto!\xfffeRitorna!
+\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001\xfffeha ritirato \xf000Ă\x0001\x0002!
+\xf000Ā\x0001\x0000\xfffeha ritirato \xf000Ă\x0001\x0001!
+Colpi inflitti: \xf000Ȁ\x0001\x0000!
+\xf000Ā\x0001\x0000 usa\xfffe\xf000ĉ\x0001\x0001.
+\xf000Ā\x0001\x0000 usa\xfffe\xf000ĉ\x0001\x0001.
+\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001\xfffeusa \xf000ĉ\x0001\x0002!
+\xf000Ā\x0001\x0000 lancia \xf000ĉ\x0001\x0002\xfffedavanti \xf000Ă\x0001\x0001!
+Non puoi usare il tuo\xfffeMirabilanciere ora!
+I Pokémon di \xf000Ā\x0001\x0000\xffferuotano a sinistra!
+I Pokémon di \xf000Ā\x0001\x0000\xffferuotano a sinistra!
+I Pokémon di \xf000Ā\x0001\x0000\xffferuotano a destra!
+I Pokémon di \xf000Ā\x0001\x0000\xffferuotano a destra!
+\xf000Č\x0001\x0000 ha ottenuto\xfffe\xf000Ȇ\x0001\x0001 Punti Esp.!
+\xf000Č\x0001\x0000 ha ottenuto un bonus\xfffe\xf000Ȇ\x0001\x0001 Punti Esp.!
+Sconfitto\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
+Sconfitti\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001\xf000븀\x0000\xfffee \xf000Ď\x0001\x0002 \xf000Ā\x0001\x0003!
+Perso contro\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
+Pareggio contro\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
+Sconfitto\xfffe\xf000Ā\x0001\x0000!
+Sconfitti \xf000Ā\x0001\x0000\xfffee \xf000Ā\x0001\x0001!
+Perso contro\xfffe\xf000Ā\x0001\x0000!
+Perso contro \xf000Ā\x0001\x0000\xfffee \xf000Ā\x0001\x0001!
+Pareggiato con\xfffe\xf000Ā\x0001\x0000!
+Pareggiato con\xfffe\xf000Ā\x0001\x0000 e \xf000Ā\x0001\x0001!
+\xf000Ā\x0001\x0000 non è un\xfffePokémon utilizzabile!\xf000븁\x0000
+\xf000Ā\x0001\x0000 ha lasciato cadere $\xf000Ȅ\x0001\x0001\xfffenel panico...
+\xf000Ā\x0001\x0000 ha dato $\xf000Ȅ\x0001\x0001\xfffeal vincitore...
+\xf000Ā\x0001\x0000 oscurato!
+\xf000Ā\x0001\x0000 ha ottenuto $\xf000Ȅ\x0001\x0001\xfffeper la vittoria!
+\xf000Ā\x0001\x0000 ha preso\xfffe$\xf000Ȅ\x0001\x0001!
+\xf000Č\x0001\x0000 sale\xfffeal L. \xf000Ȃ\x0001\x0001!
+Oh, no!\xfffeIl Pokémon si è liberato!
+Peccato!\xfffeSembrava preso, eh?
+Aargh!\xfffeC'era quasi!
+Accidenti!\xfffeEra così vicino!
+Preso!\xfffe\xf000ā\x0001\x0000 è stato catturato!
+I dati di \xf000ā\x0001\x0000\xfffesono stati inseriti nel Pokédex.
+Ball respintal!\xf000븁\x0000\xfffeNon si ruba!
+Ma non ha effetto!
+Cosa deve fare \xf000Č\x0001\x0000?
+Cosa deve fare \xf000Ā\x0001\x0000?
+\xf000븉\x0001<Ma fallisce!
+Scampato pericolo!
+Non si scappa!
+Non può fuggire!
+\xf000Ă\x0001\x0000 selvatico fugge!
+Non puoi fuggire da\xfffeuna lotta!
+Vuoi abbandonare la lotta\xfffee uscire ora?
+E' superefficace!
+Non è molto efficace...
+E' cos' confuso che si colpisce!
+Brutto colpo!
+Non ci sono abbastanza PP\xfffeper questa mossa!
+\xf000Ā\x0001\x0000 è venuto\xfffeper dare una mano a \xf000Ă\x0001\x0001!
+Il sole scotta!
+Inizia a piovere!
+Si è alzata una tempesta di sabbia!
+Inizia a grandinare!
+La nebbia è fitta!
+Il sole non scotta più.
+Ha smesso di piovere.
+La tempesta cessa.
+Ha smesso di grandinare.
+Si è dissolta la nebbia.
+Gli effetti del tempo sono spariti.
+La tempesta di sabbia imperversa.
+Grandina.
+E' KO in un colpo!
+\xf000ĉ\x0001\x0000 indebolisce\xfffela forza di \xf000ć\x0001\x0001!
+\xf000ĉ\x0001\x0000 permette di usare\xfffesolo \xf000ć\x0001\x0001!
+\xf000Č\x0001\x0000 può usare solo\xfffe\xf000ć\x0001\x0001!
+Le statistiche sono state azzerate!
+Ma non succede nulla!
+\xf000Ć\x0001\x0000\xfffedi \xf000Ă\x0001\x0001
+Magnitudo 4!
+Magnitudo 5!
+Magnitudo 6!
+Magnitudo 7!
+Magnitudo 8!
+Magnitudo 9!
+Magnitudo 10!
+Una campana suona!
+Un aroma calmante\xfffetutto intorno!
+I lottatori condividono\xfffeil loro dolore!
+La potenza del fuoco \xfffeè stata indebolita!
+La potenza dell'elettricità\xfffeè stata indebolita!
+Le dimensioni distorte tornato\xfffenormali!
+La gravità si intensifica!
+La gravità torna normalel!
+Tutti i Pokémon che ascoltano\xfffela canzone subiranno il KO!
+Agitando un dito\xfffeusa \xf000ć\x0001\x0000!
+La potenza della natura diventa\xfffe\xf000ć\x0001\x0000!
+I gettoni si sono sparsi ovunque!
+E' troppo stanco per fare\xfffeun sostituto!
+Riflesso aumenta la Difesa\xfffedella tua squadra!
+Riflesso aumenta la Difesa\xfffedella squadra avversaria!
+L'effetto di Riflesso\xfffesvanisce!
+L'effetto di Riflesso avversario\xfffesvanisce!
+Schermoluce aumenta la\xfffeDifesa Sp. della tua squadra!
+Schermoluce aumenta la\xfffeDifesa Sp. della squadra nemica!
+L'effetto di Schermoluce \xfffesvanisce!
+L'effetto di Schermoluce nemico\xfffesvanisce!
 Your team became cloaked in\xfffea mystical veil!
 The foe's team became\xfffecloaked in a mystical veil!
 Your team is no longer protected\xfffeby Safeguard!
@@ -197,7 +197,7 @@ Automatic center!
 But it's not where this item\xfffecan be used!
 Sky Drop won't let \xf000Č\x0001\x0000 go!
 The match was forfeited.
-(\xf000Ȁ\x0001\x0000)'s Metronome \xf000Ȃ\x0001\x0001:\xf000ć\x0001\x0002
+(\xf000Ȁ\x0001\x0000) Metronomo \xf000Ȃ\x0001\x0001:\xf000ć\x0001\x0002
 あっ！　やせい？の\xfffe\xf000ā\x0001\x0000が　あらわれた！
 カット０１
 カット０２
