@@ -41,30 +41,30 @@ Dai
 Bevi
 \xf000ȃ\x0001\x0000まい
 Chiudi
-Cosa a riguardo\xf000ĉ\x0001\x0000?
+Cosa fai con \xf000ĉ\x0001\x0000?
 Non puoi scrivere una\xfffemail qui！
 Non ci sono pokèmon!
-Muovi \xf000ĉ\x0001\x0000.
-Non puoi darlo\xfffe\xf000ĉ\x0001\x0000!
-Non puoi darlo\xfffe\xf000ĉ\x0001\x0000 qui!
-Quanti nè vuoi\xfffe\xf000ĉ\x0001\x0000?
+Sposta \xf000ĉ\x0001\x0000.
+Non puoi dare\xfffe\xf000ĉ\x0001\x0000!
+Non puoi dare\xfffe\xf000ĉ\x0001\x0000 qui!
+Quanti \xf000ĉ\x0001\x0000\xfffevuoi?
 Hai comprato\xfffe\xf000ȁ\x0001\x0001 \xf000ĉ\x0001\x0000.
 Non puoi comprare nulla ora!
-Questo è un oggetto importante\xfffeso non puoi gettarlo！
-Quanti nè vuoi buttare\xfffe\xf000ĉ\x0001\x0000?
+Questo è un oggetto importante,\xfffenon puoi gettarlo！
+Quanti \xf000ĉ\x0001\x0000\xfffevuoi buttare?
 Hai buttato \xf000ĉ\x0001\x0000を \xf000Ȃ\x0001\x0001
-Vuoi buttare\xfffe\xf000ĉ\x0001\x0000を \xf000Ȃ\x0001\x0001?
-Mi sembra di sentire la voce della professoressa Aralia... \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000Non è il momento nè il luogo\xfffeper usarlo!
+Vuoi buttare \xfffe\xf000ĉ\x0001\x0000 \xf000Ȃ\x0001\x0001?
+Le parole della prof.ssa Aralia eccheggiano... \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000C'è un tempo e un luogo per\xfffeogni cosa, ma non ora!
 Non puoi scendere dalla bici ora!
 Mi sembra di sentire la voce della professoressa Aralia... \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000Non è il momento nè il luogo\xfffeper usarlo!
 I tuoi soldi:　\xf000Ȅ\x0001\x0000
 Hai estratto una MT!
 Hai estratto una MN!
-Essa contiene　\xf000ć\x0001\x0000.\xf000븁\x0000vuoi insegnarla \xf000ć\x0001\x0000\xfffea un Pokémon?
-\xf000Ā\x0001\x0000 Hai usato il\xfffe\xf000ĉ\x0001\x0001!
-E ancora attivo l'effetto del repellente di prima,\xfffeynon puoi usarne un'altro ora!
-\xf000Ā\x0001\x0000 Hai usato\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000I pokèmon selvatici sono stati attirati!
-\xf000Ā\x0001\x0000 Hai usato\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000I pokèmon selvatici sono stati respinti!
+Contiene \xf000ć\x0001\x0000.\xf000븁\x0000Vuoi insegnare \xf000ć\x0001\x0000\xfffead un Pokémon?
+\xf000Ā\x0001\x0000 ha usato \xfffe\xf000ĉ\x0001\x0001!
+E' ancora attivo l'effetto del repellente di prima,\xfffenon puoi usarne un'altro ora!
+\xf000Ā\x0001\x0000 ha usato\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000I pokèmon selvatici sono stati attirati!
+\xf000Ā\x0001\x0000 ha usato\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000I pokèmon selvatici sono stati respinti!
 Il box è pieno!
 Polveri:　\xf000ȃ\x0001\x0000
 \xf000봂\x0000Ｎｏ．\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
@@ -143,9 +143,9 @@ I tuoi strumenti sono stati\xfffeorganizzati!
 おおいじゅんに\xfffeもちものを　せいり　しました！
 \xfffeOrganizzali in ordine ascendente!
 ぜんぶ
-フリースペースへ
-もとのポケットへ
-Perfavore seleziona gli\xfffeche stai guardando!
+Sposta nella borsa
+Sposta indietro
+Per favore seleziona gli\xfffeche stai guardando!
 \xf000Ē\x0001\x0000に　いれる　もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
 \xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　いどう　しました！
 \xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　もどしました！
