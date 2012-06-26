@@ -1,54 +1,52 @@
-BATTLE VIDEOS
+VIDEO BATTAGLIA
 BATTLE SUBWAY
 RANDOM MATCHUP
-CANCEL
-QUIT
-MY VIDEO
-OTHER VIDEOS
-DELETE VIDEOS
+CANCELLA
+ESCI
+MIO VIDEO
+ALTRI VIDEO
+ELIMINA VIDEO
 \xf000봂\x0000\xf000Ā\x0001\x0000'S VIDEO
-EMPTY
+PIE
 \xf000ȃ\x0001\x0000
-Battle
+Battaglia
 \xf000봂\x0000Video no.:\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002
 \xf000봂\x0000Video no.:\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002★
 \xf000봂\x0000\xf000Ā\x0001\x0000'S PROFILE
-Mute
+Muto
 \xf000봂\x0000\xf000ȁ\x0001\x0000Born in 
 \xf000봂\x0000Location
 \xf000봂\x0000Trainer's quote
 Data
-Profile
+Profilo
 
-Unregistered
+Non registrato
 \xf000Ĥ\x0001\x0000
 \xf000ĥ\x0001\x0000
 \xf000Ĝ\x0001\x0000　\xf000Ĝ\x0001\x0001
 \xf000Ā\x0001\x0000'S VIDEO
-DELETE MY VIDEO
-DELETE OTHER VIDEOS
-あき
-\xf000Ā\x0001\x0000　のきろくをけす
-SEARCH BY RANK
-データをおくる
-NEWEST 30
-SEARCH
-SEARCH BY NO.
-SEARCH BY FACILITY
-SEARCH BY POKÉMON
-SEARCH YOUR LOCATION
+ELIMINA MIO VIDEO
+ELIMINA ALTRI VIDEO
+あき\xf000Ā\x0001\x0000　のきろくをけすデータをおくる
+CERCA NEL GRUPPO
+NUOVI 30
+CERCA
+CERCA BY NO.
+CERCA BY FACILITY
+CERCA BY POKÉMON
+CERCA LA TUA POSIZIONE
 LINK BATTLES
 BATTLE SUBWAY
-SEND PHOTO
+INVIA FOTO
 VIEW PHOTOS
-SEND
-Please choose the Pokémon you want to see.
-\xf000Ā\x0001\x0000　の　しゃしん\xfffe\xf000Ĝ\x0001\x0001
+INVIA
+Per favore scegli il Pokémon che vuoi vedere.
+\xf000Ā\x0001\x0000Le foto da\xfffe\xf000Ĝ\x0001\x0001
 \xf000Ā\x0001\x0000\xfffe\xf000Ĝ\x0001\x0001
 しゃしん
 Send Box Data
 View Box Data
-Favorite
+PREFERITI
 Cool
 Cute
 Suggested
@@ -105,15 +103,15 @@ Search Your Location
 Please enter the Video Number.
 Please choose the facility.
 Please choose the Pokémon.
-Please enter the search criteria.
-You haven’t set any search criteria.
-Loading Battle Video...
+Per favore scrivi i criteri di ricerca.
+Non hai insterito nessun criterio di ricerca.
+Caricamento video di battaglia...
 There is no matching Battle Video...
-Sending the Battle Video...
-Battle Video has been sent!
-\xf000봂\x0000View Profile
-\xf000봂\x0000Close Profile
-Newest 30 Battle Videos
+Invio video di battaglia...
+Il video di battaglia e` stato inviato!
+\xf000봂\x0000Vai profilo
+\xf000봂\x0000Chiudi profilo
+Nuovi 30 Video Battaglia.
 Please set the search criteria.
 Undefined
 LIST OF BATTLE VIDEOS FROM\xfffeSEARCH RESULTS
@@ -132,18 +130,18 @@ BATTLE SUBWAY
 \xf000봂\x0000SUPER SINGLE TRAIN
 \xf000봂\x0000SUPER DOUBLE TRAIN
 \xf000봂\x0000SUPER MULTI TRAIN
-Please select the Record\xfffeyou want to view.
+Per favore scegli la registrazionex\fffeche vuoi vedere.
 PREVIOUS:
 RECORD:
+\xf000봃\x0001\x0000\xf000ȃ\x0001x0000
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-Wins
+Vittorie
 Multi with Trainer
 Multi with friend
-RANK
-Current Record
+GRUPPO
+Attuale Record
 \xf000봂\x0000Wi-Fi Train Record
-CURRENT:
+Attuale:
 \xf000봂\x0000\xf000Ā\x0001\x0000'S RATING
 \xf000봂\x0000RATING MODE RECORD
 \xf000봂\x0000FREE MODE RECORD
@@ -162,26 +160,26 @@ CURRENT:
 YES
 NO
 Is it OK to disconnect from\xfffeNintendo Wi-Fi Connection?
-Colosseum Single,\xfffeNo Restrictions
-Colosseum Single,\xfffeFlat
-Colosseum Single,\xfffeNo Restrictions, Launcher On
-Colosseum Single,\xfffeFlat, Launcher On
-Colosseum Double,\xfffeNo Restrictions
-Colosseum Double,\xfffeFlat
-Colosseum Double,\xfffeNo Restrictions, Launcher On
-Colosseum Double,\xfffeFlat, Launcher On
-Colosseum Triple,\xfffeNo Restrictions
-Colosseum Triple,\xfffeFlat
-Colosseum Triple,\xfffeNo Restrictions, Launcher On
-Colosseum Triple,\xfffeFlat, Launcher On
-Colosseum Rotation,\xfffeNo Restrictions
-Colosseum Rotation,\xfffeFlat
-Colosseum Rotation,\xfffeNo Restrictions, Launcher On
-Colosseum Rotation,\xfffeFlat, Launcher On
-Colosseum Multi,\xfffeNo Restrictions
-Colosseum Multi,\xfffeFlat
-Colosseum Multi,\xfffeNo Restrictions, Launcher On
-Colosseum Multi,\xfffeFlat, Launcher On
+Colosseo Singolo,\xfffeNo Restrictions
+Colosseo Singolo,\xfffeFlat
+Colosseo Singolo,\xfffeNo Restrictions, Launcher On
+Colosseo Singolo,\xfffeFlat, Launcher On
+Colosseo Doppio,\xfffeNo Restrictions
+Colosseo Doppio,\xfffeFlat
+Colosseo Doppio,\xfffeNo Restrictions, Launcher On
+Colosseo Doppio,\xfffeFlat, Launcher On
+Colosseo Triplo,\xfffeNo Restrictions
+Colosseo Triplo,\xfffeFlat
+Colosseo Triplo,\xfffeNo Restrictions, Launcher On
+Colosseo Triplo,\xfffeFlat, Launcher On
+Colosseo Rotation,\xfffeNo Restrictions
+Colosseo Rotation,\xfffeFlat
+Colosseo Rotation,\xfffeNo Restrictions, Launcher On
+Colosseo Rotation,\xfffeFlat, Launcher On
+Colosseo Multi,\xfffeNo Restrictions
+Colosseo Multi,\xfffeFlat
+Colosseo Multi,\xfffeNo Restrictions, Launcher On
+Colosseo Multi,\xfffeFlat, Launcher On
 Battle Subway,\xfffeSingle
 Battle Subway,\xfffeDouble
 Battle Subway,\xfffeMulti
