@@ -39,7 +39,8 @@ L'Attacco di \xf000Ă\x0001\x0000\xfffesale!
 L'Attacco Speciale di \xf000Ă\x0001\x0000\xfffesale!
 La Velocità di \xf000Ă\x0001\x0000\xfffesale!
 La Difesa Speciale di \xf000Ă\x0001\x0000\xfffesale!
-La DIfesa di \xf000Ă\x0001\x0000\xfffesalesale!
+La Dfesa di \xf000Ă\x0001\x0000\xfffesalesale!
+La Precisione di \xf000Ă\x0001\x0000\xfffesalesale!
 E' stato usato\xfffe\xf000ĉ\x0001\x0000!
 Il secondo Pokémon\xfffelo rende impossibile da mirare!
 Non è rimasto nessun box libero nel PC!
