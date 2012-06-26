@@ -3,7 +3,7 @@ Per favore inserisci i criteri di ricerca.
 『Risultato Ricerca』
 \xf000Ȃ\x0001\x0000 non trovato.
 Per favore inserisci l'ordine.
-Per favore inserisci l'ordine.
+Per favore inserisci la prima lettera del nome.
 Per favore inserisci il tipo.
 Per favore inserisci la forma.
 Per favore inserisci il colore.
