@@ -485,6 +485,7 @@ Pokémon Tempo
 Pokémon Spazio
 Pokémon Cratere
 Pokémon Colossale
+Pokémon Ribelle
 Pokémon Falcato
 Pokémon Oceanbondo
 Pokémon Oceandante
