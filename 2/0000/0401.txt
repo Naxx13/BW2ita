@@ -20,7 +20,7 @@ Rinunci a far ricordare\xfffeal Pokémon \xf000ć\x0001\x0001?
 \xf000Ă\x0001\x0000 non ha ricordato\xfffe\xf000ć\x0001\x0001.\xf000븁\x0000
 \xf000Ā\x0001\x0000 ha dato una\xfffeSquama Cuore in cambio.
 Va bene dimenticare\xfffe\xf000ć\x0001\x0000?
-ぶんるい
+CATEGORIA
 POTENZA
 PRECISIONE
 PP
