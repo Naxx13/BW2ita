@@ -27,7 +27,7 @@ Posato \xf000ĉ\x0001\x0000 nella borsa.
 Può tenere uno strumento.
 Per favore rimuovi la mail.
 Non puoi abbandonare un uovo.
-がったいした　キュレムは　にがせません！
+Non puoi liberare Kyurem fuso!
 \xf000Ă\x0001\x0000 torna indietro!
 Era preoccupato per te?
 Un uovo non può tenere un oggetto.
@@ -36,9 +36,9 @@ DEPOSITA POKÉMON
 RITIRA POKÉMON
 Il box è pieno.
 La tua squadra è al completo!
-ポケモンを　あずける
-ポケモンを　つれていく
-ボックスを　せいりする
+Deposita Pokémon
+Ritira Pokémon
+Sposta Pokémon
 SPOSTA OGGETTI
 BOX LOTTA
 SELEZIONA UN POKÉMON ADDORMENTATO
