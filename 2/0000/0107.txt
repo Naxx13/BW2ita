@@ -1,14 +1,15 @@
-GAME SYNC
+SINCROGIOCO
 Wi-Fiせってい
-Is it OK to create data \xfffeto play Game Sync?
-Creazione di dati...\xfffePer favore, attendere Prego.Si
+Va bene creare dati \xfffeper giocare con il Sincrogioco?
+Creazione dei dati...\xfffePer favore, attendere prego.
+Si
 No
-Salvataggio...\xfffeNon togliere l'alimentazione.
+Salvataggio...\xfffeNon spegnere la consolle.
 おてもとの　パソコンから\xfffeポケモングローバルリンクの\xfffeホームページに　アクセスして\xfffeうえの　ゲームシンクＩＤコードを\xfffeにゅうりょくすると　ゲームシンクの\xfffeせっていが　おこなえます\xfffe\xfffehttp://www.pokemon-gl.com/
 ゲームシンクＩＤコードを\xfffeはっこうしました\xfffe\xfffeうえのゲームシンクＩＤコード　は\xfffeゲームかいしじの　タイトルメニュー\xfffeゲームシンクせっていから\xfffeみなおすことが　できます\xf000븁\x0000
 おてもとのパソコンから\xfffeポケモングローバルリンクの\xfffeホームページに　アクセスして\xfffeうえのゲームシンクＩＤコードを\xfffeにゅうりょくすると　ゲームシンクの\xfffeせっていが　おこなえます\xfffe\xfffehttp://www.pokemon-gl.com/
-Game Sync ID
-Il Game ID Sync\xfffeè stato salvato.
+ID Sincrogioco
+L'ID Sincrogioco\xfffeè stato salvato.
 サーバーでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０１）
 サーバーでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０２）
 つうしんでエラーが　はっせいしました\xfffeもういちど　おためしください\xfffeもんだいが　かいけつしないばあいは\xfffeとりあつかいせつめいしょを\xfffeごらんください\xfffe（エラーコード：１３２０３）
