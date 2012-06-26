@@ -1,9 +1,8 @@
-いま　おぼえている　ことばを\xfffeわすれますが　よいですか？
-Ａボタンを　おしてから\xfffeマイクに　しゃべって　ください！\xf000븁\x0000
-\xf000Ă\x0001\x0000が　ことばを　おぼえた！\xf000븁\x0000
-\xf000Ă\x0001\x0000は　ことばを\xfffeおぼえられなかった　みたいだ！\xf000븁\x0000
-やりなおしますか？
-まわりの　ようすが　きになって\xfffeしゅうちゅうできない　みたいだ…
-マイクの　じゅんびちゅう……
-Yes
+Ora, ricordate che la parola\xfffeCome si fa a dimenticare？
+Premere il pulsante A\xfffeSi prega di parlare nel microfono！\xf000븁\x0000
+\xf000Ă\x0001\x0000Ricordate le parole erano！\xf000븁\x0000
+\xf000Ă\x0001\x0000Sembra non ricordare \xfffele parole！\xf000븁\x0000
+Non si tenta？
+Non riesco a concentrarmi come mai\xfffefastidio ti guardi intorno ...
+Si
 No
