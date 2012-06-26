@@ -27,8 +27,10 @@ Non registrato
 \xf000Ā\x0001\x0000'S VIDEO
 ELIMINA MIO VIDEO
 ELIMINA ALTRI VIDEO
-あき\xf000Ā\x0001\x0000　のきろくをけすデータをおくる
+あき
+\xf000Ā\x0001\x0000　のきろくをけす
 CERCA NEL GRUPPO
+データをおくる
 NUOVI 30
 CERCA
 CERCA BY NO.
