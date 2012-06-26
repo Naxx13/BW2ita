@@ -1,4 +1,4 @@
-What?\xfffe\xf000Ă\x0001\x0000 is evolving!
-Huh? \xf000Ă\x0001\x0000\xfffestopped evolving!
-Congratulations! Your \xf000Ă\x0001\x0000\xfffeevolved into \xf000ā\x0001\x0001!
-Do you wish to evolve?\xfffeYes：A Button　No：B Button
+Cosa?\xfffe\xf000Ă\x0001\x0000 si sta evolvendo!
+Huh? \xf000Ă\x0001\x0000\xfffeha smesso di evolversi!
+Congratulazioni! Il tuo \xf000Ă\x0001\x0000\xfffesi è evoluto in un \xf000ā\x0001\x0001!
+Vuoi che si evolva?\xfffeSi：Pulsante A　No: Pulsante B
