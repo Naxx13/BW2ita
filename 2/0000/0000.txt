@@ -101,7 +101,7 @@ Studente
 Impiegato
 Creatore
 In proprio
-Publicco ufficiale
+Pubblico ufficiale
 Casalinga
 Artista
 Job-Hopper
