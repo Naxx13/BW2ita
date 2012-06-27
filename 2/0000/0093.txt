@@ -1,106 +1,112 @@
-None
+Nessuno
 ON
 OFF
-Pink Barrette
-Blue Barrette
-Red Barrette
-Blue Flower
-Crimson Scarf
-Red Flower
-Big Barrette
-Headband
-Square Glasses
-Striped Barrette
-Small Barrette
-Decorative Ribbon
-Purse
-Necklace
-Gorgeous Flower
-Round Button
-Green Barrette
-Straw Hat
-Snow Crystal
-Lonely Flower
-Paintbrush
-Beret
-Whisk
-Ladle
-Toy Cake
-Chef's Hat
-Frying Pan
-Bib
-Red Parasol
-Germ Mask
-Mallet
-Colorful Parasol
-Wrench
-Lantern
-Windup Key
-Helmet
-Frilly Apron
-Dressy Tie
-Lace Cap
-Scarlet Cape
-Toy Cutlass
-Toy Sword
-Pirate Hat
-Cowboy Hat
-Rigid Shield
-Black Wings
-Witchy Hat
-White Wings
-Umber Belt
-Horned Helm
-Trident
-Magic Wand
-Red Nose
-Jester's Cap
+Barretta Rosa
+Barretta Blu
+Barretta Rossa
+Fiore Blu
+Sciarpa Cremisi
+Fiore Rosso
+Grande Barretta
+Fascia
+Occhiali Squadrati
+Barretta a righe
+Baretta Piccola
+Nastro Decorativo
+Borsa
+Collana
+Splendido Fiore
+Bottone Rotondo
+Barretta Verde
+Cappello di Paglia
+Cristallo di Neve
+Fiore Solitario
+Pennello
+Basco
+Frusta
+Mestolo
+Torta Giocattolo
+Cappello da Cuoco
+Padella
+Bavaglino
+Parasole Rosso
+Maschera Virus
+Maglio
+Parasole Colorato
+Chiave Inglese
+Lanterna
+Chiave a Molla
+Elmetto
+Grembiule Increspato
+Cravatta Elegante
+Puntale
+Mantello Scarlatto
+Sciabola Giocattolo
+Spada Giocattolo
+Cappello da Pirata
+Cappello da Cowboy
+Scudo Rigido
+Piume Nere
+Cappello da Strega
+Piume Bianche
+Cintura Ombra
+Elmo con Corna
+Tridente
+Bacchetta Magica
+Naso Rosso
+Cappello da Giullare
 Googly Specs
-Crown
-Black Tie
-Black Cape
-Gorgeous Specs
-Top Hat
-White Domino Mask
-White Cape
-Gentleman's Hat
-Cane
-Striped Tie
-Pocket Watch
+Corona
+Cravatta Nera
+Mantello Nero
+Caratteristiche Bellissime
+Tuba
+Maschera Bianca
+Mantellina Bianca
+Cappello da Gentiluomo
+Canna
+Cravatta a Righe
+Orologio da Tasca
+Cravatta a farfalla
+Tiara
+Rosa
+Monocolo
+Cravatta
+Parrucca
 Bow Tie
 Tiara
-Rose
-Monocle
-Tie
-Wig
+Rosa
+Monocolo
+Cravatta
+Parrucca
 Standing Mike
-Tambourine
+Tamburo
 Fedora
-Microphone
-Maraca
-Trumpet
-Laurel Wreath
-White Pompom
-Pennant
-Football
-Winner's Belt
-Racket
-Electric Guitar
-Toy Fishing Rod
-Smiley-Face Mask
-Fake Bellybutton
-Professor Hat
-Hula Skirt
-Thick Book
+Microfono
+Maracas
+Tromba
+Corona d'Alloro
+Pompom Bianco
+Bandierina
+Calcio
+Cintura del Vincitore
+Racchetta
+Chitarra Elettrica
+Amo da pesca Giocattolo
+Maschera sorridente
+Bottone da Pancia
+Cappello da Prof.ssore
+Gonna Hawai
+Libro Spesso
 Bouquet
-Fake Bone
-Round Mushroom
+Osso finto
+Fungo Rotondo
 Shuriken
-Scarlet Hat
-Big Bag
-Candy
-Fluffy Beard
-Gift Box
+Cappello Scarlatto
+Grande Zaino
+Caramella
+Barba Soffice
+Scatola Regalo
 
 
 
