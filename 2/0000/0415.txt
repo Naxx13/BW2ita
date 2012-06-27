@@ -1,26 +1,26 @@
-Welcome to the GTS!
+Benvenuto alla GTS!
 あずけていた　ポケモンの\xfffeこうかんが　せいりつ　しました！
-\xf000Ă\x0001\x0000 was not traded.\xf000븁\x0000
+\xf000Ă\x0001\x0000 non è stato scambiato.\xf000븁\x0000
 \xf000Ă\x0001\x0000 appears to have\xfffefled...\xf000븁\x0000
-Are you seeking or offering a Pokémon?
+Vuoi cercare o offrire un Pokémon?
 Do what with this \xf000Ă\x0001\x0000?
 Will you take this \xf000Ă\x0001\x0000?
 Is it OK to disconnect from\xfffeNintendo Wi-Fi Connection?
-What kind of Pokémon are you seeking?
-Please choose the Pokémon you want.
-Please choose its gender.
-Please choose the level.
-Please choose the Pokémon you want!
-Searching for the Pokémon you want...
-None were found!
-Stop searching?
+Che tipo di Pokémon stai cercando?
+Scegli il Pokémon che vuoi.
+Scegli il suo genere.
+Scegli il suo livello.
+Scegli il Pokémon che vuoi!
+Cercando il Pokémon che vuoi...
+Nessun risultato!
+Smetti di cercare?
 Trade Pokémon with the Trainer?
 Choose the Pokémon you are trading.
 Do what with this \xf000Ă\x0001\x0000?
 You seem to have already traded it...
 していのポケモンと ちがいますよ！
-Choose the Pokémon you want to offer.
-Offer \xf000Ă\x0001\x0000?
+Scegli il Pokémon che vuoi offrire.
+Offri \xf000Ă\x0001\x0000?
 Are these conditions OK?
 Checking GTS's status...
 The Ball Capsule will be detached.\xfffeIs that OK?
@@ -31,7 +31,7 @@ That Pokémon may not be offered\xfffefor trade (13268)!\xf000븁\x0000
 That Pokémon may not be offered\xfffefor trade (13269)!\xf000븁\x0000
 That Pokémon may not be offered\xfffefor trade (13270)!\xf000븁\x0000
 That Pokémon may not be offered\xfffefor trade (13271)!\xf000븁\x0000
-An Egg may not be offered\xfffefor trade!\xf000븁\x0000
+Un uovo non può essere scelto\xfffeper uno scambio!\xf000븁\x0000
 てもちが　いっぱいで　ポケモンを\xfffeうけとることが　できません！\xf000븁\x0000
 Your Storage Boxes are full.\xfffeYou can't receive a Pokémon!\xf000븁\x0000
 A trade partner has been found!
