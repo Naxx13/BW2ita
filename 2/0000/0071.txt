@@ -1,6 +1,6 @@
-Confirm
-Cancel
-Please enter a phrase or word.
-Stop giving the\xfffe Pokémon Mail?
-Yes
-No
+Conferma
+Annulla
+Per favore scrivi una frase\xfffeo una parola.
+Riprendi la lettera\xfffedal Pokémon?
+SI
+NO
