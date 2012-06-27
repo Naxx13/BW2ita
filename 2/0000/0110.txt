@@ -1,5 +1,5 @@
-Lovely place
-Faraway place
+Posto adorabile
+Posto lontano
 Pokémon Movie
 Pokémon Movie 10
 Pokémon Movie 11
@@ -12,7 +12,7 @@ Pokémon Movie 17
 Pokémon Movie 18
 Pokémon Movie 19
 Pokémon Movie 20
-Pokémon Center
+Centro PokéMon
 Pokémon Cartoon
 PC Tokyo
 PC Osaka
@@ -56,32 +56,32 @@ VGE 2017
 VGE 2018
 VGE 2019
 VGE 2020
-Pokémon Event
-Battle Competition
+Evento Pokémon
+Gara di lotta
 Game Event
 Pokémon Fan Club
 Pokémon Sunday
-Challenge Plaza
-Battle Challenge
-Trainers' Court
+Piazza delle sfide
+Gara di sfida
+Cortile degli allenatori
 Battle Tour
-Concert
+Concerto
 Wi-Fi Gift
 Pokémon Ranger
 Ranger Union
 PBR
 PDW
-Pokémon Event 10
-Pokémon Event 11
-Pokémon Event 12
-Pokémon Event 13
-Pokémon Event 14
-Pokémon Event 15
-Pokémon Event 16
-Pokémon Event 17
-Pokémon Event 18
-Pokémon Event 19
-Pokémon Event 20
+Evento Pokémon 10
+Evento Pokemon 11
+Evento Pokemon 12
+Evento Pokemon 13
+Evento Pokemon 14
+Evento Pokemon 15
+Evento Pokemon 16
+Evento Pokemon 17
+Evento Pokemon 18
+Evento Pokemon 19
+Evento Pokemon 20
 Pokémon Festa
 Pokémon Festa 10
 Pokémon Festa 11
@@ -106,4 +106,4 @@ POKÉPARK 17
 POKÉPARK 18
 POKÉPARK 19
 POKÉPARK 20
-Event Site
+Luogo degli eventi
