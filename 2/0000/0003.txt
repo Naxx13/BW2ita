@@ -51,11 +51,11 @@ Match Casuale, Valutazione\xfffeDoppio
 Match Casuale, Valutazione\xfffeTriplo
 Match Casuale, Valutazione\xfffeRotazione
 Match Casuale, Valutazione\xfffeInizia battaglia 
-Torneo Singolo\xfffeシューターなし
-Torneo Singolo\xfffeシューターあり
-Torneo Singolo\xfffeシューターなし
-Torneo Singolo\xfffeシューターあり
-Torneo Singolo\xfffeシューターなし
-Torneo Singolo\xfffeシューターあり
-Torneo a Rotazione\xfffeシューターなし
-Torneo a Rotazione\xfffeシューターあり
+Torneo Singolo\xfffe nessun tiratore
+Torneo Singolo\xfffeCi Shooter
+Torneo Singolo\xfffeCi Shooter
+Torneo Singolo\xfffeCi Shooter
+Torneo Singolo\xfffeCi Shooter
+Torneo Singolo\xfffeCi Shooter
+Torneo a Rotazione\xfffenessun tiratore
+Torneo a Rotazione\xfffeCi Shooter
