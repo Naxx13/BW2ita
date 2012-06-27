@@ -1,44 +1,44 @@
 MATCH UP
 NO. 1
 BAD MATCHUP
-PREPARATION
-WINS
-NO MATCH
+Preparazione
+Vittoria
+Nessuna Lotta
 SPIRIT
-CRITICAL HIT
+Brutto colpo
 ACE CARD
-COME ON
-NO EFFECT
-ATTACK
+Forza
+Nessun effetto
+Attacco
 SURRENDER
-COURAGE
-TALENT
-STRATEGY
+Coraggio
+Talento
+Srategia
 MATCH
-VICTORY
+Vttoria
 SENSE
 VERSUS
-FIGHTS
-POWER
+Lotta
+Forza
 CHALLENGE
 CHAMPION
-STRONG
-TAKE IT EASY
+Forza
+Prendi è semplice
 FOE
 GENIUS
 LEGEND
-TRAINER
+Allenatore
 GOOD MATCHUP
-BATTLE
-EMERGENCY
-FIGHT
-REVIVE
-POINTS
+Lotta
+Emergenza
+Lotta
+Revitalizzante
+Punti
 SERIOUS
-LOSS
+Perse
 PARTNER
-INVINCIBLE
-EASY
+Invincibile
+Facile
 WEAK
-EASY WIN
-MOVE
+Vittoria facile
+Muovi
