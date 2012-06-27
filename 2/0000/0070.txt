@@ -1,17 +1,17 @@
-MAILBOX
+CASELLA DI POSTA
 \xf000Ȁ\x0001\x0000
 ／
-CANCEL
-CONFIRM
-READ
-ERASE
-GIVE
-CANCEL
-What would you like to do with\xfffe\xf000Ā\x0001\x0000's Mail?
-The message will be lost.\xfffeIs that OK?
-The message was erased.
-Let a Pokémon hold this Mail?
-The Mail's message was erased,\xfffeand it was put in the Bag.
-Your Bag is full...\xfffeThe Mail was discarded.
-YES
+ANNULLA
+CONFERMA
+LEGGI
+CANCELLA
+DAI
+ANNULLA
+Che messaggio vorresti dare con\xfffela Lettera di \xf000Ā\x0001\x0000?
+Il messaggio verrà perso.\xfffeVa bene?
+Il messaggio è stato cancellato.
+Fai tenere la Lettera ad un Pokémon?
+Il messaggio è stato cancellato,\xfffee la lettera rimessa in Borsa.
+La Borsa è piena...\xfffeLa Lettera è stata gettata.
+SI
 NO
