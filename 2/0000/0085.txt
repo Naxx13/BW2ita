@@ -1,3 +1,3 @@
-Mic Test
-Say something into\xfffethe microphone.\xfffeThe Pokémon will start singing\xfffeif it's working.
-\xf000봂\x0000Back
+Test Microfono
+Parla \xfffeNel microfono.\xfffeIl pokemon ha iniziato a cantare\xfffeFunziona!.
+\xf000봂\x0000indietro
