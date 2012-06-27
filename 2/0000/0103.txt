@@ -1,5 +1,5 @@
-\xf000Ā\x0001\x0000has joined.
-Would you like to stop drawing?
+\xf000Ā\x0001\x0000 è entrato.
+Vuoi smettere di disegnare?
 \xf000Ā\x0001\x0000さんが　かえりました
 リーダーの　\xf000Ā\x0001\x0000さんが\xfffeぬけたので　かいさん　します\xf000븂\x0001<
 リーダーが　やめると　かいさんに\xfffeなりますが　よろしいですか？
@@ -11,6 +11,6 @@ Would you like to stop drawing?
 これで　よろしい　ですか？
 あたらしく　サインを\xfffeかきなおしますか？
 おわる
-Joined a drawing session!
-Yes
+Ti sei unito ad un sessione di disegno!
+Sì
 No
