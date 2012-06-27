@@ -1,98 +1,98 @@
-Linked with\xfffe\xf000Ā\x0001\x0000's world!
-Linked with\xfffe\xf000Ā\x0001\x0000's world!
-Linked with\xfffe\xf000Ā\x0001\x0000's world!
-Linked with\xfffe\xf000Ā\x0001\x0000's world!
-\xf000Ā\x0001\x0000 is in the High-Link.
-\xf000Ā\x0001\x0001 is in the High-Link.
-\xf000Ā\x0001\x0002 is in the High-Link.
-\xf000Ā\x0001\x0003 is in the High-Link.
-Able to enter\xfffe\xf000Ā\x0001\x0000's world.
-Able to enter\xfffe\xf000Ā\x0001\x0000's world.
-Able to enter\xfffe\xf000Ā\x0001\x0000's world.
-Able to enter\xfffe\xf000Ā\x0001\x0000's world.
-\xf000Ā\x0001\x0000 returned to the High-Link.
-\xf000Ā\x0001\x0001 returned to the High-Link.
-\xf000Ā\x0001\x0002 returned to the High-Link.
-\xf000Ā\x0001\x0003 returned to the High-Link.
-\xf000Ā\x0001\x0000 left the High-Link.
-\xf000Ā\x0001\x0001 left the High-Link.
-\xf000Ā\x0001\x0002 left the High-Link.
-\xf000Ā\x0001\x0003 left the High-Link.
-Communications ended.
-\xf000Ā\x0001\x0000 came to town!
-\xf000Ā\x0001\x0001 came to town!
-\xf000Ā\x0001\x0002 came to town!
-\xf000Ā\x0001\x0003 came to town!
-In \xf000Ā\x0001\x0000's High-Link.
-In \xf000Ā\x0001\x0001's High-Link.
-In \xf000Ā\x0001\x0002's High-Link.
-In \xf000Ā\x0001\x0003's High-Link.
-\xf000Ā\x0001\x0000 entered \xf000Ā\x0001\x0001's\xfffeEntralink.
-\xf000Ā\x0001\x0000 returned\xfffeto the Entralink.
-Connected to \xf000Ā\x0001\x0000's world!
-\xf000Ā\x0001\x0000 left\xfffefor the home Entralink.
-The mission will begin soon. Please\xfffetap JOIN if you want to participate.
-The mission will begin soon...\xfffePlease wait a moment.
-Seems busy with a mission...
-The mission is complete.
-The mission failed...
-\xf000Ā\x0001\x0000 received Pass Power\xfffefrom \xf000Ā\x0001\x0001's Entralink.
-\xf000Ā\x0001\x0000 received Pass Power\xfffefrom the Entralink.
-This is where \xf000Ā\x0001\x0000 is.
-Connecting to \xf000Ā\x0001\x0000's world...\xfffePlease wait a moment.
-Connecting to \xf000Ā\x0001\x0000's and\xfffe\xf000Ā\x0001\x0001's world... Please wait a moment.
-「↑」: \xf000Ā\x0001\x0000 is this way!
-「↓」: \xf000Ā\x0001\x0000 is this way!
-「→」: \xf000Ā\x0001\x0000 is this way!
-「←」: \xf000Ā\x0001\x0000 is this way!
-「?」: \xf000Ā\x0001\x0000's presence disappeared.\xfffe   Must be hiding somewhere around here.
-You've never been here before.
-Someone is nearby,\xfffevisiting your world.
-Someone is visiting\xfffeyour world.
-Connecting... Searching for someone\xfffenear your Entralink.
-Someone is visiting\xfffeyour world.
-Another person's world\xfffeis about to disappear.
-\xf000Ā\x0001\x0000 is battling here.
+Collegato con il mondo di \xfffe\xf000Ā\x0001\x0000!
+Collegato con il mondo di \xfffe\xf000Ā\x0001\x0000!
+Collegato con il mondo di \xfffe\xf000Ā\x0001\x0000!
+Collegato con il mondo di \xfffe\xf000Ā\x0001\x0000!
+\xf000Ā\x0001\x0000 è nell'Intramondo.
+\xf000Ā\x0001\x0001 è nell'Intramondo.
+\xf000Ā\x0001\x0002 è nell'Intramondo.
+\xf000Ā\x0001\x0003 è nell'Intramondo.
+In grado di entrare nel mondo di \xfffe\xf000Ā\x0001\x0000.
+In grado di entrare nel mondo di \xfffe\xf000Ā\x0001\x0000.
+In grado di entrare nel mondo di \xfffe\xf000Ā\x0001\x0000.
+In grado di entrare nel mondo di \xfffe\xf000Ā\x0001\x0000.
+\xf000Ā\x0001\x0000 è ritornato nell'Intramondo.
+\xf000Ā\x0001\x0001 è ritornato nell'Intramondo.
+\xf000Ā\x0001\x0002 è ritornato nell'Intramondo.
+\xf000Ā\x0001\x0003 è ritornato nell'Intramondo.
+\xf000Ā\x0001\x0000 ha lasciato l'Intramondo.
+\xf000Ā\x0001\x0001 ha lasciato l'Intramondo.
+\xf000Ā\x0001\x0002 ha lasciato l'Intramondo.
+\xf000Ā\x0001\x0003 ha lasciato l'Intramondo.
+Communicazione conclusa.
+\xf000Ā\x0001\x0000 è arrivato in città!
+\xf000Ā\x0001\x0001 è arrivato in città!!
+\xf000Ā\x0001\x0002 è arrivato in città!!
+\xf000Ā\x0001\x0003 è arrivato in città!!
+Nell'Intramondo di \xf000Ā\x0001\x0000.
+Nell'Intramondo di \xf000Ā\x0001\x0001.
+Nell'Intramondo di \xf000Ā\x0001\x0002.
+Nell'Intramondo di \xf000Ā\x0001\x0003.
+\xf000Ā\x0001\x0000 è entrato nell'Intramondo\xfffedi \xf000Ā\x0001\x0001.
+\xf000Ā\x0001\x0000 è ritornato\xfffenell'Intramondo.
+Connesso con il mondo di \xf000Ā\x0001\x0000!
+\xf000Ā\x0001\x0000 è partito\xfffeper il proprio Intermondo.
+La missione comincerà a breve. Per favore\xfffepremi PARTECIPA se vuoi partcipare.
+La missione comincerà a breve..\xfffeAttendi un secondo.
+Sembra occupato con una missione...
+La missione è stata completata.
+La missione è fallita...
+\xf000Ā\x0001\x0000 ha ricevuto il Passapoteri\xfffedall'Intramondo di \xf000Ā\x0001\x0001.
+\xf000Ā\x0001\x0000 ha ricevuto il Passapoteri\xfffedall'Intramondo.
+QUesto è il posto dove si trova \xf000Ā\x0001\x0000.
+Connessione in corso al mondo di \xf000Ā\x0001\x0000...\xfffeAttendi un secondo.
+Connessione in cordo al mondo di \xf000Ā\x0001\x0000  \xfffe\e di xf000Ā\x0001\x0001... Attendi un secondo.
+「↑」: \xf000Ā\x0001\x0000 si trova da questa parta!
+「↓」: \xf000Ā\x0001\x0000 si trova da questa parte!
+「→」: \xf000Ā\x0001\x0000 si trova da questa parte!
+「←」: \xf000Ā\x0001\x0000 si trova da questa parte!
+「?」: La presenza di \xf000Ā\x0001\x0000 è scomparsa.\xfffe   Deve essere nascosto da qualche parte qui intorno.
+Non sei mai stato qui prima.
+Qualcuno è vicino,\xfffesta visitando il tuo mondo
+QUalcuno sta visitando\xfffeil tuo mondo.
+Connessione in corso... In ricerca di qualcuno\xfffevicino al tuo Intramondo.
+Qualcuno sta visitando\xfffeil tuo mondo.
+Il mondo di un'altra persona\xfffesta per scomparire.
+\xf000Ā\x0001\x0000 sta combattendo qui.
 まもなく　フェスミッションを　かいしします\xfffeしばらく　おまちください
-Tap where the adventurer is\xfffeto warp to that place.
-Tap where the adventurer is\xfffeto warp to that place.
-Tap where the adventurer is\xfffeto warp to that place.
-Tap where the adventurer is\xfffeto warp to that place.
-Tap where you want to hide the item\xfffeto warp to that place.
-Tap where the adventurer is\xfffeto warp to that place.
-On a mission.
-Coming to play in \xf000Ā\x0001\x0000's world.
-Coming to play in \xf000Ā\x0001\x0000's world.
-Coming to play in \xf000Ā\x0001\x0000's world.
-Coming to play in \xf000Ā\x0001\x0000's world.
-Tap it to go to the Entralink.
-OWN WORLD
-\xf000Ā\x0001\x0000'S WORLD
-JOIN
-BACK
-You're not connected to anyone,\xfffeso you can't go any further.
-Connections linked.
-Checked your own Entrance Tree.
-Checked \xf000Ā\x0001\x0000's\xfffeEntrance Tree.
-Connected to \xf000Ā\x0001\x0000's\xfffeWhite High-Link!
-Connected to \xf000Ā\x0001\x0000's\xfffeBlack High-Link!
-Linked with \xf000Ā\x0001\x0000's\xfffeHigh-Link!
-Returned to your own world\xfffeand assumed your original form!
-You're on a mission, so you\xfffecan't go to other High-Links!
-You're on a mission, so you\xfffecan't go to other High-Links!
-Entered \xf000Ā\x0001\x0000's world\xfffeand changed form!
-...Still unable to\xfffelink with any worlds.
-Please wait on the bridge\xfffeuntil a partner is found.
-You can return to\xfffeyour original world from here.\xf000븁\x0000Return to your\xfffeoriginal world?
-Communications halted.
-Your partner's world vanished, and\xfffeyou returned to your own High-Link.
-Mission failed!\xfffeWent too far ahead...\xf000븁\x0000Your partner's world vanished, and\xfffeyou returned to your own High-Link.
-Mission failed!\xfffeRan out of time...\xf000븁\x0000Your partner's world vanished, and\xfffeyou returned to your own High-Link.
-You were abruptly returned\xfffeto your own High-Link!\xf000븁\x0000...It seems the High-Link you were\xfffeconnected to vanished.
-You were abruptly returned\xfffeto your own High-Link!\xf000븁\x0000...It seems the High-Link you were\xfffeconnected to vanished.
-Mission failed!\xfffeYour partner disappeared...\xf000븁\x0000Your partner's world vanished, and\xfffeyou returned to your own High-Link.
-Mission failed!\xfffeYour partner declined...\xf000븁\x0000Your partner's world vanished, and\xfffeyou returned to your own High-Link.
-Mission restarted!\xfffeTime: Sixty seconds!
-\xf000Ā\x0001\x0000 warped\xfffeto the High-Link!\xf000븁\x0000
-You can't warp to\xfffethe High-Link here!
-A mission to help yourself\xfffehas begun, so you will\xf000븀\x0000return to your own world.\xf000븁\x0000
+Premi dove si trova l'avventuriero\xfffeper spostarti in quel luogo.
+Premi dove si trova l'avventuriero\xfffeper spostarti in quel luogo.
+Premi dove si trova l'avventuriero\xfffeper spostarti in quel luogo.
+Premi dove si trova l'avventuriero\xfffeper spostarti in quel luogo.
+Premi dove vuoi nascondere l'oggetto\xfffeper spostarti in quel luogo.
+Premi dove si trova l'avventuriero\xfffeper spostarti in quel luogo.
+In missione.
+In arrivo a giocare nel mondo di \xf000Ā\x0001\x0000.
+In arrivo a giocare nel mondo di \xf000Ā\x0001\x0000.
+In arrivo a giocare nel mondo di \xf000Ā\x0001\x0000.
+In arrivo a giocare nel mondo di \xf000Ā\x0001\x0000.
+Premi per entrare nell'Intramondo.
+IL TUO MONDO
+IL MONDO DI \xf000Ā\x0001\x0000
+PARTECIPA
+RITORNA
+Non sei connesso a nessuno,\xfffequindi non puoi andare avanti.
+Connessoione stabilita.
+Controlla il tuo Albero d'Entrata.
+Controlla l'Albero d'Entrata\xfffedi \xf000Ā\x0001\x0000.
+Connesso all'Intramondo Bianco\xfffedi \xf000Ā\x0001\x0000!
+Connesso all'Intramondo Nero\xfffedi \xf000Ā\x0001\x0000!
+Collegato con l'Intramondo\xfffedi \xf000Ā\x0001\x0000!
+Sei ritornato al tuo mondo\xfffee hai assunto la tua forma originale!
+Sei in missione, quindi\xfffenon puoi andare in altri Intramondi!
+Sei in missione, quindi\xfffenon puoi andare in altri Intramondo!
+Sei entrato nell'Intramondo\xfffedi \xf000Ā\x0001\x0000\xfffe hai cambiato forma!
+...Ancora impossibile\xfffecollegarsi con altri mondo.
+Attendi sul ponte\xfffeche sia trovato un compagno.
+Puoi ritornare\xfffeal tuo mondo originario da qui.\xf000븁\x0000Vuoi ritornare al tuo\xfffemondo originario?
+Connessione interrotta.
+Il mondo del tuo compagno è sparito, e\xfffesei ritornato al tuo Intramondo.
+Missione fallita!\xfffeSei andato troppo avanti...\xf000븁\x0000Il mondo del tuo compagno è sparito, e\xfffesei ritornato al tuo Intramondo.
+MMissione fallita!\xfffeSei andato fuori tempo...\xf000븁\x0000Il mondo del tuo compagno è sparito, e\xfffesei ritornato al tuo Intramondo.
+Sei stato inaspettatamente riportato\xfffeal tuo Intramondo!\xf000븁\x0000...Sembra che l'Intramondo a cui\xfffeeri connesso sia scomparso.
+Sei stato inaspettatamente riportato\xfffeal tuo Intramondo!\xf000븁\x0000...Sembra che l'Intramondo a cui\xfffeeri connesso sia scomparso.
+Missione fallita!\xfffeIl tuo compagno è scomparso...\xf000븁\x0000Il mondo del tuo compagno è sparito, e\xfffesei ritornato al tuo Intramondo.
+Missione fallita!\xfffeIl tuo compagno se n'è andato...\xf000븁\x0000Il mondo del tuo compagno è sparito, e\xfffesei ritornato al tuo Intramondo.
+Missione ricominciata!\xfffeTempo: Sessanta secondi!
+\xf000Ā\x0001\x0000 è entrato\xfffenell'Intramondo!\xf000븁\x0000
+Non puoi entrare\xfffenell'Intramondo qui!
+Ha avuto inizio una missione\xfffeper aiutarsi, quindi ritornerai\xf000븀\x0000al tuo mondo.\xf000븁\x0000
