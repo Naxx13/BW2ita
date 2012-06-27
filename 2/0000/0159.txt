@@ -19,10 +19,10 @@ AGGIUNGI NUOVI MESSAGGI
 SELEZIONA
 ELIMINA
 ESCI
-Registered message list:\xfffePlease select the message\xfffeyou want to use.
+Elenco dei messaggi registrati:\xfffePerfavore seleziona il messaggio\xfffeche vuoi usare.
 Please choose a message type\xfffeor the place you want\xfffeyour word or phrase to go.
-Please choose where you want\xfffeyour word or phrase to be placed.
-GROUP MODE:\xfffePlease choose a word or phrase\xfffefrom the group.
-ABC MODE:\xfffePlease choose a letter to\xfffenarrow down your choices.
+Perfavore scegli dove\xfffeil tuo mesaggio o parola deve essere posizionato.
+Modalità di Gruppo:\xfffePerfavore scegli la frase o il mesaggio\xfffedal gruppo.
+Modalità ABC:\xfffePerfavore seleziona la lettera\xfffeda scegliere.
 ABC MODE:\xfffePlease choose a word or phrase\xfffefrom the narrowed-down list.
 GROUP MODE:\xfffePlease choose a group of words\xfffeor phrases that'll go in that place.
