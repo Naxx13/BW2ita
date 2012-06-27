@@ -192,113 +192,113 @@ Pokémon Lungacoda
 Pokémon Seme
 Pokémon Sole
 Pokémon Alachiara
-Pokémon Pez Agua
-Pokémon Pez Agua
-Pokémon Sol
-Pokémon Luz Lunar
-Pokémon Oscuridad
-Pokémon Regio
-Pokémon Chirrido
+Pokémon Acquapesce
+Pokémon Acquapesce
+Pokémon Sole
+Pokémon Lucelunare
+Pokémon Oscurità
+Pokémon Reale
+Pokémon Strido
 Pokémon Símbolo
-Pokémon Paciente
-Pokémon Grancuello
+Pokémon Pazienza
+Pokémon Lungocollo
 Pokémon Larva
 Pokémon Larva
-Pokémon Serptierra
-Pokémon Escorpiala
-Pokémon Serpférrea
-Pokémon Hada
-Pokémon Hada
-Pokémon Globo
-Pokémon Tenaza
-Pokémon Moho
-Pokémon Unicornio
-Pokémon Garra Filo
-Pokémon Osito
-Pokémon Hibernante
+Pokémon Terraserpe
+Pokémon Aliscorpio
+Pokémon Ferroserpe
+Pokémon Fata
+Pokémon Fata
+Pokémon Pallone
+Pokémon Chele
+Pokémon Muffa
+Pokémon Monocorno
+Pokémon Lamartigli
+Pokémon Orsetto
+Pokémon Letargo
 Pokémon Lava
 Pokémon Lava
-Pokémon Cerdo
-Pokémon Puerco
-Pokémon Coral
-Pokémon Reactor
-Pokémon Reactor
-Pokémon Reparto
-Pokémon Milano
-Pokémon Coraza Ave
-Pokémon Siniestro
-Pokémon Siniestro
-Pokémon Dragón
-Pokémon Narizotas
-Pokémon Coraza
-Pokémon Virtual
-Pokémon Grancuerno
-Pokémon Pintor
-Pokémon Peleón
-Pokémon Boca Abajo
-Pokémon Beso
-Pokémon Eléctrico
-Pokémon Ascuas
-Pokémon Lechera
-Pokémon Felicidad
-Pokémon Trueno
-Pokémon Volcán
+Pokémon Maiale
+Pokémon Suino
+Pokémon Corallo
+Pokémon Jet
+Pokémon Jet
+Pokémon Consegna
+Pokémon Aquilone
+Pokémon Armuccello
+Pokémon Buio
+Pokémon Buio
+Pokémon Drago
+Pokémon Nasone
+Pokémon Armatura
+Pokémon Virtuale
+Pokémon Grancorno
+Pokémon Pittore
+Pokémon Baruffa
+Pokémon Verticale
+Pokémon Bacio
+Pokémon Elettrico
+Pokémon Carbonvivo
+Pokémon Bovino
+Pokémon Felicità
+Pokémon Tuono
+Pokémon Vulcano
 Pokémon Aurora
-Pokémon Piel Roca
-Pokémon Caparazón
-Pokémon Coraza
-Pokémon Buceo
-Pokémon Arco Iris
-Pokémon Viajetiempo
-Pokémon Geco Bosque
-Pokémon Geco Bosque
-Pokémon Monte
-Pokémon Polluelo
-Pokémon Ave Corral
-Pokémon Llameante
-Pokémon Pez Lodo
-Pokémon Pez Lodo
-Pokémon Pez Lodo
-Pokémon Mordisco
-Pokémon Mordisco
-Pokémon Mapachito
-Pokémon Lanzado
-Pokémon Gusano
-Pokémon Capullo
-Pokémon Mariposa
-Pokémon Capullo
-Pokémon Polilla V.
+Pokémon Peldisasso
+Pokémon Guscioduro
+Pokémon Armatura
+Pokémon Immersione
+Pokémon Arcobaleno
+Pokémon Tempovia
+Pokémon Legnogeco
+Pokémon Legnogeco
+Pokémon Foresta
+Pokémon Pulcino
+Pokémon Rampollo
+Pokémon Vampe
+Pokémon Fango Pesce
+Pokémon Fango Pesce
+Pokémon Fango Pesce
+Pokémon Morso
+Pokémon Morso
+Pokémon Procione
+Pokémon Sfrecciante
+Pokémon Baco
+Pokémon Bozzolo
+Pokémon Farfalla
+Pokémon Bozzolo
+Pokémon Velentarma
 Pokémon Alga
-Pokémon Alegre
-Pokémon Optimista
-Pokémon Bellota
-Pokémon Astuto
-Pokémon Malvado
-Pokémon Pequebuche
-Pokémon Buche
-Pokémon Gaviota
-Pokémon Ave Agua
-Pokémon Sensible
-Pokémon Sensorio
-Pokémon Envolvente
-Pokémon Zapatero
-Pokémon Globocular
-Pokémon Hongo
-Pokémon Hongo
-Pokémon Gandul
-Pokémon Mono Feroz
-Pokémon Holgazán
-Pokémon Aprendiz
+Pokémon Giocoso
+Pokémon Spensierato
+Pokémon Ghianda
+Pokémon Scaltro
+Pokémon Burbero
+Pokémon Rondine
+Pokémon Rondine
+Pokémon Gabbiano
+Pokémon Alacquatico
+Pokémon Sensazione
+Pokémon Emozione
+Pokémon Abbraccio
+Pokémon Sfiorapozze
+Pokémon Occhi
+Pokémon Fungo
+Pokémon Fungo
+Pokémon Ozioso
+Pokémon Inodcile
+Pokémon Pigrizia
+Pokémon Novizio
 Pokémon Ninja
-Pokémon Muda
-Pokémon Susurro
-Pokémon Chillón
-Pokémon Escandaloso
-Pokémon Valiente
-Pokémon Empuje
-Pokémon A Topos
-Pokémon Brújula
-Pokémon Gatito
+Pokémon Cambiapelle
+Pokémon Sussurro
+Pokémon Vocione
+Pokémon Fragore
+Pokémon Coraggio
+Pokémon Sberletese
+Pokémon Pois
+Pokémon Bussola
+Pokémon Micio
 Pokémon Cursi
 Pokémon Oscuridad
 Pokémon Tramposo
