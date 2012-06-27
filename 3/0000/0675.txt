@@ -2,14 +2,14 @@ Benvenuti al Centro Globale!\xf000븁\x0000
 Vuoi usare la\xfffeNintendo Wi-Fi Connection?
 Grazie, torna a trovarci.
 Connetti alla Nintendo Wi-Fi Connection?
-Guarda qui！\xf000븁\x0000
+Guarda qui！\xf000byub\x0000
 Nel Centro Globale, puoi lottare o\xfffescambiare Pokémon con Pokémon fans da\xf000븁\x0000\xfffetutto il mondo connettendoti alla\xfffeNintendo Wi-Fi Connection.\xf000븁\x0000\xfffePer ulteriori dettagli, ascolta la\xfffespiegazione ad ogni impianto.
 Quest'area è in costruzione.\xfffeTorna più tardi.
 Non hai\xfffePokémon
 Si è verificato un errore di comunicazione.
 Random Matchup
 Scambio Globale
-ミュージカルショット
+colpo Musical
 Video Battaglie
 Info
 Cancella
@@ -23,17 +23,17 @@ Vuoi effettuare uno scambio GTS?
 Scambia
 Info
 Indietro
-You may trade Pokémon in two ways when\xfffe using GTS.\xf000븁\x0000\xfffeYou may offer a Pokémon for trade\xfffeor search among offered Pokémon.
-Should I describe things in\xfffegreater detail?
-You will be asked to put up the\xfffePokémon you are offering to trade.\xf000븁\x0000\xfffeAt that time, you will be asked what\xfffePokémon you would like in return.\xf000븁\x0000\xfffeIf the other player offers your desired\xfffePokémon in return for your offered\xf000븁\x0000\xfffePokémon, the trade will go through.\xf000븁\x0000
-You may search among the Pokémon\xfffethat are offered by other Trainers.\xf000븁\x0000\xfffeThey will identify what Pokémon\xfffetheir Trainers want back in return.\xf000븁\x0000\xfffeIf you find one that you want, you\xfffemust provide us with the kind of\xf000븁\x0000\xfffePokémon wanted in return.\xf000븁\x0000
+Si possono scambiare Pokémon in due modi, quando\xfffe utilizzando la  GTS.\xf000븁\x0000\xfffeSi può offrire un Pokémon per il commercio di ricerca \ xfffeor tra Pokémon offerti.
+Dovrei descrivere le cose in dettaglio xfffegreater \?
+Vi verrà chiesto di mettere la\xfffePokémon si offrono al commercio.\xf000븁\x0000\xfffeAt that time, you will be asked what\xfffePokémon you would like in return.\xf000븁\x0000\xfffeIf the other player offers your desired\xfffePokémon in return for your offered\xf000븁\x0000\xfffePokémon, the trade will go through.\xf000븁\x0000
+Puoi cercare tra i Pokémon\xfffethat are offered by other Trainers.\xf000븁\x0000\xfffeThey will identify what Pokémon\xfffetheir Trainers want back in return.\xf000븁\x0000\xfffeIf you find one that you want, you\xfffemust provide us with the kind of\xf000븁\x0000\xfffePokémon wanted in return.\xf000븁\x0000
 Offri Pokémon?
 Cerchi Pokémon?
 Understood
 Vuoi iniziare\xfffePokémon GTS Negotiations?
 Start Negotiations
 Info
-Back
+indietro
 In GTS Negotiations, you set the trading\xfffeconditions based on what kinds of\xf000븁\x0000\xfffePokémon you'd like to trade.\xf000븁\x0000\xfffeIf you find a person with matching\xfffeconditions, you may proceed to a\xf000븁\x0000\xfffeNegotiation Trade with that person.\xf000븁\x0000\xfffeIn order to trade, you need to have two\xfffeor more Pokémon in your party.\xf000븁\x0000
 Should I describe things in\xfffegreater detail?
 In a Negotiation Trade, each person\xfffeoffrono tre Pokèmon da scambiare.\xf000븁\x0000\xfffeThen, each person will choose one of the\xfffeother person's three Pokémon.\xf000븁\x0000
