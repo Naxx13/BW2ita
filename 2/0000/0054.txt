@@ -19,7 +19,7 @@ Il tuo nome è \xf000Ā\x0001\x0000?\xf000븁\x0000
 Il tuo nome è \xf000Ā\x0001\x0000?\xf000븁\x0000
 Si
 No
-Così è il tuo nome è \xf000Ā\x0001\x0000.\xfffeChe nome meraviglioso!\xf000븁\x0000
+Così ti chiami \xf000Ā\x0001\x0000.\xfffeChe nome meraviglioso!\xf000븁\x0000
 それでは　あなたと　いつも\xfffeいっしょに　いる　おともだちを\xf000븀\x0000\xfffeあらためて　しょうかい　するわね\xf000븁\x0000
 それでは　つぎは　あなたの\xfffeしりあいに　ついて　きかせてね\xf000븀\x0000\xfffeきんじょの　おにいさん　なんでしょ\xf000븁\x0000
 かれの　なまえも\xfffeおしえてくれるかな\xf000븁\x0000
