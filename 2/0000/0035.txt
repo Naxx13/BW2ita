@@ -1,7 +1,7 @@
-Let's Dress Up \xf000Ă\x0001\x0000\xfffewith Props!
-Is this look OK?
-Waiting for other participants\xfffeto Dress Up.
-\xf000Ċ\x0001\x0000: A Prop that looks\xfffenice on the \xf000ı\x0001\x0001.
-Props that look nice on the \xf000ı\x0001\x0000\xfffewere sorted at the beginning.
-The order of Props was\xffferestored to the original order.
-You can pull out Props from the list\xfffeand put them on your Pokémon.
+Vestiamo \xf000Ă\x0001\x0000\xfffecon degli oggetti di scena!
+Così ti sembra OK?
+Attendi che gli altri partecipanti \xfffeto si vestano.
+\xf000Ċ\x0001\x0000: Un oggetto di scena che sembra\xfffecarino sul \xf000ı\x0001\x0001.
+Gli oggetti di scena che sembrano carini su \xf000ı\x0001\x0000\xfffesono stati selezionati come primi.
+L'ordine degli oggetti di scena\xfffe è stato ripristinato a quello originale.
+Puoi tirar fuori oggetti di scena dalla lista\xfffeand e farli indossare ai tuoi pokémon.
