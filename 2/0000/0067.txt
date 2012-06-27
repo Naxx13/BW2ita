@@ -4,21 +4,21 @@ KEY COMMUNICATION
 SET KEY
 KEYS ARE:
 CHANGE MODE
-CHANGE CITY/FOREST
+CAMBIA CITTÁ/FORESTA
 CANCEL
 ASSIST MODE
 NORMAL MODE
 CHALLENGE MODE
-BLACK CITY
-WHITE FOREST
+CITTÁ NERA
+FORESTA BIANCA
 KEYS ARE:
 ASSIST KEY
 KEY CHALLENGES
 KEY TO SKYSCRAPER
 KEY TO FOREST
-POCKET MONSTERS BLACK 2 or\xfffePOCKET MONSTERS WHITE 2\xfffeKeys can be sent and or recieved\xfffeusing the above configurations.
+Pokémon Versione Nera 2 o\xfffePokémon Versione Bianca 2\xfffeKeys can be sent and or recieved\xfffeusing the above configurations.
 Using this setting you can check,\xfffechange, or recieve keys.
-Back to the MAIN MENU.
+Torna al MENÚ PRINCIPALE.
 Searching for Nintendo DS\xfffeto communicate with...
 CURRENTLY SET:\xfffeASSIST MODE, the easiest.
 CURRENTLY SET:\xfffeNORMAL MODE, moderately difficult.
@@ -63,31 +63,31 @@ ASSIST KEY is locked.
 CHALLENGE KEY is locked.
 FOREST KEY is locked.
 KEY is locked.
-Yes
+Si
 No
-Do you want to use\xfffeInfraRed communication?
+Vuoi usare la\xfffecomunicazione ad Infrarossi?
 Can't be set.
 KEY SYSTEM
 MEMORY LINK
-CANCEL
-POCKET MONSTERS BLACK 2 or\xfffePOCKET MONSTERS WHITE 2\xfffeKey will be sent.
-POCKET MONSTERS BLACK 2 or\xfffePOCKET MONSTERS WHITE 2\xfffeCan be linked.
-Download Nintendo 3DS software\xfffe"Pokemon AR searcher" to receive\xfffedata and Pokemon directly to a box or\xfffeto your bag.
+CANCELLA
+Pokémon VERSIONE NERA 2 o\xfffePokémon VERSIONE BIANCA 2\xfffeKey will be sent.
+Pokémon VERSIONE NERA 2 o\xfffePokémon VERSIONE BIANCA 2\xfffePuò essere collegata.
+Scarica Nintendo 3DS software\xfffe"RAdar Pokémon" per ricevere\xfffedati e Pokémon al Box o\xfffeal tuo Zaino.
 Return to title screen.
 MEMORY LINK
 WIRELESS COMMUNICATION
 Wi-Fi
-CANCEL
+CANCELLA
 Attempt wireless communication\xfffebetween 2 DS models.
 Find out information on Wi-Fi.
 Go into the MEMORY LINK.
 Back to the MAIN MENU.
-MAIN MENU
+MENÚ PRINCIPALE
 ASSIST MODE can now be used.
 CHALLENGE MODE can now be used.
-WHITE FOREST can now be visited.
-BLACK CITY can now be visited.
-ASSIST KEY obtained! This key can be given to your friends so they can unlock it as well.
+La FORESTA BIANCA può essere visitata ora.
+La CITTÁ NERA può essere visitata ora.
+ASSIST KEY oottenuto! This key can be given to your friends so they can unlock it as well.
 CHALLENGE KEY obtained! This key can be given to your friends so they can unlock it as well.
 FOREST KEY obtained! This key can be given to your friends so they can unlock it as well.
 SKYSCRAPER KEY obtained! This key can be given to your friends so they can unlock it as well.
@@ -120,13 +120,13 @@ STEEL KEY set.
 ICEBERG KEY set.
 MEMORY LINK ID: \xf000?\x0001\x0000
 MEMORY LINK
-POCKET MONSTERS BLACK 2\xfffeMEMORY LINK program
-POCKET MONSTERS WHITE 2\xfffeMEMORY LINK program
+Pokémon VERSIONE NERA 2\xfffeMEMORY LINK program
+Pokémon VERSIONE BIANCA 2\xfffeMEMORY LINK program
 A POCKET MONSTERS BLACK or\xfffePOCKET MONSTERS WHITE\xfffedownloadplay software.\xfffe(MEMORY LINK ID: \xf000?\x0001\x0000)
 A POCKET MONSTERS BLACK or\xfffePOCKET MONSTERS WHITE\xfffedownloadplay software.
 Activated MEMORY LINK\xfffePlease wait...
-Connection to another DS was not successful.\xfffeLink terminated.
-Do you want to use\xfffeWireless Communications?
+Connessione con un altro DS non riuscita.\xfffeCollegamento terminato.
+Vuoi usare la\xfffeComunicazione Wireless?
 Power was not turned off, but\xfffethe MEMORY LINK connection was terminated.
 Can't read MEMORY LINK data.
 MEMORY LINK completed.
@@ -144,35 +144,35 @@ Requested game is busy.\xfffePlease wait a few moments and try again.
 Can't find synch ID.
 THREE CARS
 EACH OF BONE AND DREAM
-SEARCH
+CERCA
 DO NOT STAND
 High-Spirited Question!!
-BLACK AND WHITE
+NERO E BIANCO
 FAREWELL
-FRIEND
-CLOSE
+AMICI
+CHIUDI
 City Restaurant.
 Archeological Museum.
 Oak tree.
-Iris is thinking.
-Incredible town.
+Iris sta pensando.
+Città Incredibile.
 Able to take part in the Pokemon World Tournament.
 Pokemon Musical.
 The Pokemon Breeder in the Pokemon Center is planning something.
 KEY cannot be used.
 NINTENDO 3DS LINK
-Find Pokemon AR Searcher data?
-Connect to Pokemon AR Searcher.
-Finding Pokemon AR Searcher data.
+Trovare dati RAdar Pokémon?
+Connetti con il RAdar Pokémon.
+Ricerca dati RAdar Pokémon in corso.
 \xf000a\x0001\x0000 has arrived!\xf000?\x0000
 Data was written successfully!
-Connection to Pokemon AR Searcher lost.
+Connessione con RAdar Pokémon interrotta.
 Data is coming.
 Initializing communication.\xfffePokemon AR Searcher is reading data...
-Please select a Pokemon.
+Seleziona un Pokémon.
 In order to send, you need to save.
 Couldn't find Nintendo 3DS Pokemon \xfffeAR Searcher channel.
 Nintendo 3DS Pokemon AR Searcher data is not a Pokemon.
-To send to the box please have 6 Pokemon in your party.
-Sending Pokemon to a box.
+Per inviare un Pokémon al Box devi averne 6 in Squadra.
+Invio Pokémon al Box in corso.
 Item being sent to bag.
