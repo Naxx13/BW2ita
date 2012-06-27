@@ -36,14 +36,14 @@ Pulsante A: Inizia avventura
 Pulsante B: Torna al menu
 Accendere il C-Gear?
 Non potrai usare alcune\xfffefunzioni del C-Gear. Va bene?
-The save file will be erased\xfffedue to corruption or damage.
+Il file di salvataggio è danneggiato\xfffedue o è stato eliminato.
 A Battle Video appears to have been\xfffeerased.
-The Skin data for C-Gear\xfffehas been erased.
-The special data for Battle Test\xfffehas been erased.
-The Musical music data\xfffehas been erased.
-The Skin data for Pokédex\xfffehas been erased.
-Your Hall of Fame data\xfffehas been erased.
-Your Mystery Gift data\xfffehas been erased.
+Lo sfondo per il C-Gear\xfffe è stato eliminato.
+Il salvataggio per il Battle Test\xfffeè stato eliminato.
+Il salvataggio del musical\xfffeè stato eliminato.
+Lo sfondo per il Pokèdex\xfffeè stato eliminato.
+Il salvataggio per la Sala D'Onore\xfffeè stato eliminato.
+Il salvataggio per il Dono Segreto\xfffeè stato eliminato.
 きえてしまった　ポケウッドの\xfffeきろくが　あります！
 キーシステムと　おもいでリンクの\xfffeきろくが　きえてしまった！
 きえて　しまった　ＰＷＴの\xfffeきろくが　あります！
