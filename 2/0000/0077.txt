@@ -1,12 +1,12 @@
-Loading...\xfffePlease wait a moment.
-The game inserted is not compatible.\xfffeTurn off the power, insert a\xfffecompatible Game Card, and try again.\xf000븁\x0000
-Saving...\xfffeDon't turn off the power.
-The game has been saved. \xf000븂\x0001<
-The Relocator will close.\xfffePlease turn off the power.
-The saved data could not be accessed.\xfffeThe Relocator will close.\xf000븁\x0000
-Unable to connect to the\xfffeother DS system.\xf000븁\x0000
-Save failed...\xfffeThe Relocator will close.\xf000븁\x0000
-The Relocator is activated.\xfffeSearching for Pokémon...\xfffe\xfffePlease wait a moment.
+Caricamento...\xfffeAttendere prego.
+Il gioco inserito non è compatibile.\xfffeSpegni l'alimentazione, inserisci una\xfffeSchedina di Gioco compatibile, e riporva.\xf000븁\x0000
+Salvataggio...\xfffeNon spegnere l'alimentazione.
+Il gioco è stato salvato. \xf000븂\x0001<
+Il Relocator sarà chiuso.\xfffeSpegnere l'alimentazione grazie.
+I dati salvati potrebbero non essere accessibili.\xfffeIl Relocator sarà chiuso.\xf000븁\x0000
+Impossibile connettersi al\xfffesistema di altri DS.\xf000븁\x0000
+Salvataggio fallito...\xfffeIl Relocator sarà chiuso.\xf000븁\x0000
+Il Relocator è attivo.\xfffeCercando Pokèmon...\xfffe\xfffeAttendere prego.
 レポートを　よみこむことが\xfffeできませんでした\xfffeレポートが　かかれていないか\xfffeこわれている　かのうせいがあります
 ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　てんそうマシンを\xfffeきどうしなおして　ください
 YES
