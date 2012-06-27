@@ -1,88 +1,88 @@
 テスト
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Single Train here.\xf000븁\x0000
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Double Train here.\xf000븁\x0000
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Multi Train here.\xf000븁\x0000
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Wi-Fi Train here.\xf000븁\x0000
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Super Single Train here.\xf000븁\x0000
-Welcome to the Battle Subway.\xf000븁\x0000\xfffeI am sorry, but this Super Single Train is\xfffeonly for those who beat the Single Train.\xf000븁\x0000
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Super Double Train here.\xf000븁\x0000
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeI am sorry, but this Super Double Train\xfffeis only for those who beat\xf000븀\x0000\xfffethe Double Train.\xf000븁\x0000
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeI will guide you to\xfffethe Super Multi Train here.\xf000븁\x0000
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeI am sorry, but this Super Multi Train is\xfffeonly for those who beat the Multi Train.\xf000븁\x0000
+Ti do il benvenuto al Metrò Lotta!\xf000븁\x0000\xfffeDa questo binario parte il treno Lotta in\xfffeSingolo.\xf000븁\x0000
+Ti do il benvenuto al Metrò Lotta!\xf000븁\x0000\xfffeDa questo binario parte il treno Lotta in\xfffeDoppio.\xf000븁\x0000
+Ti do il benvenuto al Metrò Lotta!\xf000븁\x0000\xfffeDa questo binario parte il treno Lotta\xfffeMultipla.\xf000븁\x0000
+Ti do il benvenuto al Metrò Lotta!\xf000븁\x0000\xfffeDa questo binario parte il treno Lotta\xfffeWi-Fi.\xf000븁\x0000
+Ti do il benvenuto al Metrò Lotta!\xf000븁\x0000\xfffeDa questo binario parte il supertreno\xfffeLotta in Singolo.\xf000븁\x0000
+Ti do il benvenuto al Metrò Lotta!\xf000븁\x0000\xfffeSul supertreno Lotta in Singolo possono\xfffesalire solo gli Allenatori che sono usciti\xf000븀\x0000\xfffevincitori dal treno Lotta in Singolo.\xf000븁\x0000
+Ti do il benvenuto al Metrò Lotta!\xf000븁\x0000\xfffeDa questo binario parte il supertreno\xfffeLotta in Doppio.\xf000븁\x0000
+Ti do il benvenuto al Metrò Lotta!\xf000븁\x0000\xfffeSul supertreno Lotta in Doppio possono\xfffesalire solo gli Allenatori che sono usciti\xf000븀\x0000\xfffevincitori dal treno Lotta in Doppio.\xf000븁\x0000
+Ti do il benvenuto al Metrò Lotta!\xf000븁\x0000\xfffeDa questo binario parte il supertreno\xfffeLotta Multipla.\xf000븁\x0000
+Ti do il benvenuto al Metrò Lotta!\xf000븁\x0000\xfffeSul supertreno Lotta Multipla possono\xfffesalire solo gli Allenatori che sono usciti\xf000븀\x0000\xfffevincitori dal treno Lotta Multipla.\xf000븁\x0000
 test
-Currently, \xf000Ā\x0001\x0000 has\xfffewon \xf000ȃ\x0001\x0001 battles in a row.\xf000븁\x0000
-In the Single Train, you will battle\xfffeusing three Pokémon.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor duplicate held items.\xf000븁\x0000\xfffeAll Pokémon will be temporarily set to\xfffeLv. 50 for the battles here.\xf000븁\x0000\xfffeThe Single Train has seven cars, so you\xfffewill fight against seven Trainers.\xf000븁\x0000
-If you manage to defeat all seven,\xfffeyou will arrive at a station and earn\xf000븀\x0000\xfffeBattle Points (BP).\xf000븀\x0000\xfffeGood luck!\xf000븁\x0000\xfffeIf you need a break from your challenge,\xffferemember to save the game!\xf000븁\x0000\xfffeIf you don't save, you'll have to start\xfffethe challenge all over again.\xf000븀\x0000\xfffePlease be aware of that!\xf000븁\x0000
-In the Double Train, you will battle\xfffeusing four Pokémon.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor duplicate held items.\xf000븁\x0000\xfffeAll Pokémon will be temporarily set to\xfffeLv. 50 for the battles here.\xf000븁\x0000\xfffeThe Double Train has seven cars, so you\xfffewill fight against seven Trainers.\xf000븁\x0000
-If you manage to defeat all seven,\xfffeyou will arrive at a station and earn\xf000븀\x0000\xfffeBattle Points (BP).\xf000븀\x0000\xfffeGood luck!\xf000븁\x0000\xfffeIf you need a break from your challenge,\xffferemember to save the game!\xf000븁\x0000\xfffeIf you don't save, you'll have to start\xfffethe challenge all over again.\xf000븀\x0000\xfffePlease be aware of that!\xf000븁\x0000
-In the Multi Train, you and a friend will\xfffeteam up to battle another team of two\xf000븀\x0000\xfffeTrainers. Everyone will use two Pokémon.\xf000븁\x0000\xfffeA team cannot have duplicate Pokémon,\xfffeand the two Pokémon of one Trainer\xf000븀\x0000\xfffecannot hold the same item.\xf000븁\x0000\xfffeAll Pokémon will be temporarily set to\xfffeLv. 50 for the battles here.\xf000븁\x0000\xfffeThe Multi Train has seven cars, so you\xfffewill battle seven pairs of Trainers.\xf000븁\x0000
-If you manage to defeat all seven pairs,\xfffeyou will arrive at a station and earn\xf000븀\x0000\xfffeBattle Points (BP).\xf000븀\x0000\xfffeGood luck!\xf000븁\x0000\xfffeIf you need a break from your challenge,\xffferemember to save the game!\xf000븁\x0000\xfffeIf you don't save, you'll have to start\xfffethe challenge all over again.\xf000븀\x0000\xfffePlease be aware of that!\xf000븁\x0000
-In the Wi-Fi Train, you will battle\xfffeusing three Pokémon.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor held items.\xf000븁\x0000\xfffeAll Pokémon will be temporarily set to\xfffeLv. 50 for the battles here.\xf000븁\x0000\xfffeThe Wi-Fi Train has seven cars, so you\xfffewill fight against seven Trainers.\xf000븁\x0000
-Your opponents will come from around the\xfffeworld via Nintendo Wi-Fi Connection.\xf000븁\x0000\xfffeIf you manage to defeat all seven,\xfffeyou will arrive at a station and earn\xf000븀\x0000\xfffeBattle Points (BP).\xf000븀\x0000\xfffeGood luck!\xf000븁\x0000\xfffeThe Wi-Fi Train has a ranking system.\xf000븁\x0000\xfffeIf you keep winning, your rank will go up,\xfffeand if you lose, it will go down.\xf000븁\x0000\xfffeKeep winning and fight against\xfffestronger opponents.\xf000븁\x0000\xfffeIf you need a break from your challenge,\xffferemember to save the game!\xf000븁\x0000\xfffeIf you don't save, you'll have to start\xfffethe challenge all over again.\xf000븀\x0000\xfffePlease be aware of that!\xf000븁\x0000
-Would you like to board\xfffethe Single Train?
-Would you like to board\xfffethe Double Train?
-Would you like to board\xfffethe Multi Train?
-Would you like to board\xfffethe Wi-Fi Train?
-Would you like to board\xfffethe Super Single Train?
-Would you like to board\xfffethe Super Double Train?
-Would you like to board\xfffethe Super Multi Train?
+Al momento \xf000Ā\x0001\x0000 è alla sua vittoria\xfffeconsecutiva n°\xf000ȃ\x0001\x0001!\xf000븁\x0000
+Sul treno Lotta in Singolo si usano tre\xfffePokémon.\xf000븁\x0000\xfffeI Pokémon in squadra e gli strumenti\xfffedevono essere diversi fra loro.\xf000븁\x0000\xfffeInoltre, tutti i Pokémon che partecipano\xfffealla sfida vengono portati a livello 50.\xf000븁\x0000\xfffeLe lotte si terranno su sette vagoni, in\xfffeognuno dei quali dovrai affrontare\xf000븀\x0000\xfffeun Allenatore.\xf000븁\x0000
+Se riuscirai a batterli tutti e sette,\xfffeil treno arriverà in stazione e otterrai\xf000븀\x0000\xfffedei Punti Lotta, quindi datti da fare!\xf000븁\x0000\xfffeFai attenzione, perché se interromperai\xfffesenza salvare una sfida ancora in corso,\xf000븀\x0000\xfffei progressi fatti fino a quel momento\xf000븀\x0000\xfffeandranno persi!\xf000븁\x0000
+Sul treno Lotta in Doppio si usano\xfffequattro Pokémon.\xf000븁\x0000\xfffeI Pokémon in squadra e gli strumenti\xfffedevono essere diversi fra loro.\xf000븁\x0000\xfffeInoltre, tutti i Pokémon che partecipano\xfffealla sfida vengono portati a livello 50.\xf000븁\x0000\xfffeLe lotte si terranno su sette vagoni, in\xfffeognuno dei quali dovrai affrontare\xf000븀\x0000\xfffeun Allenatore.\xf000븁\x0000
+Se riuscirai a batterli tutti e sette,\xfffeil treno arriverà in stazione e otterrai\xf000븀\x0000\xfffedei Punti Lotta, quindi datti da fare!\xf000븁\x0000\xfffeFai attenzione, perché se interromperai\xfffesenza salvare una sfida ancora in corso,\xf000븀\x0000\xfffei progressi fatti fino a quel momento\xf000븀\x0000\xfffeandranno persi!\xf000븁\x0000
+Sul treno Lotta Multipla, due Allenatori\xfffecon due Pokémon ciascuno cooperano\xf000븀\x0000\xfffeper affrontare la lotta.\xf000븁\x0000\xfffeI Pokémon in squadra e gli strumenti\xfffedevono essere diversi fra loro.\xf000븁\x0000\xfffeInoltre, tutti i Pokémon che partecipano\xfffealla sfida vengono portati a livello 50.\xf000븁\x0000\xfffeLe lotte si terranno su sette vagoni, in\xfffeognuno dei quali dovrai affrontare\xf000븀\x0000\xfffedue Allenatori.\xf000븁\x0000
+Se riuscirai a battere tutte e sette\xfffele coppie di Allenatori, il treno arriverà\xf000븀\x0000\xfffein stazione e otterrai dei Punti Lotta!\xf000븀\x0000\xfffeQuindi, datti da fare!\xf000븁\x0000\xfffeFai attenzione, perché se interromperai\xfffesenza salvare una sfida ancora in corso,\xf000븀\x0000\xfffei progressi fatti fino a quel momento\xf000븀\x0000\xfffeandranno persi!\xf000븁\x0000
+Sul treno Lotta Wi-Fi si usano tre\xfffePokémon.\xf000븁\x0000\xfffeI Pokémon in squadra e gli strumenti\xfffedevono essere diversi fra loro.\xf000븁\x0000\xfffeInoltre, tutti i Pokémon che partecipano\xfffealla sfida vengono portati a livello 50.\xf000븁\x0000\xfffeLe lotte si terranno su sette vagoni, in\xfffeognuno dei quali dovrai affrontare\xf000븀\x0000\xfffeun Allenatore.\xf000븁\x0000
+I tuoi avversari saranno abili Allenatori\xfffedi tutto il mondo collegati tramite la\xf000븀\x0000\xfffeNintendo Wi-Fi Connection.\xf000븁\x0000\xfffeSe riuscirai a batterli tutti e sette,\xfffeil treno arriverà in stazione e otterrai\xf000븀\x0000\xfffedei Punti Lotta!\xf000븁\x0000\xfffeSe ti dai da fare, forse potrai ottenere\xfffeanche tu un posto su quel treno!\xf000븁\x0000\xfffeIl treno Lotta Wi-Fi adotta un sistema\xfffea classifica.\xf000븁\x0000\xfffeGli Allenatori scalano la classifica\xfffese continuano a vincere Lotte Wi-Fi.\xf000븁\x0000\xfffeIn caso di ripetute sconfitte, la loro\xfffeposizione in classifica peggiorerà.\xf000븁\x0000\xfffeContinua a battere Allenatori tosti per\xffferimanere ai primi posti.\xf000븁\x0000\xfffeFai attenzione, perché se interromperai\xfffesenza salvare una sfida ancora in corso,\xf000븀\x0000\xfffei progressi fatti fino a quel momento\xf000븀\x0000\xfffeandranno persi!\xf000븁\x000
+Vuoi salire sul treno Lotta in Singolo?
+Vuoi salire sul treno Lotta in Doppio?
+Vuoi salire sul treno Lotta Multipla?
+Vuoi salire sul treno Lotta Wi-Fi?
+Vuoi salire sul supertreno Lotta in\xfffeSingolo?
+Vuoi salire sul supertreno Lotta in\xfffeDoppio?
+Vuoi salire sul supertreno Lotta\xfffeMultipla?
 test
 おきゃくさま！\xf000븁\x0000\xfffeさんかできる　ポケモンが\xfffe\xf000Ȁ\x0001\x0000ひき　いません\xf000븁\x0000\xfffeさんかするには　しゅるいが　ちがう\xfffeポケモンを　\xf000Ȁ\x0001\x0000ひき　よういし\xf000븀\x0000\xfffeちがう　どうぐに　してください
 test
-Please select the Pokémon you wish\xfffeto enter.\xf000븁\x0000
-Now, please board\xfffethe Single Train!\xf000븁\x0000
-Now, please board\xfffethe Double Train!\xf000븁\x0000
-Now, please board\xfffethe Multi Train!\xf000븁\x0000
-Now, please board\xfffethe Wi-Fi Train!\xf000븁\x0000\xfffeAre you ready?
-Now, please board\xfffethe Super Single Train!\xf000븁\x0000
-Now, please board\xfffethe Super Double Train!\xf000븁\x0000
-Now, please board\xfffethe Super Multi Train!\xf000븁\x0000
-Would you like to save and interrupt\xfffeyour challenge?
-It's good to see you back.\xf000븁\x0000\xfffeWould you like to resume your challenge\xfffeat the Battle Subway?
-Saving...\xfffeDon't turn off the power.
-Now, I will guide you to the place\xfffewhere you interrupted your challenge.\xf000븁\x0000
-Thank you for playing!\xf000븁\x0000\xfffeIf you want to resume your challenge,\xfffeplease visit us again.\xf000븁\x0000
-Saving...\xfffeDon't turn off the power.
-Excuse me!\xf000븁\x0000\xfffeYou didn't save before you quit your\xfffechallenge last time.\xf000븁\x0000\xfffeI am sorry, but you'll have to start\xfffeyour challenge over again.\xf000븁\x0000
-We hope to see you again!
-Board
+Seleziona i Pokémon con cui vuoi\xfffepartecipare.\xf000븁\x0000
+Allora sali pure sul treno Lotta in\xfffeSingolo!\xf000븁\x0000
+Allora sali pure sul treno Lotta in\xfffeDoppio!\xf000븁\x0000
+Allora sali pure sul treno Lotta\xfffeMultipla!\xf000븁\x0000
+Allora sali pure sul treno Lotta Wi-Fi!\xf000븁\x0000\xfffeSei a posto con i preparativi?
+Allora sali pure sul supertreno Lotta in\xfffeSingolo!\xf000븁\x0000
+Allora sali pure sul supertreno Lotta in\xfffeDoppio!\xf000븁\x0000
+Allora sali pure sul supertreno Lotta\xfffeMultipla!\xf000븁\x0000
+Vuoi salvare e interrompere la sfida?
+Ti stavo aspettando!\xf000븁\x0000\xfffeVuoi riprendere la sfida al Metrò Lotta?
+Salvataggio in corso.\xfffeNon spegnere la console.
+Bene, ti farò riprendere dal punto\xfffein cui hai interrotto.\xf000븁\x0000
+Grazie per aver partecipato.\xf000븁\x0000\xfffeTorna pure quando vuoi riprendere la\xfffesfida.\xf000븁\x0000
+Salvataggio in corso. Non spegnere la\xfffeconsole.
+Mi dispiace!\xf000븁\x0000\xfffeL'ultima volta la sfida è stata interrotta\xfffesenza salvare, vero?\xf000븁\x0000\xfffePer questo motivo, la sfida è stata\xfffeannullata. Spiacente!\xf000븁\x0000
+Torna pure quando vuoi!
+Sali
 Info
-Cancel
-Successive records
-Earlier train
-Please select whether to use your\xfffeparty Pokémon or your Battle Box.
-In party
-Box Lotta
-Cancel
-Would you like to communicate with a\xfffefriend and take this challenge together?
-\xf000Ā\x0001\x0000's current rank is \xf000ȁ\x0001\x0001.\xf000븁\x0000
-It's good to see you back.\xf000븁\x0000\xfffeYour previous results were not sent out\xfffeusing Nintendo Wi-Fi Connection.\xf000븀\x0000\xfffeWould you like to send them now?
-Your results were sent out using\xfffeNintendo Wi-Fi Connection!\xf000븁\x0000
-I've downloaded the Rank \xf000ȁ\x0001\x0000\xfffeTrain No. \xf000Ȃ\x0001\x0001's successive records.\xf000븁\x0000\xfffePlease confirm on the Performance\xfffeMonitor outside this platform.\xf000븁\x0000
-Please decide which of you two will\xfffebecome the leader.\xf000븁\x0000\xfffeThe other player must then choose\xfffe“Join group."
-Both Trainers have chosen the\xfffePokémon \xf000ā\x0001\x0000.\xf000븁\x0000\xfffePlease confer with the other Trainer\xfffeand choose different Pokémon.\xf000븁\x0000
-Both Trainers have chosen the Pokémon\xfffe\xf000ā\x0001\x0000 and \xf000ā\x0001\x0001.\xf000븁\x0000\xfffePlease confer with the other Trainer\xfffeand choose different Pokémon.\xf000븁\x0000
-You and the other Trainer have chosen\xfffedifferent trains.\xf000븁\x0000\xfffePlease confer with the other Trainer\xfffeand come back again.\xf000븁\x0000
-Hi! I'm Hilbert!\xf000븁\x0000\xfffeIt's your first time challenging the\xfffeMulti Train, right?\xf000븁\x0000\xfffeWell, you need a partner!\xf000븁\x0000
-Hi! I'm Hilda!\xf000븁\x0000\xfffeYou're challenging the Multi Train for the\xfffefirst time, right?\xf000븁\x0000\xfffeYou can't take this challenge alone.\xfffeYou need a partner!\xf000븁\x0000
-Hi, \xf000Ā\x0001\x0000!\xfffeGood to see you again!\xf000븁\x0000
-Hi, \xf000Ā\x0001\x0000!\xfffeNice to see you again!\xf000븁\x0000
-Stai cercando un partner?\xf000븁\x0000\xfffeThen why don't you team up\xfffewith me? Yeah! It'll be great!\xf000븁\x0000\xfffeWhat sort of Pokémon should I use?
-Are you here by yourself today?\xf000븁\x0000\xfffeWhy don't you team up with me, then?\xfffeIt'll be fun!\xf000븁\x0000\xfffeWhat sort of Pokémon should I use?
-FOCUSED ON ATTACK
-FOCUSED ON DEFENSE
-FOCUSED ON BALANCE
-OK. I'll focus on Attack!\xfffeThen, let's begin!\xf000븁\x0000
-OK. I'll focus on Defense!\xfffeThen, let's begin!\xf000븁\x0000
-OK. I'll focus on a balance between\xfffeAttack and Defense! Let's begin!\xf000븁\x0000
-OK. I'll focus on Attack!\xfffeThen, let's begin!\xf000븁\x0000
-OK. I'll focus on Defense!\xfffeThen, let's begin!\xf000븁\x0000
-OK. I'll focus on a balance between\xfffeAttack and Defense! Let's begin!\xf000븁\x0000
-You don't want to team up with me?\xfffeOK then, bye!\xf000븁\x0000
-You don't want to team up with me?\xfffeOK then, bye!\xf000븁\x0000
-Diventa Leader
-Unisciti al gruppo
-Launch DS Wireless Communications?
+Esci
+Record
+Treno precedente
+Scegli se usare i Pokémon della squadra o\xfffequelli del Box Lotta.
+IN SQUADRA
+BOX LOTTA
+ESCI
+Vuoi collegarti con un amico e affrontare\xfffela sfida?
+Il tuo grado attuale è \xf000ȁ\x0001\x0001.\xf000븁\x0000
+È bello rivederti qui!\xf000븁\x0000\xfffeI tuoi risultati precedenti non erano\xfffestati inviati tramite la Nintendo Wi-Fi\xf000븀\x0000\xfffeConnection.\xf000븁\x0000\xfffeVuoi inviarli adesso?
+I tuoi risultati sono stati inviati tramite\xfffela Nintendo Wi-Fi Connection!\xf000븁\x0000
+Ho scaricato i dati relativi ai migliori\xfffeAllenatori di grado \xf000ȁ\x0001\x0000 del treno \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffePuoi esaminarli sul monitor delle\xfffeperformance nella sala principale.\xf000븁\x0000
+Dovete prima decidere chi di voi due sarà\xfffeil capogruppo.\xf000븁\x0000\xfffeL'altro giocatore dovrà quindi scegliere\xfffe“PARTECIPA".
+Entrambi gli Allenatori hanno scelto\xfffeil Pokémon \xf000ā\x0001\x0000!\xf000븁\x0000\xfffeMettiti d'accordo con l'altro Allenatore\xfffee scegliete Pokémon diversi.\xf000븁\x0000
+Entrambi gli Allenatori hanno scelto\xfffei Pokémon \xf000ā\x0001\x0000 e \xf000ā\x0001\x0001!\xf000븁\x0000\xfffeMettiti d'accordo con l'altro Allenatore\xfffee scegliete Pokémon diversi.\xf000븁\x0000
+Hai scelto un treno diverso dall'altro\xfffeAllenatore!\xf000븁\x0000\xfffeMettetevi d'accordo e scegliete lo\xfffestesso treno.\xf000븁\x0000
+Ciao! Io sono Alcide!\xf000븁\x0000\xfffeÈ la prima volta che affronti questo\xfffetreno, vero?\xf000븁\x0000\xfffePer partecipare ti serve un partner.\xf000븁\x0000
+Ciao! Io sono Anita!\xf000븁\x0000\xfffeÈ la prima volta che affronti questo\xfffetreno, vero?\xf000븁\x0000\xfffePer partecipare ti serve un partner.\xf000븁\x0000
+Chi si rivede! Ciao, \xf000Ā\x0001\x0000!\xf000븁\x0000
+Chi si rivede! Ciao, \xf000Ā\x0001\x0000!\xf000븁\x0000
+Per caso sei sola oggi?\xf000븁\x0000\xfffeNon c'è problema, ti faccio io da partner!\xf000븁\x0000\xfffeAllora, che tipo di Pokémon vuoi che io\xfffemandi in campo?
+Per caso sei solo oggi?\xf000븁\x0000\xfffeNon c'è problema, ti faccio io da partner!\xf000븁\x0000\xfffeAllora, che tipo di Pokémon vuoi che io\xfffemandi in campo?
+Forti in attacco
+Forti in difesa
+Bilanciati
+Ho capito! Forti in attacco, allora! Su,\xfffeiniziamo!\xf000븁\x0000
+Ho capito! Forti in difesa, allora! Su,\xfffeiniziamo!\xf000븁\x0000
+Ho capito! Bilanciati, allora! Su, iniziamo!\xf000븁\x0000
+Ho capito! Forti in attacco, allora! Su,\xfffeiniziamo!\xf000븁\x0000
+Ho capito! Forti in difesa, allora! Su,\xfffeiniziamo!\xf000븁\x0000
+Ho capito! Bilanciati, allora! Su, iniziamo!\xf000븁\x0000
+Eh?! Non ti va di fare coppia con me?\xf000븁\x0000\xfffeAlla prossima, allora...\xf000븁\x0000
+Eh?! Non ti va di fare coppia con me?\xf000븁\x0000\xfffeAlla prossima, allora...\xf000븁\x0000
+Capogruppo
+Partecipa
+Vuoi attivare la comunicazione wireless\xfffeDS?
 つうしんの　せつだんに\xfffeしっぱい　しました
 Saving...\xfffeDon't turn off the power.
 Unfortunately, you have been\xfffedemoted to Rank \xf000ȁ\x0001\x0000...\xf000븁\x0000
