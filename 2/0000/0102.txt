@@ -1,2 +1,2 @@
-Communication error.
-Communication error.\xfffePlease turn off the power.
+Errore di comunicazione.
+Errore di comunicazione.\xfffeSpegni il tuo DS.
