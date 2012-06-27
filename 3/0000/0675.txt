@@ -23,17 +23,17 @@ Vuoi effettuare uno scambio GTS?
 Scambia
 Info
 Indietro
-You may trade Pokémon in two ways when\xfffe using GTS.\xf000븁\x0000\xfffeYou may offer a Pokémon for trade\xfffeor search among offered Pokémon.
-Should I describe things in\xfffegreater detail?
-You will be asked to put up the\xfffePokémon you are offering to trade.\xf000븁\x0000\xfffeAt that time, you will be asked what\xfffePokémon you would like in return.\xf000븁\x0000\xfffeIf the other player offers your desired\xfffePokémon in return for your offered\xf000븁\x0000\xfffePokémon, the trade will go through.\xf000븁\x0000
-You may search among the Pokémon\xfffethat are offered by other Trainers.\xf000븁\x0000\xfffeThey will identify what Pokémon\xfffetheir Trainers want back in return.\xf000븁\x0000\xfffeIf you find one that you want, you\xfffemust provide us with the kind of\xf000븁\x0000\xfffePokémon wanted in return.\xf000븁\x0000
+Si possono scambiare Pokèmon in due modi\xfffe utilizzando GTS.\xf000븁\x0000\xfffeTu puoi offrire dei Pokèmon\xfffeo puoi cercare Pokèmon offerti.
+Dovrei spiegarti le cose\xfffein dettaglio?
+Vi verrà chiesto di mettere i\xfffePokèmon in commercio.\xf000븁\x0000\xfffeIn quel momento,vi verrà chiesto quale\xfffePokémon volete in cambio.\xf000븁\x0000\xfffeL'altro giocatore vi darà il pokemon desiderato\xfffein cambio della tua offerta.\xf000븁\x0000\xfffeI Pokèmon verrano scambiati.\xf000븁\x0000
+Tu puoi cercare altri Pokèmon\xfffeofferti da altri giocatori.\xf000븁\x0000\xfffeMa ti servirà stabilire quale Pokèmon\xfffegli allenatori vogliono in cambio.\xf000븁\x0000\xfffeSi può cercare il Pokèmon che si vuole\xfffema devi dare all'altro giocatore\xf000븁\x0000\xfffeil Pokèmon da lui desiderato.\xf000븁\x0000
 Offri Pokémon?
 Cerchi Pokémon?
 Understood
 Vuoi iniziare\xfffePokémon GTS Negotiations?
-Start Negotiations
+Inizia
 Info
-Back
+Indietro
 In GTS Negotiations, you set the trading\xfffeconditions based on what kinds of\xf000븁\x0000\xfffePokémon you'd like to trade.\xf000븁\x0000\xfffeIf you find a person with matching\xfffeconditions, you may proceed to a\xf000븁\x0000\xfffeNegotiation Trade with that person.\xf000븁\x0000\xfffeIn order to trade, you need to have two\xfffeor more Pokémon in your party.\xf000븁\x0000
 Should I describe things in\xfffegreater detail?
 In a Negotiation Trade, each person\xfffeoffrono tre Pokèmon da scambiare.\xf000븁\x0000\xfffeThen, each person will choose one of the\xfffeother person's three Pokémon.\xf000븁\x0000
