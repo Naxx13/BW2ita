@@ -1,39 +1,39 @@
-Welcome to Mystery Gift!
-RECEIVE GIFT
-CHECK THE CARD ALBUM
-QUIT
-The communication channel must be opened\xfffeto receive Mystery Gifts.\xf000븀\x0000\xfffeIs that OK？
-Yes
-No
-Please choose how you want to\xfffereceive your gift.
-GET VIA WIRELESS
-GET VIA NINTENDO WFC
-GET VIA INFRARED
-BACK
-Please choose how you want to\xfffereceive your gift.
-Please throw away one card you no longer\xfffeneed to keep.\xf000븁\x0000
-You must throw away one card\xfffeto receive a Mystery Gift.\xf000븀\x0000\xfffeIs that OK?
-Yes
-No
-DS Wireless Communications will\xfffebe launched.
-Yes
-No
-Connect to Nintendo Wi-Fi Connection?
-Yes
-No
-Infrared Communications will\xfffebe launched.\xf000븁\x0000\xfffePlease point your Nintendo Game Card\xfffeat the other person's Game Card\xf000븀\x0000\xfffeand press the A Button.\xf000븁\x0000
-Yes
-No
-Searching for a gift.\xfffePlease wait...
-Choose the gift you want to receive.
-Cancel receiving this gift?
-Yes
-No
-Receive this gift?
-Yes
-No
-Receiving your gift.\xfffeDon't turn off the power.
-The gift has been received!\xf000븁\x0000\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.\xf000븁\x0000
+Benvenuto nel Dono Segreto!
+RICEVI REGALO
+CONTROLLA L'ALBUM SCHEDE
+ESCI
+La comunicazione deve essere accesa\xfffeper ricevere Doni Segreti.\xf000븀\x0000\xfffeVa bene?
+SI
+NO
+Per favore scegli come\xfffericevere il tuo dono.
+VIA WIRELESS
+VIA NINTENDO WFC
+VIA INFRAROSSI
+INDIETRO
+Per favore scegli come\xfffericevere il tuo regalo.
+Per favore getta una scheda che\xfffenon devi tenere.\xf000븁\x0000
+Devi gettare una scheda\xfffeper ricevere un Dono Segreto.\xf000븀\x0000\xfffeIs that OK?
+SI
+NO
+La comunicazione Wireless\xfffeverrà attivata.
+SI
+NO
+Connettersi alla Wi-Fi Connection?
+SI
+NO
+Verrà attivata la\xfffecomunicazione a infrarossi.\xf000븁\x0000\xfffePer favore rivolgi la Scheda di Gioco\xfffea quella dell'altra persona\xf000븀\x0000\xfffee premi A.\xf000븁\x0000
+SI
+NO
+Cercando un dono.\xfffeAttendere prego...
+Scegli il dono che vuoi ricevere.
+Annulla questo dono?
+SI
+NO
+Ricevere questo dono?
+SI
+NO
+Ricevendo il dono.\xfffeNon spegnere la console.
+Il regalo è stato ricevuto!\xf000븁\x0000\xfffePer favore ritira il tuo dono\xfffedal postino in qualsiasi Centro Pokémon.\xf000븁\x0000
 Saving your Card Album...\xfffeDon't turn off the power.
 What would you like to do with this\xfffeWonder Card?
 Swap
