@@ -20,8 +20,8 @@ Usa su che Pokémon?
 Cosa fa\xfffe\xf000Ă\x0001\x0000?
 Cosa fai con\xfffelo strumento?
 Cosa fai con\xfffela Lettera?
-どのわざを\xfffeかいふくする？
-どのわざを\xfffeふやす？
+Che mossa vuoi\xffferipristinare?
+Che mossa vuoi\xfffeaumentare?
 とった　メールを　パソコンに\xfffeてんそう　しますか？
 SI
 NO
