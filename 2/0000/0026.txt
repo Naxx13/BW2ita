@@ -1,18 +1,17 @@
 Entralink
 Xtransceiver
-Union Room
+Stanza Unione
 \xf000ȁ\x0001\x0000Ppl.
-Wireless Distribution
-Yes
+Distribuzione Wirelles
 No
-Yes
+Si
 No
-Back
-Would you like to record your \xfffeactivity up to this point?
-Saving...\xfffe Please wait a moment
-C-Gear Detected
-Yes
+Dietro
+Vuoi registrare le tue \xfffeattivita` in questo punto?
+Salvataggio...\xfffePer favore aspettare un momento
+C-Gear Trovato
+Si
 No
-Connecting\xfffeEntralink...
-Entralink\xfffe　Guests:\xf000Ȁ\x0001\x0000
-Entralink\xfffe　Mission
+Connessione\xfffeEntralink...
+Entralink\xfffeOspite:\xf000Ȁ\x0001\x0000
+Entralink\xfffeMissione
