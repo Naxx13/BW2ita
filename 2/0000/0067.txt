@@ -1,14 +1,14 @@
  
-KEY SYSTEM
-KEY COMMUNICATION
+SISTEMA CHIAVE
+CHIAVE COMUNICAZIONE
 SET KEY
-KEYS ARE:
-CHANGE MODE
+CHIAVI SONO:
+CAMBIAMENTO MODO
 CAMBIA CITTÁ/FORESTA
-CANCEL
-ASSIST MODE
-NORMAL MODE
-CHALLENGE MODE
+INDIETRO
+MODO ASSISTITO
+MODALITA' NORMALE
+MODALITA' CHALLANGE
 CITTÁ NERA
 FORESTA BIANCA
 KEYS ARE:
@@ -16,13 +16,13 @@ ASSIST KEY
 KEY CHALLENGES
 KEY TO SKYSCRAPER
 KEY TO FOREST
-Pokémon Versione Nera 2 o\xfffePokémon Versione Bianca 2\xfffeKeys can be sent and or recieved\xfffeusing the above configurations.
-Using this setting you can check,\xfffechange, or recieve keys.
+Pokémon Versione Nera 2 o\xfffePokémon Versione Bianca 2\xfffeKeys puoi inviare o ricevere\xfffeusing the above configurations.
+Usa queste impostazioni quando tu invii,\xfffechange, o ricevi chiavi.
 Torna al MENÚ PRINCIPALE.
-Searching for Nintendo DS\xfffeto communicate with...
-CURRENTLY SET:\xfffeASSIST MODE, the easiest.
-CURRENTLY SET:\xfffeNORMAL MODE, moderately difficult.
-CURRENTLY SET:\xfffeCHALLENGE MODE, very difficult.
+Cercando per Nintendo DS\xfffeto comunicazione con...
+SET MOMENTANEO:\xfffeMODALITA' ASSISTITA, molto facile.
+SET MOMENTANEO:\xfffeMODALITA' NORMALE, media difficoltà.
+SET MOMENTANEO:\xfffeMODALITA' CHALLANGE, molto difficile.
 BLACK CITY is set.
 WHITE FOREST is set.
 KEY SYSTEM will return to MAIN MENU
