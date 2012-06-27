@@ -132,7 +132,7 @@ Capocciata
 Sparalance
 Limitazione
 Amnesia
-Telecinesi
+Cinèsi
 Covauova
 Calcinvolo
 Bagliore
@@ -398,163 +398,163 @@ Forzasfera
 Lucidatura
 Velenpuntura
 Neropulsar
-Night Slash
-Aqua Tail
-Seed Bomb
-Air Slash
-X-Scissor
-Bug Buzz
-Dragon Pulse
-Dragon Rush
-Power Gem
-Drain Punch
-Vacuum Wave
-Focus Blast
-Energy Ball
-Brave Bird
-Earth Power
-Switcheroo
-Giga Impact
-Nasty Plot
-Bullet Punch
-Avalanche
-Ice Shard
-Shadow Claw
-Thunder Fang
-Ice Fang
-Fire Fang
-Shadow Sneak
-Mud Bomb
-Psycho Cut
-Zen Headbutt
-Mirror Shot
-Flash Cannon
-Rock Climb
-Defog
-Trick Room
-Draco Meteor
-Discharge
-Lava Plume
-Leaf Storm
-Power Whip
-Rock Wrecker
-Cross Poison
-Gunk Shot
-Iron Head
-Magnet Bomb
-Stone Edge
-Captivate
-Stealth Rock
-Grass Knot
-Chatter
-Judgment
-Bug Bite
-Charge Beam
-Wood Hammer
-Aqua Jet
-Attack Order
-Defend Order
-Heal Order
-Head Smash
-Double Hit
-Roar of Time
-Spacial Rend
-Lunar Dance
-Crush Grip
-Magma Storm
-Dark Void
-Seed Flare
-Ominous Wind
-Shadow Force
-Hone Claws
-Wide Guard
-Guard Split
-Power Split
-Wonder Room
-Psyshock
-Venoshock
-Autotomize
-Rage Powder
-Telekinesis
-Magic Room
-Smack Down
-Storm Throw
-Flame Burst
-Sludge Wave
-Quiver Dance
-Heavy Slam
-Synchronoise
-Electro Ball
-Soak
-Flame Charge
-Coil
-Low Sweep
-Acid Spray
-Foul Play
-Simple Beam
-Entrainment
-After You
-Round
-Echoed Voice
-Chip Away
-Clear Smog
-Stored Power
-Quick Guard
-Ally Switch
-Scald
-Shell Smash
-Heal Pulse
-Hex
-Sky Drop
-Shift Gear
-Circle Throw
-Incinerate
-Quash
-Acrobatics
-Reflect Type
-Retaliate
-Final Gambit
-Bestow
-Inferno
-Water Pledge
-Fire Pledge
-Grass Pledge
-Volt Switch
-Struggle Bug
-Bulldoze
-Frost Breath
-Dragon Tail
-Work Up
-Electroweb
-Wild Charge
-Drill Run
-Dual Chop
-Heart Stamp
-Horn Leech
-Sacred Sword
-Razor Shell
+Nottesferza
+Idrondata
+Semebomba
+Eterelama
+Forbice X
+Ronzio
+Dragopulsar
+Dragofuria
+Gemmoforza
+Assorbipugno
+Vuotonda
+Focalcolpo
+Energipalla
+Baldeali
+Geoforza
+Rapidscambio
+Gigaimpatto
+Congiura
+Pugnoscarica
+Slavina
+Geloscheggia
+Ombrartigli
+Fulmindenti
+Gelodenti
+Rogodenti
+Furtivombra
+Pantanobomba
+Psicotaglio
+Cozzata Zen
+Cristalcolpo
+Cannonflash
+Scalaroccia
+Scacciabruma
+Distortozona
+Dragobolide
+Scarica
+Lavasbuffo
+Verdebufera
+Vigorcolpo
+Devastomasso
+Velenocroce
+Sporcolancio
+Metaltestata
+Bombagnete
+Pietrataglio
+Incanto
+Levitoroccia
+Laccioerboso
+Schiamazzo
+Giudizio
+Coleomorso
+Raggioscossa
+Mazzuolegno
+Acquagetto
+Comandourto
+Comandoscudo
+Comandocura
+Zuccata
+Doppiosmash
+Fragortempo
+Fendispazio
+Lunardanza
+Sbriciolmano
+Magmaclisma
+Vuototetro
+Infuriaseme
+Funestovento
+Oscurotuffo
+Unghiaguzze
+Bodyguard
+Paridifesa
+Pariattacco
+Mirabilzona
+Psicoshock
+Velenoshock
+Sganciapesi
+Polverabbia
+Telecinesi
+Magicozona
+Abbattimento
+Tempestretta
+Pirolancio
+Fangonda
+Eledanza
+Pesobomba
+Sincrumore
+Energisfera
+Inondazione
+Nitrocarica
+Arrotola
+Calciobasso
+Acidobomba
+Ripicca
+Ondisinvolta
+Saltamicizia
+Cortesia
+Coro
+Echeggiavoce
+Insidia
+Pulifumo
+Veicolaforza
+Anticipo
+Cambiaposto
+Idrovampata
+Gettaguscio
+Ondasana
+Sciagura
+Cadutalibera
+Cambiomarcia
+Ribaltiro
+Bruciatutto
+Spintone
+Acrobazia
+Riflettipo
+Nemesi
+Azzardo
+Cediregalo
+Marchiatura
+Acquapatto
+Fiammapatto
+Erbapatto
+Invertivolt
+Entomoblocco
+Battiterra
+Alitogelido
+Codadrago
+Cuordileone
+Elettrotela
+Sprizzalampo
+Giravvita
+Doppiocolpo
+Cuorestampo
+Legnicorno
+Spadasolenne
+Conchilama
+Marchiafuoco
 Heat Crash
-Leaf Tornado
-Steamroller
-Cotton Guard
-Night Daze
-Psystrike
-Tail Slap
-Hurricane
-Head Charge
-Gear Grind
-Searing Shot
-Techno Blast
-Relic Song
-Secret Sword
-Glaciate
-Bolt Strike
-Blue Flare
-Fiery Dance
-Freeze Shock
-Ice Burn
-Snarl
-Icicle Crash
-V-create
-Fusion Flare
-Fusion Bolt
+Verdebufera
+Cotonscudo
+Urtoscuro
+Psicobotta
+Spazzasberla
+Tifone
+Ricciolata
+Ingracolpo
+Sparafuoco
+Tecnobotto
+Cantoantico
+Spadamistica
+Gelamondo
+Lucesiluro
+Fuocoblu
+Voldifuoco
+Elettrogelo
+Vampagelida
+Urlorabbia
+Scagliagelo
+Generatore V
+Incrofiamma
+Incrotuono
