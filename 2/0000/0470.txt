@@ -157,14 +157,14 @@ Pokémon Fuocotopo
 Pokémon Vulcano
 Pokémon Vulcano
 Pokémon Mascellone
-Pokémon Mescellone
+Pokémon Mascellone
 Pokémon Mascellone
 Pokémon Esplorante
 Pokémon Lungocorpo
 Pokémon Gufo
 Pokémon Gufo
-Pokémon Pentastra
-Pokémon Pentastra
+Pokémon Penstastra
+Pokémon Penstastra
 Pokémon Tela
 Pokémon Lungazampa
 Pokémon Pipistrello
@@ -199,18 +199,18 @@ Pokémon Lucelunare
 Pokémon Oscurità
 Pokémon Reale
 Pokémon Strido
-Pokémon Símbolo
+Pokémon Simbolo
 Pokémon Pazienza
 Pokémon Lungocollo
 Pokémon Larva
 Pokémon Larva
 Pokémon Terraserpe
-Pokémon Aliscorpio
+Pokémon Aliscoprio
 Pokémon Ferroserpe
 Pokémon Fata
 Pokémon Fata
 Pokémon Pallone
-Pokémon Chele
+Pokémon Chela
 Pokémon Muffa
 Pokémon Monocorno
 Pokémon Lamartigli
@@ -225,7 +225,7 @@ Pokémon Jet
 Pokémon Jet
 Pokémon Consegna
 Pokémon Aquilone
-Pokémon Armuccello
+Pokémon Armucello
 Pokémon Buio
 Pokémon Buio
 Pokémon Drago
@@ -253,7 +253,7 @@ Pokémon Tempovia
 Pokémon Legnogeco
 Pokémon Legnogeco
 Pokémon Foresta
-Pokémon Pulcino
+Pokémon Torchic
 Pokémon Rampollo
 Pokémon Vampe
 Pokémon Fango Pesce
@@ -274,7 +274,7 @@ Pokémon Spensierato
 Pokémon Ghianda
 Pokémon Scaltro
 Pokémon Burbero
-Pokémon Rondine
+Pokémon Rondinella
 Pokémon Rondine
 Pokémon Gabbiano
 Pokémon Alacquatico
@@ -286,7 +286,7 @@ Pokémon Occhi
 Pokémon Fungo
 Pokémon Fungo
 Pokémon Ozioso
-Pokémon Inodcile
+Pokémon Indocile
 Pokémon Pigrizia
 Pokémon Novizio
 Pokémon Ninja
@@ -299,173 +299,173 @@ Pokémon Sberletese
 Pokémon Pois
 Pokémon Bussola
 Pokémon Micio
-Pokémon Cursi
-Pokémon Oscuridad
-Pokémon Tramposo
-Pokémon Cor. Férrea
-Pokémon Cor. Férrea
-Pokémon Cor. Férrea
-Pokémon Meditador
-Pokémon Meditador
-Pokémon Calambre
-Pokémon Descarga
-Pokémon Ánimo
-Pokémon Ánimo
-Pokémon Luciérnaga
-Pokémon Luciérnaga
-Pokémon Espina
-Pokémon Estómago
-Pokémon Bolsa Ven.
-Pokémon Feroz
-Pokémon Voraz
-Pokémon Ballenabola
-Pokémon Ballenaflot
-Pokémon Torpe
-Pokémon Erupción
-Pokémon Carbón
-Pokémon Saltarín
-Pokémon Manipulador
-Pokémon Panda Topos
-Pokémon Hormigaleón
-Pokémon Vibrante
-Pokémon Místico
+Pokémon Finezza
+Pokémon Oscurità
+Pokémon Inganno
+Pokémon Corazza
+Pokémon Corazza
+Pokémon Corazza
+Pokémon Meditazione
+Pokémon Meditazione
+Pokémon Lampo
+Pokémon Scossa
+Pokémon Incitamento
+Pokémon Incitamento
+Pokémon Lucciola
+Pokémon Luccciola
+Pokémon Spina
+Pokémon Stomaco
+Pokémon Velenosacco
+Pokémon Feroce
+Pokémon Brutale
+Pokémon Balenottero
+Pokémon Megabalena
+Pokémon Torpore
+Pokémon Eruzione
+Pokémon Carbone
+Pokémon Molla
+Pokémon Raggiro
+Pokémon Macchipanda
+Pokémon Trappola
+Pokémon Vibrazione
+Pokémon Magico
 Pokémon Cactus
-Pokémon Espantajo
-Pokémon Ave Algodón
-Pokémon Cantor
-Pokémon Gato Hurón
-Pokémon Colmillos
-Pokémon Meteorito
-Pokémon Meteorito
-Pokémon Bigotudo
-Pokémon Bigotudo
-Pokémon Rufián
-Pokémon Granuja
-Pokémon Muñ. Barro
-Pokémon Muñ. Barro
-Pokémon Lila Mar
-Pokémon Percebe
-Pokémon Camarón
-Pokémon Armadura
-Pokémon Pez
-Pokémon Tierno
-Pokémon Clima
-Pokémon Camaleónico
-Pokémon Títere
-Pokémon Marioneta
-Pokémon Réquiem
-Pokémon Atrayente
-Pokémon Fruto
-Pokémon Sonido Aire
-Pokémon Catástrofe
-Pokémon Radiante
-Pokémon Gorro Nieve
-Pokémon Cara
-Pokémon Aplauso
-Pokémon Rodabola
-Pokémon Rompehielo
-Pokémon Bivalvo
-Pokémon Abisal
-Pokémon Mar Del Sur
-Pokémon Longevo
-Pokémon Cita
-Pokémon Cabeza Roca
-Pokémon Resistencia
-Pokémon Dragón
-Pokémon Bola Hierro
-Pokémon Garrahierro
-Pokémon Pata Hierro
-Pokémon Pico Roca
+Pokémon Spavento
+Pokémon Alidicotone
+Pokémon Canterino
+Pokémon Furogatto
+Pokémon Zannaserpe
+Pokémon Meteorite
+Pokémon Meteorite
+Pokémon Baffetti
+Pokémon Baffetti
+Pokémon Birbone
+Pokémon Canaglia
+Pokémon Argilla
+Pokémon Argilla
+Pokémon Fiordimare
+Pokémon Lepade
+Pokémon Primaceo
+Pokémon Piastre
+Pokémon Pesce
+Pokémon Tenerezza
+Pokémon Meteo
+Pokémon Mutacolore
+Pokémon Pupazzo
+Pokémon Marionetta
+Pokémon Requiem
+Pokémon Ipnosguardo
+Pokémon Frutto
+Pokémon Vencampana
+Pokémon Catastrofe
+Pokémon Brillante
+Pokémon Cappelneve
+Pokémon Tuttomuso
+Pokémon Rotolante
+Pokémon Rotopalla
+Pokémon Spaccagelo
+Pokémon Bivalve
+Pokémon Abissi
+Pokémon Sudmarino
+Pokémon Longevità
+Pokémon Rendezvuos
+Pokémon Rocciotesta
+Pokémon Resistenza
+Pokémon Drago
+Pokémon Ferrosfera
+Pokémon Ferrunghia
+Pokémon Ferrarto
+Pokémon Picco
 Pokémon Iceberg
-Pokémon Hierro
-Pokémon Eón
-Pokémon Eón
-Pokémon Cuenca Mar
+Pokémon Ferro
+Pokémon Eone
+Pokémon Eone
+Pokémon Oceano
 Pokémon Continente
-Pokémon Cielo
-Pokémon Deseo
-Pokémon ADN
-Pokémon Hojita
-Pokémon Arboleda
+Pokémon Stratosfera
+Pokémon Desiderio
+Pokémon DNA
+Pokémon Fogliolina
+Pokémon Boschetto
 Pokémon Continente
-Pokémon Chimpancé
-Pokémon Juguetón
-Pokémon Llama
-Pokémon Pingüino
-Pokémon Pingüino
-Pokémon Emperador
-Pokémon Estornino
-Pokémon Estornino
-Pokémon Depredador
-Pokémon Gran Ratón
-Pokémon Castor
+Pokémon Scimpanzé
+Pokémon Briccone
+Pokémon Fiamma
+Pokémon Pinguino
+Pokémon Pinguino
+Pokémon Imperatore
+Pokémon Storno
+Pokémon Storno
+Pokémon Rapace
+Pokémon Topaffuto
+Pokémon Castoro
 Pokémon Grillo
 Pokémon Grillo
-Pokémon Flash
-Pokémon Chispa
-Pokémon Chispa Ojos
-Pokémon Brote
-Pokémon Ramillete
-Pokémon Cabezazo
-Pokémon Cabezazo
-Pokémon Escudo
-Pokémon Escudo
+Pokémon Baleno
+Pokémon Favilla
+Pokémon Occhiluce
+Pokémon Germoglio
+Pokémon Floreale
+Pokémon Cranioso
+Pokémon Cranioso
+Pokémon Schermo
+Pokémon Schermo
 Pokémon Larva
 Pokémon Larva
-Pokémon Polilla
-Pokémon Abejita
-Pokémon Colmena
-Pokémon Ardillalec
-Pokémon Nutria Mar.
-Pokémon Nutria Mar.
-Pokémon Cereza
-Pokémon Floración
-Pokémon Babosa Mar.
-Pokémon Babosa Mar.
-Pokémon Cola Larga
-Pokémon Globo
+Pokémon Falena
+Pokémon Apetta
+Pokémon Alveare
+Pokémon Elescoiatto
+Pokémon Maridonnola
+Pokémon Maridonnola
+Pokémon Ciliegia
+Pokémon Bocciolo
+Pokémon Lumacomare
+Pokémon Lumacomare
+Pokémon Lungacoda
+Pokémon Pallone
 Pokémon Dirigible
-Pokémon Conejo
-Pokémon Conejo
-Pokémon Mágico
-Pokémon Gran Jefe
-Pokémon Gastuto
-Pokémon Tigre Gato
-Pokémon Campana
-Pokémon Mofeta
-Pokémon Mofeta
-Pokémon Bronce
-Pokémon Cam. Bronce
-Pokémon Bonsái
+Pokémon Coniglio
+Pokémon Coniglio
+Pokémon Stregone
+Pokémon Grancapo
+Pokémon Felide
+Pokémon Gattotigre
+Pokémon Sonaglio
+Pokémon Moffetta
+Pokémon Moffetta
+Pokémon Bronzo
+Pokémon Squibronzo
+Pokémon Bonsai
 Pokémon Mimo
-Pokémon Casita
-Pokémon Corchea
-Pokémon Prohibido
-Pokémon Terrascualo
-Pokémon Cueva
+Pokémon Ovettino
+Pokémon Musicale
+Pokémon Proibito
+Pokémon Squaloterra
+Pokémon Grotta
 Pokémon Mach
-Pokémon Comilón
-Pokémon Emanación
+Pokémon Ghiottone
+Pokémon Emanazione
 Pokémon Aura
-Pokémon Hipo
-Pokémon Peso Pesado
-Pokémon Escorpión
-Pokémon Escorpiogro
-Pokémon Boca Tóxica
-Pokémon Boca Tóxica
-Pokémon Caza Bichos
-Pokémon Pez Ala
-Pokémon Neón
-Pokémon Milano
-Pokémon Árbol Nieve
-Pokémon Árbol Nieve
-Pokémon Garra Filo
-Pokémon Magnético
-Pokémon Lametazo
-Pokémon Taladro
-Pokémon Enredadera
+Pokémon Ippo
+Pokémon Grandepeso
+Pokémon Scorpione
+Pokémon Scorpiaccio
+Pokémon Invieleno
+Pokémon Invieleno
+Pokémon Insettivoro
+Pokémon Pescalato
+Pokémon Neon
+Pokémon Aquilone
+Pokémon Albergelo
+Pokémon Albergelo
+Pokémon Lamartigli
+Pokémon Magnetico
+Pokémon Linguaccia
+Pokémon Trapano
+Pokémon Liana
 Pokémon Saetta
-Pokémon Explosivo
+Pokémon Esplosivo
 Pokémon Festa
 Pokémon Libellorco
 Pokémon Rigoglioso
