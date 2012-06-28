@@ -2,7 +2,7 @@
 Pokédex
 Pokémon
 Borsa
-Player
+Giocatore
 Salva
 Opzioni　　
 
@@ -10,11 +10,11 @@ CHAT
 　
 RETIRE
 Pokédex is selected.
-Pokémon is selected.
-Bag is selected.
-Trainer Card is selected
-Save is selected
-Option was selected
-Save your game
-The game\xfffewas saved!
-Cannot save while communicating!
+Il Pokémon è selezionato.
+La Borsa è selezionata.
+La Scheda Allenatore è selezionata
+Salva è selezionato
+Opzioni è stato selezionato
+Salva il gioco
+Il gioco\xfffeè stato salvato!
+Impossibile salvare durante la comunicazione!
