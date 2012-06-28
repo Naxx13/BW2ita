@@ -10,62 +10,61 @@ SPA
 \xf000Ȃ\x0001\x0000
 HT
 WT
-『けんさく　モード』
-じょうけんを　いれて　ください
-『けんさくの　けっか』
-みつかったかず　\xf000Ȃ\x0001\x0000
-ずかんの　ならびを　してい　します
-なまえの　かしらもじを　してい　します
-タイプを　してい　します
-おもさの　はんいを　してい　します
-たかさの　はんいを　してい　します
-かたちを　してい　します
-せいそく　ちいきを　してい　します
-じょうけんを　みたす　ポケモンが
-みつかりませんでした……
-けんさく　しています……
-ならびじゅん
-なまえ
-タイプ
-たかさ
-おもさ
-ちいき
-かたち
-カントー
-ジョウト
-リセット
-スタート
-やめる
+『Modalità Ricerca』
+Per favore inserisci i criteri.
+『Risultati Ricerca』
+RISULTATI　\xf000Ȃ\x0001\x0000
+Seleziona il tipo di ordine.
+Ordina per la prima lettera del nome.
+Ordina per tipo.
+Ordina per perso.
+Ordina per altezza.
+Ordina per la forma del corpo.
+Ordina per area.
+Nessun Pokémon corrispondente trovato.
+Non trovato...
+Ricerca in corso...
+Ordine
+Nome
+Tipo
+Al.
+Peso.
+Area
+Forma
+Kanto
+Johto
+Resetta
+Inizia
+Annulla
 \xf000Ȃ\x0001\x0000．\xf000Ȁ\x0001\x0001
-けってい
-やめる
-ばんごう
-ごじゅうおん
-おもい
-かるい
-たかい
-ひくい
-あく
-いわ
-エスパー
-かくとう
-くさ
-こおり
-ゴースト
-じめん
-でんき
-どく
-ドラゴン
-ノーマル
-はがね
-ひこう
-ほのお
-みず
-むし
+Accetta
+Annulla
+Numerico
+Dalla A alla Z
+Più Pesanti
+Più Leggeri
+Più Alti
+Più Bassi
+Buio
+Roccia
+Psico
+Lotta
+Erba
+Ghiaccio
+Spettro
+Elettricità
+Veleno
+Drago
+Normale
+Acciaio
+Volante
+Fuoco
+Acqua
+Coleottero
 ーーーー
-ジョウト
-カントー
-ふめい
+Johto
+Kanto
+Sconosciuto
 ーーーー
 ア
 イ
@@ -112,67 +111,67 @@ WT
 ロ
 ワ
 ー
-オスのすがた
-メスのすがた
-にしのうみ
-ひがしのうみ
-くさきのミノ
-すなちのミノ
-ゴミのミノ
-あるすがた
-にほんごのずかん
-えいごのずかん
-フランスごのずかん
-ドイツごのずかん
-イタリアごのずかん
-スペインごのずかん
-せいそくち　ふめい
-あさ
-ひる
-よる
-きりかえ
+Maschio
+Femmina
+Mare Ovest
+Mare Est
+Manto Erba
+Manto Sabbia
+Manto Spazzatura
+Una forma
+JP Pokédex
+EN Pokédex
+FR Pokédex
+GE Pokédex
+IT Pokédex
+SP Pokédex
+Zona sconosciuta
+Mattino
+Giorno
+Notte
+Scambia
 \xf000ą\x0001\x0000
-すべて　ひょうじ
-すべて　ひょうじ
-おおきさ　くらべ
-おもさ　くらべ
-１．６０ｍ
-１．４８ｍ
-４５．０ｋｇ
-３８．０ｋｇ
-ぶんぷ
-おおきさ
-ポケモンずかん　とうろく　かんりょう！
-ノーマルフォルム
-アタックフォルム
-ディフェンスフォルム
-スピードフォルム
-ランドフォルム
-スカイフォルム
-アナザーフォルム
-オリジンフォルム
-ロトムのすがた
-ヒートロトム
-ウォッシュロトム
-フロストロトム
-スピンロトム
-カットロトム
-\xf000ā\x0001\x0000のすがた
-ポワルンのすがた
-たいようのすがた
-あまみずのすがた
-ゆきぐものすがた
-ネガフォルム
-ポジフォルム
-ギザみみ
+Mostra tutto
+Mostra tutto
+Controlla altezza
+Controlla peso
+1.60 m
+1.48 m
+45.0 Kg
+38.8 Kg
+Zona
+Taglia
+Registrazione Pokédex completata.
+Forma Normale
+Forma Attacco
+Forma Difesa
+Forma Velocità
+Forma Terra
+Forma Cielo
+Forma Alterata
+Forma Origine
+Rotom
+Rotom Calore
+Rotom Lavaggio
+Rotom Gelo
+Rotom Vortice
+Rotom Taglio
+Forma di \xf000ā\x0001\x0000
+Normale
+Forma Sole
+Forma Pioggia
+Forma Neve
+Forma Nuvolosa
+Forma Serena
+Orecchio Dentellato
 \xf000ā\x0001\x0000：
-みくらべる
-\xf000ā\x0001\x0000を　みくらべる
-すがた
-きりかえる
-もどる
-もどる
-リストに　もどります
+Compara
+Compara \xf000ā\x0001\x0000
+Forme
+Scambia
+Annulla
+Annulla
+Return to list
 Dare un soprannome al \xf000ā\x0001\x0000 \xfffecatturato?
 Dare un soprannome al \xf000ā\x0001\x0000 \xfffecatturato?
 \xf000Ă\x0001\x0000 è stato trasferito nel\xfffe\xf000ċ\x0001\x0001 nel PC del Team Phoenix!
