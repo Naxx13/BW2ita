@@ -1,19 +1,18 @@
-シングルバトル
-ダブルバトル
-トリプルバトル
-ローテーションバトル
-チャンピオンズトーナメント
-ダウンロードトーナメント
-ホドモエトーナメント
-イッシュリーダーズトーナメント
-カントーリーダーズトーナメント
-ジョウトリーダーズトーナメント
-ホウエンリーダーズトーナメント
-シンオウリーダーズトーナメント
-ワールドリーダーズトーナメント
-レンタルトーナメント
-レンタルマスタートーナメント
-ミックストーナメント
-ミックスマスタートーナメント
-タイプエキスパートトーナメント
-？？？？？
+LOTTA IN SINGOLO
+LOTTA IN DOPPIO
+LOTTA TRIPLA
+LOTTA A ROTAZIONE
+TORNEO CAMPIONI
+TORNEO DOWNLOAD
+TORNEO LIBECCIOPOLI
+TORNEO CAPIPALESTRA DI UNIMA
+TORNEO CAPIPALESTRA DI KANTO
+TORNEO CAPIPALESTRA DI JOHTO
+TORNEO CAPIPALESTRA DI SINNOH
+TORNEO CAPIPALESTRA DEL MONDO
+TORNEO A PRESTITO
+TORNEO A PRESTITO MASTER
+TORNEO MISTO
+TORNEO MISTO MASTER
+TORNEO ESPORTAZIONE TIPO
+?????
