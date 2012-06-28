@@ -1,11 +1,11 @@
-グループにはいる
-リーダーになる
-やめる
-はじめる
-もどる
+Entra nel gruppo
+Diventa leader
+Termina
+Inizia
+Indietro
 １：\xf000Ā\x0001\x0000
 ２：\xf000Ā\x0001\x0000
 ３：\xf000Ā\x0001\x0000
 ４：\xf000Ā\x0001\x0000
-リーダーになるか　グループにはいるか\xfffeえらんでください
-メンバーが　そろったら\xfffeはじめるを　せんたく　してください
+Entra in un gruppo o\xfffediventa il leader
+Si prega di selezionare i membri\xfffeper completare l'operazione
