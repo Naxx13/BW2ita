@@ -1,6 +1,6 @@
-ビギナー
-ルーキー
-エリート
-マスター
-レジェンド
-レジェンド
+Principiante
+Recluta
+Elitè
+Master
+Leggenda
+Leggenda
