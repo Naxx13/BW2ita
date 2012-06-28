@@ -193,10 +193,10 @@ I due movimenti si uniscono!\xfffe E' un movimento combinato!
 \xf000Č\x0001\x0000 ignora gli ordini!
 \xf000Č\x0001\x0000 schiaccia un pisolino!
 \xf000Č\x0001\x0000 ignora\xfffegli ordini mentre dorme!
-Automatic center!
+Centro Automatico!
 Ma non è il luogo dove questo strumento \xfffepuò essere usato!
-Sky Drop won't let \xf000Č\x0001\x0000 go!
-The match was forfeited.
+E' agli sgoccioli non lasciarti\xf000Č\x0001\x0000 andare!
+La partita è stata incamerata.
 (\xf000Ȁ\x0001\x0000) Metronomo \xf000Ȃ\x0001\x0001:\xf000ć\x0001\x0002
 あっ！　やせい？の\xfffe\xf000ā\x0001\x0000が　あらわれた！
 カット０１
