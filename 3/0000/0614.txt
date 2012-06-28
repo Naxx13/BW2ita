@@ -1,10 +1,10 @@
-Welcome!\xfffeMay I help you?
-Welcome to the Technical Machine\xfffedepartment! May I help you?
-Is there anything else I may do\xfffefor you?
-Please come again!
-Hello!\xf000븁\x0000
-Buy
-Sell
-No thanks!
-Welcome to the\xfffeExchange Service Corner!\xf000븁\x0000\xfffeWould you like to trade in your BP\xfffefor some fabulous prizes?
-Please save some BP\xfffeand come see us again.
+Benvenuto!\xfffePosso fare qualcosa per te?
+Benvenuto nel reparto\xfffeMacchine Tecniche! Posso aiutarti?
+C'è qualcos'altro che posso\xfffefare per te?
+Torna presto!
+Ciao!\xf000븁\x0000
+Compra
+Vendi
+No grazie!
+Benvenuto\xfffeall'Angolo del Servizio Scambio!\xf000븁\x0000\xfffeVorresti scambiare i tuoi PL\xfffeper alcuni favolosi premi?
+Per favore metti da parte\xfffealcuni PL e torna a trovarci.
