@@ -8,7 +8,7 @@ Esci
 Participate
 Partecipa
 Per partecipare a una Gara Wi-Fi, visita\xfffeil sito del Pokémon Global Link\xf000븀\x0000\xfffe(http://www.pokemon-gl.com) e registrati.\xf000븁\x0000\xfffeSul sito potrai, inoltre, controllare le\xffferegole e il programma degli eventi.\xf000븁\x0000
-Vuoi partecipare alla Gara Wi-Fi?Do you want to quit\xfffethe Wi-Fi Competition?
+Vuoi partecipare alla Gara Wi-Fi?Vuoi uscire\xfffedalla competizione Wi-Fi?
 Sì
 No
 Annulla la partecipazione
