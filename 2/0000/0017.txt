@@ -150,10 +150,10 @@ Punte sparse dappertutto ai piedi\xfffedella tua squadra!
 Punte sparse dappertutto ai piedi\xfffedella squadra nemica!
 Le punte sono scomparse intorno \xfffeai piedi della tua squadra!
 Le punte sono scomparse intorno \xfffeai piedi della squadra nemica!
-Poison spikes were scattered all\xfffearound your team's feet!
-Poison spikes were scattered all\xfffearound the foe's team's feet!
-The poison spikes disappeared\xfffefrom around your team's feet!
-The poison spikes disappeared\xfffefrom around the foe's team's feet!
+Punte velenose sparse dappertutto\xfffeai piedi della tua squadra!
+Punte velenose sparse dappertutto\xfffeai piedi della squadra nemica!
+Le punte velenose sono scomparse\xfffedai piedi della tua squadra!
+Le punte velenose sono scomparse\xfffedai piedi della squadra nemica!
 Pietre appuntite galleggiano \xfffenell'aria intorno alla tua \xfffesquadra!
 Pietre appuntite galleggiano \xfffenell'aria intorno alla \xfffe squadra del nemico!
 Le pietre appuntite sono \xfffescomparse intorno al terreno \xfffe della tua squadra!
