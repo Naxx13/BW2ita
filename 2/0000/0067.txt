@@ -16,25 +16,25 @@ CHIAVE AIUTO
 CHIAVE SFIDA
 CHIAVE GRATTACIELO
 CHIAVE FORESTA
-Pokémon Versione Nera 2 o\xfffePokémon Versione Bianca 2\xfffeKeys can be sent and or recieved\xfffeusing the above configurations.
-Using this setting you can check,\xfffechange, or recieve keys.
+Pokémon Versione Nera 2 o\xfffePokémon Versione Bianca 2\xfffeLe chiavi possono essere inviate o ricevute\xfffeusando la configurazione mostrata sopra.
+Usando queste impostazioni puoi controllare,\xfffecambire, o ricevere chiavi.
 Torna al MENÚ PRINCIPALE.
-Searching for Nintendo DS\xfffeto communicate with...
+Ricerca di una comunicazione\xfffecon un Nintendo DS in corso...
 IMPOS. ATTUALE:\xfffeMODALITÁ AIUTO, la più facile.
 IMPOS. ATTUALE:\xfffeMODALITÁ NORMALE, moderatamente difficile.
 IMPOS. ATTUALE:\xfffeMODALITÁ SFIDA, molto difficile.
-CITTÁ NERA is set.
+CITTÁ NERA è impos.
 FORESTA BIANCA is set.
-KEY SYSTEM will return to MENÚ PRINCIPALE
-KEY SYSTEM will return to MENÚ PRINCIPALE
+Il SISTEMA CHIAVI tornerà MENÚ PRINCIPALE
+Il SISTEMA CHIAVI tornerà MENÚ PRINCIPALE
 Salvataggio dei dati in corso...\xfffeNON SPEGNERE.
-> Transmitting key...
+> Trasmissione della chiave in corso...
 > \xf000A\x0001\x0000 Invia CHIAVE AIUTO.\xf000?\x0001
 > \xf000A\x0001\x0000 Invia CHIAVE SFIDA.\xf000?\x0001
 > \xf000A\x0001\x0000 Invia CHIAVE FORESTA.\xf000?\x0001
 > \xf000A\x0001\x0000 Invia CHIAVE GRATTACIELO.\xf000?\x0001
 > \xf000A\x0001\x0000 Invia CHIAVE FERRO.\xf000?\x0001
-> \xf000A\x0001\x0000 Invia ICEBERG KEY.\xf000?\x0001
+> \xf000A\x0001\x0000 Invia CHIAVE ICEBERG.\xf000?\x0001
 > Il tuo amico ha inviato la CHIAVE AIUTO.\xf000?\x0001
 > Il tuo amico ha inviato la CHIAVE SFIDA.\xf000?\x0001
 > Il tuo amico ha inviato la CHIAVE FORESTA.\xf000?\x0001
@@ -48,49 +48,49 @@ Salvataggio dei dati in corso...\xfffeNON SPEGNERE.
 > \xf000A\x0001\x0000 got SKYSCRAPER KEY!\xf000?\x0001
 > \xf000A\x0001\x0000 got IRON KEY!\xf000?\x0001
 > \xf000A\x0001\x0000 got ICEBERG KEY!\xf000?\x0001
-> Your friend got the ASSIST KEY!\xf000?\x0001
-> Your friend got the CHALLENGE KEY!\xf000?\x0001
-> Your friend got the FOREST KEY!\xf000?\x0001
-> Your friend got the SKYSCRAPER KEY!\xf000?\x0001
-> Your friend got the IRON KEY!\xf000?\x0001
-> Your friend got the ICEBERG KEY!\xf000?\x0001
-> Transfer complete.\xf000?\x0000
-> Key(s) were successfully transferred!\xf000?\x0000
-> Specified key(s) cannot be sent.\xf000?\x0001
-> Specified key(s) could not be retrieved.\xf000?\x0001
-Communicating...\xfffePlease wait.
-ASSIST KEY è BLOCCATA.
+> Il tuo amico ha la ASSIST KEY!\xf000?\x0001
+> Il tuo amico ha la CHALLENGE KEY!\xf000?\x0001
+> Il tuo amico ha la FOREST KEY!\xf000?\x0001
+> Il tuo amico ha la SKYSCRAPER KEY!\xf000?\x0001
+> Il tuo amico ha la IRON KEY!\xf000?\x0001
+> Il tuo amico ha la ICEBERG KEY!\xf000?\x0001
+> Trasferimento completo.\xf000?\x0000
+> Una o più chiavi sono state trasferite con successo!\xf000?\x0000
+> Queste chiavi non possono essere trasferite.\xf000?\x0001
+> Queste chiavi non possono essere ricevute.\xf000?\x0001
+Comunicazione in corso...\xfffeAttendi.
+CHIAVE AIUTOY è BLOCCATA.
 CHIAVE CHALLENGE è bloccata.
 CHIAVE FORESTA è bloccata.
-KEY is locked.
+La CHIAVE è bloccata.
 Si
 No
 Vuoi usare la\xfffecomunicazione ad Infrarossi?
-Can't be set.
-KEY SYSTEM
+Non può essere configurata.
+SISTEMA CHIAVI
 MEMORY LINK
 CANCELLA
-Pokémon VERSIONE NERA 2 o\xfffePokémon VERSIONE BIANCA 2\xfffeKey will be sent.
+Pokémon VERSIONE NERA 2 o\xfffePokémon VERSIONE BIANCA 2\xfffela chiav verrà inviata.
 Pokémon VERSIONE NERA 2 o\xfffePokémon VERSIONE BIANCA 2\xfffePuò essere collegata.
-Scarica Nintendo 3DS software\xfffe"RAdar Pokémon" per ricevere\xfffedati e Pokémon al Box o\xfffeal tuo Zaino.
+Scarica il software per Nintendo 3DS\xfffe"RAdar Pokémon" per inviare\xfffedati e Pokémon al Box o\xfffeal tuo Zaino.
 Return to title screen.
 MEMORY LINK
-WIRELESS COMMUNICATION
+COMUNICAZIONE WIRELESS
 Wi-Fi
 CANCELLA
-Attempt wireless communication\xfffebetween 2 DS models.
+Attendi la comunicazione wirless\xfffetra due console DS.
 Find out information on Wi-Fi.
-Go into the MEMORY LINK.
-Back to the MAIN MENU.
+Vai alla MEMORY LINK.
+Torna al MENÚ PRINCIPALE.
 MENÚ PRINCIPALE
-ASSIST MODE can now be used.
-CHALLENGE MODE can now be used.
+La MODALITÁ AIUTO ora può essere usata.
+La MODALITÁ SFIDA ora può essere usata.
 La FORESTA BIANCA può essere visitata ora.
 La CITTÁ NERA può essere visitata ora.
-CHIAVE ASSIST ottenuta! This key can be given to your friends so they can unlock it as well.
-CHALLENGE KEY obtained! This key can be given to your friends so they can unlock it as well.
-CHIAVE FORESTA ottenuta! This key can be given to your friends so they can unlock it as well.
-SKYSCRAPER KEY obtained! This key can be given to your friends so they can unlock it as well.
+CHIAVE AIUTO ottenuta! Questa chiave può essere data a un tuo amico coì possono sbloccarla anche loro.
+CHIAVE SFIDA ottenuta! Questa chiave può essere data a un tuo amico coì possono sbloccarla anche loro.
+CHIAVE FORESTA ottenuta! Questa chiave può essere data a un tuo amico coì possono sbloccarla anche loro.
+CHIAVE GRATTACIELO ottenuta! Questa chiave può essere data a un tuo amico coì possono sbloccarla anche loro.
 LISTA MEMORIA
 Può aprire la PORTA MONTAGNA.
 Può aprire la PORTA ACCIAIO.
@@ -108,20 +108,20 @@ CHIAVE ICEBERG
 CHIAVE ASSIST ottenuta! Ora puoi usare la CHIAVE ASSIST.
 CHIAVE CHALLENGE ottenuta! Ora puoi usare la CHIAVE CHALLENGE.
 CHIAVE ACCIAIO ottenuta! Ora puoi usare la CHIAVE ACCIAIO.
-ICEBERG KEY obtained! You can now use the CHIAVE ICEBERG.
-Non può essere trovato nessuna altro DS DS.\xfffeRiprova?
+CHIAVE ICEBERG ottenuta! Ora puoi usare la CHIAVE ICEBERG.
+Non può essere trovato nessuna altro DS.\xfffeRiprovare?
 ASSIST MODE sets opponent levels to a low difficulty.
 NORMAL MODE sets opponents levels to an average difficulty.
 CHALLENGE MODE sets opponents levels to an above average difficulty.
-CITTÁ NERA set.
-FORESTA BIANCA set.
-MONTAGNA set.
-CHAVE ACCIAIO set.
-CHIAVE ICEBERG set.
+CITTÁ NERA impostata.
+FORESTA BIANCA impostata.
+MONTAGNA impostata.
+CHAVE ACCIAIO impostata.
+CHIAVE ICEBERG impostata.
 MEMORY LINK ID: \xf000?\x0001\x0000
 MEMORY LINK
-Pokémon VERSIONE NERA 2\xfffeMEMORY LINK program
-Pokémon VERSIONE BIANCA 2\xfffeMEMORY LINK program
+Pokémon VERSIONE NERA 2\xfffeprogramma MEMORY LINK
+Pokémon VERSIONE BIANCA 2\xfffeprogramma MEMORY LINK
 A POCKET MONSTERS BLACK or\xfffePOCKET MONSTERS WHITE\xfffedownloadplay software.\xfffe(MEMORY LINK ID: \xf000?\x0001\x0000)
 A POCKET MONSTERS BLACK or\xfffePOCKET MONSTERS WHITE\xfffedownloadplay software.
 MEMORY LINK attivata\xfffeAttendi...
