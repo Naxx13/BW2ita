@@ -54,7 +54,7 @@ Cute
 Suggested
 Fun
 Select
-ボックス
+Box
 くわしくみる
 ア
 カ
@@ -66,8 +66,8 @@ Select
 ヤ
 ラ
 ワ
-This Week’s Rankings
-Last Week’s Rankings
+Risultati Settimana
+Risultati Settimana precedente
 Scambia Rankings
 Scambia Teams
 チーム：トレーナータイプ
