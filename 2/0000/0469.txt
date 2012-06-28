@@ -300,24 +300,24 @@ Pokémon Pois
 Pokémon Bussola
 Pokémon Micio
 새침떼기포켓몬
-어둠포켓몬
-배반포켓몬
-철갑옷포켓몬
-철갑옷포켓몬
-철갑옷포켓몬
-명상포켓몬
-명상포켓몬
-천둥번개포켓몬
-방전포켓몬
-응원포켓몬
-응원포켓몬
-반딧불포켓몬
-반딧불포켓몬
-가시포켓몬
-밥통포켓몬
+Pokémon Scuro
+Pokémon Tradimento
+Pokémon Storione
+Pokémon Storione
+Pokémon Storione
+Pokémon Meditazione
+Pokémon Meditazione
+Pokémon Fulmine
+Pokémon Scarico
+Pokémon Scarico
+Pokémon Scarico
+Pokémon Fuoco-Volante
+Pokémon Fuoco-Volante
+Pokémon Visibile
+Pokémon Visibile
 독봉지포켓몬
 사나움포켓몬
-난폭포켓몬
+Pokémon Violento
 둥근고래포켓몬
 뜸고래포켓몬
 둔감포켓몬
