@@ -22,25 +22,25 @@ CHIUDI
 Hiya!
 \xf000Ā\x0001\x0000 è nelle vicinanze.
 \xf000Ā\x0001\x0000 inizia la lotta\xfffecon un selvatico \xf000ā\x0001\x0001!
-\xf000Ā\x0001\x0000 won the battle\xfffewith the wild \xf000ā\x0001\x0001!
-\xf000Ā\x0001\x0000 started battling\xfffea special Pokémon!
-\xf000Ā\x0001\x0000 won the battle\xfffewith the special Pokémon!
-\xf000Ā\x0001\x0000 started a battle with\xfffe\xf000Ď\x0001\x0001 \xf000Ā\x0001\x0002!
-\xf000Ā\x0001\x0000 won the battle with\xfffe\xf000Ď\x0001\x0001 \xf000Ā\x0001\x0002!
-\xf000Ā\x0001\x0000 started a battle\xfffewith a Gym Leader!
-\xf000Ā\x0001\x0000 won the battle\xfffewith the Gym Leader!
-\xf000Ā\x0001\x0000 started a battle\xfffewith a special Trainer!
-\xf000Ā\x0001\x0000 won the battle\xfffewith a special Trainer!
-\xf000Ā\x0001\x0000 started a battle\xfffewith a special Trainer!
-\xf000Ā\x0001\x0000 won the battle\xfffewith a special Trainer!
-\xf000Ā\x0001\x0000 caught a\xfffewild \xf000ā\x0001\x0001!
-\xf000Ā\x0001\x0000 caught\xfffea special Pokémon!
-\xf000Ā\x0001\x0000's \xf000Ă\x0001\x0002's\xfffelevel went up!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 evolved\xfffeinto \xf000ā\x0001\x0001!
+\xf000Ā\x0001\x0000 vinta la lotta\xfffecon un selvatico \xf000ā\x0001\x0001!
+\xf000Ā\x0001\x0000 inizia la lotta\xfffeun Pokémon speciale!
+\xf000Ā\x0001\x0000 vinta la lotta\xfffecon il Pokémon speciale!
+\xf000Ā\x0001\x0000 inizia la lotta con\xfffe\xf000Ď\x0001\x0001 \xf000Ā\x0001\x0002!
+\xf000Ā\x0001\x0000 vinta la lotta con\xfffe\xf000Ď\x0001\x0001 \xf000Ā\x0001\x0002!
+\xf000Ā\x0001\x0000 inizia la lotta\xfffecon il Capopalestra!
+\xf000Ā\x0001\x0000 vinta la lotta\xfffecon il Capopalestra!
+\xf000Ā\x0001\x0000 inizia la lotta\xfffecon un allenatore speciale!
+\xf000Ā\x0001\x0000 vinta la lotta\xfffecon un'allenatore speciale!
+\xf000Ā\x0001\x0000 inizia la lotta\xfffecon un allenatore speciale!
+\xf000Ā\x0001\x0000 vinta la lotta\xfffecon un allenatore speciale!
+\xf000Ā\x0001\x0000 catturato un\xfffeselvatico \xf000ā\x0001\x0001!
+\xf000Ā\x0001\x0000 catturato\xfffeun Pokémon raro!
+\xf000Ā\x0001\x0000 \xf000Ă\x0001\x0002's\xfffesale di livello!
+\xf000Ā\x0001\x0000 \xfffe\xf000Ă\x0001\x0002 evelve\xfffein \xf000ā\x0001\x0001!
 Dummy Message
 \xf000Ā\x0001\x0000 found\xfffe\xf000ĉ\x0001\x0001!
 \xf000Ā\x0001\x0000's playing time has\xfffeexceeded \xf000Ȃ\x0001\x0001 hours!
-\xf000Ā\x0001\x0000 completed the\xfffePokédex!
+\xf000Ā\x0001\x0000 completato il\xfffePokédex!
 \xf000Ā\x0001\x0000 has been thanked\xfffemore than \xf000Ȃ\x0001\x0001 times!
 \xf000Ā\x0001\x0000 e`nella reception\xfffearea della Union Room.
 \xf000Ā\x0001\x0000 grazie!
