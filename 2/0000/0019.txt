@@ -150,10 +150,10 @@ Punte sparse dappertutto ai piedi\xfffedella tua squadra!
 Punte sparse dappertutto ai piedi\xfffedella squadra nemica!
 Le punte sono scomparse intorno \xfffeai piedi della tua squadra!
 Le punte sono scomparse intorno \xfffeai piedi della squadra nemica!
-Poison spikes were scattered all\xfffearound your team's feet!
-Poison spikes were scattered all\xfffearound the foe's team's feet!
-The poison spikes disappeared\xfffefrom around your team's feet!
-The poison spikes disappeared\xfffefrom around the foe's team's feet!
+Punte di veleno sono state sparse\xfffeintorno ai piedi della tua squadra!
+Punte di veleno sono state sparse\xfffeintorno ai piedi della squadra nemica!
+Le punte di veleno sono scomparse\xfffeintorno ai piedi della tua squadra!
+Le punte di veleno sono scomparse\xfffeintorno ai piedi della squadra nemica!
 Pietre appuntite galleggiano \xfffenell'aria intorno alla tua \xfffesquadra!
 Pietre appuntite galleggiano \xfffenell'aria intorno alla \xfffe squadra del nemico!
 Le pietre appuntite sono \xfffescomparse intorno al terreno \xfffe della tua squadra!
@@ -180,7 +180,7 @@ Si è creata una strana area nella quale \xfffela difesa e la difesa speciale \x
 La strana stanza è scomparsa, \xfffele statistiche della difesa e \xfffe della difesa speciale sono \xfffe tornate normali!
 Si è creata una strana area nella quale \xfffegli strumenti tenuti dai Pokemon \xfffe perdono il loro potere!
 La magica stanza è sparita e gli \xfffeeffetti degli strumenti tenuti \xfffe sono ritornati normali
-The \xf000ĉ\x0001\x0000 strengthened\xfffe\xf000ć\x0001\x0001's power!
+Il \xf000ĉ\x0001\x0000 rafforzamento\xfffe\xf000ć\x0001\x0001del potere!
 Il tempo limite è scaduto!\xfffeLa battaglia sarà terminata.
 La battaglia è troppo lunga!\xfffe Il PlayBack è cancellato.
 Modalità Zen attivata!
@@ -193,9 +193,9 @@ I due movimenti si uniscono!\xfffe E' un movimento combinato!
 \xf000Č\x0001\x0000 ignora gli ordini!
 \xf000Č\x0001\x0000 schiaccia un pisolino!
 \xf000Č\x0001\x0000 ignora\xfffegli ordini mentre dorme!
-Automatic center!
+Centro Automatico!
 Ma non è il luogo dove questo strumento \xfffepuò essere usato!
 Sky Drop won't let \xf000Č\x0001\x0000 go!
-The match was forfeited.
+Il Match è stato annullato
 (\xf000Ȁ\x0001\x0000)'s Metronome \xf000Ȃ\x0001\x0001:\xf000ć\x0001\x0002
 あっ！　やせい？の\xfffe\xf000ā\x0001\x0000が　あらわれた！
