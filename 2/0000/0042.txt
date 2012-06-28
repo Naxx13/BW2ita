@@ -1,4 +1,4 @@
-\xf000ă\x0001\x0000は　たおれた！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001の　てもとには\xfffeたたかえる　ポケモンが　いない！\xf000븁\x0000\xfffe\xf000Ď\x0001\x0002の　\xf000Ā\x0001\x0003\xfffeとの　しょうぶに　まけた……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001は　しょうきんとして\xfffe\xf000ȅ\x0001\x0004円　しはらった\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001は\xfffeめのまえが　まっくらに　なった！
-\xf000ă\x0001\x0000は　たおれた！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001の　てもとには\xfffeたたかえる　ポケモンが　いない！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001は　あわてて\xfffe\xf000ȅ\x0001\x0003円　なくしてしまった……\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001は\xfffeめのまえが　まっくらに　なった！
-つかれて　うごけなくなった　ひんしの\xfffeポケモンたちを　かばいながら\xfffe\xf000Ā\x0001\x0001は　いそいで\xfffeポケモンセンターに　もどるのであった
-つかれて　うごけなくなった　ひんしの\xfffeポケモンたちを　かばいながら\xfffe\xf000Ā\x0001\x0001は　いそいで\xfffeじたくに　もどるのであった
+\xf000ă\x0001\x0000è esausto!\xf000븁\x0000\xf000Ā\x0001\x0001 non\xfffepuò più usare Pokémon!\xf000븁\x0000Ha perso contro\xfffe\xf000Ď\x0001\x0002 \xf000Ā\x0001\x0003\xfffe...\xf000븁\x0000\xf000Ā\x0001\x0001 paga \xfffe$\xf000ȅ\x0001\x0004 al vincitore.\xf000븁\x0000... ... ...\xfffe... ... ...\xf000븁\x0000\xf000Ā\x0001\x0001\xfffeda rifare!
+\xf000ă\x0001\x0000è esausto!\xf000븁\x0000\xf000Ā\x0001\x0001 non\xfffepuò più usare Pokémon!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001\xfffeabbandona $\xf000ȅ\x0001\x0003 preso dal panico...\xf000븁\x0000... ... ...\xfffe... ... ...\xf000븁\x0000\xf000Ā\x0001\x0001\xfffeda rifare!
+\xf000Ā\x0001\x0001 si è precipitato in un\xfffePokémon Center, proteggendo\xfffel'esausto e debole\xfffePokémon da ulteriori danni...
+\xf000Ā\x0001\x0001 si è precipitato\xfffea casa, proteggendo\xfffel'esausto e debole\xfffePokémon da ulteriori danni...
