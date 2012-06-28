@@ -1,13 +1,13 @@
-てもちか　バトルボックスの\xfffeどちらを　つかうか　えらんでください
-てもち
-バトルボックス
-やめる
-さんか　できる\xfffeポケモンが　いません！\xf000븁\x0000
-さんかできる　じょうけんを\xfffeみたして　いません！\xf000븁\x0000\xfffeさんかするには　しゅるいの　ちがう\xfffeポケモンを　３～６ひき　よういし\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがう　どうぐに　してください\xf000븁\x0000
-さんかできる　じょうけんを\xfffeみたして　いません！\xf000븁\x0000\xfffeさんかするには　しゅるいの　ちがう\xfffeポケモンを　４～６ひき　よういし\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがう　どうぐに　してください\xf000븁\x0000
-さんかできる　じょうけんを\xfffeみたして　いません！\xf000븁\x0000\xfffeさんかするには　しゅるいの　ちがう\xfffeポケモンを　６ひき　よういし\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがう　どうぐに　してください\xf000븁\x0000
-さんかできる　じょうけんを\xfffeみたして　いません！\xf000븁\x0000\xfffeさんかするには　しゅるいの　ちがう\xfffeポケモンを　４～６ひき　よういし\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがう　どうぐに　してください\xf000븁\x0000
-さんかできる　じょうけんを\xfffeみたして　いません！\xf000븁\x0000\xfffeさんかするには　しゅるいの　ちがう\xfffeポケモンを　６ひき　よういし\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがう　どうぐに　してください\xf000븁\x0000
+Scegli sè utilizzare il box lotta o\xfffela tua squadra.
+Squadra
+Box lotta
+Termina
+Nessuno di questi pokèmon\xfffepuò partecipare！\xf000븁\x0000
+Non soddisfi i requisiti\xfffeper partecipare！\xf000븁\x0000\xfffeさんかするには　しゅるいの　ちがう\xfffeポケモンを　３～６ひき　よういし\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがう　どうぐに　してください\xf000븁\x0000
+Non soddisfi i requisiti\xfffeper partecipare！\xf000븁\x0000\xfffeさんかするには　しゅるいの　ちがう\xfffeポケモンを　４～６ひき　よういし\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがう　どうぐに　してください\xf000븁\x0000
+Non soddisfi i requisiti\xfffeper partecipare！\xf000븁\x0000\xfffeさんかするには　しゅるいの　ちがう\xfffeポケモンを　６ひき　よういし\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがう　どうぐに　してください\xf000븁\x0000
+Non soddisfi i requisiti\xfffeper partecipare！\xf000븁\x0000\xfffeさんかするには　しゅるいの　ちがう\xfffeポケモンを　４～６ひき　よういし\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがう　どうぐに　してください\xf000븁\x0000
+Non soddisfi i requisiti\xfffeper partecipare！\xf000븁\x0000\xfffeさんかするには　しゅるいの　ちがう\xfffeポケモンを　６ひき　よういし\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがう　どうぐに　してください\xf000븁\x0000
 さんかできる　ポケモンが\xfffe３ひき　いません！\xf000븁\x0000\xfffeさんかするには　しゅるいの　ちがう\xfffeポケモンを　３ひき　よういし\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがう　どうぐに　してください\xf000븁\x0000
 さんかできる　ポケモンが\xfffe４ひき　いません！\xf000븁\x0000\xfffeさんかするには　しゅるいの　ちがう\xfffeポケモンを　４ひき　よういし\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがう　どうぐに　してください\xf000븁\x0000
 さんかできる　ポケモンが\xfffe２ひき　いません！\xf000븁\x0000\xfffeさんかするには　しゅるいの　ちがう\xfffeポケモンを　２ひき　よういし\xf000븁\x0000\xfffeもたせる　どうぐも　すべて\xfffeちがう　どうぐに　してください\xf000븁\x0000
