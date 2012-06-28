@@ -1,52 +1,52 @@
-Download Tournament
+Scaricamento Torneo
 \xf000Ļ\x0001\x0000
-Battle Rules:
-Single Battle
-Double Battle
-Triple Battle
-Rotation Battle
-Tournament Content:
-Saved Tournament
-Forbidden Pokémon
-Forbidden Items
-Forbidden Attacks
-None
-Searching for tournament data.\xfffePlease wait a moment...
-Please select the tournament\xfffeyou wish to save.\xf000븁\x0000
-Do you want to disconnect\xfffefrom Nintendo WFC?
-YES
+Regole Battaglia:
+Battaglia singola
+Battaglia Doppia
+Battaglia tripla
+Battaglia Rotazione
+Contenuto torneo:
+Torneo Salvato
+Pokémon Proibiti
+Articoli Proibiti
+Attacchi Proibiti
+Nessuno
+Searching for tournament data.\xfffePer favore aspetta un secondo...
+Per favore seleziona il torneo\xfffedesideri salvare.\xf000븁\x0000
+Vuoi disconnettere\xfffeda Nintendo WFC?
+SI
 NO
 \xf000Ļ\x0001\x0000　を\xfffeほぞん　しますか？
-YES
+SI
 NO
-This tournament has\xfffealready been saved.\xf000븁\x0000
-Received the tournament data!\xf000븁\x0000
-Saving the tournament...\xfffeDon't turn off the power.
-Tournament data has been saved.\xf000븁\x0000
-Tournament data is full.\xfffePlease delete a tournament.\xf000븁\x0000
-Stop deleting tournament data?
-YES
+Questo torneo\xfffee` stato salvato.\xf000븁\x0000
+Ricevuto salvataggio torneo!\xf000븁\x0000
+Salvataggio torneo...\xfffeDon't turn off the power.
+Il torneo e` stato salvato.\xf000븁\x0000
+Il salvataggio e` pieno.\xfffePlease delete a tournament.\xf000븁\x0000
+Fermare eliminazione torneo?
+SI
 NO
-\xf000Ļ\x0001\x0000\xfffewill be erased.  Okay?
-YES
+\xf000Ļ\x0001\x0000\xfffeSaranno cancellati. Va bene?
+SI
 NO
-\xf000Ļ\x0001\x0000\xfffecannot be recovered once it is\xfffegone.  Continue anyway?
-YES
+\xf000Ļ\x0001\x0000\xfffenon puo` essere recuperato una volta che si\xfffeesce.Continuare comunque?
+SI
 NO
-Tournament data\xfffehas been erased.\xf000븁\x0000
-Data could not be found.\xf000븁\x0000
-Data could not be found.\xf000븁\x0000
-Data could not be found.\xf000븁\x0000
-Do what with\xfffe\xf000Ļ\x0001\x0000?
-READ MORE
-QUIT
-Please select a\xfffetournament to join.\xf000븁\x0000
-Do you wish to join\xfffe\xf000Ļ\x0001\x0000?
-PARTICIPATE
-READ MORE
-QUIT
+Il Salvataggio torneo\xfffee` stato cancellato.\xf000븁\x0000
+Salvataggio non trovato.\xf000븁\x0000
+Salvataggio non trovato.\xf000븁\x0000
+Salvataggio non trovato.\xf000븁\x0000
+Cosa fare\xfffe\xf000Ļ\x0001\x0000?
+LEGGI ANCORA
+ESCI
+Per favore scegli un\xfffetorneo a cui aderire.\xf000븁\x0000
+Desideri aderire\xfffe\xf000Ļ\x0001\x0000?
+PARTICIPA
+LEGGI ANCORA
+ESCI
 \xf000ā\x0001\x0000
 \xf000ĉ\x0001\x0000
 \xf000ć\x0001\x0000
-SAVE
-Are you sure you want to stop\xfffedownloading tournaments?
+SALVA
+Sei sicuro di voler stoppare\xfffelo scaricamento dei tornei?
