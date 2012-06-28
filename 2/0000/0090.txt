@@ -437,7 +437,7 @@ Skuntank
 Bronzor
 Bronzong
 Bonsly
-Mime Jr.
+Mimo Jr.
 Happiny
 Chatot
 Spiritomb
@@ -648,7 +648,7 @@ Kyurem
 Keldeo
 Meloetta
 Genesect
-Egg
+Uovo
 ダメタマゴ
 ＵＦＯ
 ハチクマン
@@ -683,5 +683,5 @@ Egg
 Ｆ−００２
 カラテおう
 ドーブル２
-Egg
-Egg
+Uovo
+Uovo
