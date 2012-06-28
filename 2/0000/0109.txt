@@ -1,7 +1,7 @@
 －－－－－－－－－－
 Zona Misteriosa
 Luogo Remoto
-\xf000ą\x0001\x0001 di \xf000Ā\x0001\x0000
+\xf000ą\x0001\x0000 di \xf000Ā\x0001\x0001
 Soffiolieve
 Quattroventi
 Levantopoli
@@ -117,9 +117,9 @@ Varco Percorso
 Rovine degli Abissi
 Alisopoli
 Città di Virbank
-セイガイハシティ
+Città di Seigaiha
 Pokewood
-ジョインアベニュー
+Via Unione
 Città di Sangi
 Città di Yamaji
 Percorso 19
@@ -129,26 +129,26 @@ Percorso 22
 Percorso 23
 Canali di Austropoli
 Fattoria di Sangi
-Complesso Virbank
+Complesso Tachiwaki
 Monte rinascita
 Casa strana
 Via Vittoria
-プラズマフリゲート
-こだいのぬけみち
+Covo Plasma
+Antica Feritoia
 Strada di Rafan
 －－－－－－－－－－
-しろのじゅどう
-くろのまてんろう
-うみべのどうけつ
-こころのくうどう
-かくしあな
-マリンチューブ
-タチワキゲート
-ヒオウギゲート
-しぜんほごく
-メダルじむきょく
-ちていいせき
-いわやまのま
-ひょうざんのま
-くろがねのま
-ちかいのはやし
+Cavità Albero Bianco
+Grattacielo Nero
+Cava Marina
+Grotta del Cuore
+Voragine nascosta
+Tubo Marino
+Cancello Tachiwaki
+Alisopoli
+Riserva Naturale
+Segreteria Medaglie
+Rovine Sotterranee
+Camera di Roccia
+Camera di Ghiaccio
+Camera d'Acciaio
+Foresta Sacra
