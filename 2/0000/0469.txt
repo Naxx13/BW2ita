@@ -157,14 +157,14 @@ Pokémon Fuocotopo
 Pokémon Vulcano
 Pokémon Vulcano
 Pokémon Mascellone
-Pokémon Mescellone
+Pokémon Mascellone
 Pokémon Mascellone
 Pokémon Esplorante
 Pokémon Lungocorpo
 Pokémon Gufo
 Pokémon Gufo
-Pokémon Pentastra
-Pokémon Pentastra
+Pokémon Penstastra
+Pokémon Penstastra
 Pokémon Tela
 Pokémon Lungazampa
 Pokémon Pipistrello
@@ -199,18 +199,18 @@ Pokémon Lucelunare
 Pokémon Oscurità
 Pokémon Reale
 Pokémon Strido
-Pokémon Símbolo
+Pokémon Simbolo
 Pokémon Pazienza
 Pokémon Lungocollo
 Pokémon Larva
 Pokémon Larva
 Pokémon Terraserpe
-Pokémon Aliscorpio
+Pokémon Aliscoprio
 Pokémon Ferroserpe
 Pokémon Fata
 Pokémon Fata
 Pokémon Pallone
-Pokémon Chele
+Pokémon Chela
 Pokémon Muffa
 Pokémon Monocorno
 Pokémon Lamartigli
@@ -225,7 +225,7 @@ Pokémon Jet
 Pokémon Jet
 Pokémon Consegna
 Pokémon Aquilone
-Pokémon Armuccello
+Pokémon Armucello
 Pokémon Buio
 Pokémon Buio
 Pokémon Drago
@@ -253,7 +253,7 @@ Pokémon Tempovia
 Pokémon Legnogeco
 Pokémon Legnogeco
 Pokémon Foresta
-Pokémon Pulcino
+Pokémon Torchic
 Pokémon Rampollo
 Pokémon Vampe
 Pokémon Fango Pesce
@@ -274,7 +274,7 @@ Pokémon Spensierato
 Pokémon Ghianda
 Pokémon Scaltro
 Pokémon Burbero
-Pokémon Rondine
+Pokémon Rondinella
 Pokémon Rondine
 Pokémon Gabbiano
 Pokémon Alacquatico
@@ -286,7 +286,7 @@ Pokémon Occhi
 Pokémon Fungo
 Pokémon Fungo
 Pokémon Ozioso
-Pokémon Inodcile
+Pokémon Indocile
 Pokémon Pigrizia
 Pokémon Novizio
 Pokémon Ninja
@@ -299,196 +299,196 @@ Pokémon Sberletese
 Pokémon Pois
 Pokémon Bussola
 Pokémon Micio
-새침떼기포켓몬
-Pokémon Scuro
-Pokémon Tradimento
-Pokémon Storione
-Pokémon Storione
-Pokémon Storione
+Pokémon Finezza
+Pokémon Oscurità
+Pokémon Inganno
+Pokémon Corazza
+Pokémon Corazza
+Pokémon Corazza
 Pokémon Meditazione
 Pokémon Meditazione
-Pokémon Fulmine
-Pokémon Scarico
-Pokémon Scarico
-Pokémon Scarico
-Pokémon Fuoco-Volante
-Pokémon Fuoco-Volante
-Pokémon Visibile
-Pokémon Visibile
-독봉지포켓몬
-사나움포켓몬
-Pokémon Violento
-둥근고래포켓몬
-뜸고래포켓몬
-둔감포켓몬
-분화포켓몬
-석탄포켓몬
-튀다포켓몬
-조작포켓몬
-얼룩팬더포켓몬
-개미지옥포켓몬
-진동포켓몬
-혼령포켓몬
-선인장포켓몬
-허수아비포켓몬
-솜새포켓몬
-허밍포켓몬
-고양이족제비포켓몬
-송곳뱀포켓몬
-별똥별포켓몬
-별똥별포켓몬
-수염물고기포켓몬
-수염물고기포켓몬
-건달포켓몬
-불량배포켓몬
-토우포켓몬
-토우포켓몬
-바다나리포켓몬
-바위단지포켓몬
-고대새우포켓몬
-갑주포켓몬
-물고기포켓몬
-사랑포켓몬
-날씨포켓몬
-색변화포켓몬
-인형포켓몬
-봉제인형포켓몬
-마중포켓몬
-손짓포켓몬
-후르츠포켓몬
-풍경포켓몬
-재난포켓몬
-명랑포켓몬
-눈우산포켓몬
-얼굴포켓몬
-손뼉포켓몬
-공돌리기포켓몬
-얼음깨기포켓몬
-쌍각포켓몬
-깊은바다포켓몬
-남해포켓몬
-장수포켓몬
-랑데부포켓몬
-돌머리포켓몬
-인내포켓몬
-드래곤포켓몬
-철공포켓몬
-철발톱포켓몬
-무쇠다리포켓몬
-바위산포켓몬
-빙산포켓몬
-쇠철포켓몬
-무한포켓몬
-무한포켓몬
-해저포켓몬
-대륙포켓몬
-천공포켓몬
-희망사항포켓몬
-DNA포켓몬
-어린잎포켓몬
-나무숲포켓몬
-대륙포켓몬
-꼬마원숭이포켓몬
-개구쟁이포켓몬
-화염포켓몬
-펭귄포켓몬
-펭귄포켓몬
-황제포켓몬
-찌르레기포켓몬
-찌르레기포켓몬
-맹금포켓몬
-둥글쥐포켓몬
-비버포켓몬
-귀뚜라미포켓몬
-귀뚜라미포켓몬
-섬광포켓몬
-전광포켓몬
-안광포켓몬
-꽃봉오리포켓몬
-부케포켓몬
-박치기포켓몬
-박치기포켓몬
-실드포켓몬
-실드포켓몬
-도롱이벌레포켓몬
-도롱이벌레포켓몬
-나방포켓몬
-꼬마벌포켓몬
-벌집포켓몬
-전기다람쥐포켓몬
-바다족제비포켓몬
-바다족제비포켓몬
-버찌포켓몬
-벚꽃포켓몬
-갯민숭달팽이포켓몬
-갯민숭달팽이포켓몬
-긴꼬리포켓몬
-풍선포켓몬
-기구포켓몬
-토끼포켓몬
-토끼포켓몬
-매지컬포켓몬
-큰형님포켓몬
-내숭포켓몬
-얼룩고양이포켓몬
-방울포켓몬
-스컹크포켓몬
-스컹크포켓몬
-청동포켓몬
-동탁포켓몬
-분재포켓몬
-따라하기포켓몬
-소꿉놀이포켓몬
-음표포켓몬
-봉인포켓몬
-육지상어포켓몬
-동굴포켓몬
-마하포켓몬
-대식가포켓몬
-파문포켓몬
-파동포켓몬
-하마포켓몬
-중량포켓몬
-전갈포켓몬
-요괴전갈포켓몬
-독설포켓몬
-독설포켓몬
-벌레잡이포켓몬
-비어포켓몬
-네온포켓몬
-연포켓몬
-얼음나무포켓몬
-얼음나무포켓몬
-갈고리손톱포켓몬
-자기장포켓몬
-핥기포켓몬
-드릴포켓몬
-넝쿨포켓몬
-뇌전포켓몬
-폭염포켓몬
-축복포켓몬
-깨비잠자리포켓몬
-심록포켓몬
-신설포켓몬
-송곳니전갈포켓몬
-2개송곳니포켓몬
-가상포켓몬
-검포켓몬
-콤파스포켓몬
-움켜쥠포켓몬
-설국포켓몬
-플라스마포켓몬
-지식포켓몬
-감정포켓몬
-의지포켓몬
-시간포켓몬
-공간포켓몬
-화구포켓몬
-거대포켓몬
-반골포켓몬
-초승달포켓몬
-해양포켓몬
-회유포켓몬
-암흑포켓몬
-감사포켓몬
-창조포켓몬
+Pokémon Lampo
+Pokémon Scossa
+Pokémon Incitamento
+Pokémon Incitamento
+Pokémon Lucciola
+Pokémon Luccciola
+Pokémon Spina
+Pokémon Stomaco
+Pokémon Velenosacco
+Pokémon Feroce
+Pokémon Brutale
+Pokémon Balenottero
+Pokémon Megabalena
+Pokémon Torpore
+Pokémon Eruzione
+Pokémon Carbone
+Pokémon Molla
+Pokémon Raggiro
+Pokémon Macchipanda
+Pokémon Trappola
+Pokémon Vibrazione
+Pokémon Magico
+Pokémon Cactus
+Pokémon Spavento
+Pokémon Alidicotone
+Pokémon Canterino
+Pokémon Furogatto
+Pokémon Zannaserpe
+Pokémon Meteorite
+Pokémon Meteorite
+Pokémon Baffetti
+Pokémon Baffetti
+Pokémon Birbone
+Pokémon Canaglia
+Pokémon Argilla
+Pokémon Argilla
+Pokémon Fiordimare
+Pokémon Lepade
+Pokémon Primaceo
+Pokémon Piastre
+Pokémon Pesce
+Pokémon Tenerezza
+Pokémon Meteo
+Pokémon Mutacolore
+Pokémon Pupazzo
+Pokémon Marionetta
+Pokémon Requiem
+Pokémon Ipnosguardo
+Pokémon Frutto
+Pokémon Vencampana
+Pokémon Catastrofe
+Pokémon Brillante
+Pokémon Cappelneve
+Pokémon Tuttomuso
+Pokémon Rotolante
+Pokémon Rotopalla
+Pokémon Spaccagelo
+Pokémon Bivalve
+Pokémon Abissi
+Pokémon Sudmarino
+Pokémon Longevità
+Pokémon Rendezvuos
+Pokémon Rocciotesta
+Pokémon Resistenza
+Pokémon Drago
+Pokémon Ferrosfera
+Pokémon Ferrunghia
+Pokémon Ferrarto
+Pokémon Picco
+Pokémon Iceberg
+Pokémon Ferro
+Pokémon Eone
+Pokémon Eone
+Pokémon Oceano
+Pokémon Continente
+Pokémon Stratosfera
+Pokémon Desiderio
+Pokémon DNA
+Pokémon Fogliolina
+Pokémon Boschetto
+Pokémon Continente
+Pokémon Scimpanzé
+Pokémon Briccone
+Pokémon Fiamma
+Pokémon Pinguino
+Pokémon Pinguino
+Pokémon Imperatore
+Pokémon Storno
+Pokémon Storno
+Pokémon Rapace
+Pokémon Topaffuto
+Pokémon Castoro
+Pokémon Grillo
+Pokémon Grillo
+Pokémon Baleno
+Pokémon Favilla
+Pokémon Occhiluce
+Pokémon Germoglio
+Pokémon Floreale
+Pokémon Cranioso
+Pokémon Cranioso
+Pokémon Schermo
+Pokémon Schermo
+Pokémon Larva
+Pokémon Larva
+Pokémon Falena
+Pokémon Apetta
+Pokémon Alveare
+Pokémon Elescoiatto
+Pokémon Maridonnola
+Pokémon Maridonnola
+Pokémon Ciliegia
+Pokémon Bocciolo
+Pokémon Lumacomare
+Pokémon Lumacomare
+Pokémon Lungacoda
+Pokémon Pallone
+Pokémon Dirigible
+Pokémon Coniglio
+Pokémon Coniglio
+Pokémon Stregone
+Pokémon Grancapo
+Pokémon Felide
+Pokémon Gattotigre
+Pokémon Sonaglio
+Pokémon Moffetta
+Pokémon Moffetta
+Pokémon Bronzo
+Pokémon Squibronzo
+Pokémon Bonsai
+Pokémon Mimo
+Pokémon Ovettino
+Pokémon Musicale
+Pokémon Proibito
+Pokémon Squaloterra
+Pokémon Grotta
+Pokémon Mach
+Pokémon Ghiottone
+Pokémon Emanazione
+Pokémon Aura
+Pokémon Ippo
+Pokémon Grandepeso
+Pokémon Scorpione
+Pokémon Scorpiaccio
+Pokémon Invieleno
+Pokémon Invieleno
+Pokémon Insettivoro
+Pokémon Pescalato
+Pokémon Neon
+Pokémon Aquilone
+Pokémon Albergelo
+Pokémon Albergelo
+Pokémon Lamartigli
+Pokémon Magnetico
+Pokémon Linguaccia
+Pokémon Trapano
+Pokémon Liana
+Pokémon Saetta
+Pokémon Esplosivo
+Pokémon Festa
+Pokémon Libellorco
+Pokémon Rigoglioso
+Pokémon Nevefresca
+Pokémon Scorpidente
+Pokémon Duezanne
+Pokémon Virtuale
+Pokémon Lama
+Pokémon Bussola
+Pokémon Pinza
+Pokémon Suolnevoso
+Pokémon Plasma
+Pokémon Sapienza
+Pokémon Emozione
+Pokémon Volontà
+Pokémon Tempo
+Pokémon Spazio
+Pokémon Cratere
+Pokémon Colossale
+Pokémon Ribelle
+Pokémon Falcato
+Pokémon Oceanbondo
+Pokémon Oceandante
+Pokémon Neropesto
+Pokémon Gratitudine
+Pokémon Primevo
