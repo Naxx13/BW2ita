@@ -1,8 +1,8 @@
-Circumstances seem bad... \xf000Ȅ\x0001\x0009
-A communication error\xfffehas occurred.\xfffe\xfffeIf you are in the Union Room,\xfffeenter the Union Room again.\xfffeOtherwise,\xfffeyou will be returned\xfffeto your last save.\xfffePlease press A.
-An error has occurred\xfffeduring communications. (\xf000Ȅ\x0001\x0000)\xfffeTurn off the power\xfffeand try again.\xfffe\xfffeIf this message\xfffeappears multiple times,\xfffeinquire the\xfffeSupport Center.
-A communication error\xfffehas occurred.\xfffe\xfffeReturning to the title screen.\xfffePlease press A.
-The GTS is currently busy.\xfffePlease wait a while,\xfffethen try again.\xfffe\xfffeYou have been disconnected\xfffefrom the Wi-Fi connection.\xfffePlease press A.
-An error has occurred\xfffeduring communications.\xfffeTurn off the power\xfffeand try again.\xfffe\xfffeIf this message\xfffeappears multiple times,\xfffeinquire the\xfffeSupport Center.
-A communication error\xfffehas occurred.\xfffe\xfffeYou have been disconnected\xfffefrom the Wi-Fi connection.\xfffeYou will be returned\xfffeto your last save.\xfffePlease press A.
-A communication error\xfffehas occurred.\xfffe\xfffeYou have been disconnected\xfffefrom the Wi-Fi connection.\xfffeReturning to the title screen.\xfffePlease press A.
+La situazione sembra cattiva... \xf000Ȅ\x0001\x0009
+C'è stato un errore\xfffedi comuniczione.\xfffe\xfffeSe sei nella union room,\xffferientra di nuovo.\xfffeAltrimenti,\xfffetornerai\xfffeal tuo ultimo salvataggio.\xfffePer favore, premi A.
+C'è stato un errore\xfffedurante le comunicazioni. (\xf000Ȅ\x0001\x0000)\xfffeSpegni\xfffee Riprova.\xfffe\xfffeSe questo messaggio\xfffeappare molte volte,\xfffcontatta il\xfffeSupport Center.
+C'è stato un errore\xfffedi comunicazione.\xfffe\xfffeTorna alla schermata iniziale.\xfffePer favore, premi A.
+La GTS è momentaneamente occupata.\xfffePer favore aspetta,\xfffepoi Riprova.\xfffe\xfffeSei stato disconnesso\xfffedalla Wi-Fi connection.\xfffePer favore, premi A.
+C'è stato un errore\xfffeDurante le comunicazioni.\xfffeSpegni\xfffee Riprova.\xfffe\xfffeSe questo messaggio\xfffeappare molte volte,\xfffecontatta il\xfffeSupport Center.
+C'è stato un errore\xfffedi Comunicazione.\xfffe\xfffeSei stato diconnesso\xfffedalla Wi-Fi Connection.\xfffeTornerai\xfffeAl tuo ultimo salvataggio.\xfffePer favore, Premi A.
+C'è stato un errore\xfffedi comunicazione.\xfffe\xfffeSei stato disconnesso\xfffedalla Wi-Fi Connection.\xfffeTorna alla schermata iniziale.\xfffePer favore, premi A.
