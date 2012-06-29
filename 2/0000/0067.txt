@@ -42,24 +42,24 @@ Salvataggio dei dati in corso...\xfffeNON SPEGNERE.
 > Il tuo amico ha inviato la CHIAVE FERRO.\xf000?\x0001
 > Il tuo amico ha inviato la CHIAVE ICEBERG.\xf000?\x0001
 > Exchanging the keys\xf000?\x0001
-> \xf000A\x0001\x0000 got ASSIST KEY!\xf000?\x0001
-> \xf000A\x0001\x0000 got CHALLENGE KEY!\xf000?\x0001
-> \xf000A\x0001\x0000 got FOREST KEY!\xf000?\x0001
-> \xf000A\x0001\x0000 got SKYSCRAPER KEY!\xf000?\x0001
-> \xf000A\x0001\x0000 got IRON KEY!\xf000?\x0001
-> \xf000A\x0001\x0000 got ICEBERG KEY!\xf000?\x0001
-> Il tuo amico ha la ASSIST KEY!\xf000?\x0001
-> Il tuo amico ha la CHALLENGE KEY!\xf000?\x0001
-> Il tuo amico ha la FOREST KEY!\xf000?\x0001
-> Il tuo amico ha la SKYSCRAPER KEY!\xf000?\x0001
-> Il tuo amico ha la IRON KEY!\xf000?\x0001
-> Il tuo amico ha la ICEBERG KEY!\xf000?\x0001
+> \xf000A\x0001\x0000 Hai la CHIAVE AIUTO!\xf000?\x0001
+> \xf000A\x0001\x0000 Hai la CHIAVE SFIDA!\xf000?\x0001
+> \xf000A\x0001\x0000 Hai la CHIAVE FORESTA!\xf000?\x0001
+> \xf000A\x0001\x0000 Hai la CHIAVE GRATTACIELO!\xf000?\x0001
+> \xf000A\x0001\x0000 Hai la CHIAVE FERRO!\xf000?\x0001
+> \xf000A\x0001\x0000 Hai la CHIAVE ICEBERG!\xf000?\x0001
+> Il tuo amico ha la CHIAVE AIUTO!\xf000?\x0001
+> Il tuo amico ha la CHIAVE SFIDA!\xf000?\x0001
+> Il tuo amico ha la CHIAVE FORESTA!\xf000?\x0001
+> Il tuo amico ha la CHIAVE GRATTACIELO!\xf000?\x0001
+> Il tuo amico ha la CHIAVE FERRO!\xf000?\x0001
+> Il tuo amico ha la CHIAVE ICEBERG!\xf000?\x0001
 > Trasferimento completo.\xf000?\x0000
 > Una o più chiavi sono state trasferite con successo!\xf000?\x0000
 > Queste chiavi non possono essere trasferite.\xf000?\x0001
 > Queste chiavi non possono essere ricevute.\xf000?\x0001
 Comunicazione in corso...\xfffeAttendi.
-CHIAVE AIUTOY è BLOCCATA.
+CHIAVE AIUTO è BLOCCATA.
 CHIAVE CHALLENGE è bloccata.
 CHIAVE FORESTA è bloccata.
 La CHIAVE è bloccata.
@@ -110,9 +110,9 @@ CHIAVE CHALLENGE ottenuta! Ora puoi usare la CHIAVE CHALLENGE.
 CHIAVE ACCIAIO ottenuta! Ora puoi usare la CHIAVE ACCIAIO.
 CHIAVE ICEBERG ottenuta! Ora puoi usare la CHIAVE ICEBERG.
 Non può essere trovato nessuna altro DS.\xfffeRiprovare?
-ASSIST MODE sets opponent levels to a low difficulty.
-NORMAL MODE sets opponents levels to an average difficulty.
-CHALLENGE MODE sets opponents levels to an above average difficulty.
+ASSIST MODE imposta il livello dell'avversario a una difficoltà bassa.
+NORMAL MODE imposta il livello dell'avversario a una difficoltà media.
+CHALLENGE MODE imposta il livello dell'avversario a una difficoltà difficile.
 CITTÁ NERA impostata.
 FORESTA BIANCA impostata.
 MONTAGNA impostata.
