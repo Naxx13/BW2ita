@@ -209,12 +209,12 @@ A very unusual strong storm is happening!
 ◆ Welcome to the Hall of Fame! \xf000Ā\x0001\x0006 won a victory with \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002, and \xf000ā\x0001\x0003!
 ◆ Welcome to the Hall of Fame! \xf000Ā\x0001\x0006 won a victory with \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002, \xf000ā\x0001\x0003, and \xf000ā\x0001\x0004!
 ◆ Welcome to the Hall of Fame! \xf000Ā\x0001\x0006 won a victory with \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002, \xf000ā\x0001\x0003, \xf000ā\x0001\x0004, and \xf000ā\x0001\x0005!
-◇ A Trainer from Aspertia City defeated the Seigaiha Gym Leader, Shizui!!
+◇ Un allenatore da Alisopoli ha sconfitto il capopalestra Ciprian
 ◇ The beautiful view of the mountains is a must-see.
 ◇ Aspertia City's Trainer School is a heated educational institution.
-◇ With its blooming flowers, Aspertia City is wrapped in sweet aromas.
-◇ Route 19 ends at the famous clock tower of Sangi Town.
-◇ Located at the foot of the mountains, Aspertia City is cool and comfortable even in the Summer.
+◇ Con i suoi fiori che sbocciano,Alisopoli è avvolta in dolci aromi.
+◇ Il percorso 19 termina alla famosa Torre dell'Orologio della città di Sangi.
+◇ Situato ai piedi di una montagna,Alisopoli è fresco e confortevole anche in estate.
 ◇ Sangi Town has a religious hut which teaches the wonders of Pokémon to children.
 ◇ Route 19 is characterized by a steep hill.
 ◇ Sangi Town used to have a large variety of Pokémon at its Ranch.
