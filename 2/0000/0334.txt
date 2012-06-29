@@ -1,42 +1,42 @@
-きゃくほん
-カット　０１
-カット　０２
-カット　０３
-カット　０４
-カット　０５
-カット　０６
-カット　０７
-カット　０８
-カット　０９
-カット　１０
-カット　１１
-カット　１２
-カット　１３
-カット　１４
-カット　１５
-カット　１６
-カット　１７
-カット　１８
-カット　１９
-カット　２０
+Scenario
+Taglio　０１
+Taglio　０２
+Taglio　０３
+Taglio　０４
+Taglio　０５
+Taglio　０６
+Taglio　０７
+Taglio  ０８
+Taglio　０９
+Taglio　１０
+Taglio　１１
+Taglio　１２
+Taglio　１３
+Taglio　１４
+Taglio　１５
+Taglio　１６
+Taglio　１７
+Taglio　１８
+Taglio　１９
+Taglio　２０
 あいてを　こうげきしろ！\xfffeセリフのせんたくが　じゅうよう！
 あいてを　こうげきしろ！\xfffeセリフのせんたくが　じゅうよう！
 あいての　のうりょくを　りようしろ！\xfffeセリフのせんたくが　じゅうよう！
 あいてを　こうげきしろ！
 いっきに　きめろ！
 いっきに　きめろ！
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
+Nessuno 
+nessuno 
+nessuno 
+nessuno 
+nessuno 
+nessuno 
+nessuno 
+nessuno 
+nessuno 
+nessuno 
+nessuno 
+nessuno 
+nessuno 
+nessuno 
+nessuno
