@@ -1,14 +1,14 @@
 NO DATA
-フッ……　なるほど……\xfffeよさそうじゃないか　そのこ……\xf000븁\x0000
-ええ……　まもなく　こちらに\xfffeいらっしゃる　はずですが……\xf000븁\x0000
-あ！\xfffeうわさを　すれば！\xf000븁\x0000
-ウエルカム　トゥー　ポケウッド！！\xf000븁\x0000\xfffeやー　\xf000Ā\x0001\x0000さん！\xfffeおまちして　おりました！\xf000븁\x0000\xfffeこちらは　われわれの　ボスの\xfffeウッドウ　です！\xf000븁\x0000
-ハロー！　ハロー！　\xfffeボクは　ウッドウ！　ヨロシクね！！\xf000븁\x0000\xfffeそうか　キミが　\xf000Ā\x0001\x0000ちゃんか！\xfffeちょうど　キミのはなしを　してたのよ！\xf000븁\x0000\xfffeで　さっそく　ポケウッドに　ついて\xfffeせつめいしたい　ところ　なんだけどね\xf000븀\x0000\xfffeちょっと　じゅんびが　ひつようなのー\xf000븁\x0000\xfffeもうしわけないけどさ　もうすこしだけ\xfffeまってて　もらえるかなー？\xf000븁\x0000
-では　それまでの　あいだ　わたくしが\xfffeポケウッドを　ごあんない　しましょう！\xf000븁\x0000
-あー　それ　ナイスねー！\xf000븁\x0000\xfffeえいが！　それは　アメイジングよ！\xf000븁\x0000\xfffeその　おどろき　そして　かんどうを\xfffeていきょうする　この　ポケウッドの\xf000븀\x0000\xfffeみりょくを　\xf000Ā\x0001\x0000ちゃんに\xf000븀\x0000\xfffeかんじちゃって　もらえるもんね！\xf000븁\x0000\xfffeよーし！　じゃあ　ボクも\xfffeチャチャッと　じゅんび　しないと！\xf000븀\x0000\xfffeじゃあ　あと　よろしくー！
-さすが　ウチの　ボス！\xfffeすばらしい　フットワークでしょ！\xf000븁\x0000\xfffeでは　\xf000Ā\x0001\x0000さんは\xfffeわたくしと　まいりましょうか！\xf000븁\x0000
-まずは　ポケウッドとは　なにか\xfffeかるく　ごせつめい　しましょう！\xf000븁\x0000\xfffeここ　ポケウッドは　えいがの　ために\xfffeつくられた　えいがの　みやこ！\xf000븁\x0000\xfffeここで　たくさんの　えいがが　つくられ\xfffeそして　こうかい　されるのです！\xf000븁\x0000
-こちらは　シアターです！\xf000븁\x0000\xfffeえいが　さくひんの　じょうえいは\xfffeもちろんの　ことですが\xf000븀\x0000\xfffeえいがスターの　ファンが\xf000븀\x0000\xfffeあつまることも　ありますね\xf000븁\x0000\xfffeちょっと　なかの　ようすを\xfffeのぞいて　みましょうか\xf000븁\x0000
+Heh...　Vedo...\xfffeさそうじゃないか　そのこ……\xf000븁\x0000
+Si...　Dovrebbero arrivare presto...\xf000븁\x0000
+Ah!\xfffeLe voci erano vere!\xf000븁\x0000
+BENVENUTO AL POKEWOOD!!\xf000븁\x0000\xfffeAh,　\xf000Ā\x0001\x0000!\xfffeTi stavamo aspettando!\xf000븁\x0000\xfffeQuesto è il mio capo,Mr. Wood!\xf000븁\x0000
+Ciao! Ciao!　\xfffeSono Wood! Piacere, sì, piacere!\xf000븁\x0000\xfffCosì devi essere \xf000Ā\x0001\x0000!\xfffeStavamo giusto parlando di te!\xf000븁\x0000\xfffeOra, mi piacerebbe spiegarti\xfffeil PokeWood qui, subito, ma\xf000븀\x0000\xfffeho ancora qualcosina da fare.\xf000븁\x0000\xfffeMi dispiace, ma potresti\xfffedarmi un secondo per preparare?\xf000븁\x0000
+Mentre aspettiamo, perchè non fai\xfffeun giro?\xf000븁\x0000
+Ah! Ottimo!\xf000븁\x0000\xfffeUn film! Che grande idea!\xf000븁\x0000\xfffeLasciamo \xf000Ā\x0001\x0000 che senta la sorpresa\xfffee l'emozione che il PokeWood può provocare!\xf000븁\x0000\xfffeGiusto! Bene, devo lasciarvi soli ora.\xf000븀\x0000\xfffeA dopo!
+Potevo immaginarmelo, è il mio capo!\xfffeWhat wonderful footwork he has.\xf000븁\x0000\xfffeWell,　\xf000Ā\x0001\x0000,\xfffeShall we go?\xf000븁\x0000
+First, let me give you a quick \xfffeexplanation of what PokeWood is.\xf000븁\x0000\xfffePokeWood is the movie production\xfffecapital of the world!\xf000븁\x0000\xfffeHere, lots of movies are made and\xfffereleased!\xf000븁\x0000
+This is the theater!\xf000븁\x0000\xfffeObviously, movies are screened here,\xf000븀\x0000\xfffebut fans of movie stars \xfffegather here too!\xf000븁\x0000\xfffeWanna take a peek inside?\xf000븁\x0000
 さあ　ここが　さつえいスタジオです！\xf000븁\x0000\xfffeここから　ポケウッドの\xfffeえいがは　うまれるのです！\xf000븁\x0000\xfffeさあ　なかへ　どうぞ！\xfffeウッドウさんが　まってるはずです！\xf000븁\x0000
 おい！　ＡＤ！！\xf000븁\x0000\xfffeあそこの　さつえいスタジオが\xfffeわしの　さくひんの　じゃまだッ！\xf000븁\x0000\xfffeさつえいが　すすまんから\xfffeいますぐ　ブッつぶして　こいッ！
 おい！　ＡＤ！！\xf000븁\x0000\xfffeあの　そらの　くもの　かたちは\xfffeわしのさくひんに　ふさわしくないッ！\xf000븁\x0000\xfffeさつえいが　すすまんから\xfffeいますぐ　どかして　こいッ！
