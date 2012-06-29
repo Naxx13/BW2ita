@@ -1,30 +1,29 @@
 I Pokémon possono anche divertirsi\xfffein questo delizioso ristorante!\xf000븁\x0000
 Oh!!!\xfffeUna brillante Medaglia!!!\xf000븁\x0000\xfffeCe ne sono addirittura otto! Deve star\xfffebalugidando con brillantezza!
-サンヨウの　ジムリーダーたち\xfffeオレ　まだ　かってないのに……\xf000븁\x0000\xfffeだけど　いいんだ\xf000븁\x0000\xfffeむこうから　いどみたくなる　ぐらい\xfffeつよい　トレーナーに　なるからさ！
-ポケモンの　タイプと\xfffeわざの　タイプが　おなじだと\xf000븀\x0000\xfffeいりょくが　アップ！\xf000븁\x0000\xfffeジュエルを　もたせておくと\xfffeわざの　いりょくが　さらに　アップ！
-ゆめのあとち　には\xfffeこうじょうが　さかえていたころの\xf000븀\x0000\xfffeゆめが　いっぱい　のこっておる\xf000븁\x0000\xfffeその　ゆめに　みちびかれる\xfffeポケモンが　いるやも　しれんな
-スクールで　まなんだことを　だれかに\xfffeおしえて　ひろがる　ポケモンの　わ！
-わざマシンは　なんどでも\xfffeつかえるでしょ！\xf000븁\x0000\xfffeだから　あれこれ　ためしてるけど\xfffeやっぱり　まよっちゃうのよね
-Beh...beh...\xf000븁\x0000\xfffePoichè Pokémon di tipo Erba sono\xfffedeboli contro mosse di tipo Fuoco...\xf000븁\x0000\xfffeCilan non è dell'altezza\xfffedi Chili in una battaglia.
-Beh...beh...\xf000븁\x0000\xfffePoichè Pokémon di tipo Acqua sono\xfffedeboli contro mosse di tipo Erba...\xf000븁\x0000\xfffeCress non è dall'altezza\xfffedi Cilan in una battaglia.
-Beh...beh...\xf000븁\x0000\xfffePoichè Pokémon di tipo Fuoco sono\xfffedeboli contro mosse di tipo Acqua...\xf000븁\x0000\xfffeChili non è all'altezza\xfffedi Cress in una battaglia.
-Allenatori dalla Palestra Pokémon\xfffesono venuti al Cantiere dei Sogni e\xf000븀\x0000\xfffesi allenano con intensità.
-うむ……\xfffeおまえに　これを\xf000븁\x0000
-つりをしながら　しずかに　くらす……\xfffeおれの　りそうにして　しんじつ……
-くらいところに　いる　ポケモンを\xfffeつかまえたい　ときも　あるだろ！\xf000븁\x0000\xfffeおまえに　これを　わけてやるよ！\xf000븁\x0000
-Dusk Ball has a convenient name\xfffewhen it is used for capture in\xf000븁\x0000\xfffecaves or at night!\xfffeDusk! Dusk!\xf000븁\x0000\xfffe...this Pokéball should compel\xfffeyour mind in darkness.
-My goodness!\xfffeYour Medal Box... \xf000븁\x0000
-The Orange Medal glitters\xfffelike life when one comes across\xf000븁\x0000\xfffean exciting adventure!\xf000븁\x0000\xfffeDon't forget what a\xfffetrue journey is about!
-あおい　『せんとう』メダルが\xfffeひときわ　かがやいているわ\xf000븁\x0000\xfffeじんせいは　くろしろを　つけるもの！\xf000븁\x0000\xfffeきそいあい　たかめあって\xfffeおたがい　せいちょう　するのよ！
-ピンクの　『おたのしみ』メダルが\xfffeひときわ　かがやいているわ\xf000븁\x0000\xfffeじんせいは　エンターテインメント！\xf000븁\x0000\xfffeつねに　よろこび　えがおになって\xfffeたのしんだ　ものが　かちよ！
-むらさきの　『ちょうせん』メダルが\xfffeひときわ　かがやいているわ\xf000븁\x0000\xfffeじんせいは　チャレンジ！\xf000븁\x0000\xfffeむずかしいほど　やりがいが　あるし\xfffeたっせい　したとき　よろこべるの！
-きんいろの　『とくべつ』メダルが\xfffeひときわ　かがやいているわ！\xf000븁\x0000\xfffeじんせいは　スペシャル！\xf000븁\x0000\xfffeおなじ　ひは　くりかえさない……\xfffeまいにちが　とくべつな　たからもの！
-なつが　まちどおしいな\xfffeあの　よるの　こうけいを　みたいね
-Stunfisk have been\xfffespotted in this pond recently!
-このごろ　はやりといえば\xfffeサンヨウシティの　マッギョナイト\xf000븀\x0000\xfffeかれらの　むれ　だよ\xf000븁\x0000\xfffeなんとも　いえない　こうけい　だね\xfffeふまないように　きをつけないとな
-ぎょぎょー！？
-no data
-Striaton City\xfffeA homestar of a trio line.
-このさき\xfffeゆめのあとち
-Learn about Pokémon at\xfffethe famous Trainer School.
-People who admires plants will\xfffegrow a beautiful flower bed.
+Il Trio non\xfffeè più in carica...\xf000븁\x0000\xfffePer me.\xf000븁\x0000\xfffeSono qui per accogliere e\xfffedirlo agli allenatori!
+Se il tipo del Pokémon\xfffeè lo stesso della sua mossa,\xf000븀\x0000\xfffesarà più potente!\xf000븁\x0000\xfffeQuesto è uno dei preziosi\xfffeconsigli per le lotte!
+Il Cantiere dei Sogni fu usato\xfffeda un Laboratorio di Pokémon per\xf000븀\x0000\xfffeesperimenti sui sogni.\xf000븁\x0000\xfffeMa ora, è un posto\xfffepieno di rottami.
+Sto andato alla scuola per\xfffeaumentare la mia conoscienza sui Pokémon!
+MT e MT contengono\xfffemosse interessanti!\xf000븁\x0000\xfffeLe proverò ogni volta che\xfffepotrò!
+Beh...beh...\xf000븁\x0000\xfffePoichè Pokémon di tipo Erba sono\xfffedeboli contro mosse di tipo Fuoco...\xf000븁\x0000\xfffeSpighetto non è dell'altezza\xfffedi Chicco in una lotta.
+Beh...beh...\xf000븁\x0000\xfffePoichè Pokémon di tipo Acqua sono\xfffedeboli contro mosse di tipo Erba...\xf000븁\x0000\xfffeMaisello non è dall'altezza\xfffedi Spighetto in una lotta.
+Beh...beh...\xf000븁\x0000\xfffePoichè Pokémon di tipo Fuoco sono\xfffedeboli contro mosse di tipo Acqua...\xf000븁\x0000\xfffeChicco non è all'altezza\xfffedi CMaisello in una lotta.
+Allenatori dalla Palestra Pokémon\xfffevengono al Cantiere dei Sogni e\xf000븀\x0000\xfffesi allenano con intensità.
+Ughh...\xfffeQuesto è per te.\xf000븁\x0000
+Le mie verità ed ideali soccombono\xfffecon le mie tecniche di pesca...
+Vuoi catturare qualche Pokémon\xfffenell'oscurità o in una grotta?\xf000븁\x0000\xfffeEcco, prendi questo allora!\xf000븁\x0000
+La Scuro Ball è conveniente\xfffequando la si usa per catturare\xf000븁\x0000\xfffein grotte o di notte!\xfffeBuio! Buio!\xf000븁\x0000\xfffe...Questa Pokéball dovrebbe forzare\xfffela tua mente nell'oscurità.
+Santo cielo!\xfffeIl tuo porta medaglie... \xf000븁\x0000
+La Medaglia Arancio scintilla\xfffecome la vita quando viene a contatto\xf000븁\x0000\xfffecon un'emozionante avventura!\xf000븁\x0000\xfffeNon dimenticare su cosa\xfffesi basa un vero viaggio!
+La Medaglia Blu segna\xfffel'inizio del\xf000븁\x0000\xfffemondo di nero e bianco!\xf000븁\x0000\xfffeInsiemo, uno può crescere e\xfffematurare a sufficienza!
+La Medaglia Rosa mostra\xfffel'intrattenimento e il piacere\xf000븁\x0000\xfffeche uno può suscitare!\xf000븁\x0000\xfffeTutti meritano un sorriso\xfffesulla loro faccia!
+La Medaglia Viola splende\xfffedi gloria sulle sfide\xf000븁\x0000\xfffeche uno ha fronteggiato!\xf000븁\x0000\xfffeDifficili lotte ssi tengono\xfffein pugno attraverso la vita!
+La Medaglia Argento semplicemente\xfffeeccelle una persona!\xf000븁\x0000\xfffeE' la specialità del singolo!\xf000?\x0000\xfffePer ogni individuo...\xfffeCi sono un sacco di specialità!
+In questa zona la brezza d'estate\xfffenotturna è la migliore.
+Stunfisk è stato\xfffechiazzato in questo stagno recentemente!
+Qui nei dintorni sta per\xfffeesserci una Notte Sunfisk.\xf000븀\x0000\xfffeQui a Levantopoli!\xf000븀\x0000\xfffeNon dare fastidio\xfffeentrandoci.
+Gyo-gyo-!?!
+Levantopoli\xfffeLa super casa di un super trio.
+Entrata del\xfffeCantiere dei Sogni.
+Impara sui Pokémon alla\xfffefamosa Scuola per Allenatori.
+Le persone che amano le piante\xfffecoltiveranno una bellissima aiuola.
