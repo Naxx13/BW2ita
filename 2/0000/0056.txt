@@ -6,13 +6,13 @@
 せきがいせんつうしんが\xfffeつながりました！
 つうしんが　きれました　あいてと\xfffeせきがいせんつうしんを　してください
 もどる
-no data
-no data
-no data
+nessun dato
+nessun dato
+nessun dato
 タッチしても　はんのうが　ないときは\xfffeもういちど　タッチ　してください
-no data
-no data
-no data
-no data
+nessun dato
+nessun dato
+nessun dato
+nessun dato
 シンクロチェック
 がめんから　ゆびを　はなして\xfffeひだりてから　やりなおしてください
