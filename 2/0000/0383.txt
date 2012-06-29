@@ -43,9 +43,9 @@ nessun dato
 おじょうさま
 パイロット
 さぎょういん
-Worker
+Lavoratore
 Hoopster
-Scientist
+Scienziato
 no data
 ＯＬ
 Ace Trainer
@@ -60,8 +60,8 @@ Roughneck
 Janitor
 Pokéfan
 Pokéfan
-Doctor
-Nurse
+Dottore
+Infermiere
 Hooligans
 Battle Girl
 Parasol Lady
