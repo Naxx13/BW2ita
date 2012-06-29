@@ -52,6 +52,7 @@ Lotta
 Erba
 Ghiaccio
 Spettro
+Terra
 Elettricità
 Veleno
 Drago
