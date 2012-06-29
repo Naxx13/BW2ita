@@ -101,7 +101,7 @@ Il \xf000ĉ\x0001\x0000 consente\xfffel'uso di un solo \xf000ć\x0001\x0001!
 \xf000Č\x0001\x0000 può usare solo\xfffe\xf000ć\x0001\x0001!
 I cambiamenti alle statistiche sono stati annullati!
 Ma non succede nulla!
-\xf000Ă\x0001\x0000's\xfffe\xf000Ć\x0001\x0001
+\xf000Ć\x0001\x0000\xfffedi \xf000Ă\x0001\x0001
 Magnitudo 4!
 Magnitudo 5!
 Magnitudo 6!
