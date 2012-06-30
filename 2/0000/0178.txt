@@ -13,10 +13,10 @@ Dove lo sposti?
 Darlo a un Pokémon?
 Usa su che Pokémon?
 Insegna a che Pokémon?
-ポケモンをえらんで　けってい
+Scegli un Pokémon
 Deposita che Pokémon?
 Usa su che Pokémon?
-どのポケモンと　がったい？
+Utilizza con quale Pokémon?
 Cosa fa\xfffe\xf000Ă\x0001\x0000?
 Cosa fai con\xfffelo strumento?
 Cosa fai con\xfffela Lettera?
