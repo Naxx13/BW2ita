@@ -1,7 +1,7 @@
-たいせん　したいひとは\xfffeマークを　タッチして！
+Tocca l'icona battaglia\xfffese desideri lottare！
 こうかん　したいひとは\xfffeマークを　タッチして！
 おえかき　したいひとは\xfffeマークを　タッチして！
 ぐるぐるこうかん　したいひとは\xfffeマークを　タッチして！
-ともだち
-あそんだひと
+Amici
+Giocatori
 ユニオンルームに　はいりました！
