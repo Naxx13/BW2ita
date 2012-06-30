@@ -555,44 +555,44 @@ I soldi non comprano la salute.\xfffeMa non puoi essere sano se sei povero.
 Senza soldi, non puoi nè mangiare\xfffecibo salutare nè andare da un Medico.
 Come vedi, sono un Medico,\xfffema non ho mai visitato un paziente.
 Ho studiato per diventare un Medico,\xfffema svengo quando vedo del sangue.
-I am a Sunday Doctor,\xffferather like a Sunday driver.
-Can you understand\xfffewhat medical personnel need?
-What a Doctor needs is love--\xfffethe rush of unconditional love.
-Medical service is love.\xfffeCan you be a Doctor?
-I took this job because I wanted\xfffeto be needed by someone.
-My job is hard,\xfffebut I am happy to help people.
-When a patient leaves the hospital,\xfffeI feel happy but a bit sad.
-Grown-ups have a lot of hobbies.\xfffeActually, I am a uniform collector.
-I am not a Nurse.\xfffeI wear this uniform just for fun.
-You realized that I am a fake Nurse!\xfffeYes, I am just a uniform collector.
-Even if you are injured, I will treat you.\xfffeSo let's fight hard.
-Sorry! I went too far. Do you require\xfffeimmediate hospitalization?
-You went too far! I will bill you\xfffethe cost of my medical expenses!
-I raised these very special Pokémon\xfffeusing a special method.
-Pokémon will be strong or weak\xfffedepending on how you raise them.
-Ugh... It wasn't supposed to be like this.\xfffeDid I blend the essence wrong?
-Shall I share an exclusive tip\xfffefor training great Pokémon?
-You'll be perfect if you buy my book\xfffeof Pokémon training tips.
-You'll be fine if you buy my DVD\xfffeof Pokémon training tips.
-Pokémon are my family!\xfffeSee the solidarity of my family!
-Well done, brothers and sisters!\xfffeOur family solidarity is invincible!
-NO! My family!\xfffeWhat have you done?!
-What you like and what you're good at\xfffeare different, or at least separate.
-I am good at battling,\xfffebut I don't enjoy it very much.
-If you like what you do as a job,\xfffeyou have a sense of fulfillment, don't you?
-In summary, you cannot win against me.
-You see, you cannot win, because\xfffeyou are very weak.
-Hummmm... You are good.\xfffeYou are really pretty good.
-Don't underestimate me because I'm old.\xfffeI'll show you my rejuvenating attack!
-I'm old but still going strong!\xfffeI can take care of myself!
-What a cruel way to treat a helpless\xfffeold man! Shame on you!
-I would like to retire soon. But I have\xfffeno one to carry on the family tradition...
-If I had a child like you,\xfffemy golden years would be carefree...
-I wish my son were\xfffeas mature as you are.
-I feel sad when I see a young and\xfffebright child like you.
-The first flush of youth...\xfffeYou are too bright for me...
-Sparkling eyes, firm skin...\xfffeI won't get them back.
-Hey! It's me. It's me!\xfffeI am the best Pilot in the world!
+Sono un Medico della domenica,\xfffepiuttosto che un Autista della domenica.
+Riesci a capire\xfffeciò di cui il personale medico ha bisogno?
+Un Medico ha bisogno di amore--\xfffel'ebbrezza dell'amore incondizionato.
+Il Servizio Medico è amore.\xfffeSai essere un Medico?
+Ho scelto questo lavoro perchè volevo\xfffeche qualcuno avesse bisogno di me.
+Il mio lavoro è duro,\xfffema sono felice di aiutare la gente.
+Quando un paziente lascia l'ospedale,\xfffesono felice ma anche un po' triste.
+Gli adulti hanno molti hobby.\xfffeIo colleziono divise.
+Non sono un'Infermiera.\xfffeIndosso questa divisa solo per diverimento.
+Hai scoperto che sono una falsa Infermiera!\xfffeSì, semplicemente colleziono uniformi.
+Anche se sei ferito, ti curerò.\xfffeCombattiamo strenuamente.
+Scusa! Ho esagerato. Hai bisogno di\xfffepronto soccorso?
+Hai esagerato! Ti addebiterò\xfffeil costo delle mie cure mediche!
+Ho cresciuto questi bellissimi Pokémon\xfffeusando un metodo speciale.
+I Pokémon saranno forti o deboli\xfffein base a come li fai crescere.
+Ugh... Non me lo aspettavo.\xfffeHo aggiunto male l'essenza?
+Posso darti un consiglio esclusivo\xfffesu come allenare Pokémon forti?
+Sarai perfetto se compri il mio libro\xfffedi consigli d'allenamento dei Pokémon.
+Sarai perfetto se compri il mio DVD\xfffedi consigli d'allenamento dei Pokémon.
+I Pokémon sono la mia famiglia!\xfffeVedi la solidarietà della mia famiglia!
+Ben fatto, fratelli e sorelle!\xfffeLa solidarietà della nostra famiglia è invincibile!
+NO! La mia famiglia!\xfffeChe hai combinato?!
+Ciò che ti piace e ciò in cui sei bravo\xfffesono diversi, o almeno separati.
+Sono bravo a combattere,\xfffema non mi piace molto farlo.
+Se ti piace il tuo lavoro,\xfffehai un senso di soddisfazione, dico bene?
+In poche parole, non puoi battermi.
+Vedi, non puoi vincere, perchè\xfffesei molto debole.
+Hummmm... Sei bravo.\xfffeSei davvero bravo.
+Non sottovalutarmi perchè sono vecchio.\xfffeTi mostrerò il mio attacco ringiovanente!
+Sono vecchio ma ancora forte!\xfffeSo badare a me stesso!
+Che modo crudele di trattare un povero\xfffevecchietto! Dannazione!
+Vorrei andare presto in pensione. Ma non ho\xfffenessuno che porti la tradizione di famiglia...
+Se avessi avuto un figlio come te,\xfffei miei anni d'oro sarebbero stati spensierati...
+Vorrei che mio figlio fosse\xfffematuro quanto te.
+Mi sento triste quando vedo un ragazzo\xfffegiovane e brillante come te.
+Il primo eccesso di gioventù...\xfffeSei troppo brillante per me...
+Occhi splendenti, pelle risoluta...\xfffeNon li farò tornare indietro.
+Ehi! Sono io. Sono io!\xfffeSono il miglior Pilota del mondo!
 How's that? Pwned!!
 You! Who are you?!\xfffeDo you know who I am?
 I'm at the top of the heap! I'm a man\xfffewho always wants to come in first.
@@ -748,7 +748,7 @@ Harrumph!!
 I am the mountain range of your life!\xfffeCross me if you can!
 Haha! I am the summit, and the road\xfffeto reach me is still very steep!
 Finalmente, qualcuno ha scalato la montagna! \ Xffff Questa è la mia vetta!
-Se io perdo,ti diro il segreto della pesca.\xfffeSe io vinco , ti dirò solo l'essenza della pesca.
+Se io perdo,ti dirò il segreto della pesca.\xfffeSe io vinco , ti dirò solo l'essenza della pesca.
 L'essenza della pesca è quella di tirare \xfffela bobina in bocca al pesce..Nient'altro.
 Il segreto della pesca è quello di aspettare senza\xfffepensare, quasi come se stessi dormendo.
 Ho sempre puntato ad un pesce grosso!\xfffeRimani fuori da questa cosa se sei un pesce piccolo!
