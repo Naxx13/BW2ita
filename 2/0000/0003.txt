@@ -1,10 +1,10 @@
-Vuoi salvare l'ultima lotta\xfffeas il tuo Video Lotta?
+Vuoi salvare l'ultima lotta\xfffecome Video Lotta?
 Si
 No
 L'ultima lotta non sarà salvata.\xfffeOK?
 Si
 No
-Va bene sovrascrivere il tuo ultimo\xfffeVideo Lotta?
+Vuoi sovrascrivere il tuo ultimo\xfffeVideo Lotta?
 Si
 No
 Salvataggio del Video Lotta...\xfffeNon spegnere la console.
@@ -51,11 +51,11 @@ Match Casuale, Valutazione\xfffeDoppio
 Match Casuale, Valutazione\xfffeTriplo
 Match Casuale, Valutazione\xfffeRotazione
 Match Casuale, Valutazione\xfffeInizia battaglia 
-Torneo Singolo\xfffeシューターなし
-Torneo Singolo\xfffeシューターあり
-Torneo Singolo\xfffeシューターなし
-Torneo Singolo\xfffeシューターあり
-Torneo Singolo\xfffeシューターなし
-Torneo Singolo\xfffeシューターあり
-Torneo a Rotazione\xfffeシューターなし
-Torneo a Rotazione\xfffeシューターあり
+Torneo Singolo\xfffecon lancio
+Torneo Singolo\xfffesenza lancio
+Torneo Doppio\xfffecon lancio
+Torneo Doppio\xfffesenza lancio
+Torneo Triplo\xfffecon lancio
+Torneo Triplo\xfffesenza lancio
+Torneo a Rotazione\xfffecon lancio
+Torneo a Rotazione\xfffesenza lancio
