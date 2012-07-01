@@ -1,27 +1,27 @@
-Enter the Train Number (01-\xf000ȁ\x0001\x0000).\xf000븁\x0000
-Receiving data for Rank \xf000ȁ\x0001\x0001,\xfffeTrain Number \xf000ȁ\x0001\x0000...
-You may not challenge that Train\xfffeuntil the next update.\xf000븁\x0000
-Data has been received.\xf000븁\x0000
-Cancel your challenge?
-Enter the Rank of the Train\xfffe(01-10) to check your records.\xf000븁\x0000
-Enter the Train Number (01-\xf000ȁ\x0001\x0000).\xf000븁\x0000
-Sending your record data...\xfffeDon't turn off the power.
-Your data has been sent.\xf000븁\x0000
-Would you like to cancel your data\xfffedownload?
+Metti il numero del treno (01-\xf000ȁ\x0001\x0000).\xf000븁\x0000
+Ricezione dei dati per posto \xf000ȁ\x0001\x0001,\xfffenumero treno \xf000ȁ\x0001\x0000...
+Non puoi sfidare in questo treno\xfffefino al prossimo aggiornamento.\xf000븁\x0000
+I dati sono stati ricevuti.\xf000븁\x0000
+Annulla la vostra sfida?
+Metti il posto del tuo treno\xfffe(01-10) salvando i tuoi record.\xf000븁\x0000
+Metti il numero del treno (01-\xf000ȁ\x0001\x0000).\xf000븁\x0000
+Inviando i tuoi dati record...\xfffeNon premere il tasto power.
+I tuoi dati sono stati inviati.\xf000븁\x0000
+Voui cancellare i tuoi dati?\xfffedownload?
 
 
 
-The Wi-Fi Train is currently undergoing\xfffemaintenance. Please try again later.\xf000븁\x0000\xfffeError code: 13281\xf000븁\x0000
-The Wi-Fi Train is very crowded.\xfffePlease try again later.\xf000븁\x0000\xfffeError code: 13282\xf000븁\x0000
-The Wi-Fi Train is very crowded.\xfffePlease try again later.\xf000븁\x0000\xfffeError code: 13261\xf000븁\x0000
-Unable to connect to the Wi-Fi Train.\xfffeReturning to the reception counter.\xf000븁\x0000\xfffeError code: 13262\xf000븁\x0000
-Unable to connect to the Wi-Fi\xfffeTrain.\xf000븁\x0000\xfffeReturning to the reception counter.\xf000븁\x0000\xfffeError code: 13266\xf000븁\x0000
-You were disconnected from the Wi-Fi Train.\xfffeReturning to the reception counter.\xf000븁\x0000\xfffeError code: 13264\xf000븁\x0000
-You were disconnected from the Wi-Fi Train.\xfffeReturning to the reception counter.\xf000븁\x0000\xfffeError code: 13267\xf000븁\x0000
-That number cannot be specified\xfffefor the Wi-Fi Train.\xf000븁\x0000\xfffeError code: 13263\xf000븁\x0000
+Il treno Wi-Fi è momentaneamente fermo\xfffemaintenance. Si prega di riprovare più tardi.\xf000븁\x0000\xfffeCodice errore: 13281\xf000븁\x0000
+Il treno Wi-Fi è molto affollato.\xfffeSi prega di riprovare più tardi.\xf000븁\x0000\xfffeCodice errore: 13282\xf000븁\x0000
+Il treno Wi-Fi è molto affollato.\xfffeSi prega di riprovare più tardi.\xf000븁\x0000\xfffeCodice errore: 13261\xf000븁\x0000
+Impossibile connettersi al treno Wi-Fi.\xfffeRitornando al contatore di ricezione.\xf000븁\x0000\xfffeCodice erroree: 13262\xf000븁\x0000
+Impossibile connettersi al Wi-Fi\xfffeTreno.\xf000븁\x0000\xfffeRitornando al contatore di ricezione.\xf000븁\x0000\xfffeCodice erroree: 13266\xf000븁\x0000
+Ti sei disconnesso dal treno Wi-Fi.\xfffeRitornando al contatore di ricezione.\xf000븁\x0000\xfffeCodice errore: 13264\xf000븁\x0000
+Ti sei disconnesso dal treno Wi-Fi.\xfffeRitornando al contatore di ricezione.\xf000븁\x0000\xfffeCodice erroree: 13267\xf000븁\x0000
+Questo numero non è specificato\xfffefor il treno Wi-Fi.\xf000븁\x0000\xfffeCodice erroree: 13263\xf000븁\x0000
 
-Communication error.\xf000븁\x0000\xfffeError code: 13267\xf000븁\x0000
-There appears to be a problem\xfffewith your Pokémon.\xf000븁\x0000
+Errore nella comunicazione.\xf000븁\x0000\xfffeCodice errore: 13267\xf000븁\x0000
+Sono apparsi dei problemi\xfffecon i tuoi Pokémon.\xf000븁\x0000
 
 
-Communicating. Please stand by...
+Comunicando. Perfavore attendi...
