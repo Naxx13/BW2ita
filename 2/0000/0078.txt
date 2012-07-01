@@ -1,22 +1,22 @@
-メダルかくとくすう　もくひょう
-かくとくした　メダル
-もっている　ヒントメダル
+MENU DI CLASSIFICAZIONE MEDAGLIE
+Medaglie ottenute
+Medaglie non ottenute
 \xf000봃\x0001\xf000Ȃ\x0001\x0000
 \xf000봃\x0001\xf000Ȃ\x0001\x0000／\xf000Ȃ\x0001\x0001
-このメダルを　イチオシに　とうろくし\xfffeほかの　プレイヤーに　こうかいします
-イチオシとうろくを\xfffeかいじょ　しました
-ヒントメダルは　イチオシに\xfffeとうろく　できません！
-ひょうじの　しかたを\xfffeどのように　かえますか？
-いちらんモード
-いちれつモード
-メダルだけみる
-ヒントだけみる
-しゅるいべつ
-なまえじゅん
-あたらしいもの
-もとにもどす
-やめる
-\xf000봃\x0001かくとくした　ひづけ
-\xf000봃\x0001もらった　ひづけ
-\xf000봃\x0001２０\xf000ȁ\x0001\x0000年　\xf000ȁ\x0001\x0001月　\xf000ȁ\x0001\x0002日
-メダルボックスに\xfffeせつめいしょが　はさまっていた\xf000븁\x0000\xfffeメダルボックス　きのう　せつめい\xf000븁\x0000\xfffeメダルに　カーソルを　あわせて\xfffeＡボタンを　おすか\xf000븀\x0000\xfffeみぎはしの　しかくを　タッチすると\xf000븁\x0000\xfffeその　メダルを\xfffeイチオシメダルに　とうろくします\xf000븁\x0000\xfffeイチオシメダルは　つうしんで\xfffeほかの　プレイヤーに　みせられます\xf000븁\x0000\xfffeまた　ＳＴＡＲＴボタンを　おすか\xfffeひだりしたの　ボタンを　タッチすると\xf000븀\x0000\xfffeメダルの　ひょうじを　かえられます
+La medaglia scelta è stata selezionata\xfffee registrata.
+La registrazione della selezionen\xfffeè terminata.
+Impossibile selezionare e registrare\xfffeMedaglie conosciute!
+Come vuoi classificare\xfffele tue Medaglie?
+IN UNA LISTA
+COLONNA SINGOLA
+MEDAGLIE OTTENUTE
+MEDAGLIE NON OTTENURE
+PER TIPO
+PER NOME
+PER DATA
+RISETTA LA CLASSIFICAZIONE
+ESCI
+\xf000봃\x0001 Ottenuto
+\xf000봃\x0001 Avuto un suggerimento
+\xf000봃\x0001２０\xf000ȁ\x0001\x0000 /　\xf000ȁ\x0001\x0001 /　\xf000ȁ\x0001\x0002
+Le istruzioni nel Box Medaglie dicono di\xfffeppremere A per toccare una medaglia e di\xf000븀\x0000\xfffeusare la pennetta per guidarti alla Medaglia.\xfffeSTART può essere usato per aprire un Menu.\xf000븀\x0000\xfffePuoi anche toccare le medaglie per vederle.
