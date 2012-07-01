@@ -66,9 +66,9 @@ No
 There was a problem\xfffewith receiving the gift.\xf000븁\x0000
 A gift was found, but it\xfffecan't be received in this version.\xf000븀\x0000
 You cannot receive any more gifts until \xfffeyou have a saved game.\xf000븀\x0000\xfffePlease start a new game and save it.\xf000븁\x0000
-ALBUM SCHEDE
+CARD ALBUM
 A Button: Sort
-INDIETRO
+BACK
 \xf000ȁ\x0001\x0000／\xf000ȁ\x0001\x0001
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000.\xf000ȁ\x0001\x0001.\xf000ȁ\x0001\x0002
 Wonder Card
@@ -76,49 +76,49 @@ Date received
 \xf000ȃ\x0001\x0000.\xf000ȁ\x0001\x0001.\xf000ȁ\x0001\x0002
 Ａ：おわる
 　
-Thank you for coming to see\xfffethe Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Thank you for coming to see\xfffethe 2010 Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Thank you for coming to see\xfffethe 2011 Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Thank you for coming to see\xfffethe 2012 Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Thank you for coming to see\xfffethe 2013 Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Thank you for coming to see\xfffethe 2014 Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Thank you for coming to see\xfffethe 2015 Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Thank you for coming to see\xfffethe 2016 Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Thank you for coming to see\xfffethe 2017 Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Thank you for coming to see\xfffethe 2018 Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Thank you for coming to see\xfffethe 2019 Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Thank you for coming to see\xfffethe 2020 Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Thank you for coming to\xfffethe Pokémon Center!\xfffePlease pick up your gift from\xfffethe deliveryman in the game.
-Thank you for coming to\xfffethe Pokémon Center Tokyo!\xfffePlease pick up your gift from\xfffethe deliveryman in the game.
-Thank you for coming to\xfffethe Pokémon Center Osaka!\xfffePlease pick up your gift from\xfffethe deliveryman in the game.
-Thank you for coming to\xfffethe Pokémon Center Fukuoka!\xfffePlease pick up your gift from\xfffethe deliveryman in the game.
-Thank you for coming to\xfffethe Pokémon Center Nagoya!\xfffePlease pick up your gift from\xfffethe deliveryman in the game.
-Thank you for coming to\xfffethe Pokémon Center Sapporo!\xfffePlease pick up your gift from\xfffethe deliveryman in the game.
-Thank you for coming to\xfffethe Pokémon Center Yokohama!\xfffePlease pick up your gift from\xfffethe deliveryman in the game.
-Thank you for participating in the\xfffePokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
-Thank you for participating in the\xfffe2010 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
-Thank you for participating in the\xfffe2011 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
-Thank you for participating in the\xfffe2012 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
-Thank you for participating in the\xfffe2013 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
-Thank you for participating in the\xfffe2014 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
-Thank you for participating in the\xfffe2015 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
-Thank you for participating in the\xfffe2016 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
-Thank you for participating in the\xfffe2017 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
-Thank you for participating in the\xfffe2018 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
-Thank you for participating in the\xfffe2019 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
-Thank you for participating in the\xfffe2020 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
-Thank you for coming to the\xfffePokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
-Thank you for coming to the\xfffe2010 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
-Thank you for coming to the\xfffe2011 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
-Thank you for coming to the\xfffe2012 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
-Thank you for coming to the\xfffe2013 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
-Thank you for coming to the\xfffe2014 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
-Thank you for coming to the\xfffe2015 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
-Thank you for coming to the\xfffe2016 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
-Thank you for coming to the\xfffe2017 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
-Thank you for coming to the\xfffe2018 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
-Thank you for coming to the\xfffe2019 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
-Thank you for coming to the\xfffe2020 Pokémon World Championships!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
+Grazie per essere venuto a guardare\xfffeil Film Pokémon!\xfffePer favore ritira il tuo regalo dal\xfffepostino in qualunque centro pokémon.
+Grazie per essere venuto a guardare\xfffeil Film Pokémon 2010!\xfffePer favore ritira il tuo regalo dal\xfffepostino in qualunque centro pokémon.
+Grazie per essere venuto a guardare\xfffeil Film Pokémon 2011!\xfffePer favore ritira il tuo regalo dal\xfffepostino in qualunque centro pokémon.
+Grazie per essere venuto a guardare\xfffeil Film Pokémon 2012!\xfffePer favore ritira il tuo regalo dal\xfffepostino in qualunque centro pokémon.
+Grazie per essere venuto a guardare\xfffeil Film Pokémon 2013!\xfffePer favore ritira il tuo regalo dal\xfffepostino in qualunque centro pokémon.
+Grazie per essere venuto a guardare\xfffeil Film Pokémon 2014!\xfffePer favore ritira il tuo regalo dal\xfffepostino in qualunque centro pokémon.
+Grazie per essere venuto a guardare\xfffeil Film Pokémon 2015!\xfffePer favore ritira il tuo regalo dal\xfffepostino in qualunque centro pokémon.
+Grazie per essere venuto a guardare\xfffeil Film Pokémon 2016!\xfffePer favore ritira il tuo regalo dal\xfffepostino in qualunque centro pokémon.
+Grazie per essere venuto a guardare\xfffeil Film Pokémon 2017!\xfffePer favore ritira il tuo regalo dal\xfffepostino in qualunque centro pokémon.
+Grazie per essere venuto a guardare\xfffeil Film Pokémon 2018!\xfffePer favore ritira il tuo regalo dal\xfffepostino in qualunque centro pokémon.
+Grazie per essere venuto a guardare\xfffeil Film Pokémon 2019!\xfffePer favore ritira il tuo regalo dal\xfffepostino in qualunque centro pokémon.
+Grazie per essere venuto a guardare\xfffeil Film Pokémon 2020!\xfffePer favore ritira il tuo regalo dal\xfffepostino in qualunque centro pokémon.
+Grazie per essere venuto\xfffeal Centro Pokémon!\xfffePer favore ritira il tuo regalo dal\xfffepostino nel gioco.
+Grazie per essere venuto\xfffeal Centro Pokémon Tokyo!\xfffePer favore ritira il tuo regalo dal\xfffepostino nel gioco.
+Grazie per essere venuto\xfffeal Centro Pokémon Osaka!\xfffePer favore ritira il tuo regalo dal\xfffepostino nel gioco.
+Grazie per essere venuto\xfffeal Centro Pokémon Fukuoka!\xfffePer favore ritira il tuo regalo dal\xfffepostino nel gioco.
+Grazie per essere venuto\xfffeal Centro Pokémon Nagoya!\xfffePer favore ritira il tuo regalo dal\xfffepostino nel gioco.
+Grazie per essere venuto\xfffeal Centro Pokémon Sapporo!\xfffePer favore ritira il tuo regalo dal\xfffepostino nel gioco.
+Grazie per essere venuto\xfffeal Centro Pokémon Yokohama!\xfffePer favore ritira il tuo regalo dal\xfffepostino nel gioco.
+Grazie per la partecipazione al\xfffeCampionato Mondiale Pokémon!\xfffePer favore ritira il tuo regalo dal\xfffepostino in qualunque Centro Pokémon.
+Grazie per la partecipazione al\xfffeCampionato Mondiale Pokémon 2010!\xfffePer favore ritira il tuo regalo dal\xfffepostino in qualunque Centro Pokémon.
+Grazie per la partecipazione al\xfffeCampionato Mondiale Pokémon 2011!\xfffePer favore ritira il tuo regalo dal\xfffepostino in qualunque Centro Pokémon.
+Grazie per la partecipazione al\xfffeCampionato Mondiale Pokémon 2012!\xfffePer favore ritira il tuo regalo dal\xfffepostino in qualunque Centro Pokémon.
+Grazie per la partecipazione al\xfffeCampionato Mondiale Pokémon 2013!\xfffePer favore ritira il tuo regalo dal\xfffepostino in qualunque Centro Pokémon.
+Grazie per la partecipazione al\xfffeCampionato Mondiale Pokémon 2014!\xfffePer favore ritira il tuo regalo dal\xfffepostino in qualunque Centro Pokémon.
+Grazie per la partecipazione al\xfffeCampionato Mondiale Pokémon 2015!\xfffePer favore ritira il tuo regalo dal\xfffepostino in qualunque Centro Pokémon.
+Grazie per la partecipazione al\xfffeCampionato Mondiale Pokémon 2016!\xfffePer favore ritira il tuo regalo dal\xfffepostino in qualunque Centro Pokémon.
+Grazie per la partecipazione al\xfffeCampionato Mondiale Pokémon 2017!\xfffePer favore ritira il tuo regalo dal\xfffepostino in qualunque Centro Pokémon.
+Grazie per la partecipazione al\xfffeCampionato Mondiale Pokémon 2018!\xfffePer favore ritira il tuo regalo dal\xfffepostino in qualunque Centro Pokémon.
+Grazie per la partecipazione al\xfffeCampionato Mondiale Pokémon 2019!\xfffePer favore ritira il tuo regalo dal\xfffepostino in qualunque Centro Pokémon.
+Grazie per la partecipazione al\xfffeCampionato Mondiale Pokémon 2020!\xfffePer favore ritira il tuo regalo dal\xfffepostino in qualunque Centro Pokémon.
+Grazie per essere venuto al\xfffe Campionato Mondiale Pokémon!\xfffePer favore ritira il tuo regalo\xfffedal postino in qualunque Centro Pokémon.
+Grazie per essere venuto al\xfffe Campionato Mondiale Pokémon 2010!\xfffePer favore ritira il tuo regalo\xfffedal postino in qualunque Centro Pokémon.
+Grazie per essere venuto al\xfffe Campionato Mondiale Pokémon 2011!\xfffePer favore ritira il tuo regalo\xfffedal postino in qualunque Centro Pokémon.
+Grazie per essere venuto al\xfffe Campionato Mondiale Pokémon 2012!\xfffePer favore ritira il tuo regalo\xfffedal postino in qualunque Centro Pokémon.
+Grazie per essere venuto al\xfffe Campionato Mondiale Pokémon 2013!\xfffePer favore ritira il tuo regalo\xfffedal postino in qualunque Centro Pokémon.
+Grazie per essere venuto al\xfffe Campionato Mondiale Pokémon 2014!\xfffePer favore ritira il tuo regalo\xfffedal postino in qualunque Centro Pokémon.
+Grazie per essere venuto al\xfffe Campionato Mondiale Pokémon 2015!\xfffePer favore ritira il tuo regalo\xfffedal postino in qualunque Centro Pokémon.
+Grazie per essere venuto al\xfffe Campionato Mondiale Pokémon 2016!\xfffePer favore ritira il tuo regalo\xfffedal postino in qualunque Centro Pokémon.
+Grazie per essere venuto al\xfffe Campionato Mondiale Pokémon 2017!\xfffePer favore ritira il tuo regalo\xfffedal postino in qualunque Centro Pokémon.
+Grazie per essere venuto al\xfffe Campionato Mondiale Pokémon 2018!\xfffePer favore ritira il tuo regalo\xfffedal postino in qualunque Centro Pokémon.
+Grazie per essere venuto al\xfffe Campionato Mondiale Pokémon 2019!\xfffePer favore ritira il tuo regalo\xfffedal postino in qualunque Centro Pokémon.
+Grazie per essere venuto al\xfffe Campionato Mondiale Pokémon 2020!\xfffePer favore ritira il tuo regalo\xfffedal postino in qualunque Centro Pokémon.
 Thank you for coming to a\xfffePokémon Video Game event!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
 Thank you for coming to a\xfffe2010 Pokémon Video Game event!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
 Thank you for coming to a\xfffe2011 Pokémon Video Game event!\xfffePlease pick up your gift from\xfffethe deliveryman in any Pokémon Center.
@@ -208,130 +208,130 @@ Thank you for coming to the\xfffePOKÉPARK in 2017!\xfffePlease pick up your gif
 Thank you for coming to the\xfffePOKÉPARK in 2018!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
 Thank you for coming to the\xfffePOKÉPARK in 2019!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
 Thank you for coming to the\xfffePOKÉPARK in 2020!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
-Please pick up your gift from the\xfffedeliveryman in any Pokémon Center.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
+Per favore ritira il tuo regalo dal\xfffepostino in qualsiasi Centro Pokémon.
 Thank you for coming\xfffeto see the Pokémon Movie!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
 Thank you for coming to see\xfffethe 2010 Pokémon Movie!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
 Thank you for coming to see\xfffethe 2011 Pokémon Movie!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
@@ -428,139 +428,42 @@ Thank you for playing in the\xfffePokémon Dream World!\xfffeYou have already pi
 This is a gift from the\xfffePokémon Dream World!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
 Thank you for playing in the Pokémon DW!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
 This is a gift from the Pokémon DW!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to a\xfffe2010 Pokémon event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to a\xfffe2011 Pokémon event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to a\xfffe2012 Pokémon event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to a\xfffe2013 Pokémon event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to a\xfffe2014 Pokémon event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to a\xfffe2015 Pokémon event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to a\xfffe2016 Pokémon event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to a\xfffe2017 Pokémon event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to a\xfffe2018 Pokémon event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to a\xfffe2019 Pokémon event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to a\xfffe2020 Pokémon event!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to\xfffePokémon Festa!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to\xfffePokémon Festa 2010!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to\xfffePokémon Festa 2011!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to\xfffePokémon Festa 2012!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to\xfffePokémon Festa 2013!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to\xfffePokémon Festa 2014!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to\xfffePokémon Festa 2015!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to\xfffePokémon Festa 2016!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to\xfffePokémon Festa 2017!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to\xfffePokémon Festa 2018!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to\xfffePokémon Festa 2019!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to\xfffePokémon Festa 2020!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to the POKÉPARK!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-This is a gift from the POKÉPARK!\xfffePlease pick up your gift from \xfffethe deliveryman in any Pokémon center.
-Thank you for coming to the\xfffePOKÉPARK in 2010!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to the\xfffePOKÉPARK in 2011!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to the\xfffePOKÉPARK in 2012!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to the\xfffePOKÉPARK in 2013!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to the\xfffePOKÉPARK in 2014!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to the\xfffePOKÉPARK in 2015!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to the\xfffePOKÉPARK in 2016!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to the\xfffePOKÉPARK in 2017!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to the\xfffePOKÉPARK in 2018!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to the\xfffePOKÉPARK in 2019!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-Thank you for coming to the\xfffePOKÉPARK in 2020!\xfffeYou have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
+Grazie per essere venuto\xfffeall' evento pokémon 2010!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto\xfffeall' evento pokémon 2011!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto\xfffeall' evento pokémon 2012!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto\xfffeall' evento pokémon 2013!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto\xfffeall' evento pokémon 2014!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto\xfffeall' evento pokémon 2015!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto\xfffeall' evento pokémon 2016!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto\xfffeall' evento pokémon 2017!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto\xfffeall' evento pokémon 2018!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto\xfffeall' evento pokémon 2019!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto\xfffeall' evento pokémon 2020!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto alla\xfffeFesta Pokémon!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto alla\xfffeFesta Pokémon 2010!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto alla\xfffeFesta Pokémon 2011!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto alla\xfffeFesta Pokémon 2012!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto alla\xfffeFesta Pokémon 2013!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto alla\xfffeFesta Pokémon 2014!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto alla\xfffeFesta Pokémon 2015!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto alla\xfffeFesta Pokémon 2016!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto alla\xfffeFesta Pokémon 2017!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto alla\xfffeFesta Pokémon 2018!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto alla\xfffeFesta Pokémon 2019!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto alla\xfffeFesta Pokémon 2020!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto al POKÉPARK!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Questo è un regalo da parte del POKÉPARK!\xfffePer favore ritira il regalo\xfffedal postino in qualunque centro pokémon.
+Grazie per essere venuto nel\xfffePOKÉPARK nel 2010!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto nel\xfffePOKÉPARK nel 2011!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto nel\xfffePOKÉPARK nel 2012!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto nel\xfffePOKÉPARK nel 2013!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto nel\xfffePOKÉPARK nel 2014!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto nel\xfffePOKÉPARK nel 2015!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto nel\xfffePOKÉPARK nel 2016!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto nel\xfffePOKÉPARK nel 2017!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto nel\xfffePOKÉPARK nel 2018!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto nel\xfffePOKÉPARK nel 2019!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
+Grazie per essere venuto nel\xfffePOKÉPARK nel 2020!\xfffeHai già ritirato il tuo regalo\xfffedal postino.
 Hai già ritirato il tuo regalo\xfffedal postino.
 Hai già ritirato il tuo regalo\xfffedal postino.
 Hai già ritirato il tuo regalo\xfffedal postino.
@@ -569,7 +472,103 @@ Hai già ritirato il tuo regalo\xfffedal postino.
 Hai già ritirato il tuo regalo\xfffedal postino.
 Hai già ritirato il tuo regalo\xfffedal postino.
 Hai già ritirato il tuo regalo\xfffedal postino.
-hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
 Hai già ritirato il tuo regalo\xfffedal postino.
 Hai già ritirato il tuo regalo\xfffedal postino.
 Hai già ritirato il tuo regalo\xfffedal postino.
