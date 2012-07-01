@@ -1,42 +1,42 @@
-きゃくほん
-カット　０１
-カット　０２
-カット　０３
-カット　０４
-カット　０５
-カット　０６
-カット　０７
-カット　０８
-カット　０９
-カット　１０
-カット　１１
-カット　１２
-カット　１３
-カット　１４
-カット　１５
-カット　１６
-カット　１７
-カット　１８
-カット　１９
-カット　２０
-あいての　どうぐを　うばえ！
-あいてを　こうげき　しろ！
-あいてを　こうげき　しろ！
-いっきに　きめろ！
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
+Sceneggiatura
+Taglia　０１
+Taglia　０２
+Taglia　０３
+Taglia　０４
+Taglia　０５
+Taglia　０６
+Taglia　０７
+Taglia　０８
+Taglia　０９
+Taglia　１０
+Taglia　１１
+Taglia　１２
+Taglia　１３
+Taglia　１４
+Taglia　１５
+Taglia　１６
+Taglia　１７
+Taglia　１８
+Taglia　１９
+Taglia　２０
+Ruba lo strumento del tuo avversario!
+Bianco attacca l'avversario!
+Bianco attacca l'avversario!
+Kimero in una volta!
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
