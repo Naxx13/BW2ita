@@ -7,7 +7,7 @@ IMPOSTAZIONI SINCROGIOCO
 RELOCATOR
 TEST MIC.
 Link Unima
-しゅじんこう
+Protagonista
 Tempo: \xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
 Pokédex: \xf000Ȃ\x0001\x0000
 Medaglie: \xf000ȁ\x0001\x0000
@@ -17,14 +17,14 @@ Medaglie: \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
 \xf000ą\x0001\x0000
 Info salvataggio
-キーシステムせってい
+Impostazione sistema chiave
 アシストモード
-チャレンジモード
-ホワイトフォレスト
-ブラックシティ
-いわやまのま
-くろがねのま
-ひょうざんのま
+Modalità sfida
+Foresta bianca
+Città nera
+Roccia
+Acciaio
+Ghiaccio
 ほんたいの　せっていにより\xfffeむせんつうしんが　つかえません\xf000븁\x0000\xfffeむせんつうしんを　つかうには\xfffeほんたいせっていの　むせんつうしんを\xf000븀\x0000\xfffeオンにしてください　（５０６９９）
 ペアレンタルコントロールの\xfffeつうしんせいげん
 イッシュリンクの　キーシステム　で\xfffeモードへんこうの　キーが\xf000븀\x0000\xfffeそうしん　できるように　なりました\xf000븁\x0000
