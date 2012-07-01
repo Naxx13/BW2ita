@@ -1,29 +1,29 @@
-こちら　ギアステーションから\xfffeバトルサブウェイに　のれますよ！
-バトルサブウェイとは　トレーナーが\xfffeつよさを　きそう　ちかてつ　です！
-バトルサブウェイは\xfffeぜんぶで　７ろせん！\xf000븁\x0000\xfffeだが　さいしょから　のれるのは\xfffeシングル　ダブル　マルチ　とよばれる\xf000븀\x0000\xfffeトレインだけ　らしいぞ！
-バトルサブウェイは\xfffeぜんぶで　７ろせん！\xf000븁\x0000\xfffeスーパーがつく　トレインに\xfffeのれるようなら　なかなかの\xf000븀\x0000\xfffeトレーナー　ということだ！
-ねえねえ！\xf000븁\x0000\xfffeしょうぶの　まえの　じこしょうかい\xfffeとか　かったり　まけたり　したときの\xf000븀\x0000\xfffeきもちを　おしえて　くれない？
-じゃあ　しょうぶの　まえの\xfffeじこしょうかいを　ひとつ　ヨロシク！\xf000븁\x0000
-じゃあ　しょうぶに　まけたときの\xfffeきもちを　ひとつ　ヨロシク！\xf000븁\x0000
-じゃあ　しょうぶに　かったときの\xfffeきもちを　ひとつ　ヨロシク！\xf000븁\x0000
-じゃあ　いちばんに　なったときの\xfffeきもちを　ひとつ　ヨロシク！\xf000븁\x0000
-わかったよ　ありがとう！\xfffeそうか　\xf000Ĝ\x0001\x0000　か……
-あれ？　おしえて　くれないの？\xfffeざんねん……
-ありがとう！\xfffeほかにも　おしえてくれる？
-わかったよ　ありがとう！
-じこしょうかい
-かったとき
-まけたとき
-いちばんになったとき
-おしえない
-シングルトレイン　のりば
-ダブルトレイン　のりば
-マルチトレイン　のりば
-Ｗｉ－Ｆｉトレイン　のりば
-スーパーシングルトレイン　のりば
-スーパーダブルトレイン　のりば
-スーパーマルチトレイン　のりば
-カナワタウンいき　トレイン　のりば
-ただいま　ちょうせいちゅう　です
+Puoi prendere il Metrò Lotta dalla\&shy;xfffeStazione Ruotadentata!
+Il Metrò Lotta!\&shy;xf000븁\&shy;x0000\&shy;xfffeCome il nome suggerisce è un metrò\&shy;xfffedove gli allenatori possono intraprendere battaglie.
+Il Metrò Lotta ha sette linee\&shy;xfffein totale!\&shy;xf000븁\&shy;x0000\&shy;xfffeMa ho sentito che le uniche linee che puoi\&shy;xfffeprendere all'inizio sono i Treni lotta in Singolo,\&shy;xf000븀\&shy;x0000\&shy;xfffein Doppio o Multipla!
+Il Metrò Lotta ha sette linee\&shy;xfffein totale!\&shy;xf000븁\&shy;x0000\&shy;xfffeMa non puoi prendere i treni chiamati\&shy;xfffe“Super" a meno che tu faccia un grande sforzo.
+Hi, hi!\&shy;xf000븁\&shy;x0000\&shy;xfffePer favore raccontami come ti presenti\&shy;xfffeprima di una battaglia e come ti senti quando\&shy;xf000븀\&shy;x0000\&shy;xfffevinci o perdi.
+Per favore raccontami come ti presenti\&shy;xfffeprima di una battaglia.\&shy;xf000븁\&shy;x0000
+Per favore raccontami come ti senti quando\\&shy;xfffesi perde una battaglia.\&shy;xf000븁\&shy;x0000
+Per favore raccontami come ti senti quando\\&shy;xfffesi vince una battaglia!\&shy;xf000븁\&shy;x0000
+Per favore raccontami come ti senti quando\&shy;xfffesi diventa il numeo 1|!\&shy;xf000븁\&shy;x0000
+Capito! Grazie!\&shy;xfffe\&shy;xf000Ĝ\&shy;x0001\&shy;x0000, huh...
+Oh,preferisci non parlare?\&shy;xfffeOh, beh...
+Grazie! Mi dirai anche le tue altre\&shy;xfffesensazioni?
+Capito! Grazie!
+INTRODUZIONE
+QUANDO SI VINCE
+QUANDO SI PERDE
+QUANDO SI DIVENTA IL NUMERO 1
+NON LO DICE
+Piattaforma per i Treni Lotta in Singolo
+Piattaforma per i Treni Lotta in Doppio
+Piattaforma  per i Treni Lotta Multipla
+Piattaforma  per i Treni Lotta Wi-Fi
+Piattaforma  per i Supertreni Lotta in Singolo
+Piattaforma per i Supertreni Lotta in Doppio
+Piattaforma per i Supertreni Lotta Multipla
+Piattaforma  per treni per Roteolia
+Lavori in corso
 no data
 no data
