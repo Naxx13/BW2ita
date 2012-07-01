@@ -39,10 +39,10 @@ nessun dato
 ⒆⒇ Allenatore
 nessun dato
 ⒆⒇ Allenatore
-おぼっちゃま
-おじょうさま
-パイロット
-さぎょういん
+Ragazzo ricco
+Signora
+Pilota
+Operaio
 Lavoratore
 Hoopster
 Scienziato
@@ -51,11 +51,11 @@ no data
 Ace Trainer
 Ace Trainer
 Black Belt
-Scientist
+Scienziato
 Striker
 Brycen
-no data
-no data
+nessun dato
+nessun dato
 Roughneck
 Janitor
 Pokéfan
@@ -69,48 +69,48 @@ Clerk ⑭
 Clerk ⑭
 Backers
 Backers
-Veteran
-Veteran
-Biker
+Veterano
+Veterano
+Ciclista
 Infielder
 Hiker
 Socialite
-Gentleman
+Gentiluomo
 Team Plasma
-Elite Four
-Elite Four
-Elite Four
-Elite Four
+Superquattro
+Superquattro
+Superquattro
+Superquattro
 no data
 Depot Agent
-Swimmer ⑭
-Swimmer ⑮
-Policeman
-Maid
+Nuotatore ⑭
+Nuotatore ⑮
+Poliziotto
+Camerriera
 Subway Boss
-Champion
-Cyclist
-Cyclist
-Motorcyclist
-no data
-no data
-no data
-no data
+Campione
+Cyclista
+Cyclista
+Motociclista
+nessun dato
+nessun dato
+nessun dato
+nessu dato
 GAME FREAK
-no data
-no data
-⒆⒇ Trainer
+nessun dato
+nessun dato
+⒆⒇ Allenatore
 Team Plasma
-Subway Boss
-no data
-⒆⒇ Trainer
-⒆⒇ Trainer
-⒆⒇ Trainer
-⒆⒇ Trainer
-⒆⒇ Trainer
-⒆⒇ Trainer
-⒆⒇ Trainer
-⒆⒇ Trainer
+Boss metrò
+nessun dato
+⒆⒇ Allenatore
+⒆⒇ Allenatore
+⒆⒇ Allenatore
+⒆⒇ Allenatore
+⒆⒇ Allenatore
+⒆⒇ Allenatore
+⒆⒇ Allenatore
+⒆⒇ Allenatore
 Leader
 Leader
 Leader
@@ -144,28 +144,28 @@ Winona
 Tate
 Liza
 Juan
-⒆⒇ Trainer
+⒆⒇ Allenatore
 Guitarist
-⒆⒇ Trainer
-⒆⒇ Trainer
-⒆⒇ Trainer
-⒆⒇ Trainer
-⒆⒇ Trainer
-⒆⒇ Trainer
-⒆⒇ Trainer
-⒆⒇ Trainer
-Subway Boss
+⒆⒇ Allenatore
+⒆⒇ Allenatore
+⒆⒇ Allenatore
+⒆⒇ Allenatore
+⒆⒇ Allenatore
+⒆⒇ Allenatore
+⒆⒇ Allenatore
+⒆⒇ Allenatore
+boss metrò
 no data
-⒆⒇ Trainer
-⒆⒇ Trainer
-⒆⒇ Trainer
-⒆⒇ Trainer
-⒆⒇ Trainer
-⒆⒇ Trainer
-⒆⒇ Trainer
-⒆⒇ Trainer
-Subway Boss
-no data
+⒆⒇ Allenatore
+⒆⒇ Allentore
+⒆⒇ Allenatore
+⒆⒇ Allenatore
+⒆⒇ Allenatore
+⒆⒇ Allenatore
+⒆⒇ Allenatore
+⒆⒇ allenatore
+Boss metrò
+nessun dato
 Roark
 Gardenia
 Fantina
@@ -174,64 +174,64 @@ Wake
 Byron
 Candice
 Volkner
-Blue
+Blu
 Lance
 Steven
 Wallace
 Beauty
-⒆⒇ Trainer
-⒆⒇ Trainer
-⒆⒇ Trainer
-⒆⒇ Trainer
-⒆⒇ Trainer
-⒆⒇ Trainer
+⒆⒇ Allenatore
+⒆⒇ Allenatore
+⒆⒇ Allenatore
+⒆⒇ Allenatore
+⒆⒇ Allenatore
+⒆⒇ Allenatore
 Team Plasma
 Team Plasma
 Team Plasma
 Team Plasma
-⒆⒇ Trainer
+⒆⒇ Allenatore
 Team Plasma
 Team Plasma
-Champion
-Phantom
-⒆⒇ Trainer
+Campione
+Fantasma
+⒆⒇ Allenatore
 GAME FREAK
-⒆⒇ Trainer
-⒆⒇ Trainer
-Hero
-Hero
+⒆⒇ Allenatore
+⒆⒇ Allenatore
+Eroe
+Eroe
 Ninja
 Ninja
 SF Crew
 SF Crew
-Scientist
-Scientist
-Casual
-Casual
+Scienziato
+Scienziato
+Casuale
+Casuale
 Mr. Ouji
-Princess
+Principessa
 Hachiku-kan
 Mecha Combi
 UFO
-Alien
+Alieno
 Cutting Red
 Cursed Uncle
 Cursed Child
 Wooly Mammoth
 Cursed Man
 Ghost Maiden
-Witch
-Teddy Bear
+Strega
+Orsacchiotto
 Dummy Suit
 Dummy Suit
 Dummy Suit
 Dummy Suit
-Subway Boss
-⒆⒇ Trainer
-⒆⒇ Trainer
-⒆⒇ Trainer
-no data
-Future Man
+Boss metro
+⒆⒇ Allenatore
+⒆⒇ Allenatore
+⒆⒇ Allenatore
+nessun dato
+Uomo del futuro
 Harlequin
-Red
-⒆⒇ Trainer
+Rosso
+⒆⒇ Allenatore
