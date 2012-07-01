@@ -1,24 +1,24 @@
 SINCROGIOCO
 Configurazione Wi-Fi
-Va bene creare dati \&shy;xfffeper giocare con il Sincrogioco?
-Creazione dei dati...\&shy;xfffePer favore, attendere prego.
+Va bene creare dati \xfffeper giocare con il Sincrogioco?
+Creazione dei dati...\xfffePer favore, attendere prego.
 Si
 No
-Salvataggio...\&shy;xfffeNon spegnere la consolle.
-Usa un computer per accedere al\&shy;xfffesito web del Pokémon Global Link\&shy;xfffee inserisci l'ID Sincrogioco sopra\&shy;xfffeper impostare il Sincrogioco\&shy;xfffe\&shy;xfffehttp://www.pokemon-gl.com
-Il tuo ID Sincrogioco è stato rilasciato.\&shy;xfffe\&shy;xfffePuoi controllare il tuo ID Sincrogioco\&shy;xfffenel menù principale delle opzioni Sincrogioco.
-Usa un computer per accedere al\&shy;xfffesito web del Pokémon Global Link\&shy;xfffee inserisci l'ID Sincrogioco sopra\&shy;xfffeper impostare il Sincrogioco\&shy;xfffe\&shy;xfffehttp://www.pokemon-gl.com
+Salvataggio...\xfffeNon spegnere la consolle.
+Usa un computer per accedere al\xfffesito web del Pokémon Global Link\xfffee inserisci l'ID Sincrogioco sopra\xfffeper impostare il Sincrogioco\xfffe\xfffehttp://www.pokemon-gl.com
+Il tuo ID Sincrogioco è stato rilasciato.\xfffe\xfffePuoi controllare il tuo ID Sincrogioco\xfffenel menù principale delle opzioni Sincrogioco.
+Usa un computer per accedere al\xfffesito web del Pokémon Global Link\xfffee inserisci l'ID Sincrogioco sopra\xfffeper impostare il Sincrogioco\xfffe\xfffehttp://www.pokemon-gl.com
 ID Sincrogioco
-L'ID Sincrogioco\&shy;xfffeè stato salvato.
-Si è verificato un errore sul server.\&shy;xfffeSi prega di riprovare.\&shy;xfffe\&shy;xfffeSe questo non risolve il problema,\&shy;xfffefai riferimento alla sezione\&shy;xfffe"risoluzione dei problemi" del tuo libretto di istruZìzioni.\&shy;xfffe\&shy;xfffeCodice Errore: 13201
-Si è verificato un errore sul server.\&shy;xfffeSi prega di riprovare.\&shy;xfffe\&shy;xfffeSe questo non risolve il problema,\&shy;xfffefai riferimento alla sezione\&shy;xfffe"risoluzione dei problemi" del tuo libretto di istruZìzioni.\&shy;xfffe\&shy;xfffeCodice Errore: 13202
-Si è verificato un errore di comunicazione.\&shy;xfffeSi prega di riprovare.\&shy;xfffe\&shy;xfffeSe questo non risolve il problema,\&shy;xfffefai riferimento alla sezione\&shy;xfffe"risoluzione dei problemi" del tuo libretto di istruZìzioni..\&shy;xfffe\&shy;xfffeCodice Errore: 13203
-Si è verificato un errore di comunicazione.\&shy;xfffeSi prega di riprovare.\&shy;xfffe\&shy;xfffeSe questo non risolve il problema,\&shy;xfffefai riferimento alla sezione\&shy;xfffe"risoluzione dei problemi" del tuo libretto di istruZìzioni.\&shy;xfffe\&shy;xfffeCodice Errore: 13204
-Si è verificato un errore sul server.\&shy;xfffeSi prega di riprovare.\&shy;xfffe\&shy;xfffeSe questo non risolve il problema,\&shy;xfffefai riferimento alla sezione\&shy;xfffe"risoluzione dei problemi" del tuo libretto di istruZìzioni.\&shy;xfffe\&shy;xfffeCodice Errore: 13205
-This service has been discontinued.\&shy;xfffe\&shy;xfffeCodice Errore: 13206
-Si è verificato un errore di comunicazione.\&shy;xfffeSi prega di riprovare.\&shy;xfffe\&shy;xfffeSe questo non risolve il problema,\&shy;xfffefai riferimento alla sezione\&shy;xfffe"risoluzione dei problemi" del tuo libretto di istruZìzioni.\&shy;xfffe\&shy;xfffeCodice Errore: 13207
-Si è verificato un errore sul server.\&shy;xfffeSi prega di riprovare.\&shy;xfffe\&shy;xfffeSe questo non risolve il problema,\&shy;xfffefai riferimento alla sezione\&shy;xfffe"risoluzione dei problemi" del tuo libretto di istruZìzioni.\&shy;xfffe\&shy;xfffeCodice Errore: 13208
-Si è verificato un errore di comunicazione.\&shy;xfffeSi prega di riprovare.\&shy;xfffe\&shy;xfffeSe questo non risolve il problema,\&shy;xfffefai riferimento alla sezione\&shy;xfffe"risoluzione dei problemi" del tuo libretto di istruZìzioni.\&shy;xfffe\&shy;xfffeCodice Errore: 13209
-Si è verificato un errore sul server.\&shy;xfffeSi prega di riprovare.\&shy;xfffe\&shy;xfffeSe questo non risolve il problema,\&shy;xfffefai riferimento alla sezione\&shy;xfffe"risoluzione dei problemi" del tuo libretto di istruZìzioni.\&shy;xfffe\&shy;xfffeCodice Errore: 13210
-Il server sta sperimentando elevati\&shy;xfffevolumi di traffico.\&shy;xfffeNon è in grado di connettersi.\&shy;xfffeSi prega di aspettare un po' e riprovare.\&shy;xfffe\&shy;xfffeCodice Errore: 13211
-Il server è in manutenzione.\&shy;xfffe\&shy;xfffeTI dettagli possono essere visti sul\&shy;xfffesito web del Pokémon Global Link.\&shy;xfffe\&shy;xfffehttp://www.pokemon-gl.com\&shy;xfffe\&shy;xfffeCodice Errore: 13212
+L'ID Sincrogioco\xfffeè stato salvato.
+Si è verificato un errore sul server.\xfffeSi prega di riprovare.\xfffe\xfffeSe questo non risolve il problema,\xfffefai riferimento alla sezione\xfffe"risoluzione dei problemi" del tuo libretto di istruZìzioni.\xfffe\xfffeCodice Errore: 13201
+Si è verificato un errore sul server.\xfffeSi prega di riprovare.\xfffe\xfffeSe questo non risolve il problema,\xfffefai riferimento alla sezione\xfffe"risoluzione dei problemi" del tuo libretto di istruZìzioni.\xfffe\xfffeCodice Errore: 13202
+Si è verificato un errore di comunicazione.\xfffeSi prega di riprovare.\xfffe\xfffeSe questo non risolve il problema,\xfffefai riferimento alla sezione\xfffe"risoluzione dei problemi" del tuo libretto di istruZìzioni..\xfffe\xfffeCodice Errore: 13203
+Si è verificato un errore di comunicazione.\xfffeSi prega di riprovare.\xfffe\xfffeSe questo non risolve il problema,\xfffefai riferimento alla sezione\xfffe"risoluzione dei problemi" del tuo libretto di istruZìzioni.\xfffe\xfffeCodice Errore: 13204
+Si è verificato un errore sul server.\xfffeSi prega di riprovare.\xfffe\xfffeSe questo non risolve il problema,\xfffefai riferimento alla sezione\xfffe"risoluzione dei problemi" del tuo libretto di istruZìzioni.\xfffe\xfffeCodice Errore: 13205
+Il servizio è stato interrotto.\xfffe\xfffeCodice Errore: 13206
+Si è verificato un errore di comunicazione.\xfffeSi prega di riprovare.\xfffe\xfffeSe questo non risolve il problema,\xfffefai riferimento alla sezione\xfffe"risoluzione dei problemi" del tuo libretto di istruZìzioni.\xfffe\xfffeCodice Errore: 13207
+Si è verificato un errore sul server.\xfffeSi prega di riprovare.\xfffe\xfffeSe questo non risolve il problema,\xfffefai riferimento alla sezione\xfffe"risoluzione dei problemi" del tuo libretto di istruZìzioni.\xfffe\xfffeCodice Errore: 13208
+Si è verificato un errore di comunicazione.\xfffeSi prega di riprovare.\xfffe\xfffeSe questo non risolve il problema,\xfffefai riferimento alla sezione\xfffe"risoluzione dei problemi" del tuo libretto di istruzioni.\xfffe\xfffeCodice Errore: 13209
+Si è verificato un errore sul server.\xfffeSi prega di riprovare.\xfffe\xfffeSe questo non risolve il problema,\xfffefai riferimento alla sezione\xfffe"risoluzione dei problemi" del tuo libretto di istruZìzioni.\xfffe\xfffeCodice Errore: 13210
+Il server sta sperimentando elevati\xfffevolumi di traffico.\xfffeNon è in grado di connettersi.\xfffeSi prega di aspettare un po' e riprovare.\xfffe\xfffeCodice Errore: 13211
+Il server è in manutenzione.\xfffe\xfffeTI dettagli possono essere visti sul\xfffesito web del Pokémon Global Link.\xfffe\xfffehttp://www.pokemon-gl.com\xfffe\xfffeCodice Errore: 13212
