@@ -84,10 +84,10 @@ Capogruppo
 Partecipa
 Vuoi attivare la comunicazione wireless\xfffeDS?
 つうしんの　せつだんに\xfffeしっぱい　しました
-Saving...\xfffeDon't turn off the power.
+Salvataggio...\xfffeDon't turn off the power.
 Unfortunately, you have been\xfffedemoted to Rank \xf000ȁ\x0001\x0000...\xf000븁\x0000
 Would you like to use\xfffeInfrared Communication or\xf000븀\x0000\xfffeDS Wireless Communications?
-Infrared Communication
+Connessione infrarossi
 DS Wireless Communications
 Would you like to launch\xfffeInfrared Communication and\xf000븀\x0000\xfffeDS Wireless Communications?
 Welcome to the Battle Subway.\xf000븁\x0000\xfffeI am sorry, but this Super Single Train is\xfffeonly for those who beat the Single Train.\xf000븁\x0000
@@ -106,7 +106,7 @@ What kinds of Pokémon\xfffeshould I enter?
 \xf000Ā\x0001\x0000 achieved a win streak\xfffeof \xf000ȃ\x0001\x0001 in the Multi Train challenge\xf000븀\x0000\xfffewith a Trainer.\xf000븁\x0000
 \xf000Ā\x0001\x0000 achieved a win streak of \xf000ȃ\x0001\x0001\xfffein the Multi Train challenge with a friend.\xf000븁\x0000
 \xf000Ā\x0001\x0000 achieved a win streak of\xfffe\xf000ȃ\x0001\x0001 in the Multi Train challenge with a\xf000븀\x0000\xfffeTrainer and a win streak of \xf000ȃ\x0001\x0002 in\xf000븀\x0000\xfffethe Multi Train challenge with a friend.\xf000븁\x0000
-NO DATA
+Nessun dato
 Vuoi prendere il treno\xfffeper Roteolia?
 Il treno presto lascerà la stazione.\xfffeTutti a bordo!\xf000븁\x0000
 We hope to see you again!
