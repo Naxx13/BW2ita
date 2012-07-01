@@ -6,7 +6,7 @@ FRA
 GER
 ITA
 SPA
-せつめい
+Dettagli
 \xf000Ȃ\x0001\x0000
 HT
 WT
