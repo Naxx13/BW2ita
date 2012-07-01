@@ -1,42 +1,42 @@
-きゃくほん
-カット　０１
-カット　０２
-カット　０３
-カット　０４
-カット　０５
-カット　０６
-カット　０７
-カット　０８
-カット　０９
-カット　１０
-カット　１１
-カット　１２
-カット　１３
-カット　１４
-カット　１５
-カット　１６
-カット　１７
-カット　１８
-カット　１９
-カット　２０
+Sceneggiatura
+Taglia 01
+Taglia 02
+Taglia 03
+Taglia 04
+Taglia 05
+Taglia 06
+Taglia 07
+Taglia 08
+Taglia 09
+Taglia 10
+Taglia 11
+Taglia 12
+Taglia 13
+Taglia 14
+Taglia 15
+Taglia 16
+Taglia 17
+Taglia 18
+Taglia 19
+Taglia 20
 あいてタイプの　じゃくてんを　つけ！\xfffeセリフの　せんたくが　じゅうよう！
 あいてタイプの　じゃくてんを　つけ！\xfffeセリフの　せんたくが　じゅうよう！
 あいてタイプの　じゃくてんを　つけ！
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
+no 
+no 
+no 
+no 
+no 
+no 
+no 
+no 
+no 
+no 
+no 
+no 
+no 
+no 
+no 
+no 
+no 
+no
