@@ -12,7 +12,7 @@ VIA INFRAROSSI
 INDIETRO
 Per favore scegli come\xfffericevere il tuo regalo.
 Per favore getta una scheda che\xfffenon devi tenere.\xf000븁\x0000
-Devi gettare una scheda\xfffeper ricevere un Dono Segreto.\xf000븀\x0000\xfffeIs that OK?
+Devi gettare una scheda\xfffeper ricevere un Dono Segreto.\xf000븀\x0000\xfffeVa bene?
 SI
 NO
 La comunicazione Wireless\xfffeverrà attivata.
@@ -34,22 +34,22 @@ SI
 NO
 Ricevendo il dono.\xfffeNon spegnere la console.
 Il regalo è stato ricevuto!\xf000븁\x0000\xfffePer favore ritira il tuo dono\xfffedal postino in qualsiasi Centro Pokémon.\xf000븁\x0000
-Saving your Card Album...\xfffeDon't turn off the power.
-What would you like to do with this\xfffeWonder Card?
-Swap
-Trash
-Back
-This card cannot be thrown away because\xfffeyou have not received the gift yet.\xf000븁\x0000\xfffePlease pick up the gift from the\xfffedeliveryman in any Pokémon Center.\xf000븁\x0000
-The card has been thrown away.\xf000븁\x0000
-Please select a card to swap with.
-Is it OK to throw away this card?
-Yes
-No
-What would you like to know about?
-ABOUT MYSTERY GIFT
-ABOUT THE CARD ALBUM
-WHEN THE ALBUM IS FULL
-BACK
+Salvataggio Album Schede...\xfffeNon spegnere la console...
+Che cosa vuoi fare con questa\xfffeWonder Card?
+Scambia
+Butta
+Indietro
+Questa scheda non può essere buttata via perchè\xfffenon hai ancora ricevuto il dono.\xf000븁\x0000\xfffePer favore ritira il tuo dono\xfffedal postino in qualsiasi centro Pokémon.\xf000븁\x0000
+La scheda è stata buttata.\xf000븁\x0000
+Si prega di selezionare la scheda con la quale effettuare lo scambio.
+Vuoi davvero buttare questa carta?
+SI
+NO
+Che cosa vorresti sapere?
+DONO SEGRETO
+ALBUM SCHEDE
+QUANDO L' ALBUM E' PIENO
+INDIETRO
 INFO
 Mystery Gift allows you\xfffeto receive great gifts\xf000븀\x0000\xfffethrough various communication modes.\xf000븁\x0000\xfffeOnce you have received a gift,\xfffeplease go to any Pokémon Center and\xf000븀\x0000\xfffepick it up from the deliveryman.\xf000븁\x0000
 When you've received your Mystery Gift,\xfffeyour Wonder Card will be displayed\xf000븀\x0000\xfffein the Card Album.\xf000븁\x0000\xfffeYou can check the card to see\xfffeif you've picked up the gift\xf000븀\x0000\xfffefrom a deliveryman.\xf000븁\x0000\xfffeMake sure to pick up gifts\xfffethat are waiting for you.\xf000븁\x0000\xfffeThere is a limit to how many\xfffecards you can save in the Album.\xf000븁\x0000\xfffeYou can store up to 12 cards if you\xfffehave previously saved your game.\xf000븁\x0000\xfffeIf you don't have a saved game yet,\xfffeyou can store up to three cards.\xf000븁\x0000\xfffeWhen the card slots are full, you will not\xfffebe able to receive any more. Please delete\xf000븀\x0000\xfffesome from the Album.\xf000븁\x0000
@@ -66,9 +66,9 @@ No
 There was a problem\xfffewith receiving the gift.\xf000븁\x0000
 A gift was found, but it\xfffecan't be received in this version.\xf000븀\x0000
 You cannot receive any more gifts until \xfffeyou have a saved game.\xf000븀\x0000\xfffePlease start a new game and save it.\xf000븁\x0000
-CARD ALBUM
+ALBUM SCHEDE
 A Button: Sort
-BACK
+INDIETRO
 \xf000ȁ\x0001\x0000／\xf000ȁ\x0001\x0001
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000.\xf000ȁ\x0001\x0001.\xf000ȁ\x0001\x0002
 Wonder Card
@@ -561,30 +561,30 @@ You have already picked up your gift\xfffefrom the deliveryman.
 You have already picked up your gift\xfffefrom the deliveryman.
 You have already picked up your gift\xfffefrom the deliveryman.
 You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
-You have already picked up your gift\xfffefrom the deliveryman.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
+Hai già ritirato il tuo regalo\xfffedal postino.
