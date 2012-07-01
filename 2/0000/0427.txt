@@ -1,13 +1,13 @@
-None
-Aquitaine
+Nessuno
+Aquitaina
 Alsace
 Île-de-France
 Auvergne
-Corse
+Corsica
 Champagne-Ardenne
 Nord-Pas-de-Calais
-Lower Normandy
-Upper Normandy
+Bassa Normandia
+Alta Normandia
 Picardy
 Franche-Comté
 Burgundy
@@ -20,4 +20,4 @@ Languedoc-Roussillon
 Limousin
 Rhône-Alpes
 Lorraine
-Centre
+Centro
