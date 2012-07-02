@@ -1,9 +1,9 @@
-None
-Australian Capital Territory
-New South Wales
-Northern Territory
+Nessuna
+Territorio della capitale australiana
+Nuovo Galles del Sud
+Territorio del Nord
 Queensland
-South Australia
+Australia Meridionale
 Tasmania
 Victoria
-Western Australia
+Australia Occidentale
