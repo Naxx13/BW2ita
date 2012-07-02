@@ -9,6 +9,6 @@ Salvataggio fallito...\xfffeIl Relocator sarà chiuso.\xf000븁\x0000
 Il Relocator è attivo.\xfffeCercando Pokèmon...\xfffe\xfffeAttendere prego.
 レポートを　よみこむことが\xfffeできませんでした\xfffeレポートが　かかれていないか\xfffeこわれている　かのうせいがあります
 ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　てんそうマシンを\xfffeきどうしなおして　ください
-YES
-NO
+Si
+No
 デバッグROM\xfffeDP　Y\xfffePT　X\xfffeGS　A
