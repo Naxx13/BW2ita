@@ -8,8 +8,8 @@ Opzioni　　
 
 CHAT
 　
-RETIRE
-Pokédex is selected.
+Ritira
+Il pokèdex è selezionato
 Il Pokémon è selezionato.
 La Borsa è selezionata.
 La Scheda Allenatore è selezionata
