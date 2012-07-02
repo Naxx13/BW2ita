@@ -34,7 +34,7 @@ Usa
 ×\xf000Ȃ\x0001\x0000
 Non avrà alcun effetto!
 E' avvolto dalla nebbia！\xfffe
-\xf000Ă\x0001\x0000 \xfffeis getting Pumped!
+\xf000Ă\x0001\x0000 \xfffesta diventando forte!
 L'Attacco di \xf000Ă\x0001\x0000\xfffesale!
 L'Attacco Speciale di \xf000Ă\x0001\x0000\xfffesale!
 La Velocità di \xf000Ă\x0001\x0000\xfffesale!
