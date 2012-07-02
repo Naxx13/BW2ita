@@ -9,10 +9,10 @@ Non hai abbastanza Pass Orbs\xfffeper usare questo Passapotere.\xfffe\xf000Ȃ\x0
 Using \xf000đ\x0001\x0001.\xfffeSecondi rimasti: \xf000ȁ\x0001\x0005.
 Using \xf000đ\x0001\x0001.\xfffeTempo rimasto: \xf000Ȃ\x0001\x0004 min., \xf000ȁ\x0001\x0005 sec.
 disse“\xf000Ĝ\x0001\x0000!"
-じぶんのスコア
-ごうけい
+Il suo puntggio
+Totale
 \xf000Ȅ\x0001\x0000
-のこりじかん
+Il sottosegretario restante
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 VERIFICA
 SI
