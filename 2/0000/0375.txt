@@ -1,165 +1,167 @@
 -
-A volte fa tentennarexfffei nemici.
-Quando scende in campo,xfffeil Pokémon attira pioggia.
-La statistica Velocitàxfffeaumenta gradualmente.
-Evita che il Pokémonxfffesubisca brutti colpi.
-Evita che il Pokémon xfffevada KO in un sol colpo.
-Impedisce le mosse xfffeautodistruttive.
-Il Pokémon è protettoxfffecontro la paralisi.
-Aumenta l'elusione del Pokémonxfffenelle tempeste di sabbia.
-Il contatto fisico con il Pokémonxfffepuò causare paralisi.
-Ridà PS se subiscexfffeuna mossa di tipo Elettro.
-Ridà PS se si subiscexfffeuna mossa di tipo Acqua.
-Impedisce al Pokémonxfffedi infatuarsi.
-Neutralizza gli effetti deixfffecambiamenti atmosferici.
-Aumenta la precisionexfffedel Pokémon.
-Impedisce al Pokémonxfffedi addormentarsi.
-Il Pokémon acquisiscexfffeil tipo della mossa subita.
-Impedisce al Pokémonxfffedi venire avvelenato.
-Potenzia le mosse di tipo Fuocoxfffese ne subisce una.
-Svaniscono gli effetti secondarixfffedelle mosse subite.
-Impedisce al Pokémonxfffedi venire confuso.
-Resiste a strumenti exfffemosse di sostituzione.
-Riduce la statistica Attaccoxfffedel nemico.
-Impedisce la fugaxfffeal nemico.
-Danneggia il nemicoxfffeal contatto fisico.
-Rende vulnerabili soloxfffealle mosse superefficaci.
-Il pokémon è immunexfffealle mosse di tipo Terra.
-Al contatto può causarexfffeveleno, paralisi o sonno.
-Passa veleno,paralisixfffeo scottatura al nemico.
-Le sue statistichexfffenon possono essere ridotte.
-Cura i problemi di statoxfffequando viene sostituito.
-Le mosse Elettro subitexfffeaumentano l'Att. Sp.
-Gli effetti aggiuntivixfffesono più probabili.
-Aumenta la Velocità del Pokémonxfffesotto la pioggia.
-Aumenta la statistica Velocitàxfffese c'è il sole.
-Aumenta la probabilitàxfffedi incontrare Pokémon selvatici.
-Copia l'abilità xfffedel nemico.
-Aumenta la statisticaxfffeAttacco del Pokémon.
-Al contattoxfffepuò avvelenare il nemico.
-Evita che il Pokémonxfffetentenni.
-Evita che il Pokémonxfffevenga congelato.
-Evita che il Pokémonxffferesti scottato.
-Impedisce la fugaxfffeai Pokémon di tipo Acciaio.
-il Pokémon è immune allexfffemosse basate sul suono.
-Il Pokémon recupera gradualmentexfffePS quando piove.
-Genera una tempesta di sabbiaxfffe durante la lotta.
-Il nemicoxfffeusa più PP.
-Aumenta la resistenza alle mossexfffedi tipo Fuoco e Ghiaccio.
-Il Pokémon si risvegliaxfffepiù rapidamente dal sonno.
-Al contattoxfffepuò scottare il nemico.
-Garantisce la fugaxfffedai Pokémon selvatici.
-Evita che la precisionexfffediminuisca.
-Evita che l'Attaccoxfffevenga ridotto.
-Il Pokémon puòxffferaccogliere strumenti.
-Il Pokémon attaccaxfffeun turno sì e uno no.
-Aumenta l'Attacco,xfffema riduce la precisione.
-Al contatto subitomxfffeil nemico può infatuarsi.
-Aumenta l'Att. Sp.xfffese ci sono Meno o Più.
-Aumenta l'Att. Sp.xfffese ci sono Meno o Più.
-La forma di Castformxfffecambia in base al tempo.
-Protegge il Pokémonxfffedal furto di strumenti.
-Il Pokèmon può guarirexfffei problemi di stato.
-Aumenta l'Attaccoxfffein caso di problemi di stato.
-Aumenta la Difesaxfffein caso di problemi di stato.
-Danneggia i nemicixfffeche usano mosse ruba-PS.
-In difficoltà, potenziaxfffele mosse di tipo Erba.
-In difficoltà, potenziaxfffele mosse di tipo Fuoco.
-In difficoltà, potenziaxfffele mosse di tipo Acqua.
-In difficoltà, potenziaxfffele mosse di tipo Coleottero.
-Protegge il Pokémonxfffedai contraccolpi.
-Aumenta l'intensità dei raggixfffe solari durante la lotta.
-Impedisce la fugaxfffeal nemico.
-Evita che il Pokémonxfffesi addormenti.
-Le statistiche non possonoxfffeessere ridotte.
-Aumenta la statisticaxfffeAttacco del Pokémon.
-Evita che il Pokémonxfffesubisca brutti colpi.
-neutralizza gli effettixfffedei cambiamenti atmosferici.
-Aumenta l'elusionexfffese il Pokémonè confuso.
-Le mosse Elettro subitexfffeaumentano la Velocità.
-Rende più forti controxfffenemici dello stesso sesso.
-Aumenta la velocitàxfffese il Pokémon tentenna.
-Aumenta l'elusionexfffequando grandina.
-Favorisce l'uso anticipatoxfffedi una bacca tenuta.
-Massimizza l'attacco dopoxfffeaver subito un brutto colpo.
-Aumenta la Velocità dopo chexfffeviene usato uno strumento tenuto.
-Diminuisce la potenzaxfffedelle mosse di tipo Fuoco.
-Le statistiche possonoxfffecambiare senza preavviso.
-Riduce PS se fà caldo.xfffeL'acqua ridà PS.
-Regola la potenzaxfffein base al nemico.
-Potenzia le mossexfffetirapugni.
-Ridà PSxfffese il Pokémon è avvelenato.
-Potenzia le mossexfffedello stesso tipo del Pokémon.
-Aumenta la frequenzaxfffedelle mosse multicolpo.
-Cura i problemi di statoxfffese piove.
-Sotto il sole, aumentaxfffel'Att. Sp. ma riduce i PS.
-Aumenta la Velocitàxfffese c'è un problema di stato.
-Le mosse del Pokémonxfffediventano di tipo Normale.
-Potenzia le mossexfffese diventano brutti colpi.
-Il Pokémon subisce dannixfffesolo da attacchi diretti.
-Le mosse di entrambi i Pokémonxfffevanno a segno.
-Anche i nemici più lentixfffeAttaccano per primi.
-Potenzia le mosse più debolixfffedel Pokémon.
-Evita i problemi di statoxfffequando c'è il sole.
+A volte fa tentennare\xfffei nemici.
+Quando scende in campo,\xfffeil Pokémon attira pioggia.
+La statistica Velocità\xfffeaumenta gradualmente.
+Evita che il Pokémon\xfffesubisca brutti colpi.
+Evita che il Pokémon \xfffevada KO in un sol colpo.
+Impedisce le mosse \xfffeautodistruttive.
+Il Pokémon è protetto\xfffecontro la paralisi.
+Aumenta l'elusione del Pokémon\xfffenelle tempeste di sabbia.
+Il contatto fisico con il Pokémon\xfffepuò causare paralisi.
+Ridà PS se subisce\xfffeuna mossa di tipo Elettro.
+Ridà PS se si subisce\xfffeuna mossa di tipo Acqua.
+Impedisce al Pokémon\xfffedi infatuarsi.
+Neutralizza gli effetti dei\xfffecambiamenti atmosferici.
+Aumenta la precisione\xfffedel Pokémon.
+Impedisce al Pokémon\xfffedi addormentarsi.
+Il Pokémon acquisisce\xfffeil tipo della mossa subita.
+Impedisce al Pokémon\xfffedi venire avvelenato.
+Potenzia le mosse di tipo Fuoco\xfffese ne subisce una.
+Svaniscono gli effetti secondari\xfffedelle mosse subite.
+Impedisce al Pokémon\xfffedi venire confuso.
+Resiste a strumenti e\xfffemosse di sostituzione.
+Riduce la statistica Attacco\xfffedel nemico.
+Impedisce la fuga\xfffeal nemico.
+Danneggia il nemico\xfffeal contatto fisico.
+Rende vulnerabili solo\xfffealle mosse superefficaci.
+Il pokémon è immune\xfffealle mosse di tipo Terra.
+Al contatto può causare\xfffeveleno, paralisi o sonno.
+Passa veleno,paralisi\xfffeo scottatura al nemico.
+Le sue statistiche\xfffenon possono essere ridotte.
+Cura i problemi di stato\xfffequando viene sostituito.
+Le mosse Elettro subite\xfffeaumentano l'Att. Sp.
+Gli effetti aggiuntivi\xfffesono più probabili.
+Aumenta la Velocità del Pokémon\xfffesotto la pioggia.
+Aumenta la statistica Velocità\xfffese c'è il sole.
+Aumenta la probabilità\xfffedi incontrare Pokémon selvatici.
+Copia l'abilità \xfffedel nemico.
+Aumenta la statistica\xfffeAttacco del Pokémon.
+Al contatto\xfffepuò avvelenare il nemico.
+Evita che il Pokémon\xfffetentenni.
+Evita che il Pokémon\xfffevenga congelato.
+Evita che il Pokémon\xffferesti scottato.
+Impedisce la fuga\xfffeai Pokémon di tipo Acciaio.
+il Pokémon è immune alle\xfffemosse basate sul suono.
+Il Pokémon recupera gradualmente\xfffePS quando piove.
+Genera una tempesta di sabbia\xfffe durante la lotta.
+Il nemico\xfffeusa più PP.
+Aumenta la resistenza alle mosse\xfffedi tipo Fuoco e Ghiaccio.
+Il Pokémon si risveglia\xfffepiù rapidamente dal sonno.
+Al contatto\xfffepuò scottare il nemico.
+Garantisce la fuga\xfffedai Pokémon selvatici.
+Evita che la precisione\xfffediminuisca.
+Evita che l'Attacco\\xfffevenga ridotto.
+Il Pokémon può\\xffferaccogliere strumenti.
+Il Pokémon attacca\\xfffeun turno sì e uno no.
+Aumenta l'Attacco,\\xfffema riduce la precisione.
+Al contatto subitom\\xfffeil nemico può infatuarsi.
+Aumenta l'Att. Sp.\\xfffese ci sono Meno o Più.
+Aumenta l'Att. Sp.\\xfffese ci sono Meno o Più.
+La forma di Castform\\xfffecambia in base al tempo.
+Protegge il Pokémon\\xfffedal furto di strumenti.
+Il Pokèmon può guarire\\xfffei problemi di stato.
+Aumenta l'Attacco\\xfffein caso di problemi di stato.
+Aumenta la Difesa\\xfffein caso di problemi di stato.
+Danneggia i nemici\\xfffeche usano mosse ruba-PS.
+In difficoltà, potenzia\\xfffele mosse di tipo Erba.
+In difficoltà, potenzia\\xfffele mosse di tipo Fuoco.
+In difficoltà, potenzia\\xfffele mosse di tipo Acqua.
+In difficoltà, potenzia\\xfffele mosse di tipo Coleottero.
+Protegge il Pokémon\\xfffedai contraccolpi.
+Aumenta l'intensità dei raggi\\xfffe solari durante la lotta.
+Impedisce la fuga\\xfffeal nemico.
+Evita che il Pokémon\\xfffesi addormenti.
+Le statistiche non possono\\xfffeessere ridotte.
+Aumenta la statistica\\xfffeAttacco del Pokémon.
+Evita che il Pokémon\\xfffesubisca brutti colpi.
+neutralizza gli effetti\\xfffedei cambiamenti atmosferici.
+Aumenta l'elusione\xfffese il Pokémonè confuso.
+Le mosse Elettro subite\xfffeaumentano la Velocità.
+Rende più forti contro\xfffenemici dello stesso sesso.
+Aumenta la velocità\xfffese il Pokémon tentenna.
+Aumenta l'elusione\xfffequando grandina.
+Favorisce l'uso anticipato\xfffedi una bacca tenuta.
+Massimizza l'attacco dopo\xfffeaver subito un brutto colpo.
+Aumenta la Velocità dopo che\xfffeviene usato uno strumento tenuto.
+Diminuisce la potenza\xfffedelle mosse di tipo Fuoco.
+Le statistiche possono\xfffecambiare senza preavviso.
+Riduce PS se fà caldo.\xfffeL'acqua ridà PS.
+Regola la potenza\xfffein base al nemico.
+Potenzia le mosse\xfffetirapugni.
+Ridà PS\xfffese il Pokémon è avvelenato.
+Potenzia le mosse\xfffedello stesso tipo del Pokémon.
+Aumenta la frequenza\xfffedelle mosse multicolpo.
+Cura i problemi di stato\xfffese piove.
+Sotto il sole, aumenta\xfffel'Att. Sp. ma riduce i PS.
+Aumenta la Velocità\xfffese c'è un problema di stato.
+Le mosse del Pokémon\xfffediventano di tipo Normale.
+Potenzia le mosse\xfffese diventano brutti colpi.
+Il Pokémon subisce danni\xfffesolo da attacchi diretti.
+Le mosse di entrambi i Pokémon\xfffevanno a segno.
+Anche i nemici più lenti\xfffeAttaccano per primi.
+Potenzia le mosse più deboli\xfffedel Pokémon.
+Evita i problemi di stato\xfffequando c'è il sole.
 Il pokemon non può usarexffflo strumento che tiene.
-Neutralizza le abilitàxfffeche bloccano le mosse.
-Aumenta la probabilitàxfffedi infliggere brutti colpi.
-Arreca danni al nemicoxfffeche sferra il colpo finale.
-Rivela se il nemicoxfffeha mosse pericolose.
-Scopre la mossaxfffepiù potente del nemico.
-Ignora i cambiamenti xfffedi statistiche del nemico.
-Potenzia le mossexfffenon molto efficaci.
-Riduce la potenzaxfffedelle mosse superefficaci.
-Dimezza temporaneamentexfffel'Attacco e la Velocità.
-I Pokémon Spettro vengono colpitixfffedalle mosse di tipo Normale.
-Le mosse Acqua subitexfffeaumentano l'Att.Sp.
-Il Pokémon recupera PSxfffequando grandina.
-Riduce i dannixfffedelle mosse superefficaci.
-Il Pokémon provoca unaxfffegrandinata nella lotta.
-Il Pokémon puòxffferaccogliere Miele.
-Il Pokémon scoprexfffelo strumento tenuto dal nemico.
-Potenzia le mossexfffeche provocano contraccolpi.
-Cambia il tipo in basexfffealla lastra che tiene.
-Potenzia la squadraxfffese c'è il sole.
-Riduce i PSxfffedei nemici addormentati.
-Al contatto, rubaxfffelo strumento tenuto dal nemico.
-Aumenta i danni,annullandoxfffegli effetti secondari delle mosse.
-I cambi alle statistichexfffehanno effetto inverso.
+Neutralizza le abilità\xfffeche bloccano le mosse.
+Aumenta la probabilità\xfffedi infliggere brutti colpi.
+Arreca danni al nemico\xfffeche sferra il colpo finale.
+Rivela se il nemico\xfffeha mosse pericolose.
+Scopre la mossa\xfffepiù potente del nemico.
+Ignora i cambiamenti \xfffedi statistiche del nemico.
+Potenzia le mosse\xfffenon molto efficaci.
+Riduce la potenza\xfffedelle mosse superefficaci.
+Dimezza temporaneamente\xfffel'Attacco e la Velocità.
+I Pokémon Spettro vengono colpiti\xfffedalle mosse di tipo Normale.
+Le mosse Acqua subite\xfffeaumentano l'Att.Sp.
+Il Pokémon recupera PS\xfffequando grandina.
+Riduce i danni\xfffedelle mosse superefficaci.
+Il Pokémon provoca una\xfffegrandinata nella lotta.
+Il Pokémon può\xffferaccogliere Miele.
+Il Pokémon scopre\xfffelo strumento tenuto dal nemico.
+Potenzia le mosse\xfffeche provocano contraccolpi.
+Cambia il tipo in base\xfffealla lastra che tiene.
+Potenzia la squadra\xfffese c'è il sole.
+Riduce i PS\xfffedei nemici addormentati.
+Al contatto, ruba\xfffelo strumento tenuto dal nemico.
+Aumenta i danni,annullando\xfffegli effetti secondari delle mosse.
+I cambi alle statistiche\xfffehanno effetto inverso.
 Il nemico è intimidito e nonxfff può mangiare le bacche.
-L'Attacco aumenta sexfffecalano le statistiche.
-Calano le statistiche sexfffei PS sono meno della metà.
-A volte inibisce l'ultimaxfffemossa usata dal nemico.
-A volte cura i problemi xfffedi stato dei Pokémon vicini.
-Riduce i dannixfffesubiti dai compagni.
-Riduce la Difesa e aumentaxfffela Velocità se colpito.
-Raddoppia il pesoxfffedel Pokémon.
-Dimezza il pesoxfffedel Pokémon.
-Riduce il danno subitoxfffese i PS sono al massimo.
-Aumenta l'Attaccoxfffese il pPokémon è avvelenato.
-Aumenta l'Att. Sp.xfffese il Pokémon è scottato.
-Può ricrearexfffeuna bacca utilizzata.
-Prevede ed evitaxfffegli attacchi dei compagni.
-Aumenta una statisticaxfffee ne riduce un'altra.
-Non subisce danni causatixfffedalle condizioni del tempo.
-Può avvelenare il nemicoxfffeal contatto.
-Recupera un pò di PSxfffequando viene sostituito.
-Evita che la Difesaxfffediminuisca.
-Aumenta la Velocitàxfffein una tempesta di sabbia.
-Resiste più facilmentexfffeai problemi di stato.
-Aumenta la potenza delle mossexfffese attacca per ultimo.
-Entra mutatoxfffenell'ultimo Pokémon in suqadra.
-Si trasforma nelxfffePokémon che ha davanti.
-Attacca evitandoxfffele barriere del nemico.
-Al contatto, l'abilitàxfffedel nemico diventa Mummia.
-Aumenta l'Attaccoxfffequando manda KO un nemico.
-Aumenta l'Attacco se colpitoxfffeda una mossa di tipo Buio.
-Per la paura di certi tipixfffedi mosse, aumenta la Velocità.
-Riflette al nemico xfffele mosse di stato .
-Aumenta l'Attacco se colpitoxfffeda una mossa di tipo Erba.
-Dà la priorità allexfffemosse di stato.
-Potenzia alcune mosse'xfffenella tempesta di sabbia.
-Danneggia il bersaglioxfffeal contatto.
-Se in difficoltà,cambiaxfffel'aspetto del Pokémon.
-Aumenta la precisionexfffedi tutta la squadra.
-Neutralizza le abilitàxfffeche bloccano le mosse.
-Neutralizza le abilitàxfffeche bloccano le mosse.
+L'Attacco aumenta se\xfffecalano le statistiche.
+Calano le statistiche se\xfffei PS sono meno della metà.
+A volte inibisce l'ultima\xfffemossa usata dal nemico.
+A volte cura i problemi \xfffedi stato dei Pokémon vicini.
+Riduce i danni\xfffesubiti dai compagni.
+Riduce la Difesa e aumenta\xfffela Velocità se colpito.
+Raddoppia il peso\xfffedel Pokémon.
+Dimezza il peso\xfffedel Pokémon.
+Riduce il danno subito\xfffese i PS sono al massimo.
+Aumenta l'Attacco\xfffese il pPokémon è avvelenato.
+Aumenta l'Att. Sp.\xfffese il Pokémon è scottato.
+Può ricreare\xfffeuna bacca utilizzata.
+Prevede ed evita\xfffegli attacchi dei compagni.
+Aumenta una statistica\xfffee ne riduce un'altra.
+Non subisce danni causati\xfffedalle condizioni del tempo.
+Può avvelenare il nemico\xfffeal contatto.
+Recupera un pò di PS\xfffequando viene sostituito.
+Evita che la Difesa\xfffediminuisca.
+Aumenta la Velocità\xfffein una tempesta di sabbia.
+Resiste più facilmente\xfffeai problemi di stato.
+Aumenta la potenza delle mosse\xfffese attacca per ultimo.
+Entra mutato\xfffenell'ultimo Pokémon in suqadra.
+Si trasforma nel\xfffePokémon che ha davanti.
+Attacca evitando\xfffele barriere del nemico.
+Al contatto, l'abilità\xfffedel nemico diventa Mummia.
+Aumenta l'Attacco\xfffequando manda KO un nemico.
+Aumenta l'Attacco se colpito\xfffeda una mossa di tipo Buio.
+Per la paura di certi tipi\xfffedi mosse, aumenta la Velocità.
+Riflette al nemico \xfffele mosse di stato .
+Aumenta l'Attacco se colpito\xfffeda una mossa di tipo Erba.
+Dà la priorità alle\xfffemosse di stato.
+Potenzia alcune mosse'\xfffenella tempesta di sabbia.
+Danneggia il bersaglio\xfffeal contatto.
+Se in difficoltà,cambia\xfffel'aspetto del Pokémon.
+Aumenta la precisione\xfffedi tutta la squadra.
+Neutralizza le abilità\xfffeche bloccano le mosse.
+Neutralizza le abilità\xfffeche bloccano le mosse.
+ 
+ 
