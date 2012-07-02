@@ -2,7 +2,7 @@
 Salvataggio in corso...\xfffeNon rimuovere l'alimentazione.
 Salvataggio...\xfffeon rimuovere l'alimentazione.
 Congratulazioni! You've successfully\xfffereached a seven-win streak!\xf000븁\x0000\xfffeSince you've won seven in a row,\xfffeI present you with these Battle Points!\xf000븁\x0000
-Congratulations!\xf000븁\x0000\xfffeYou had a seven-win streak and\xfffebrilliantly beat the Subway Boss,\xf000븀\x0000\xfffeso I present you with these\xf000븀\x0000\xfffeBattle Points.\xf000븁\x0000
+Congratulazioni!\xf000븁\x0000\xfffeYou had a seven-win streak and\xfffebrilliantly beat the Subway Boss,\xf000븀\x0000\xfffeso I present you with these\xf000븀\x0000\xfffeBattle Points.\xf000븁\x0000
 And, \xf000Ā\x0001\x0000, now you have earned\xfffethe right to challenge\xf000븀\x0000\xfffethe Super Single Train!\xf000븁\x0000
 And, \xf000Ā\x0001\x0000, now you have earned\xfffethe right to challenge\xf000븀\x0000\xfffethe Super Double Train!\xf000븁\x0000
 And, \xf000Ā\x0001\x0000, now you have earned\xfffethe right to challenge\xf000븀\x0000\xfffethe Super Multi Train!\xf000븁\x0000
@@ -11,16 +11,16 @@ Please enjoy your time here.\xf000븁\x0000\xfffeIf you would like to continue y
 This is the end of the Single Train line.\xf000븁\x0000\xfffeWhen you want to return to Nimbasa City,\xfffeplease talk to me again.\xf000븁\x0000\xfffePlease enjoy your time here.
 This is the end of the Double Train line.\xf000븁\x0000\xfffeWhen you want to return to Nimbasa City,\xfffeplease talk to me again.\xf000븁\x0000\xfffePlease enjoy your time here.
 This is the end of the Multi Train line.\xf000븁\x0000\xfffeWhen you want to return to Nimbasa City,\xfffeplease talk to me again.\xf000븁\x0000\xfffePlease enjoy your time here.
-Do you want to return to Nimbasa City?
-Well then, we'll return to Nimbasa City.\xf000븁\x0000
-What would you like to do?
+Vuoi tornare a Nimbasa City?
+Bene allora, torneremo a Nimbasa City.\xf000븁\x0000
+Cosa vuoi fare?
 Continua battaglia
 Ritorna a Nimbasa City
-Stay Here
-Awaiting your friend's response...
-"Return to Nimbasa City" was chosen, so\xfffeyour challenge\xf000븀\x0000\xfffewill end for now.
-\xf000Ā\x0001\x0000, you have been promoted\xfffeto Rank \xf000ȁ\x0001\x0001!\xf000븁\x0000
-Would you like to send these results\xfffeusing Nintendo WFC?
+Resta qui
+Aspettando la risposta dei tuoi amici...
+E' stato scelto "Ritorno a Nimbasa City", quindi\xfffela tua competizione\xf000븀\x0000\xfffefinirà per adesso.
+\xf000Ā\x0001\x0000, sei stato promosso\xfffeal Rango \xf000ȁ\x0001\x0001!\xf000븁\x0000
+Vuoi inviare questi risultati\xfffetramite Nintendo WFC?
 There's still a lot more to go, but let's\xfffedo our best!
 There's still a lot more to go, but let's\xfffedo our best!
 We finally made it this far!\xf000븁\x0000\xfffeOur opponents will get tougher, but let's\xfffedo our best and not get discouraged!
@@ -28,13 +28,13 @@ We finally made it this far!\xf000븁\x0000\xfffeOur opponents will get tougher,
 We finally made it here!\xf000븁\x0000\xfffe...Could we be the best partners ever?!
 We finally made it here!\xf000븁\x0000\xfffe...Could we be the best partners ever?!
 This is the end of the Wi-Fi Train line.\xf000븁\x0000\xfffeWhen you want to return to Nimbasa City,\xfffeplease talk to me again.\xf000븁\x0000\xfffePlease enjoy your time here.
-The challenge was interrupted.
-The selection was canceled.
-Constant battles make me nervous.\xfffeI'm taking a little rest here.
+La contesa è stata interrotta.
+La selezione è stata cancellata.
+Le battaglie continue mi rendono nervoso.\xfffeMi prendo un pò di riposo qui.
 I'm going to save up Battle Points and\xfffeget some items for my Pokémon to hold.
 For each seven-win streak, the Trainers\xfffeand Pokémon who challenge you become\xf000븀\x0000\xfffeprogressively tougher.
 I've decided to use only cute Pokémon!\xf000븁\x0000\xfffeDo you have any unique thing you're\xfffeparticular about?
-OK! I'm all prepared!\xfffeAll aboard for a battle journey!
+OK! Sono pronto!\xfffeTutti a bordo per un viaggio di battaglie!
 Phew...I'm worn out.\xf000븁\x0000\xfffeThese Trainers are tough. I wonder\xfffehow far I'll get with my skills.
 Have you heard of the Subway Bosses?\xf000븁\x0000\xfffeThey appear only to strong Trainers,\xfffeand they challenge them to battles.\xf000븁\x0000\xfffeThey are the Battle Subway's bosses.
 That last battle was tough...\xf000븁\x0000\xfffeI should've traded in my BP for a\xfffebetter item.
@@ -45,7 +45,7 @@ My 42nd straight win...\xfffeNot too shabby, eh?
 Can't believe I won 84 straight...\xfffeIs this a dream or a hallucination?
 You've got a 14-win streak!\xfffePretty good! Not bad!
 I hear the Super Train is endless!\xf000븁\x0000\xfffeIn other words, if you keep winning, you\xfffecan keep going, on and on to wherever!
-I can go a lot further!\xfffeI can win a lot more!
+Posso andare molto più avanti!\xfffePosso vincere ancora di più!
 The eyes of the Trainers here are very\xfffeserious, or maybe you could say glinting.
 Is this the best this officer can do...?\xf000븁\x0000\xfffeThe light from the passing trains seems\xfffeway too bright.
 The Subway Boss was a suspicious,\xfffestrange fellow.\xf000븁\x0000\xfffeI still don't believe he was giving it\xfffehis all.
@@ -75,9 +75,9 @@ I had a taste of it...\xfffeThe rush of battle...\xf000븁\x0000\xfffeI shouldn'
 Howdy! I'm a genius Pilot!\xfffeUnova's finest!\xf000븁\x0000\xfffeAnd I'm comin' in first here, too!
 I've seen elite Trainers like me\xfffeall over the place, but...\xf000븁\x0000\xfffeSeems like the battles will be tough\xfffefrom here on.
 Even for an elite Trainer such as myself,\xfffeit's starting to get hard.
-Hey, how are you doing?\xfffeI'm still going strong!
+Hey, come va?\xfffeIo sto ancora andando alla grande!
 I've a-done it--77 straight wins!\xfffeThat number has a lucky sound!
-We've defeated over 300 Trainers...
+Abbiamo sconfitto oltre 300 allenatori...
 My my, what a weak-looking Trainer...\xf000븁\x0000\xfffeI think I would just get bored if I\xfffebattled you...\xf000븁\x0000\xfffeI'll give you this, so just get a little\xfffetougher, OK?\xf000븁\x0000
 I'm only interested in strong\xfffeopponents...\xf000븁\x0000\xfffeIf you get tougher, I wouldn't\xfffemind battling you.
 Not many people left on the platform...\xf000븁\x0000\xfffeGuess that shows how hard it is\xfffeto keep winning on the Battle Subway.
@@ -86,7 +86,7 @@ Not many people left on the platform...\xf000븁\x0000\xfffeGuess that shows how
 You...\xfffeYou have the same eyes as me.\xf000븁\x0000\xfffeYou love battling so much...\xfffeNo, it's not just that...\xf000븁\x0000\xfffeBattling is your reason for living.\xfffeYou and I are the same type, aren't we?\xf000븁\x0000\xfffeSo...I'll give you this.\xf000븁\x0000
 You're continuing your battle, right?\xf000븁\x0000\xfffeThat's because we are that type of\xfffeperson, aren't we...
 I'm going to leave a rockin' record and\xfffeturn into a big star!
-Hey, how are you doing?\xfffeI'm still going strong!
+Hey, come va?\xfffeIo sto ancora andando alla grande!
 There's more to Pokémon than it seems.\xf000븁\x0000\xfffeThe world of Pokémon battling really gets\xfffedeeper and deeper.
 I found this when I was cleaning.\xfffeYou can have it if you'd like.\xf000븁\x0000
 Oh, no need to thank me!\xfffeAfter all, I just found it in the trash.\xf000븁\x0000\xfffeI don't understand it. Recently, many\xfffefolks have just been throwing away\xf000븀\x0000\xfffeperfectly good things.
