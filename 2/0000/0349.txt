@@ -1,24 +1,24 @@
 Sceneggiatura
-Taglia 01
-Taglia 02
-Taglia 03
-Taglia 04
-Taglia 05
-Taglia 06
-Taglia 07
-Taglia 08
-Taglia 09
-Taglia 10
-Taglia 11
-Taglia 12
-Taglia 13
-Taglia 14
-Taglia 15
-Taglia 16
-Taglia 17
-Taglia 18
-Taglia 19
-Taglia 20
+Scena 01
+Scena 02
+Scena 03
+Scena 04
+Scena 05
+Scena 06
+Scena 07
+Scena 08
+Scena 09
+Scena 10
+Scena 11
+Scena 12
+Scena 13
+Scena 14
+Scena 15
+Scena 16
+Scena 17
+Scena 18
+Scena 19
+Scena 20
 あいてタイプの　じゃくてんを　つけ！\xfffeセリフの　せんたくが　じゅうよう！
 あいてタイプの　じゃくてんを　つけ！\xfffeセリフの　せんたくが　じゅうよう！
 あいてタイプの　じゃくてんを　つけ！
