@@ -1,12 +1,12 @@
-チェックをする　あいてと\xfffeせきがいせんつうしんを　してください
-せきがいせんつうしんに　しっぱい\xfffeメニューに　もどります
+Crea una connessione ad infrarossi per iniziare\xfffevaluta lo stato con qual'cuno.
+Comunicazione ad infrarossi fallita\xffferitorna al menu.
 せきがいせんつうしんが　\xfffeつながりました！
-チェックをする　あいてと\xfffeせきがいせんつうしんを　してください
-チェックちゅう　です\xfffeつうしんを　つづけてください
-したがめんの　メニューを\xfffeタッチで　スタート！
-チェックスタート
-ランキング
-もどる
-やめる
-フィーリングチェック
+Crea una connessione ad infrarossi per iniziare\xfffevaluta lo stato con qual'cuno.
+Verifica...\xfffeSi prega di mantenere la connessione.
+Tocca il menu touch screen\xfffeper iniziare!
+BEGIN CHECK
+RANKING
+CANCEL
+BACK
+FEELING CHECK
 シーンが　ずれました\xfffeさきへ　すすみます
