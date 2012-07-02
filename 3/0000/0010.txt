@@ -84,8 +84,8 @@ Capogruppo
 Partecipa
 Vuoi attivare la comunicazione wireless\xfffeDS?
 つうしんの　せつだんに\xfffeしっぱい　しました
-Saving...\xfffeDon't turn off the power.
-Unfortunately, you have been\xfffedemoted to Rank \xf000ȁ\x0001\x0000...\xf000븁\x0000
+Salvataggio...\xfffeNon spegnere la console.
+Sfortunatamente, sei stato\xfffedegradato al grado \xf000ȁ\x0001\x0000...\xf000븁\x0000
 Would you like to use\xfffeInfrared Communication or\xf000븀\x0000\xfffeDS Wireless Communications?
 Infrared Communication
 DS Wireless Communications
@@ -109,5 +109,5 @@ What kinds of Pokémon\xfffeshould I enter?
 NO DATA
 Vuoi prendere il treno\xfffeper Roteolia?
 Il treno presto lascerà la stazione.\xfffeTutti a bordo!\xf000븁\x0000
-We hope to see you again!
-We hope to see you again!\xf000븁\x0000
+Speriamo di vederti ancora!
+Speriamo di vederti ancora!\xf000븁\x0000
