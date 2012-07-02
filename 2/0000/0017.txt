@@ -196,26 +196,26 @@ I due movimenti si uniscono!\xfffe E' un movimento combinato!
 Automatic center!
 Ma non è il luogo dove questo strumento \xfffepuò essere usato!
 Sky Drop won't let \xf000Č\x0001\x0000 go!
-The match was forfeited.
+L' incontro è stato perduto.
 (\xf000Ȁ\x0001\x0000) Metronomo \xf000Ȃ\x0001\x0001:\xf000ć\x0001\x0002
 あっ！　やせい？の\xfffe\xf000ā\x0001\x0000が　あらわれた！
-カット０１
-カット０２
-カット０３
-カット０４
-カット０５
-カット０６
-カット０７
-カット０８
-カット０９
-カット１０
-カット１１
-カット１２
-カット１３
-カット１４
-カット１５
-カット１６
-カット１７
-カット１８
-カット１９
-カット２０
+Scena ０１
+Scena ０２
+Scena ０３
+Scena ０４
+Scena ０５
+Scena ０６
+Scena ０７
+Scena ０８
+Scena ０９
+Scena １０
+Scena １１
+Scena １２
+Scena １３
+Scena １４
+Scena １５
+Scena １６
+Scena １７
+Scena １８
+Scena １９
+Scena ２０
