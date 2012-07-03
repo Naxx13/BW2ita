@@ -2,9 +2,9 @@
 ID \xf000Ȅ\x0001\x0000
 \xf000Ȁ\x0001\x0000 necessiti di più.
 Up to \xf000Ȁ\x0001\x0000 di più permesse.
-Cercando partecipanti per la Battaglia Multipla!
-Cercando partecipanti per il Musical!
-Cercando partecipanti per il Metro Lotta!
+Cercando partecipanti per la Battaglia Multipla！
+Cercando partecipanti per il Musical！
+Cercando partecipanti per il Metro Lotta！
 \xf000Ā\x0001\x0000\xf000봅\x0001FID: \xf000Ȅ\x0001\x0001
 Aspettando membri partecipanti...\xfffeBottone B: Cancella
 Quando il gruppo è pronto:\xfffeBottone: A   Bottone B: Cancella
