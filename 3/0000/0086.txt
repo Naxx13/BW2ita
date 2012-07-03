@@ -1,6 +1,6 @@
 \xf000Ā\x0001\x0000 received \xf000ȁ\x0001\x0001 BP!
-Salvataggio in corso...\xfffeNon rimuovere l'alimentazione.
-Salvataggio...\xfffeon rimuovere l'alimentazione.
+Salvataggio in corso...\xfffeNon spegnere la console.
+Salvataggio in corso...\xfffeNon spegnere la console.
 Congratulazioni! You've successfully\xfffereached a seven-win streak!\xf000븁\x0000\xfffeSince you've won seven in a row,\xfffeI present you with these Battle Points!\xf000븁\x0000
 Congratulazioni!\xf000븁\x0000\xfffeYou had a seven-win streak and\xfffebrilliantly beat the Subway Boss,\xf000븀\x0000\xfffeso I present you with these\xf000븀\x0000\xfffeBattle Points.\xf000븁\x0000
 And, \xf000Ā\x0001\x0000, now you have earned\xfffethe right to challenge\xf000븀\x0000\xfffethe Super Single Train!\xf000븁\x0000
