@@ -7,8 +7,8 @@ Ciao! Ciao!　\xfffeSono Wood! Piacere, sì, piacere!\xf000븁\x0000\xfffCosì d
 Mentre aspettiamo, perchè non fai\xfffeun giro?\xf000븁\x0000
 Ah! Ottimo!\xf000븁\x0000\xfffeUn film! Che grande idea!\xf000븁\x0000\xfffeLasciamo \xf000Ā\x0001\x0000 che senta la sorpresa\xfffee l'emozione che il PokeWood può provocare!\xf000븁\x0000\xfffeGiusto! Bene, devo lasciarvi soli ora.\xf000븀\x0000\xfffeA dopo!
 Potevo immaginarmelo, è il mio capo!\xfffeWhat wonderful footwork he has.\xf000븁\x0000\xfffeWell,　\xf000Ā\x0001\x0000,\xfffeShall we go?\xf000븁\x0000
-First, let me give you a quick \xfffeexplanation of what PokeWood is.\xf000븁\x0000\xfffePokeWood is the movie production\xfffecapital of the world!\xf000븁\x0000\xfffeHere, lots of movies are made and\xfffereleased!\xf000븁\x0000
-This is the theater!\xf000븁\x0000\xfffeObviously, movies are screened here,\xf000븀\x0000\xfffebut fans of movie stars \xfffegather here too!\xf000븁\x0000\xfffeWanna take a peek inside?\xf000븁\x0000
+Prima, vorrei darti una rapida \xfffespiegazione di ciò che è il PokeWood.\xf000븁\x0000\xfffe Il PokeWood è la capitale della\xfffeproduzione mondiale del cinema!\xf000븁\x0000\xfffeQui, molti film realizzati e\xfffediffusi!\xf000븁\x0000
+Questo è il teatro!\xf000븁\x0000\xfffeOvviamente, i film vengono proiettati qui,\xf000븀\x0000\xfffema i fans delle star del cinema \xfffesi riuniscono anche qui!\xf000븁\x0000\xfffeVuoi dare un'occhiata dentro?\xf000븁\x0000
 さあ　ここが　さつえいスタジオです！\xf000븁\x0000\xfffeここから　ポケウッドの\xfffeえいがは　うまれるのです！\xf000븁\x0000\xfffeさあ　なかへ　どうぞ！\xfffeウッドウさんが　まってるはずです！\xf000븁\x0000
 おい！　ＡＤ！！\xf000븁\x0000\xfffeあそこの　さつえいスタジオが\xfffeわしの　さくひんの　じゃまだッ！\xf000븁\x0000\xfffeさつえいが　すすまんから\xfffeいますぐ　ブッつぶして　こいッ！
 おい！　ＡＤ！！\xf000븁\x0000\xfffeあの　そらの　くもの　かたちは\xfffeわしのさくひんに　ふさわしくないッ！\xf000븁\x0000\xfffeさつえいが　すすまんから\xfffeいますぐ　どかして　こいッ！
@@ -43,7 +43,7 @@ This is the theater!\xf000븁\x0000\xfffeObviously, movies are screened here,\xf
 Ciao! Come va?\xfffeポケウッドには　もう　なれたかい？\xf000븁\x0000\xfffeここには　いろんなくにの　スタッフが\xfffeいるから　しげきに　なるだろ！\xf000븁\x0000\xfffeじゃあ　さつえいで　あおうぜ！\xfffeBuona giornata!
 People know me as a\xfffebrilliant child actress!\xf000븀\x0000\xfffeNot to mention I’m a top star!\xf000븀\x0000\xfffeMy popularity and acting skills\xf000븀\x0000\xfffeare way beyond yours, rookie!
 アタシ　かのじょの　マネージャー\xf000븁\x0000\xfffeかのじょ　はね……\xf000븁\x0000\xfffeあたしは　てんさいこやくと\xfffeよばれている　スターなのよ！\xf000븀\x0000\xfffeかけだしの　アンタなんかに\xf000븀\x0000\xfffeにんきも　えんぎも\xf000븀\x0000\xfffeまけないんだからね！\xf000븁\x0000\xfffeって　いってますわ
-Guten Tag!\xf000븁\x0000\xfffeキミが　ポケウッドに　でるようになって\xfffeぼくら　スーツアクターも　いそがしくて！\xf000븁\x0000\xfffeBis bald!
+Buongiorno!\xf000븁\x0000\xfffeキミが　ポケウッドに　でるようになって\xfffeぼくら　スーツアクターも　いそがしくて！\xf000븁\x0000\xfffeBis bald!
 あー！　\xf000Ā\x0001\x0000　だっ！\xfffeねえねえ　サインして　おくれよー！
 アラ　\xf000Ā\x0001\x0000……\xf000븁\x0000\xfffeコンドハ　イツ　ワタシノ\xfffeムービーニ　デテ　クレルノ？
 ¡Hola! ¿Qué tal?\xfffeキミも　ゆうめいに　なったな！\xf000븁\x0000\xfffeくにじゃ　トップスターの　オレも\xfffeイッシュじゃ　アンタに　かなわないぜ
