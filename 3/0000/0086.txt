@@ -2,35 +2,35 @@
 Salvataggio in corso...\xfffeNon rimuovere l'alimentazione.
 Salvataggio...\xfffeon rimuovere l'alimentazione.
 Congratulazioni! You've successfully\xfffereached a seven-win streak!\xf000븁\x0000\xfffeSince you've won seven in a row,\xfffeI present you with these Battle Points!\xf000븁\x0000
-Congratulations!\xf000븁\x0000\xfffeYou had a seven-win streak and\xfffebrilliantly beat the Subway Boss,\xf000븀\x0000\xfffeso I present you with these\xf000븀\x0000\xfffeBattle Points.\xf000븁\x0000
+Congratulationi!\xf000븁\x0000\xfffeYou had a seven-win streak and\xfffebrilliantly beat the Subway Boss,\xf000븀\x0000\xfffeso I present you with these\xf000븀\x0000\xfffeBattle Points.\xf000븁\x0000
 And, \xf000Ā\x0001\x0000, now you have earned\xfffethe right to challenge\xf000븀\x0000\xfffethe Super Single Train!\xf000븁\x0000
 And, \xf000Ā\x0001\x0000, now you have earned\xfffethe right to challenge\xf000븀\x0000\xfffethe Super Double Train!\xf000븁\x0000
 And, \xf000Ā\x0001\x0000, now you have earned\xfffethe right to challenge\xf000븀\x0000\xfffethe Super Multi Train!\xf000븁\x0000
-Also, to commemorate this, I give you\xfffethis trophy.\xf000븁\x0000\xfffePlease display it in your home!
-Please enjoy your time here.\xf000븁\x0000\xfffeIf you would like to continue your\xfffechallenge or go back to Nimbasa City,\xf000븀\x0000\xfffeplease talk to me.
-This is the end of the Single Train line.\xf000븁\x0000\xfffeWhen you want to return to Nimbasa City,\xfffeplease talk to me again.\xf000븁\x0000\xfffePlease enjoy your time here.
-This is the end of the Double Train line.\xf000븁\x0000\xfffeWhen you want to return to Nimbasa City,\xfffeplease talk to me again.\xf000븁\x0000\xfffePlease enjoy your time here.
-This is the end of the Multi Train line.\xf000븁\x0000\xfffeWhen you want to return to Nimbasa City,\xfffeplease talk to me again.\xf000븁\x0000\xfffePlease enjoy your time here.
-Do you want to return to Nimbasa City?
-Well then, we'll return to Nimbasa City.\xf000븁\x0000
-What would you like to do?
+Inoltre, per commemorare questo, io ti do\xfffequesto trofeo.\xf000븁\x0000\xfffePlease display it in your home!
+Si prega di godere il vostro tempo qui.\xf000븁\x0000\xfffeSe volete continuare la vostra\xfffesfida o tornare alla citta di Nimbasa,\xf000븀\x0000\xfffesi prega di parlare con me.
+Questa e la fine della linea ferroviaria unica.\xf000븁\x0000\xfffeQuando desideri tornare nella citta di Nimbasa,\xfffesi prega di parlare con me di nuovo.\xf000븁\x0000\xfffePlease enjoy your time here.
+Questa e la fine della doppia linea ferroviaria.\xf000븁\x0000\xfffeQuando desideri tornare nella citta di Nimbasa,\xfffesi prega di parlare con me di nuovo.\xf000븁\x0000\xfffePlease enjoy your time here.
+Questa e la fine della Multipla linea ferroviaria.\xf000븁\x0000\xfffeQuando desideri tornare nella citta di Nimbasa,\xfffesi prega di parlare con me di nuovo.\xf000븁\x0000\xfffePlease enjoy your time here.
+Vuoi tornare alla citta di Ninbasa?
+Bene,allora torneremo alla citta di Ninbasa.\xf000븁\x0000
+Cosa ti piacerebbe fare?
 Continua battaglia
 Ritorna a Nimbasa City
 Stay Here
 Awaiting your friend's response...
-"Return to Nimbasa City" was chosen, so\xfffeyour challenge\xf000븀\x0000\xfffewill end for now.
+E stato scelto di ritornare alla citta di Nimbasa cosi\xfffela tua battaglia\xf000븀\x0000\xfffeper adesso finirà.
 \xf000Ā\x0001\x0000, you have been promoted\xfffeto Rank \xf000ȁ\x0001\x0001!\xf000븁\x0000
-Would you like to send these results\xfffeusing Nintendo WFC?
-There's still a lot more to go, but let's\xfffedo our best!
-There's still a lot more to go, but let's\xfffedo our best!
+Vuoi inviare questi risultati al\xfffeusando il Nintendo WFC?
+C'è ancora molto da fare, ma cerchiamo di\xfffedare del nostro meglio!
+C'è ancora molto da fare, ma cerchiamo di\xfffedare del nostro meglio!
 We finally made it this far!\xf000븁\x0000\xfffeOur opponents will get tougher, but let's\xfffedo our best and not get discouraged!
 We finally made it this far!\xf000븁\x0000\xfffeOur opponents will get tougher, but let's\xfffedo our best and not get discouraged!
 We finally made it here!\xf000븁\x0000\xfffe...Could we be the best partners ever?!
 We finally made it here!\xf000븁\x0000\xfffe...Could we be the best partners ever?!
 This is the end of the Wi-Fi Train line.\xf000븁\x0000\xfffeWhen you want to return to Nimbasa City,\xfffeplease talk to me again.\xf000븁\x0000\xfffePlease enjoy your time here.
-The challenge was interrupted.
-The selection was canceled.
-Constant battles make me nervous.\xfffeI'm taking a little rest here.
+La sfida è stata interrotta.
+La selezione e stata cancellata.
+Le continue battaglie mi rendono nervoso.\xfffeMi sto riposando un pò qui.
 I'm going to save up Battle Points and\xfffeget some items for my Pokémon to hold.
 For each seven-win streak, the Trainers\xfffeand Pokémon who challenge you become\xf000븀\x0000\xfffeprogressively tougher.
 I've decided to use only cute Pokémon!\xf000븁\x0000\xfffeDo you have any unique thing you're\xfffeparticular about?
@@ -115,5 +115,5 @@ Winning battles feels good, but I've\xfffetraveled quite far...I wonder if I can
 I finally have a 49-battle win streak.\xf000븁\x0000\xfffeIf I can do this well at work, I wonder\xfffeif I can get promoted...
 Both you and I have won more than\xfffe100 straight battles!\xf000븁\x0000\xfffeI may have too much time on my hands,\xfffebut so do you.\xf000븁\x0000\xfffeTake this to commemorate our meeting of\xfffetwo similar people!\xf000븁\x0000
 It's a really precious Berry, but I don't\xfffeknow how to use it other than to eat it\xf000븀\x0000\xfffeas a snack...
-It's a subway map of the Unova region.\xf000븁\x0000
+Si tratta di una mappa della metropolitana della regione UNOVA.\xf000븁\x0000
 Communicating. Please stand by...
