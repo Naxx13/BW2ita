@@ -27,9 +27,9 @@ Ricerca in corso...
 Ordine
 Nome
 Tipo
-Al.
-Peso.
-Area
+Altezza:
+Peso:
+Zona
 Forma
 Kanto
 Johto
@@ -40,7 +40,7 @@ Annulla
 Accetta
 Annulla
 Numerico
-Dalla A alla Z
+A-Z
 Più Pesanti
 Più Leggeri
 Più Alti
@@ -53,7 +53,7 @@ Erba
 Ghiaccio
 Spettro
 Terra
-Elettricità
+Elettro
 Veleno
 Drago
 Normale
