@@ -1,13 +1,13 @@
-ベル『では　ポケモンセンターの\xfffeあんないを　するね！\xf000븁\x0000
-ポケモンセンターは　タダで\xfffeポケモンの　かいふくが　できるの！\xf000븁\x0000\xfffeポケモンが　よわったら\xfffeえんりょなく　あずけると　いいよ！\xf000븁\x0000
-ポケモンの　かいふくを　するから\xfffeボールを　ちょっと　かして\xf000븁\x0000
-つぎは　パソコンの　せつめいね！\xf000븁\x0000
-この　しかくいのが　パソコン！\xfffeトレーナーなら　だれでも　つかえるの\xf000븁\x0000\xfffeつれている　ポケモンを　あずけたり\xf000븁\x0000\xfffeぎゃくに　パソコンに　あずけた\xfffeポケモンを　ひきだせるんだよ！\xf000븁\x0000
-つぎは　あっち！\xf000븁\x0000
-ここは　フレンドリィショップ！\xf000븁\x0000\xfffeいろんな　どうぐを\xfffeかったり　うったりできるの！\xf000븁\x0000\xfffeポケモンを　つかまえるときに\xfffeつかう　モンスターボールも\xf000븀\x0000\xfffeフレンドリィショップで　かえるんだよ！\xf000븁\x0000
-それでは　\xf000Ā\x0001\x0000くんに\xfffeモンスターボールを　プレゼント！\xf000븁\x0000
-それでは　\xf000Ā\x0001\x0000さんに\xfffeモンスターボールを　プレゼント！\xf000븁\x0000
-ベル『つぎは！\xf000븁\x0000\xfffeいま　あげた　モンスターボールの\xfffeつかいかたを　せつめい　するね！\xf000븀\x0000\xfffeあたしに　ついてきて！\xf000븁\x0000
-あら？\xfffe\xf000Ā\x0001\x0000の　\xf000ā\x0001\x0001……\xf000븁\x0000
-せいかくは　\xf000Ĉ\x0001\x0002……！\xf000븁\x0000\xfffeその　ポケモンと　いっしょなら\xfffeおもしろい　たびが　できそうね！
-よう！　ポケモンセンターに\xfffeいりびたりの　オレから　アドバイス！\xf000븁\x0000\xfffeポケモンの　たいりょくが　へったら\xfffeとにかく　かいふく　させるんだぞ！
+Questo è il centro Pokèmon.\xfffeti faccio vedere seguimi!\xf000븁\x0000
+Il Centro Pokémon è un servizio gratuito\xfffeper guarire il tuo Pokémon!\xf000븁\x0000\xfffeQuando i tuoi Pokémon sono deboli\xfffenon esitare a lasciarli con loro.\xf000븁\x0000
+Per far recuperare i vostri Pokémon, \xfffelascia i tuoi pokèmon a me.\xf000븁\x0000
+Questo è il PC!\xf000븁\x0000
+Ogni allenatore può utilizzare questo.\xf000븁\x0000\xfffePer depositare i pokèmon\xfffeo prenderne un altro!\xf000븁\x0000
+Seguimi qui!\xf000븁\x0000
+Questo è il Pokemart!\xf000븁\x0000\xfffeVendono vari strumenti\xfffeper aiutarvi nel vostro cammino.\xf000븁\x0000\xfffeDove tu può comprare o vendere cose!\xf000븁\x0000\xfffeè possibile acquistare Pokeballs qui\xfffeper catturare i pokèmon.\xf000븀\x0000\xfffeMa io te ne darò un pò!\xf000븁\x0000
+Quindi \xf000Ā\x0001\x0000, \xfffeEcco alcune pokèballs!\xf000븁\x0000
+Quindi \xf000Ā\x0001\x0000, \xfffeEcco alcune pokèballs!\xf000븁\x0000
+Più tardi ti spiego come catturare i pokèmon.\xf000븁\x0000
+Oh? \xf000Ā\x0001\x0000, Your \xf000ā\x0001\x0001 looks lonely.....\xf000븁\x0000
+Oh! Your Pokémon has a \xf000Ĉ\x0001\x0002 nature!
+Questo è il Centro Pokémon!\xf000븁\x0000\xfffeWQuando i tuoi Pokémon sono deboli\xfffeportarli qui in modo che possano recuperare!
