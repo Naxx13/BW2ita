@@ -100,15 +100,15 @@ Cerca
 Cerca per Video N°.
 Cerca per Facilità
 Cerca per Pokémon
-Search Your Location
+Cerca la tua località
 ＯＫ！
-Please enter the Video Number.
-Please choose the facility.
-Please choose the Pokémon.
+Per favore immetti il numero del video.
+Per favore scegli la difficoltà.
+Per favore scegli il Pokémon.
 Per favore scrivi i criteri di ricerca.
 Non hai insterito nessun criterio di ricerca.
 Caricamento video di battaglia...
-There is no matching Battle Video...
+Non c'è alcun Battle Video corrispondente...
 Invio video di battaglia...
 Il video di battaglia e` stato inviato!
 \xf000봂\x0000Vai profilo
@@ -122,7 +122,7 @@ Non hai ancora registrato la tua posizione.
 Nessun Video Battaglia da mandare.
 \xf000ȁ\x0001\x0000
 つうしんたいせん
-BATTLE SUBWAY
+METRO LOTTA
 すんでいるばしょ\xfffe\xf000Ĥ\x0001\x0000
 \xf000봂\x0000SINGLE TRAIN
 \xf000봂\x0000DOUBLE TRAIN
@@ -133,7 +133,7 @@ BATTLE SUBWAY
 \xf000봂\x0000SUPER DOUBLE TRAIN
 \xf000봂\x0000SUPER MULTI TRAIN
 Per favore scegli la registrazionex\fffeche vuoi vedere.
-PREVIOUS:
+PRECEDENTE:
 RECORD:
 \xf000봃\x0001\x0000\xf000ȃ\x0001x0000
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
@@ -147,8 +147,8 @@ Attuale:
 \xf000봂\x0000\xf000Ā\x0001\x0000'S RATING
 \xf000봂\x0000RATING MODE RECORD
 \xf000봂\x0000FREE MODE RECORD
-\xf000봂\x0000Win
-\xf000봂\x0000Lose
+\xf000봂\x0000Winte
+\xf000봂\x0000Perse
 \xf000봃\x0001\x0000Single:
 \xf000봃\x0001\x0000Double:
 \xf000봃\x0001\x0000Triple:
@@ -157,11 +157,11 @@ Attuale:
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
 \xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
 \xf000봃\x0001\x0000Rating
-\xf000봂\x0000YES
+\xf000봂\x0000SI
 \xf000봂\x0000NO
-YES
+SI
 NO
-Is it OK to disconnect from\xfffeNintendo Wi-Fi Connection?
+Vuoi davvero disconnetterti dalla\xfffeNintendo Wi-Fi Connection?
 Colosseo Singolo,\xfffeNo Restrictions
 Colosseo Singolo,\xfffeFlat
 Colosseo Singolo,\xfffeNo Restrictions, Launcher On
@@ -226,74 +226,74 @@ Competition, Rotation\xfffeLauncher On
 21: Battle Arcade\xfffeSingle
 22: Battle Arcade\xfffeDouble
 23: Battle Arcade\xfffeMulti
-\xf000봂\x0000TAP HERE!
-Is it OK to disconnect from\xfffeNintendo Wi-Fi Connection?
+\xf000봂\x0000TOCCA QUI!
+Vuoi davvero disconnetterti dalla\xfffeNintendo Wi-Fi Connection?
 　
-Authentication error.\xfffeUnable to connect.
-This data is already registered.\xfffeTouch the Touch Screen to continue.
+Errore di autenticazione.\xfffeImpossibile connettersi.
+Questo dato è già registrato.\xfffeTocca lo schermo per continuare.
 There appears to be a problem\xfffewith the Musical Photo.
 There appears to be a problem with the\xfffePokémon in the Musical Photo.
 There appears to be a problem\xfffewith the Profile data.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+Si è verificato un errore.\xfffeTocca il Touch Screen per continuare.
 　
-Authentication error.\xfffeUnable to connect.
+Errore di autenticazione.\xfffeImpossibile connettersi.
 There appears to be a problem with the\xfffechosen Pokémon.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+Si è verificato un errore.\xfffeTocca il Touch Screen per continuare.
 　
 User authentication error.\xfffePlease wait a while before reconnecting.
-This data is already registered.\xfffeTouch the Touch Screen to continue.
+Questo dato è già registrato.\xfffeTocca il Touch Screen per continuare.
 There appears to be a problem with the\xfffeBox Data.
 There appears to be a problem with the\xfffeProfile data.
 There appears to be a problem with your\xfffeparty.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+Si è verificato un errore.\xfffeTocca il Touch Screen per continuare.
 　
 User authentication error.\xfffePlease wait a while before reconnecting.
 There appears to be a problem with your\xfffeparty.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+Si è verificato un errore.\xfffeTocca il Touch Screen per continuare.
 　
 User authentication error.\xfffePlease wait a while before reconnecting.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+Si è verificato un errore.\xfffeTocca il Touch Screen per continuare.
 　
 User authentication error.\xfffePlease wait a while before reconnecting.
-Failed to receive ranking data.\xfffeTouch the Touch Screen to continue.
+Failed to receive ranking data.\xfffeTocca il Touch Screen per continuare.
 There appears to be a problem with your\xffferanking record.
 here appears to be a problem with the\xfffeProfile data.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+Si è verificato un errore.\xfffeTocca il Touch Screen per continuare.
 　
-Authentication error.\xfffeUnable to connect.
-This data is already registered.\xfffeTouch the Touch Screen to continue.
+Errore di autenticazione.\xfffeImpossibile connettersi.
+This data is already registered.\xfffeTocca il Touch Screen per continuare.
 There appears to be a problem\xfffewith the Battle Video.
 There appears to be a problem\xfffewith the Battle Video.
 There appears to be a problem\xfffewith the Profile data.
 There appears to be a problem with the\xfffePokémon in the Battle Video.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+Si è verificato un errore.\xfffeTocca il Touch Screen per continuare.
 　
-Authentication error.\xfffeUnable to connect.
+Errore di autenticazione.\xfffeImpossibile connettersi.
 There appears to be a problem\xfffewith the search criteria.
 There appears to be a problem\xfffewith the search criteria.
 Ricerca fallita...
 　
 Errore di autenticazione.\xfffeImpossibile connettersi.
-No matching Battle Videos found...\xfffeTocca il Touch Screen per continuare.
+Nessun Video Battaglia corrispondente trovato...\xfffeTocca il Touch Screen per continuare.
 Non puoi vedere questo video battaglia.
-Ricevuta video fallita.
+Ricezione video fallita.
 　
 　
 　
 　
 　
-An error occurred.\xfffeError Code 10601
-An error occurred.\xfffeError Code 10602
-An error occurred.\xfffeError Code 10603
-An error occurred.\xfffeError Code 10604
-Unable to connect.\xfffeError Code 10605
-An error occurred.\xfffeError Code 10606
-Unable to connect.\xfffeError Code 10607
-An error occurred.\xfffeError Code 10608
-An error occurred.\xfffeError Code 10609
-There is no response.\xfffeError Code 10610
-There is no response.\xfffeError Code 10611
-There is no response.\xfffeError Code 10612
+Si è verificato un errore.\xfffeError Code 10601
+Si è verificato un errore.\xfffeError Code 10602
+Si è verificato un errore.\xfffeError Code 10603
+Si è verificato un errore.\xfffeError Code 10604
+Impossibile connettersi.\xfffeError Code 10605
+Si è verificato un errore.\xfffeError Code 10606
+Impossibile connettersi.\xfffeError Code 10607
+Si è verificato un errore.\xfffeError Code 10608
+Si è verificato un errore.\xfffeError Code 10609
+Nessuna risposta.\xfffeError Code 10610
+Nessuna risposta.\xfffeError Code 10611
+Nessuna risposta.\xfffeError Code 10612
 Communicazione interrotta.\xfffeError Code 10613
 Impossibile connettersi.\xfffeError Code 10614
 　
@@ -303,22 +303,22 @@ Impossibile connettersi.\xfffeError Code 10614
 　
 　
 　
-The connection to the server was lost.\xfffeTouch the Touch Screen to continue.
+La connessione con il server è stata persa.\xfffeTocca il Touch Screen per continuare.
 　
 　
-There is nothing saved.\xfffeTouch the Touch Screen to continue.
-Please choose a Box.
+Non c'è nulla salvato.\xfffeTocca il Touch Screen per continuare.
+Per favore scegli un Box.
 An empty Box’s Data can’t be sent.
-Where would you like to send this?
+Dove vuoi mandare questo?
 Only one Box Data may be sent at a time.
 The same Box Data can’t be sent.
-Which category would you like to see?
+Quale categoria vuoi vedere?
 The saved data could not be deleted...
-The same Battle Video can't be saved again.\xfffeTouch the Touch Screen to continue.
-Saving...\xfffeDon't turn off the power.
+Lo stesso Video Battaglia non può essere salvato nuovamente.\xfffeTocca il Touch Screen per continuare.
+Salvataggio...\xfffeNon spegnere la console.
 Receiving ranking data...
 Sending save data...
-Save completed.\xfffeTocca il Touch Screen per continuare.
+Salvataggio completato.\xfffeTocca il Touch Screen per continuare.
 Vuoi eliminare il Video Battaglia di \xfffe\xf000Ā\x0001\x0000?
 Vuoi eliminare questi dati?
 Eliminazione dati...\xfffeSalvataggio in corso... Non spegnere.
@@ -328,15 +328,15 @@ Receiving Musical Photo...
 Sending your Box Data...
 Receiving Box Data...
 You have no saved data to send.\xfffeParticipate in the data to send.
-The same data can't be sent again.\xfffeTouch the Touch Screen to continue.
-Receiving Battle Videos...
-No matching data was found...\xfffeTouch the Touch Screen to continue.
-No matching Musical Photo was found...\xfffeTouch the Touch Screen to continue.
-Your Battle Video was sent.\xfffeVideo no.: \xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002
-The game will be saved before\xfffeyou can view Battle Videos.
-Deleting data... Saving a lot of\xfffedata... Don't turn off the power.
-Saving a lot of data...\xfffeDon't turn off the power.
-Saving...\xfffeDon't turn off the power.
+Lo stesso dato non può essere inviato nuovamente.\xfffeTocca il Touch Screen per continuare.
+Ricezione Video Battaglia...
+No matching data was found...\xfffeTocca il Touch Screen per continuare.
+No matching Musical Photo was found...\xfffeTocca il Touch Screen per continuare.
+Il tuo Video Battaglia è stato inviato.\xfffeVideo no.: \xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002
+Il gioco sarà salvato prima che\xfffetu possa vedere i Video Battaglia.
+Cancellazione dati... Salvataggio di molti\xfffedati... Non spegnere la console.
+Salvataggio di molti dati...\xfffeNon spegnere la console.
+Salvataggio...\xfffeNon spegnere la console.
 There is no ranking data...\xfffeTocca il Touch Screen per continuare.
 Vuoi mandare il\xfffetuo Video Battaglia?
 
@@ -347,12 +347,12 @@ Vuoi mandare il\xfffetuo Video Battaglia?
 　
 　
 　
-Latest 20 in the Favorite PC Box
-Latest 20 in the Cool PC Box
-Latest 20 in the Cute PC Box
-Latest 20 in the Suggested PC Box
-Latest 20 in the Fun PC Box
-Latest 20 in the Select PC Box
+Ultimi 20 nel Favorite PC Box
+Ultimi 20 nel Cool PC Box
+Ultimi 20 nel Cute PC Box
+Ultimi 20 nel Suggested PC Box
+Ultimi 20 nel Fun PC Box
+Ultimi 20 nel Select PC Box
 Scolaro
 Pigliamosce
 Fantallenatore
