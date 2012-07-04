@@ -1,21 +1,21 @@
-\xf000봂\x0000 - SURVEY RADAR -
-\xf000봂\x0000You can poll the opinions\xfffe\xf000봂\x0000of people near you.
-\xf000봂\x0000SELECT A SURVEY
-\xf000봂\x0000CHECK SURVEY RESULTS
-\xf000봂\x0000 - THINGS TO FIND OUT -
-\xf000봂\x0000Choose from the items below\xfffe\xf000봂\x0000to start the survey.
-Do you want to ask \xfffepeople about this item?
-CONFIRM
-CANCEL
-\xf000봂\x0000The survey is starting.
-\xf000봂\x0000The survey is\xfffe\xf000봂\x0000not done yet.
-\xf000봂\x0000Analyzing the results...
-\xf000봂\x0000- SURVEY REPORT -
-\xf000봃\x0001\x000aNo. \xf000ȁ\x0001\x0000: \xf000ē\x0001\x0001\xfffe\xf000봃\x0001\x000a\xf000Ȅ\x0001\x0002 Ppl.\xfffe\xf000봃\x0001\x000a\xf000Ȅ\x0001\x0003%
-\xf000봃\x0001\x000aMy answer is\xfffe\xf000봃\x0001\x000a\xf000ē\x0001\x0000
-\xf000봃\x0001\x000aTotal met today\xfffe\xf000봃\x0001\x000a\xf000ȃ\x0001\x0000 Ppl.
-\xf000봃\x0001\x0008Display Mode:\xfffe\xf000봃\x0001\x0008People from today
-\xf000봃\x0001\x000aTotal number\xfffe\xf000봃\x0001\x000a\xf000ȅ\x0001\x0000 Ppl.
-\xf000봃\x0001\x0008Display Mode:\xfffe\xf000봃\x0001\x0008Total No. of people
-\xf000봄\x0001\x0000Updating\xfffe\xf000봄\x0001\x0000data...
-\xf000봂\x0000Check the survey results
+\xf000봂\x0000 - RADAR INDAGINE -
+\xf000봂\x0000Tu puoi fare sondaggi sulle opinioni\xfffe\xf000봂\x0000delle persone vicino a te.
+\xf000봂\x0000SELEZIONA INDAGINE
+\xf000봂\x0000CERCA I RISULTATI DELL' INDAGINE
+\xf000봂\x0000 - COSE DA SAPERE -
+\xf000봂\x0000Scegli dalle opzioni di seguito\xfffe\xf000봂\x0000per avviare l' indagine
+Vuoi chiedere questo \xfffealle persone?
+CONFERMA
+CANCELLA
+\xf000봂\x0000Il sondaggio sta iniziando.
+\xf000봂\x0000Il sondaggio\xfffe\xf000봂\x0000non è ancora finito.
+\xf000봂\x0000Analizzo i risultati...
+\xf000봂\x0000- INDAGINE -
+\xf000봃\x0001\x000aN° \xf000ȁ\x0001\x0000: \xf000ē\x0001\x0001\xfffe\xf000봃\x0001\x000a\xf000Ȅ\x0001\x0002 Pers.\xfffe\xf000봃\x0001\x000a\xf000Ȅ\x0001\x0003%
+\xf000봃\x0001\x000aLa mia risposta è \xfffe\xf000봃\x0001\x000a\xf000ē\x0001\x0000
+\xf000봃\x0001\x000aTotale risposte oggi\xfffe\xf000봃\x0001\x000a\xf000ȃ\x0001\x0000 Pers.
+\xf000봃\x0001\x0008Modalità display:\xfffe\xf000봃\x0001\x0008Persone di oggi.
+\xf000봃\x0001\x000aTotale numero\xfffe\xf000봃\x0001\x000a\xf000ȅ\x0001\x0000 Pers.
+\xf000봃\x0001\x0008Modalità display:\xfffe\xf000봃\x0001\x0008Totale N° di persone
+\xf000봄\x0001\x0000Aggiornamento dei\xfffe\xf000봄\x0001\x0000dati...
+\xf000봂\x0000Seleziona per vedere i risultati del sonaggio
