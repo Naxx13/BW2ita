@@ -1,22 +1,22 @@
-イッシュちほうで　もらえる\xfffeかずかずの　ジムバッジ！\xf000븀\x0000\xfffeせつめいを　ききたいかい？
-ほいほい\xfffeしりたくなったら　またきなさい
-ベーシックバッジを　もっていると\xfffeレベル２０までの　ポケモンが\xf000븀\x0000\xfffeすなおに　めいれいを　きいてくれるよ\xf000븁\x0000
-トキシックバッジを　もっていると\xfffeレベル３０までの　ポケモンが\xf000븀\x0000\xfffeすなおに　めいれいを　きいてくれるよ\xf000븁\x0000
-ビートルバッジを　もっていると\xfffeレベル４０までの　ポケモンが\xf000븀\x0000\xfffeすなおに　めいれいを　きいてくれるよ\xf000븁\x0000
-ボルトバッジを　もっていると\xfffeレベル５０までの　ポケモンが\xf000븀\x0000\xfffeすなおに　めいれいを　きいてくれるよ\xf000븁\x0000
-クエイクバッジを　もっていると\xfffeレベル６０までの　ポケモンが\xf000븀\x0000\xfffeすなおに　めいれいを　きいてくれるよ\xf000븁\x0000
-ジェットバッジを　もっていると\xfffeレベル７０までの　ポケモンが\xf000븀\x0000\xfffeすなおに　めいれいを　きいてくれるよ\xf000븁\x0000
-レジェンドバッジを　もっていると\xfffeレベル８０までの　ポケモンが\xf000븀\x0000\xfffeすなおに　めいれいを　きいてくれるよ\xf000븁\x0000
-ウェーブバッジを　もっていると\xfffeすべての　ポケモンが\xf000븀\x0000\xfffeすなおに　めいれいを　きいてくれるよ\xf000븁\x0000
-どの　バッジの\xfffeせつめいを　ききたい？
-ベーシックバッジ
-トキシックバッジ
-ビートルバッジ
-ボルトバッジ
-クエイクバッジ
-ジェットバッジ
-レジェンドバッジ
-ウェーブバッジ
-やめる
-ビルから　まちを……\xfffeみおろすと　ふるえるよ……\xf000븁\x0000\xfffeだって　わがはい\xfffeたかいところ　こわいもん……
-グォフッ　グォフッ！
+Me oh my, Le medaglie e possibile ottenerle\xfffeNella regione di UNOVA! vuoi sentire parlare di esse?
+Okey dokey. Se vuoi sapere\xfffesu di loro, si prega di tornare indietro.
+Con la medaglia di basica, i Pokémon Lv. 20\xfffevi obbediranno senza fare domande.\xf000븁\x0000
+Con la medaglia Tossica, i Pokémon Lv\xfffeLv. 30 vi obbediranno senza fare domande.\xf000븁\x0000
+Con la medaglia Scarabeo , i Pokémon Lv\xfffeLv. 40 vi obbediranno senza fare domande.\xf000븁\x0000
+Con la medaglia Volt, i Pokémon Lv. 50\xfffevi obbediranno senza fare domande.\xf000븁\x0000
+Con la medaglia Sisma, i Pokémon Lv\xfffeLv. 60 vi obbediranno senza fare domande.\xf000븁\x0000
+Con la medaglia Jet, i Pokémon Lv. 70\xfffevi obbediranno senza fare domande.\xf000븁\x0000
+Con la medaglia Leggenda, i Pokémon Lv\xfffeLv. 80 vi obbediranno senza fare domande.\xf000븁\x0000
+Con la medaglia Onda , tutti i pokèmon Pokémon\xfffevi obbediranno senza fare domande.\xf000븁\x0000
+Quale medaglia vuoi conoscere?
+Medaglia Basica
+Medaglia Tossica
+Medaglia Scarabeo 
+Medaglia Volt
+Medaglia Sisma
+Medaglia Jet
+Medaglia Leggenda
+Medaglia Onda 
+Cancel
+Quando guardavo giù da\xfffequesto edificio, tremavo...\xf000븁\x0000\xfffeImmagino che non mi piace stare\xfffein posti alti...
+Groaf! Groaf!
