@@ -1,13 +1,13 @@
-そのまま　おまちください
+Please stand by...
 \xf000Ă\x0001\x0000
-\xf000Ă\x0001\x0001\xfffericeve l'uovo di \xf000Ă\x0001\x0002!
-おまけエリアに　とまったので\xfffe\xf000ĉ\x0001\x0000を　もらった！
-ざんねん！　バッグが　いっぱいだ……\xfffeきのみを　もらうのを　あきらめた
-つうしん　たいきちゅう　です\xfffeしばらく　おまちください
-つごうのつかない　メンバーがいたので\xfffeぐるぐるこうかんを　ちゅうし　します
-リーダーの　つごうが　つかないので\xfffeぐるぐるこうかんを　ちゅうし　します
-つうしんエラーが　はっせい　しました\xfffeぐるぐるこうかんを　ちゅうし　します
-じかんぎれのため　しめきられました\xfffeぐるぐるこうかんを　ちゅうし　します
-つうしん　たいきちゅう　です\xfffeしばらく　おまちください
-ポケモンレポートに　かきこんでいます\xfffeでんげんを　きらないでください
-こうかんできない　タマゴが　あるので\xfffeぐるぐるこうかんを　ちゅうし　します
+\xf000Ā\x0001\x0001 Riceve l'uovo di\xfffe\xf000Ā\x0001\x0002!
+Landed on a Bonus Area!\xfffeReceived a free \xf000ĉ\x0001\x0000!
+Oh,no.L'inventario è pieno...\xfffeThe Berry had to be refused.
+Communicating. Please stand by...
+A member dropped out.\xfffeThe Spin Trade will be canceled.
+The leader had to drop out.\xfffeThe Spin Trade will be canceled.
+Errore di comunicazione...\xfffeThe Spin Trade will be canceled.
+Time has run out.\xfffeThe Spin Trade will be canceled.
+Comunicazione in corso.\xfffePrego attendere...
+Salvataggio...\xfffeNon rimuovere l'alimentazione.
+There is an Egg that can't be traded.\xfffeSpin Trade will be canceled.
