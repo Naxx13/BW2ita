@@ -4,98 +4,98 @@ Una cittadina rurale la cui brezza\xfffeda il senso di qualcosa che sta per avve
 Laboratorio della Prof.Aralia
 Questa città offre panorami mozzafiato\xfffeper la presenza di numerose alture.
 Centro Pokémon
-Entry stairs built in memory of a\xfffeformer home in a snowier climate.
+Scala d'ingresso costruita in memoria\xfffedi una vecchia casa durante un periodo nevoso.
 Palestra della città di Levantopoli
 Centro Pokémon
 Scuola degli allenatori
 Laboratorio di Zania
-A city established in restored\xfffestorehouses built 100 years ago.
-Nacrene City Gym
+Una città costruita tra i magazzini\xffferestaurati costruiti 100 anni fà.
+Palestra di Zefiropoli
 Pokémon Center
-Nacrene Museum
-Café Warehouse
-A big city with skyscrapers\xfffepiercing the clouds.
-Castelia City Gym
-Pokémon Center
-Passerby Analytics
-Name-Rating Services
-Pokémon Massage
-Royal Unova
-A bustling city of entertainment,\xfffewith many theme parks.
-Nimbasa City Gym
-Pokémon Center
-Musical Theater
-Battle Subway
-Big Stadium
-Small Court
-A port town distributing many goods,\xfffeand a gateway to the Unova region.
-Driftveil City Gym
-Pokémon Center
-Driftveil Market
-Move Tutor's House
-Vegetables are grown by the runway\xfffeand transported by cargo plane.
-Mistralton City Gym
-Pokémon Center
-Move Family's House
-Cargo Service
-In winter, the city is covered with\xfffesnow as far as the eye can see.
-Icirrus City Gym
-Pokémon Center
+Museo di Zefiropoli
+Bar Magazzino 
+Metropoli in cui torreggiano\xfffegrandi grattacieli che oltrepassano le nubi.
+Palestra di Austropoli
+Centro Pokémon
+Associazione Sondaggi
+Servizio di valutazione nomi
+Massaggi Pokémon
+Nave Reale Unima
+La città dei divertimenti.\xfffeMolto animata e piena d'attrazioni.
+Palestra di Sciroccopoli
+Centro Pokémon
+Teatro Musical
+Lotta Metropolitana
+Stadio Stellare
+Campetto
+Città portuale dove arriva la\xfffemaggior parte delle merci di Unima.
+Palestra di Libecciopoli
+Centro Pokémon
+Mercato di Libecciopoli
+Casa dell'esperto mosse
+Qui si coltivano ortaggi che vengono\xfffepoi aerotrasportati in tutta Unima.
+Palestra di Ponentopoli
+Centro Pokémon
+Casa della famiglia delle mosse
+Servizio Carico
+Di inverno la ricopre\xfffedi un manto argenteo.
+Palestra di Mistralopoli
+Centro Pokémon
 Pokémon Fan Club
-A city that respects history\xfffeand values old things.
-A convenient city of rapid change,\xfffeshowing no traces of the past.
-Opelucid City Gym
-Pokémon Center
-Battle House
-Only Trainers who win at all the\xfffePokémon Gyms may challenge it.
-Pokémon Center
-A town where all honor old customs,\xfffeliving as methodically as clockwork.
-Pokémon Center
-A summer retreat with a beach full of\xfffepeople who enjoy summer vacations.
-Pokémon Center
-A city with a rail yard where\xfffetrains park for an overhaul.
-A modern city of ongoing development\xfffethat draws people to it.
-Pokémon Center
-A place of nature's bounty, it\xfffeattracts people who long for nature.
-Pokémon Center
-A skyscraper where people from\xfffeall over the world can communicate.
-A facility to study Pokémon\xfffefrom faraway regions.
-A plant site used as a playground\xfffefor children and Pokémon.
-You can go through hollows\xfffeof fallen trees, too.
-It is a popular place for tourists,\xfffebut too harsh to be a resort.
-Ancient ruins with a glorious history,\xfffeburied in the sand as time went by.
-A lot of collected products are\xfffestored at a constant temperature.
-A cave where electrically charged\xfffestones float.
-It has a reputation as a mine\xfffelittered with valuable ore.
-The oldest tower in the Unova\xffferegion. No one knows its history.
-These steep slopes are the last\xfffeobstacle before the Pokémon League!
-Legend says if you approach this\xfffebig chasm, disasters surely follow.
-An island symbol of hope for a world\xfffewhere humans and Pokémon live free.
-Team Plasma's secret lab is located\xfffeon a quiet little island.
-This underwater pool grew from\xffferainwater soaking into the ground.
-A forgotten cave sealed with\xfffehints of a legend's presence.
-A tall tower with a large bell whose\xfffetones are said to purify the spirit.
-They say water collecting in hollows\xfffeon the flat land created the moor.
-People once lived in this village, and\xfffeit still feels the same as it did then.
-A world-famous sea of shining waves.
-A mysterious forest where people get\xfffelost despite the simple landscape.
-A small road by the shore, where you\xfffecan enjoy the seascape in peace.
-A pastoral road where novice\xfffeTrainers can challenge one another.
-A long and winding road with lots\xfffeof ponds and tall grass.
-A sandstorm delayed the road\xfffeconstruction to connect two cities.
-A busy road where\xfffeperformers gather.
-A road with many trees\xfffefor nature lovers.
-Raised walkways help you\xfffeavoid the tall grass.
-It rains a lot here, and the marshy\xfffeswamp holds many Pokémon.
-This paved road attracts\xfffethose who love bikes.
-Shopping Mall Nine
-A road leading to the Badge Check\xfffeGates, chock full of showoffs.
-Limpid streams carved beautiful\xfffescenery on this road.
-A place of fun, where it's enjoyable\xfffejust walking over its gentle hills.
-This seaside route is famous for\xfffesand bars that cross the ocean.
-A road covered with mist from\xfffethe waterfalls.
-A road whose sharp cliffs may scare\xfffesome people off.
-Many who visit Nimbasa City\xfffedrop by to take a break.
+Città che ha rispetto per la storia\xfffee cura per le cose del passato.
+Qui le vistigia del passato hanno fatto posto\xfffealle moderne comodità.
+Palestra di Boreduopoli
+Centro Pokémon
+Casa lotta
+Possono accedervi solo gli allenatori\xfffeche hanno tutte le medaglie.
+Centro Pokémon
+Gli abitanti rispettano le usanze del passato,\xfffee vivono una vita regolata.
+Centro Pokémon
+Luogo marittimo di villeggiatura\xfffeche d'estate si anima di molti vacanzieri.
+Centro Pokémon
+Una citta col cantiere ferroviario dove\xfffedove i treni si fermano per una revisione.
+Una città moderna in continuo sviluppo\xfffeche attira un sacco di persone.
+Centro Pokémon
+Un posto dalla natura generosa, che\xfffeattrae persone desiderose di un pò di verde.
+Centro Pokémon
+Un grattacielo dove le persone\xfffeda tutto il mondo possono comunicare.
+Un luogo per studiare i Pokémon\xfffedi regioni remote.
+Un impianto utilizzato come parco giochi\xfffeper bambini e  Pokémon.
+Puoi anche andare attraverso le cavita\xfffedegli alberi caduti.
+Luogo molto popolare per i turisti,\xfffema dal clima ostile per essere un resort.
+Antiche rovine con una storia leggendaria,\xfffeseoplta nella sabbia col passare del tempo.
+Molti prodotti raccolti vengono\xfffeconservati a temperatura costante.
+Una grotta dove pietre caricate\xfffeelettricamente lievitano.
+E' una miniera\xfffedisseminata di pietre preziose.
+La piu antica città nella regione \xfffedi Unima. Nessuno sa la sua storia.
+Questa salita ripida è l'ultimo \xfffeostacolo prima della Lega Pokémon!
+La leggende dice che se ti avventuri in questa\xfffefossa gigante, seguiranno sicuramente sventure.
+Un isola simbolo di speranza per un mondo\xfffedove Pokémon ed umani vivono liberi.
+Il laboratorio segreto del Team Plasma è situato\xfffesu una piccola isola tranquilla.
+Questa piscina sottomarina cresce dall'\xfffeacqua piovana che si assorbe nel terreno.
+Una grotta dimenticata caratterizzata\xfffedalla presenza di una leggenda.
+Una piccola torre con una grande campana i cui \xfffesuoni si dice purifichino lo spirito.
+Dicono che l'acqua depositata nelle cavità\xfffesulla pianura crei la brughiera.
+Un tempo le persone hanno vissuto in questo villaggio, e\xfffee sembra lo stesso di com'era allora.
+Un mare di fama mondiale dalle splendenti onde.
+Una foresta misteriosa dove le persone si\xfffeperdono nonostante il semplice paesaggio.
+Una piccola strada sulla riva, dove \xfffepuoi goderti il paesaggio marino in pace.
+Un percorso rurale dove i gli allenatori\xfffeprincipianti possono sidarsi a vicenda.
+Un percorso lungo e tortuoso con molti\xfffestagni  ed erba alta.
+Una tempesta di sabbia ostacola la costruzione\xfffedi una strada che connette due città.
+Un perocorso affollato dove\xfffegli artisti si riuniscono.
+Un percorso con molti alberi\xfffeper gli amanti della natura.
+Le passerelle ti aiutano\xfffead evitare l'erba alta.
+Piove molto qui, e la palude\xfffeè abitata da molti Pokémon.
+Questa strada pavimentata attrae\xfffegli amanti della bicicletta.
+Magazzini Nove
+Una strada che conduce ai Portali k\xfffedelle medaglie, piena zeppa di audaci allenatori.
+Limpidi ruscelli scolpiscono il meraviglioso\xfffepanorama di questo percorso.
+Un luogo di piacere, dove é  piacevole\xfffecamminare sulle dolci colline.
+Questo percorso marino è famoso per\xfffei banchi di sabbia che attraversano l'oceano.
+Un via coperta dalla nebbia a causa\xfffedelle cascate.
+Un percorso le cui scogliere appuntite possono\xfffefar fuggire molte persone.
+Molti che hanno visitato Sciroccpoli\xffferimangono li per prendersi una pausa.
 ちけいの　かんけいで　きゅうりゅうが\xfffeはっせいし　じゆうに　すすめない
 リゾートデザートと　じつづきだったと\xfffeしてきする　けんきゅうしゃも　いる
 ４ほんの　はしらで　ささえられた\xfffeイッシュさいだい　さいちょうの　はし
