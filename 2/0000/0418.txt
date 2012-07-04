@@ -1,8 +1,8 @@
-PAL PAD
+Lista Amici
 Controlla lista amici
 Registra codice amico
-\xf000Ā\x0001\x0000codice amico
-とじる
+CODICE AMICO DI \xf000Ā\x0001\x0000
+ESCI
 Lista amici
 \xf000Ā\x0001\x0000
 \xf000봂\x0000もどる
@@ -10,10 +10,10 @@ Dettagli
 Riscrivi nome
 Cancella
 Annulla
-\xf000Ā\x0001\x0000の　データを\xfffeどうしますか？
-\xf000Ā\x0001\x0000との　きろく
-\xf000봂\x0000Ａ：まえの　がめんに　もどります
-グループ
+Cosa vuoi fare\xfffecon i dati di \xf000Ā\x0001\x0000?
+Registra con \xf000Ā\x0001\x0000
+\xf000봂\x0000Ａ：Ritorna alla schermata precedente
+Gruppo
 \xf000Ā\x0001\x0000
 \xf000봂\x0000\xf000Ā\x0001\x0000
 \xf000봂\x0000\xf000ȁ\x0001\x0000／\xf000ȁ\x0001\x0001
@@ -21,49 +21,49 @@ Record battaglie
 Vinto
 Perso
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-POKÉMON TRADES
+SCAMBI POKÉMON
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
 りょうりかいすう
 \xf000ȃ\x0001\x0000
-DATE LAST PLAYED
+ULTIMO GIOCO
 \xf000ȃ\x0001\x0000／\xf000ȁ\x0001\x0001／\xf000ȁ\x0001\x0002
-バトルタワー
-バトルファクトリー
-バトルキャッスル
-バトルステージ
-バトルルーレット
-ぜんかい
-げんざい
-さいこう
-\xf000ȃ\x0001\x0000れんしょう
-レベル５０
-オープンレベル
-レンタル／こうかん
+Battle Tower
+Battle Factory
+Battle Castle
+Battle Hall
+Battle Arcade
+Prev
+Current
+Record
+Serie di vittorie: \xf000ȃ\x0001\x0000
+Livello 50
+Qualunque livello
+Prestito/Scambio
 \xf000봃\x0001\x0000キャッスルポイント
 \xf000ā\x0001\x0000の　きろく
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000かい
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000ＣＰ
-\xf000ȃ\x0001\x0000れんしょう
-\xf000ȃ\x0001\x0000ゲーム　クリア
-ひろばゲームのかいすう
-ひろばミニゲーム
+Serie di vittorie: \xf000ȃ\x0001\x0000
+Giochi completati: \xf000ȃ\x0001\x0000
+Plaza Games Played
+Piazza Mini-Giochi
 \xf000ȃ\x0001\x0000かい
 \xf000Ā\x0001\x0000の　ともだちコード
 \xf000봂\x0000もどる
 \xf000봂\x0000\xf000ȃ\x0001\x0001　\xf000ȃ\x0001\x0002　\xf000ȃ\x0001\x0003
-ともだちコードを　おしえあうと\xfffeＷｉ－Ｆｉコネクションを　つかって\xfffeとおくのともだちと\xfffeたいせんやこうかんが　たのしめます
-ともだちコードを　もらうには\xfffeいちど　Ｗｉ－Ｆｉコネクションに\xfffeせつぞく　してください
+Scambiando i Codici Amico\xfffecon altri giocatori, potrai\xfffefare scambi e lottare con loro\xfffeattraverso la Nintendo Wi-Fi Connection.
+Per ottenere il tuo Codice Amico,\xfffeaccedi alla Nintendo WFC.
 \xf000ȃ\x0001\x0001　\xf000ȃ\x0001\x0002　\xf000ȃ\x0001\x0003\xfffe\xf000Ā\x0001\x0000を　とうろくします
-Il codice amico è sbagliato.\xfffe\xf000ȃ\x0001\x0001　\xf000ȃ\x0001\x0002　\xf000ȃ\x0001\x0003
-\xf000Ā\x0001\x0000 will be deleted.\xfffeAre you sure about this?
-Your Friend Roster is full!
-Il codice amico è stato\xffferegistrato.
+Il Codice Amico è sbagliato.\xfffe\xf000ȃ\x0001\x0001　\xf000ȃ\x0001\x0002　\xf000ȃ\x0001\x0003
+\xf000Ā\x0001\x0000 sarà tolto.\xfffeSei sicuro?
+La tua Lista Amici è piena!
+Questo codice amico è giù stato\xffferegistrato.
 \xf000Ā\x0001\x00000codice amico:\xfffe\xf000ȃ\x0001\x0001　\xf000ȃ\x0001\x0002　\xf000ȃ\x0001\x0003
 Controlla codice amico
-\xf000Ā\x0001\x0000さんを　ともだちてちょう　に\xfffeとうろく　しますか？
-ともだちリストが　いっぱい　です！\xfffeだれか　さくじょ　しますか？
-\xf000Ā\x0001\x0000さんの　とうろく　を\xfffeあきらめますか？
-\xf000Ā\x0001\x0000の　データを\xfffeさくじょ　しますか？
+Vuoi aggiungere \xf000Ā\x0001\x0000 alla tua\xfffeLista Amici?
+La tua Lista Amici è piena.\xfffeVuoi togliere qualcuno?
+Annullare l'aggiunta di\xfffe\xf000Ā\x0001\x0000?
+Togliere \xf000Ā\x0001\x0000 dalla tua\xfffeLista Amici??
 Si
 No
-\xf000Ā\x0001\x0000Please go to the Wi-Fi Club\xfffewith 
+Vai al Club Wi-Fi \xfffecon \xf000Ā\x0001\x0000.
