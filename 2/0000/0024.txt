@@ -13,20 +13,21 @@ Riguardo “Radar Sondaggio"
 Riguardo “Personalizzazione"
 Riguardo “On/Off"
 Riguardo “On/Off"
-Using infrared, you can battle and trade\xfffewith a friend in front of you.\xfffeYou can also use the Feeling Check which\xfffetells you how compatible you and your\xfffefriend are, and exchange Friend Codes.
-By pressing the Game Sync button,\xfffeyou can select a Pokémon to make sleep\xfffeand then send your saved data over\xfffeNintendo Wi-Fi Connection.
-You cannot connect to Nintendo Wi-Fi\xfffeConnection without the proper\xfffesystem settings, even when you are\xfffeable to receive a signal for \xfffeNintendo Wi-Fi Connection.
-DS Wireless Communications\xfffeallow you to use the features below\xfffewith your nearby friends.\xfffe-Xtransceiver\xfffe-Entralink
-The Xtransceiver allows you to connect\xfffewith friends you've played with in the\xfffeWi-Fi Club or those you've exchanged\xfffeFriend Codes with using the C-Gear.
-Press the button, and you will be\xfffesent to the Entralink instantly.
-You can tell how many people\xfffeare in the Union Room around you\xfffeand if wireless distributions\xfffeare available nearby.
-You can also tell who has\xfffethe C-Gear turned on around you.\xfffeWhen people are nearby,\xfffeit is easier to receive signals for\xfffethe Tag Log and Survey Radar.
-It displays what people\xfffearound you are doing in real time.\xfffeBy selecting it, you can find out\xfffemore about them and send\xfffethem messages.
+Usando gli infrarossi tu puoi\xfffecombattere e scambiare con\xfffeun amico davanti a te.
+Tu puoi anche usare il Controllo\xfffedi Compatibilità per sapere se tu\xfffee il tuo amico siete compatibili\xfffee scambiarvi i Codici Amico.\xfffe
+Premendo il pulsante del\xfffeSincrogioco puoi scegliere un\xfffePokémon da addormentare e\xfffeinviare i tuoi dati attraverso\xfffela Nintendo Wi-Fi Connection.\xfffe
+Non puoi connetterti alla Nintendo Wi-Fi Connection senza aver impostato correttamente le opzioni di sistema, anche quando riesci a ricevere un segnale per la Nintendo WFC.
+La comunicazione Wireless del DS\xfffeti permette di utilizzare le\xfffefunzioni indicate sotto con gli\xfffeamici vicini a te\xfffe-Xtransceiver\xfffe-Entralink\xfffe
+L'Xtransceiver ti permette di\xfffecollegarti con gli amici con cui\xfffehai giocato nel Wi-Fi Club o con\xfffequelli con cui hai scambiato il\xfffeCodice Amico usando il C-Gear.\xfffe
+Premi il pulsante e sarai\xfffeportato all'Entralink\xfffeall'istante.
+Tu puoi indicare quante persone\xfffesono  nella Stanza Unione\xfffeintorno a te e se campi Wi-Fi\xfffesono disponibili vicino a te.\xfffe
+Tu puoi anche indicare chi hai\xfffeil C-Gear attivo intorno a te.\xfffeQuando delle persone sono vicine\xfffeè più facile ricevere segnali\xfffeper il Tag Log oppure il Radar.
+Esso mostra cosa stanno facendo\xfffele persone intorno a te in tempo\xfffereale. Scegliendone una tu puoi\xfffeavere maggiorni informazioni su\xfffedi loro e inviargli dei messaggi.
 また　フェスミッションが\xfffeかいさい　されているときは\xfffeＦＥＳ　ＭＩＳＳＩＯＮ！　の　もじが\xfffeみぎから　ひだりへ　ながれます。\xfffeフェスミッションは\xfffeすれちがいログから　さんかできます。
-You can do surveys on people\xfffearound you.\xfffe\xfffeChoose what you want to find out,\xfffeand you can see the daily results,\xfffeas well as the cumulative results.
+Puoi fare interviste alle\xfffepersone intorno a te.\xfffe\xfffeScegli di chi vuoi avere più\xfffeinformazioni, puoi vedere\xfffei risultati di oggi oppure\xfffei risultati generali.\xfffe
 すれちがいちょうさたい　で\xfffeうけた　ちょうさが　かんりょうすると\xfffeボタンが　てんめつ　します。\xfffeヒウンの　ちょうさたい　たいちょうに\xfffeほうこく　しましょう。
-Touch the Customization icon, and it will\xfffestart blinking. Touch other buttons as it\xfffeblinks, and they will appear differently.\xfffe\xfffeYou can even make patterns with buttons\xfffeof different colors.
-Touch this button to turn\xfffewireless communications on or off.\xfffe\xfffeOnce you turn it off, the touch panel\xfffeturns dark, and wireless communications\xfffewill be turned off.
+Tocca l'icona della\xfffepersonalizzazione e questa dovrà\xfffeiniziare a lampeggiare.\xfffePremi altri pulsanti quando\xfffelampeggiano e essi cambieranno.\xfffe\xfffePuoi anche fare disegni con dei\xfffepulsanti di colori diversi.
+Premi questo pulsante per\xfffespegnere o accendere la\xfffecomunicazione.\xfffe\xfffeDopo che l'hai spenta\xfffeil touch screen si scurirà\xfffee il Wi-Fi sarà spento.
 のこされた　でんりょくが\xfffeすくない　じょうたいで\xfffeＤＳの　ふたが　とじられていると\xfffeＣギアの　でんげんが\xfffeじどうてきに　オフになります。
 Prossimo
 Esci
