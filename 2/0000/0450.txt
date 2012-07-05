@@ -198,6 +198,7 @@
 
 
 
+
 Forma Unica
 
 
@@ -643,10 +644,10 @@ Forma Incarnazione
 
 
 Forma Incarnazione
-キュレムのすがた
-いつものすがた
+Forma Kyurem
+Forma Normale
 Canto
-ゲノセクトのすがた
+Genesect Form
 
 Forma Unica
 Forma Unica
@@ -726,7 +727,7 @@ Kyurem Bianco
 Kyurem Nero
 Forma Risoluzione
 Danza
-ゲノセクトのすがた
-ゲノセクトのすがた
-ゲノセクトのすがた
-ゲノセクトのすがた
+Genesect's Form
+Genesect's Form
+Genesect's Form
+Genesect's Form
