@@ -398,106 +398,106 @@ E' iniziato il combattimento!\xfffeNon perdiamo tempo.
 Cosa? Sei più che pronto?\xfffeAbbiamo ancora un sacco di tempo.
 Abbiamo esaurito il tempo.\xfffeNon possiamo andare oltre!
 Sto combattendo qui per promuovere\xfffeil bar dove lavoro.
-You are not that strong,\xfffeso you are not really right for my café.
-Yowza! What a strong Trainer!\xfffeSee you at my café next time, OK?
-Join the Pokéfans.\xfffeYour life will be happy!
-If you join the Pokéfans,\xfffeyou'll be strong like me!
-If you join the Pokéfans,\xfffeyour life will be saved!
-I am not a regular Pokéfan.\xfffeI am a major mega-Pokéfan!
-I love Pokémon.\xfffeI love love Pokémon!
-You'll remember this!\xfffeI am a big Pokéfan!
-I think I am a Pokéfan,\xfffetherefore I am a Pokéfan.
-The Pokéfan is power.
-You should remember this.\xfffeI am a Pokéfan.
-There are young and beautiful people,\xfffebut youth is different from beauty.
-If I had known that when I was young,\xfffeI would not have a hard time now...
-Youth is just youth.\xfffeI wish I had realized it back then.
-Ho there! You are a mountain standing\xfffein my way, aren't ya?
-Yahoooooo!! Yahoooooooo!\xfffeHear my cry of triumph!
-Grrr... My victory has disappeared\xfffein a crevasse...
-Hi! Sorry to keep you waiting!\xfffeI am a Hiker. I have a cult following!
-Oh no? It's over already?\xfffeHiker is bored!!
-This is important, so remember this!\xfffeDon't judge a book by its cover!
-Despite my appearance, I am the head\xfffeof a certain outfit. Don't tell anyone.
-Don't tell anyone that I am playing here.
-The boss does not have freedom.\xfffeI feel like a captured Pokémon.
-The truth is, I want to have a quiet life\xfffefishing all day, every day.
-Ah... I don't want to do anything but fish.\xfffeI am tired of winning and losing.
-At my time of life, it doesn't matter\xfffeif I win or lose.
-Hello? Me? What, now?\xfffeI am about to have a battle.
-Hello? Can you hear me?\xfffeI just won the battle.
-Ah... Hello? Can you hear me?\xfffeArgh! I lost...
-He told me that I was like a squall,\xfffebut what is a squall?
-W-wah! Wahhh!\xfffeI am so happy that I am crying.
+Non sei così forte,\xfffenon sei adatto per il mio bar.
+Woah!Sei davvero forte!\xfffeCi vediamo al mio bar la prossima volta, OK?
+Vieni a far parte dei Pokéfans.\xfffeLa tua vita sara felice!
+Se entri a far parte dei Pokéfans,\xfffediventerai forte come me!
+Se entri a far parte dei Pokéfans,\xfffela tua vita sarà salva!
+Non sono un Pokéfan abituale.\xfffeSono il piu importante tra i Pokéfan!
+Io amo i Pokémon.\xfffeLi adoro!Li adoro!
+Ti ricorderai di me!\xfffeSono un gran Pokéfan!
+Penso di essere un Pokéfan,\xfffeergo,sono un Pokémon.
+I Pokéfan sono potenza allo stato puro.
+Dovresti ricordartelo.\xfffeSono un Pokéfan.
+Ci sono persone giovani e belle,\xfffema la giovinezza è diversa dalla bellezza.
+Se avessi imparato quand'ero giovane,\xfffeora non avrei avuto difficoltà...
+La giovinezza è solo dei giovani.\xfffeL'avrei dovuto capire prima.
+Ehilà! Sei come un masso che sta\xfffesulla mia strada, non è forse così?
+Yahoooooo!! Yahoooooooo!\xfffeAscolta l'urlo del mio trionfo!
+Grrr...La mia vittoria è svanita come\xfffecaduta in un crepaccio...
+Hi! Mi dispiace d'averti fatto aspettare!\xfffeSono un avventuriero. Ho il culto della passggiata!
+Oh no? E' gia finita?\xfffeMi hai fatto annoiare!!
+E' importante,ricorda cio che ti dico!\xfffeNon guidicare un libro dalla copertina!
+Nonostante la mia apparenza, Sono il gestore\xfffedi un tipo d'attrezzature. Non dirlo a nessuno.
+Non dirlo a nessuno che sto lottand qui.
+Il capo non ha libertà.\xfffeMi sento come un Pokémon catturato.
+La verita è che,voglio vivere un vita silenziosa\xfffepescando tutto il giorno, ogni giorno.
+Ah...Non voglio fare altro fuorché pescare.\xfffeSono stanco di perdere e vincere.
+Nel mio periodo piu felice della mia vita, non importava\xfffese vincevo o perdevo.
+Pronto? Io? Cosa, ora?\xfffeSto per lottare.
+Pronto? Puoi sentirmi?\xfffeHo appena vinto.
+Ah... Pronto? Mi senti?\xfffeArgh! Ho perso...
+Mi disse che ero peggio di una burrasca,\xfffema cosa intendeva?
+W-wah! Wahhh!\xfffeSono così felice che sto piangendo.
 W-w-wahhhhh! Wahhhhh!\xfffeWahhhhh! Wahhhhh!
-No need to chat with someone\xfffeI'm about to battle.
-Life is over if you lose.\xfffeThat's why I hold out.
-Don't look at miserable me!\xfffeGo away!
-You have your way.\xfffeI have my way.
-I will go my way 'cause\xfffeI don't have any other way.
-Your way must be rocky.\xfffeGood luck. I am behind you all the way.
-Hey, you! Don't mess with me,\xfffeor I will destroy your Pokémon!
-Thought you might make trouble for me,\xfffebut what a wimpy attack!
-How could I lose to such a wimpy move?\xfffeGah, that bugs the snot out of me!
-My dad and mom are both Veterans,\xfffebut I am a loser...
-I wonder if my mom and dad will be sad\xfffeif they see that I've become a Roughneck.
-I cannot be like my mom and dad.\xfffeSo I will live as a Roughneck.
-My partner has turned to dust,\xfffebut his Pokémon is my Pokémon now.
-Are you watching me, my long-lost partner?\xfffeThat Pokémon of yours, we get along...
-He was trash, but now he is eternal,\xfffelike the stars in the sky... Ah, my partner!
-I am no good at speaking...\xfffeSo my bike speaks...
+Non ho bisogno di parlare con nessuno\xfffeSto per lottare.
+Se perdi la tua vita è finita.\xfffePerciò smetto di lottare.
+Non gurdarmi per quanto miserabile sia!\xfffeVai via!
+Tu hai il tuo obbiettivo.\xfffeIo ho il mio.
+Seguiro la mia via perché\xfffeNon né ho altre.
+La tua strada deve essere irta di difficoltà.\xfffeBuona fortuna.Ti assisterò ovunque.
+Hey, tu!Non scherzare con me,\xfffeor Distruggerò i tuoi Pokémon!
+Ho sempre pensato che potessi far casino contro di me,\xfffema sei proprio un rammollito!
+Come posso perdere contro questo rammollito?\xfffeGah,  mi fai impazzire!
+Mio padre e mia madre sono entrambi veterani,\xfffeinvece io sono un perdente...
+Mi chiedo se i miei genitori fosseri tristi\xfffese saprebbero che sono diventato un Teppista.
+Non posso essere come mia mamma e mio papà.\xfffeVivrò come teppista.
+La mia partner è diventata polvere,\xfffema i suoi Pokémon sono i miei adesso.
+Mi stai osservando,ormai perduta compagna?\xfffeOra sono in sintonia con i tuoi Pokémon...
+Era spazzatura, ma ora è immortale,\xfffecome le stelle in ciello...Oh, mia cara compagna!
+Non sini bravo a parlare...\xfffePer questo ci pensa la mia bici...
 Zooooom! Zoom whoosh!\xfffeZooooom! Zoom zam!
 Vroom! Vroom! Vroom!\xfffeVrooooooooom! Vroom!
-All right! Are you ready?\xfffeDon't mess with a Biker!
-I'm a Biker, so I'm more obsessed\xfffewith speed than anyone else!!
-The truth is we are good guys.\xfffeWe cannot do bad things at all!
-Like uncooked dough,\xfffemy Pokémon are sticky!
-Now you're stuck, aren't ya?
-Well, your Pokémon are quite springy, too.
-As I bake bread, I will bake your\xfffePokémon, too.
-Oh my... Your Pokémon are like\xfffeburned bread.
-Ah, how frustrating and disappointing!\xfffeYou burned me with that last move...
-Just as I knead the dough,\xfffeI'll knead you into shape.
-Wanna be kneaded a little more?\xfffeOr shall I sandwich you with bread?
-Ooooo! I'll remember this!\xfffeI'll turn you into a sandwich someday!
-Laughing makes people feel better.\xfffeThere seems to be scientific proof!
-Haaa ha ha! Ha?\xfffeWhat's wrong? Let's laugh!
-Laugh at miserable me--I lost against\xfffeamazing you. Laugh and you'll feel better.
-You think you can win against me?\xfffeIt might not go as smoothly as you think.
-Don't underestimate me just because\xfffeI am a Harlequin.
-No. This can't be happening.\xfffeYou're not an ordinary person.
-Observe my beautiful Pokémon magic!\xfffePlease watch closely!
-I know a few gimmicks and tricks,\xfffe'cause this is magic.
-Tricks and magic are my bread and butter.\xfffeAny Harlequin knows their worth!
-Tedious talk is unnecessary...\xfffeI will just break you...
-What? Are you broken already?
-Ugh, I'm broken...
-I have low self-esteem,\xfffeso I like someone to give me orders.
-You are not my boss, so\xfffeit doesn't matter even if you are weak.
-Can I call you my boss?
-This outfit is not a uniform,\xfffeit's what I like to wear. I made it myself.
-This is a uniform from an anime.\xfffeDoesn't it look good on me?
-I want to live in a world of games,\xfffeanime, and comics forever.
-I'm not cut out for a regular job,\xfffeso I live on art.
-I envy Pokémon, 'cause they are\xfffecarefree. I want to be a Pokémon.
-Bah, if I can do a regular job,\xfffeI will quit doing this stinking art.
-Every time a Pokémon uses a move,\xfffemy heart will tremble!
-Nothing stirs the soul\xfffemore than Pokémon moves.
-Aha! Pokémon moves are so beautiful!\xfffeI could almost faint!
-I will make you cry,\xfffe'cause you just don't know when to quit.
-A state of deep sorrow and confusion\xfffecan also be art.
-Someday, you will appreciate the value\xfffeof defeat and sorrow.
-Our job is hard,\xfffe'cause it's such physical work.
-My work gave me these great muscles.
-Don't underestimate the power of kids.\xfffeLike I did with you!
-Raising Pokémon and raising kids.\xfffeBoth are very hard.
-When my Pokémon do well like this,\xfffeI forget my everyday troubles.
-Even I raise them with tender care,\xfffebecause I am their Trainer...
-Hey, you!\xfffeI promise I will take it easy on you!
-Heheh... I will take it easy on you. Heh.
-Sometimes even grown-ups want\xfffesomeone to take care of them.
-The job site is quite dangerous, but\xfffeI'll have to keep working with Pokémon.
-I have trained my Pokémon well,\xfffeand it's ready to go to the job site.
+Ok! Sei pronto?\xfffeNon si scherza con un Motociclista!
+Sono un motociclista, sono il piu ossessionato\xfffedi velocità di qualunqe altro!!
+La verita è che siamo bravi ragazzi.\xfffeNon potremo far male neanche ad una mosca!
+Come la pasta cruda,\xfffei miei Pokémon sono ostili!
+Ora sei bloccato, vero?
+Beh,anche i tuoi pokémon sono molto abili.
+Come preparo il pane, preparerò anche  \xfffei tuoi Pokémon alla lotta.
+Oh mio...I tuoi Pokémon sono come\xfffepane bruciacchiato.
+Ah, com'è frustrante e deludente!\xfffeMi hai travolto con quell'ultima mossa...
+Propio come lavoro la pasta,\xfffedarò forma a questa lotta.
+Dovrei cucinarti un altro pò?\xfffeO metterti in un panino?
+Ooooo! Mi ricorderò di questo!\xfffeTi farò diventare come sandwich un giorno o poi!
+Ridere rende le persone piu felici.\xfffeCi sono prove scientifiche a dimostrarlo!
+Haaa ha ha! Ha?\xfffeDov'è il problema?Ridiamo insieme!
+Me miserabile--Ho perso contro\xfffeuna persona fantastica. Ridi e ti sentirai meglio.
+Pensi di vincere contro di me?\xfffeNon ci andrò leggero di certo.
+Non sottovalutarmi solo perché\xfffesono un clown.
+No.Non può essere vero.\xfffeNon sei una persona come altre.
+Osserva la magia dei miei Pokémon!\xfffeOsserva attentamente!
+Conosco qualche trucchetto,\xfffeperchè questa è magia.
+Trucchi e magie sono come il burro sul pane.\xfffeOgni Clown né apprezza il valore!
+I discorsi noiosi sono inutili...\xfffeTi distruggerò...
+Come? Sei gia a pezzi?
+Ugh, Sono distrutto...
+Ho poca stime,\xfffeperciò mi faccio dare ordini da qualcuno.
+Non sei il mio capo, quindi\xfffenon improrta se sei debole.
+Posso chiamare il mio capo?
+Quest'abbigliamento non è come una divisa,\xffferappresenta cio che mi piace indossare. La ho cucita io stesso.
+E' un costume di un anime.\xfffeNon mi sta bene?
+Voglio vivere in un modo di videogiochi,\xfffeanime,e fumetti per sempre.
+Non ho rinunciato ad un vero lavoro,\xfffepercio vivo artisticamente.
+Invidio i Pokémon, perché sono\xfffespensierati. Vorrei essere un Pokémon.
+Bah, se potessi fare un vero lavoro,\xfffesmetteri di fare questa terribile arte.
+Ogni volta che un Pokémon usa una mossa,\xfffeil mi cuore palpita!
+Nulla scuote l'animo\xfffpiu della mossa di un Pokémon.
+Aha! Le mosse dei Pokémon sono cosi belle!\xfffeChe potrei persino svenire!
+Ti faro piangere,\xfffeperché non sai quando smettere.
+Un stato di profonda sofferenza e confusione\xfffepuò anche essere considerata arte.
+Un giorno,apprezzerai il valore\xfffedella sconfitta e della sofferenza.
+Il nostro laoro è duro,\xfffeperchè riguarda solo il nostro fisico.
+Il mio lavoro mi regala questo fantastico corpo.
+Non sottovalutare la forza di un bambino.\xfffeCome ho fatto io con te!
+Allevare Pokémon e bambini.\xfffeIn entrambi i casi è complicato.
+Quando i Pokémon fanno dell loro meglio,\xfffeMi dimentico dei miei problemi.
+Anche io alleno i Pokémon con tanta cura,\xfffeperché sono il loro Allenatore...
+Hey, tu!\xfffeMe la prenderò comoda con te!
+Heheh... Me la prenderò comoda. Heh.
+Qualche volta anche gli adulti vogliono\xfffequalcuno che si prenda cura di loro.
+Il cantiere è motlo pericoloso, ma\xfffeMa continuerò a lavorare con i miei Pokémon.
+Ho allenato molto bene i miei Pokémon,\xfffeed è pronto ad andare nel cantiere.
 Ugh. Non posso fare soldi domani\xfffeperchè sono infortunato.
 Benvenuto!
 Solo il vincitore!\xfffeSolo il vincitore può celebrare.
