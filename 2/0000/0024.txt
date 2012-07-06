@@ -1,20 +1,19 @@
-Riguardo “Infrarossi"
-Riguardo “Wi-Fi"
-Riguardo “Wi-Fi"
-Riguardo “Wireless"
-Riguardo “Wireless"
-Riguardo “Wireless"
-Riguardo “Wireless"
-Riguardo “Wireless"
-Riguardo “Tag Log"
-Riguardo “Tag Log"
-Riguardo “Radar Sondaggio"
-Riguardo “Radar Sondaggio"
-Riguardo “Personalizzazione"
-Riguardo “On/Off"
-Riguardo “On/Off"
-Usando gli infrarossi tu puoi\xfffecombattere e scambiare con\xfffeun amico davanti a te.
-Tu puoi anche usare il Controllo\xfffedi Compatibilità per sapere se tu\xfffee il tuo amico siete compatibili\xfffee scambiarvi i Codici Amico.\xfffe
+Info su “Infrarossi"
+Info su “Wi-Fi"
+Info su "Wi-Fi"
+Info su “Wireless"
+Info su “Wireless"
+Info su “Wireless"
+Info su “Wireless"
+Info su “Wireless"
+Info su “Tag Log"
+Info su “Tag Log"
+Info su “Radar Sondaggio"
+Info su “Radar Sondaggio"
+Info su “Personalizzazione"
+Info su “On/Off"
+Info su “On/Off"
+Usando gli infrarossi tu puoi\xfffecombattere e scambiare con\xfffeun amico davanti a te.\xfffePuoi anche usare il Controllo\xfffedi Compatibilità per sapere se tu\xfffee il tuo amico siete compatibili\xfffee scambiarvi i Codici Amico.\xfffe
 Premendo il pulsante del\xfffeSincrogioco puoi scegliere un\xfffePokémon da addormentare e\xfffeinviare i tuoi dati attraverso\xfffela Nintendo Wi-Fi Connection.\xfffe
 Non puoi connetterti alla Nintendo Wi-Fi Connection senza aver impostato correttamente le opzioni di sistema, anche quando riesci a ricevere un segnale per la Nintendo WFC.
 La comunicazione Wireless del DS\xfffeti permette di utilizzare le\xfffefunzioni indicate sotto con gli\xfffeamici vicini a te\xfffe-Xtransceiver\xfffe-Entralink\xfffe
@@ -23,12 +22,12 @@ Premi il pulsante e sarai\xfffeportato all'Entralink\xfffeall'istante.
 Tu puoi indicare quante persone\xfffesono  nella Stanza Unione\xfffeintorno a te e se campi Wi-Fi\xfffesono disponibili vicino a te.\xfffe
 Tu puoi anche indicare chi hai\xfffeil C-Gear attivo intorno a te.\xfffeQuando delle persone sono vicine\xfffeè più facile ricevere segnali\xfffeper il Tag Log oppure il Radar.
 Esso mostra cosa stanno facendo\xfffele persone intorno a te in tempo\xfffereale. Scegliendone una tu puoi\xfffeavere maggiorni informazioni su\xfffedi loro e inviargli dei messaggi.
-また　フェスミッションが\xfffeかいさい　されているときは\xfffeＦＥＳ　ＭＩＳＳＩＯＮ！　の　もじが\xfffeみぎから　ひだりへ　ながれます。\xfffeフェスミッションは\xfffeすれちがいログから　さんかできます。
+Durante le Fes Misson le lettere\xfffesi muoveranno da sinistra\xfffea destra.\xfffePuoi partecipare alle Fes Misson\xfffecon il Street Pass.
 Puoi fare interviste alle\xfffepersone intorno a te.\xfffe\xfffeScegli di chi vuoi avere più\xfffeinformazioni, puoi vedere\xfffei risultati di oggi oppure\xfffei risultati generali.\xfffe
-すれちがいちょうさたい　で\xfffeうけた　ちょうさが　かんりょうすると\xfffeボタンが　てんめつ　します。\xfffeヒウンの　ちょうさたい　たいちょうに\xfffeほうこく　しましょう。
+La luce lampeggerà quando\xfffeil controllo dello Street Pass\xfffesarà completato.\xfffeSegnalalo al direttore\xfffedel gruppo di ricerca\xfffedi Austropoli.
 Tocca l'icona della\xfffepersonalizzazione e questa dovrà\xfffeiniziare a lampeggiare.\xfffePremi altri pulsanti quando\xfffelampeggiano e essi cambieranno.\xfffe\xfffePuoi anche fare disegni con dei\xfffepulsanti di colori diversi.
 Premi questo pulsante per\xfffespegnere o accendere la\xfffecomunicazione.\xfffe\xfffeDopo che l'hai spenta\xfffeil touch screen si scurirà\xfffee il Wi-Fi sarà spento.
-のこされた　でんりょくが\xfffeすくない　じょうたいで\xfffeＤＳの　ふたが　とじられていると\xfffeＣギアの　でんげんが\xfffeじどうてきに　オフになります。
+Se il DS è quasi scarico\xfffeil C-Gear sarà spento\xfffeautomaticamente ogni volta che\xfffelo schermo del DS verrà chiuso.\xfffeÈ utile per risparmiare energia.
 Prossimo
 Esci
 Precedente
