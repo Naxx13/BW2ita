@@ -1,10 +1,10 @@
 -----
-이상해씨
-이상해풀
-이상해꽃
-파이리
-리자드
-리자몽
+BULBASAUR
+IVYSAUR
+VENUSAUR
+CHARMANDER
+CHARMELEON
+CHARIZARD
 꼬부기
 어니부기
 거북왕
