@@ -43,7 +43,7 @@ Bevi
 Chiudi
 Cosa fai con \xf000ĉ\x0001\x0000?
 Non puoi scrivere una\xfffemail qui！
-Non ci sono pokèmon!
+Non ci sono Pokémon!
 Sposta \xf000ĉ\x0001\x0000.
 Non puoi dare\xfffe\xf000ĉ\x0001\x0000!
 Non puoi dare\xfffe\xf000ĉ\x0001\x0000 qui!
@@ -54,23 +54,23 @@ Questo è un oggetto importante,\xfffenon puoi gettarlo！
 Quanti \xf000ĉ\x0001\x0000\xfffevuoi buttare?
 Hai buttato \xf000ĉ\x0001\x0000を \xf000Ȃ\x0001\x0001
 Vuoi buttare \xfffe\xf000ĉ\x0001\x0000 \xf000Ȃ\x0001\x0001?
-Le parole della prof.ssa Aralia eccheggiano... \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000C'è un tempo e un luogo per\xfffeogni cosa, ma non ora!
+Le parole della prof.ssa Aralia echeggiano... \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000C'è un tempo e un luogo per\xfffeogni cosa, ma non ora!
 Non puoi scendere dalla bici ora!
-Le parole della prof.ssa Aralia eccheggiano... \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000Non è nè il momento\xfffenè il luogo per usarlo!
+Le parole della prof.ssa Aralia echeggiano... \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000Non è nè il momento\xfffenè il luogo per usarlo!
 I tuoi soldi:　\xf000Ȅ\x0001\x0000
 Hai estratto una MT!
 Hai estratto una MN!
 Contiene \xf000ć\x0001\x0000.\xf000븁\x0000Vuoi insegnare \xf000ć\x0001\x0000\xfffead un Pokémon?
 \xf000Ā\x0001\x0000 ha usato \xfffe\xf000ĉ\x0001\x0001!
 E' ancora attivo l'ultimo repellente,\xfffenon puoi usarne un altro!
-\xf000Ā\x0001\x0000 ha usato\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000I pokèmon selvatici sono stati attirati!
-\xf000Ā\x0001\x0000 ha usato\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000I pokèmon selvatici sono stati respinti!
+\xf000Ā\x0001\x0000 ha usato\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000I Pokémon selvatici sono stati attirati!
+\xf000Ā\x0001\x0000 ha usato\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000I Pokémon selvatici sono stati respinti!
 Il box è pieno!
 Polveri:　\xf000ȃ\x0001\x0000
 \xf000봂\x0000Ｎｏ．\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Ｎｏ\xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
 \xf000봂\x0000ひでん\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
-Polvere di baccha
+Polvere di bacca
 Hai suonato il pokeflauto!\xfffeWow! Che bel suono!
 Hai suonato il pokefaluto!
 Il pokèmon ha sentito il suono del\xfffeflauto e si è svegliato.
@@ -103,12 +103,12 @@ Salva punti battaglia:\xfffe\xf000ȃ\x0001\x0000 BP
 Tipo
 Un oggetto nella borsa è stato assegnato\xfffeper questo tasto per un uso istantaneo.
 Puoi registrare più di due oggetti\xfffeper tasto!
-Accendi per utillizzare\xfffesuoni GB!
+Accendi per utilizzare\xfffesuoni GB!
 Spegni per utilizzare\xfffesuoni GB!
 Non puoi usare \xf000ĉ\x0001\x0000.
-Hai sbirciato nelle borsa dei tesori!
+Hai sbirciato nella borsa dei tesori!
 Hai tirato fuori \xf000ĉ\x0001\x0000!
-Hai riposto \xf000ĉ\x0001\x0000\xfffe Nello \xf000ĉ\x0001\x0001.
+Hai riposto \xf000ĉ\x0001\x0000\xfffe nello \xf000ĉ\x0001\x0001.
 Puoi tirare fuori ogni cosa!
 Non c'era niente all'interno...
 Tuttavia, non puoi\xfffetirarlo fuori...
@@ -120,7 +120,7 @@ Per favore prendi della polvere di bacche\xfffeper cuocerli!
 Possono essere usati quando ne hai qualcuno\xfffecon te!
 Non puoi fare questo ora!
 Tasca Strumenti\xfffePer strumenti da usare durante la tua\xfffeavventura.
-Tasca Rimedi\xfffePer strumenti usati per ricaricare PS e PP\xfffedei tuoi pokèmon.
+Tasca Rimedi\xfffePer strumenti usati per ricaricare PS e PP\xfffedei tuoi Pokémon.
 Tasca Poké Ball\xfffePer i vari tipi di poke ball.
 Tasca MT e MN\xfffePer le varie MT e MN.
 Tasca Bacche\xfffePer conservare i vari tipi di\xfffebacche.
