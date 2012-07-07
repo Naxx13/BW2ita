@@ -1,8 +1,8 @@
-Ciao! Io sono un umile cameriera! \xf000 븁 \x0000 \xfffeIl mio maestro ha un cuore grande da soddisfare e una\xfffegrande pancia. E 'un buongustaio! \xf000 븁 \x0000 \xfffe Così sto cercando ingredienti\xfffeper far saltare il suo cuore di gioia! \xf000 븁 \x0000
+Ciao! Io sono una umile cameriera! \xf000 븁 \x0000 \xfffeIl mio maestro ha un cuore grande da soddisfare e una\xfffegrande pancia. E' un buongustaio! \xf000 븁 \x0000 \xfffe Così sto cercando ingredienti\xfffeper far saltare il suo cuore di gioia! \xf000 븁 \x0000
 Sniff, sniff...Sniff, sniff... \xf000 븁 \x0000 \xfffeOh, che aroma! L'odore è così delizioso! \xf000 븁 \x0000 \xfffehai un ingrediente così meraviglioso\xfffenella tua borsa? \xf000 븀 \x0000 \xfffePotresti considerare di vendermelo? \xf000 븁 \x0000
 Oh, l'odore è così buono! \xf000 븁 \x0000 \xfffeQuello \xf000ĉ \x0001 \x0000tuo è un ingrediente molto\xffferaro davvero! \xf000 븁 \x0000 \xfffeVuoi prenderlo $ \xf000ȇ \x0001 \x0001 per questo?
 Torna indietro \xf000ĉ \x0001 \x0000 e \xfffe riceverai $ \xf000ȇ \x0001 \x0001!
-Mercì! Grazie! \xf000 븁 \x0000 \xfffeCon questo, posso creare un menu eccellente. \xfffeIl mio maestro sarà sorpreso!
+Grazie! \xf000 븁 \x0000 \xfffeCon questo, posso creare un menu eccellente. \xfffeIl mio maestro sarà sorpreso!
 Hmmm... Questo non è esattamente quello che sto\xfffecercando.\xf000븁\x0000\xfffeNon credo che il mio maestro sarà soddisfatto\xfffecon tale odore...
 Aww... Beh, questo è OK.\xf000븁\x0000\xfffetu puoi cercarmi un ingrediente così delizioso? ,\xfffeper favore fammelo sapere!
 Sniff, sniff... Sniff, sniff...\xf000븁\x0000\xfffeBeh, io non sento nessun odore interessante\xfffenella tua borsa.\xf000븁\x0000\xfffeMa se trovi un ingrediente così delizioso,\xfffeper favore fammelo sapere!
@@ -14,13 +14,13 @@ L'affare è fatto!\xfffeHo segnato un minerale che adoro
 Huh? Cosa diavolo è questo?\xf000븁\x0000\xfffeTu non puoi scuotere la mia anima\xfffecon un minerale così scadente!
 Hmmm. Il mio cuore non cambierà.\xfffeSpero che me lo venderai un giorno.
 Tu non hai un minerale che adoro\xfffee che scuote il mio cuore?\xf000븁\x0000\xfffeHmmmm. Non sembri averlo.\xfffeTorna indietro di nuovo.
-Come puoi vedere,\xfffeio sono un migliardario ultraricco!\xf000븁\x0000\xfffee come vedi,\xfffeil mio hobby e quello di collezionare oggetti rari!\xf000븁\x0000\xfffeIn realtà, questo vestito è ultra costoso\xfffee raro.\xf000븀\x0000\xfffeRiesci a vederlo? Puoi?\xf000븁\x0000
+Come puoi vedere,\xfffeio sono un miliardario ultraricco!\xf000븁\x0000\xfffee come vedi,\xfffeil mio hobby e quello di collezionare oggetti rari!\xf000븁\x0000\xfffeIn realtà, questo vestito è ultra costoso\xfffee raro.\xf000븀\x0000\xfffeRiesci a vederlo? Puoi?\xf000븁\x0000
 C'è qualcosa in cui questo miliardario \xfffevuole mettere le mani, anche se questo\xf000븀\x0000\xfffesignifichi spendere un sacco di soldi.\xf000븁\x0000\xfffeHai un oggetto raro ?\xfffenon è vero?\xf000븁\x0000
 QUello \xf000ĉ\x0001\x0000!! Lo vuoi vendere a me \xfffeper $\xf000ȇ\x0001\x0001? Lo vuoi?
 Torna indietro \xf000ĉ\x0001\x0000\xfffee riceverai $\xf000ȇ\x0001\x0001!
 Io ho un oggetto molto buono!\xfffeNon credi che sia grande? Non credi?
 Questo è leggermente diverso.\xfffeNon la pensi così anche tu?vero?
-Se cambi idea,\xfffemi vendi il l'oggetto raro ?tu vuoi?
+Se cambi idea,\xfffemi vendi l'oggetto raro? Tu vuoi?
 In realtà è...\xfffeE'un tesoro raro, Reliqua Corona!\xf000븁\x0000\xfffeMi è stato detto che era nella parte più interna\xfffedelle Rovine Abissali!\xf000븁\x0000\xfffeCredo che sia comprensibile che si\xfffedesideri farne tesoro, ma tu vuoi vendermelo\xf000븀\x0000\xfffeper $\xf000ȇ\x0001\x0001? Vuoi?
 C'è qualcosa in cui questo miliardario\xfffevuole mettere le mani, anche se questo\xf000븀\x0000\xfffesignifichi spendere un sacco di soldi.\xf000븁\x0000\xfffeHai un oggetto raro ?\xfffenon è vero?\xf000븁\x0000\xfffeGrrr! Tu non hai un oggetto raro,\xfffenon è vero?
 Hey controlla fuori. io ho un affare molto piacevole\xfffeper te!\xf000븁\x0000\xfffeTu sai come ai Pokémon piace nascondersi dietro\xfffepietre o rocce, vero?\xf000븁\x0000\xfffeA volte si nascondono cose interessanti, anche.\xf000븁\x0000\xfffese trovi qualcosa di interessante dietro una roccia,\xfffedovresti portarla a me.\xf000븁\x0000\xfffeCe la farò ne vale la pena.\xf000븁\x0000
