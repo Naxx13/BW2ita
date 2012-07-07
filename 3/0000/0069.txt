@@ -1,22 +1,22 @@
-イッシュちほうで　もらえる\xfffeかずかずの　ジムバッジ！\xf000븀\x0000\xfffeせつめいを　ききたいかい？
-ほいほい\xfffeしりたくなったら　またきなさい
-ベーシックバッジを　もっていると\xfffeレベル２０までの　ポケモンが\xf000븀\x0000\xfffeすなおに　めいれいを　きいてくれるよ\xf000븁\x0000
-トキシックバッジを　もっていると\xfffeレベル３０までの　ポケモンが\xf000븀\x0000\xfffeすなおに　めいれいを　きいてくれるよ\xf000븁\x0000
-ビートルバッジを　もっていると\xfffeレベル４０までの　ポケモンが\xf000븀\x0000\xfffeすなおに　めいれいを　きいてくれるよ\xf000븁\x0000
-ボルトバッジを　もっていると\xfffeレベル５０までの　ポケモンが\xf000븀\x0000\xfffeすなおに　めいれいを　きいてくれるよ\xf000븁\x0000
-クエイクバッジを　もっていると\xfffeレベル６０までの　ポケモンが\xf000븀\x0000\xfffeすなおに　めいれいを　きいてくれるよ\xf000븁\x0000
-ジェットバッジを　もっていると\xfffeレベル７０までの　ポケモンが\xf000븀\x0000\xfffeすなおに　めいれいを　きいてくれるよ\xf000븁\x0000
-レジェンドバッジを　もっていると\xfffeレベル８０までの　ポケモンが\xf000븀\x0000\xfffeすなおに　めいれいを　きいてくれるよ\xf000븁\x0000
-ウェーブバッジを　もっていると\xfffeすべての　ポケモンが\xf000븀\x0000\xfffeすなおに　めいれいを　きいてくれるよ\xf000븁\x0000
-どの　バッジの\xfffeせつめいを　ききたい？
-ベーシックバッジ
-トキシックバッジ
-ビートルバッジ
-ボルトバッジ
-クエイクバッジ
-ジェットバッジ
-レジェンドバッジ
-ウェーブバッジ
-やめる
-ビルから　まちを……\xfffeみおろすと　ふるえるよ……\xf000븁\x0000\xfffeだって　わがはい\xfffeたかいところ　こわいもん……
-グォフッ　グォフッ！
+Le medaglie della regione di Unima!\xfffeVuoi informazioni?
+Okey, se vuoi sapere \xfffeinformazioni, perfavore torna indietro
+Con la Medaglia Base, fino al livello 20 \xfffei Pokèmon obbediranno senza problemi.\xf000븀\x0000
+Con la Medaglia Tossica, fino al livello 30 \xfffei Pokèmon obbediranno senza problemi.\xf000븀\x0000
+Con la Medaglia Insetto fino al livello 40 \xfffei Pokèmon obbediranno senza problemi.\xf000븀\x0000
+Con la Medaglia Bolt, fino al livello 50 \xfffei Pokèmon obbediranno senza problemi.\xf000븀\x0000
+Con la Medaglia Quake, fino al livello 60 \xfffei Pokèmon obbediranno senza problemi.\xf000븀\x0000
+Con la Medaglia Jet, fino al livello 70 \xfffei Pokèmon obbediranno senza problemi.\xf000븀\x0000
+Con la Medaglia Leggenda, fino al livello 80 \xfffei Pokèmon obbediranno senza problemi.\xf000븀\x0000
+Con la Medaglia Onda, i Pokèmon di tutti i livelli \xfffeobbediranno senza problemi.\xf000븀\x0000
+Su Quale medaglia \xfffevuoi delle informazioni?	
+Medaglia Base
+Medaglia Tossica	
+Medaglia Insetto
+Medaglia Bolt
+Medaglia Quake
+Medaglia Jet
+Medaglia Legenda
+Medaglia Onda
+Indietro
+Quando gurdo giù \xfffedall' edificio, tremo...\xf000븁\x0000\xfffenon mi piace \xfffestare così in alto...
+Groaf groaf ！
