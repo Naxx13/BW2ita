@@ -8,19 +8,19 @@ BATTAGLIA DOPPIA
 BATTAGLIA TRIPLA
 Crea una connessione a infrarossi\xfffecon il tuo avversario.
 Crea una connessione a infrarossi\xfffecon il tuo partner.
-リーダーに　なりました！
+È diventato il leader！
 Crea una connessione a infrarossi\xfffecon il leader dei tuoi avversari.
 Attendi un momento per favore.
 CODICE AMICO
 CONTROLLA\xfffeAMICIZIA
 Vuoi uscire?
 Crea una connessione a infrarossi\xfffecon il tuo compagno di scambio.
-ポケモンこうかん
-てもち
-こうかんしますか？
-Ｌｖ．\xf000Ȃ\x0001\x0000
-しゅうりょうしますか？
-こうかんしました
+Pokèmon sostitutivo
+A disposizione
+Vuoi scambiare?
+Lv．\xf000Ȃ\x0001\x0000
+Sei sicuro di voler uscire?
+È stato sostituito
 Attendi un momento perfavore.
 Tu e i tuoi compagni non avete selezionato la\xfffestessa cosa. Ritorno al menu precedente.
 Vuoi salvare il gioco?
