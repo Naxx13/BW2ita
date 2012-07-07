@@ -9,14 +9,14 @@
 ミジュマルね！\xfffeじゃあ　これを　あげる！\xf000븁\x0000\xfffeポケモンに　もたせると　みずタイプの\xfffeわざの　いりょくが　あがるんだ！\xf000븁\x0000
 ポカブね！\xfffeじゃあ　これを　あげる！\xf000븁\x0000\xfffeポケモンに　もたせると　ほのおタイプの\xfffeわざの　いりょくが　あがるんだ！\xf000븁\x0000
 ポケモンに　もたせることで\xfffeこうかを　はっきする　どうぐって\xf000븀\x0000\xfffeたっくさん　あるから　さがしてみて！\xf000븁\x0000\xfffeじゃあ　がんばって　ポケモンずかんの\xfffeページを　うめていってね！
-ツタージャ
-ミジュマル
-ポカブ
-やめる
-ツタージャなの？
-ミジュマルなの？
-ポカブなの？
-じゃあ　さいしょに　えらんだ\xfffeポケモンは　なーにー？
+Snivy
+Oshawott
+Tepig
+Indietro
+Vuoi Snivy？
+Vuoi Oshawott？
+Vuoi Tepig？
+Allora, quale Pokémon hai scelto\xfffeper iniziare l'avventura？
 おしえてくれる　きになったら\xfffeまた　はなしかけてね！
 レッツ　トライ　ヒウンラリー！\xfffeバトルカンパニー　オーケー！！
 バトルカンパニーは　ポケモンと\xfffeトレーナーのための　どうぐを\xf000븀\x0000\xfffeいろいろ　かいはつ　してるー！
