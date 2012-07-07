@@ -55,7 +55,7 @@ Tridente
 Bacchetta Magica
 Naso Rosso
 Cappello da Giullare
-Googly Specs
+Stralunocchiali
 Corona
 Cravatta Nera
 Mantello Nero
@@ -73,13 +73,13 @@ Rosa
 Monocolo
 Cravatta
 Parrucca
-Bow Tie
+Papillon
 Tiara
 Rosa
 Monocolo
 Cravatta
 Parrucca
-Standing Mike
+Microfonfisso
 Tamburo
 Fedora
 Microfono
