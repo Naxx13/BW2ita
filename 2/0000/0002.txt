@@ -101,8 +101,8 @@ PP ripristinati.　
 \xf000Ă\x0001\x0000 \xfffenon è più confuso.
 \xf000Ă\x0001\x0000 \xfffenon è più infatuato.
 \xf000Ă\x0001\x0000 \xfffesi è svegliato.
-\xf000Ă\x0001\x0000 hè già stato\xfffeselezionato.
+\xf000Ă\x0001\x0000 è già stato\xfffeselezionato.
 Ripristina quale mossa?
-L'effeto di \xf000ć\x0001\x0001 impedisce\xfffel'uso dell'oggetto su \xf000Ă\x0001\x0000!
+L'effetto di \xf000ć\x0001\x0001 impedisce\xfffel'uso dell'oggetto su \xf000Ă\x0001\x0000!
 \xf000Ă\x0001\x0000 non può essere\xfffesostituito!
 \xf000Ă\x0001\x0000 è già stato\xfffesostituito.
