@@ -1,12 +1,12 @@
-Medal given to new trainers\xfffewhen they begin their adventure\xfffeto start them off.
-Medal given to show you've\xfffeparticipated in the Medal Rally\xfffeand got completed it.
-Medal to show you've\xfffereached Rookie rank without quitting.
-Medal to show you've\xfffereached Elite rank without quitting.
-Medal to show you've\xfffereached Master rank without quitting.
-Medal to show you've\xfffereached Legend rank without quitting.
-Medal to show you've\xfffesurpassed all other challenges\xfffeand collected all other Medals.
-Medal to show you've\xfffetaken at least 5000 steps in the\xfffeUnova Region.
-Medal to show you've\xfffetaken at least 10000 steps in the\xfffeUnova Region.
+Medaglia data ai nuovi allenatori\xfffequando cominciano la loro avventura\xfffeper partire in bellezza.
+Medaglia data per dimostrare\xfffedi aver partecipato al Rally Medal\xfffee averlo completato.
+Medaglia data per dimostrare di\xfffeaver raggiunto il rango Rookie senza uscire.
+Medaglia data per dimostrare di\xfffeaver raggiunto il rango Elite senza uscire.
+Medaglia data per dimostrare di\xfffeaver raggiunto il rango Master senza uscire.
+Medaglia data per dimostrare di\xfffeaver raggiunto il rango Legend senza uscire.
+Medaglia data per dimostrare di\xfffeaver superato tutte le altre sfide\xfffee avere tutte le altre medaglie.
+Medaglia data per dimostrare di\xfffeaver fatto almeno 5000 passi nella\xffferegione di Unima.
+Medaglia data per dimostrare di\xfffeaver fatto almeno 10000 passi nella\xffferegione di Unima.
 Medal to show you've\xfffetaken at least 20000 steps in the\xfffeUnova Region.
 Medal to show you've\xfffetaken at least 100000 steps in the\xfffeUnova Region.
 Medal to show you've\xfffesaved the game at least 10 times.
