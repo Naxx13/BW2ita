@@ -22,7 +22,7 @@ Si prega di visitare un centro Pokémon quando i vostri\xfffeHP del Pokémon van
 Lì! Tutti felici e sani!\xf000븁\x0000\xfffeBuona fortuna e prenditi cura!
 Comunicazioni wireless sono SPENTE.\xfffeACCENDERE comunicazioni wireless\xf000븀\x0000\xfffenelle impostazioni di sistema.\xf000븀\x0000\xfffeErrore codice: 50699\xf000븁\x0000
 ほんたいの むせんつうしんが\xfffeオフに なっています\xf000븁\x0000\xfffeほんたいせっていで むせんつうしんを\xfffeオンに してください (50699)
-Parole di Juniper in eco...\xfffe\xf000Ā\x0001\x0000! C'è un tempo e luogo\xf000븀\x0000\xfffeper tutto! Ma non ora.
+Parole di Aralia in eco...\xfffe\xf000Ā\x0001\x0000! C'è un tempo e luogo\xf000븀\x0000\xfffeper tutto! Ma non ora.
 Non è possibile smontare la bici qui.
 Non vi è alcun Pokémon\xfffecon un Nastro nella vostra squadra.
-Non può essere utilizzato quando c'è qualcuno\xfffecon voi!
+Non può essere utilizzato quando c'è qualcuno\xfffecon te!
