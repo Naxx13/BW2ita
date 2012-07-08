@@ -1,8 +1,8 @@
 \xf000봂\x0000Random Matchup Free Mode
 \xf000봂\x0000Random Matchup Rating Mode
-\xf000봂\x0000SINGLE BATTLE
-\xf000봂\x0000DOUBLE BATTLE
-\xf000봂\x0000TRIPLE BATTLE
+\xf000봂\x0000BATTAGLIA SINGOLA
+\xf000봂\x0000BATTAGLIA DOPPIA
+\xf000봂\x0000BATTAGLIA TRIPLA
 \xf000봂\x0000ROTATION BATTLE
 \xf000봂\x0000LAUNCHER BATTLE
 \xf000봂\x0000\xf000Ā\x0001\x0000's Record
@@ -15,9 +15,9 @@
 \xf000봃\x0001\x0000No. of Losses:
 \xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
 \xf000봃\x0001\x0000\xf000ȁ\x0001\x0001 \xf000ȁ\x0001\x0002, \xf000ȃ\x0001\x0000 - \xf000ȁ\x0001\x0004 \xf000ȁ\x0001\x0005, \xf000ȃ\x0001\x0003
-Registered Pokémon
-Registered Pokémon
-Registered Pokémon
+Pokémon Registrati
+Pokémon Registrati
+Pokémon Registrati
 LOCATION
 GREET
 \xf000Ĥ\x0001\x0000
@@ -27,30 +27,30 @@ Which mode will you challenge?
 Random Matchup Free mode\xfffewill be launched.\xf000븁\x0000
 Free
 Rating
-Quit
+Lascia
 Will you quit Random Matchup?
-Yes
+Si
 No
-Searching for your opponent...
-An opponent has been found!
+Ricerca di un avversario...
+Un avversario è stato trovato!
 Quit searching for\xfffesomeone to battle?
-Please choose your Pokémon.
+Scegli il tuo Pokémon.
 Sending data...\xfffeDon't turn off the power.
 Do you want to continue battling?
 Will you quit Random Matchup?
 Saving...\xfffeDon't turn off the power.
 Random Matchup Rating mode\xfffewill be launched.\xf000븁\x0000
-Waiting for the server...\xfffeDon't turn off the power.
+In attesa del server...\xfffeNon spegnere la console.
 Awaiting communication...\xfffePlease stand by.
 
 
 
-Join
+Partecipa
 Info
-Cancel
+Cancella
 
 
-Yes
+Si
 No
 Searching for competition data...
 Game Sync ID has not been\xffferegistered at the Pokémon Global Link.\xf000븁\x0000\xfffePlease complete the Game Sync settings\xfffeand access the Pokémon Global Link\xf000븁\x0000\xfffewebpage to register.\xfffehttp://www.pokemon-gl.com\xf000븁\x0000
@@ -64,7 +64,7 @@ You cannot participate\xfffewithout updating your Digital Player ID.\xf000븁\x0
 
 Unable to update your Digital Player ID.
 Your Battle Box will be registered\xfffefor the tournament.\xf000븁\x0000\xfffeCaution!\xfffeOnce registered,\xf000븀\x0000\xfffeyou will not be able to\xf000븀\x0000\xfffemove your Pokémon to or from\xf000븀\x0000\xfffeyour Battle Box.\xf000븁\x0000\xfffeWill you still register the Pokémon\xfffein your Battle Box?
-Yes
+Si
 No
 Quit registration?
 Quit the competition registration?
@@ -73,19 +73,19 @@ There was a problem with\xfffeyour Pokémon,\xf000븀\x0000\xfffeand they could 
 Competition registration\xfffeis complete!\xf000븁\x0000
 The conditions for the tournament\xfffehave not been met.\xf000븁\x0000\xfffePlease place your Pokémon\xfffein the Battle Box.\xf000븁\x0000
 Pokémon Competition over Nintendo WFC!\xfffeWhat would you like to do?
-Battle
-Cancel participation
-Cancel
-Quit the competition?
+Battaglia
+Cancella partecipazione
+Cancella
+Lasci la competizione?
 
 The competition time has run out.\xfffeThe competition has ended.\xf000븁\x0000
 Your Battle Box has been\xfffeunregistered.\xf000븁\x0000
 Currently, you have registered no\xfffecompetitions.\xf000븁\x0000
 Once unregistered, you will not be able to\xfffeparticipate in the same tournament.\xf000븁\x0000\xfffeIs it OK to unregister?
 You will be unregistered.\xfffeAre you sure about this?
-Searching for your opponent...
+Ricerca dell'avversario...
 
-Your opponent has been found!
+Avversario trovato!
 The battle results were\xfffesent to the server.\xf000븁\x0000\xfffeIt'll take a little time\xfffeto calculate your Rating.\xf000븁\x0000\xfffeOnce the calculation is done,\xfffeyour Rating will be updated.\xf000븁\x0000
 
 Receiving data...\xfffeDon't turn off the power.
