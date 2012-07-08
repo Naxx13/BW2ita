@@ -14,3 +14,4 @@ Salvataggio del video della battaglia...\xfffeNon rimuovere l'alimentazione.
 \xf000Ā\x0001\x0000's la battaglia e stata salvata come\xfffeBattaglia video.
 Volete salvare l'ultima battaglia come\xfffeBattaglia video?
 Comunicazione. Prego attendi...
+test
