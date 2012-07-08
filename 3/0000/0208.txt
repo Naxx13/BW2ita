@@ -1,21 +1,21 @@
 Test Message
 $\xf000ȅ\x0001\x0002
 Vuoi salvare il gioco?
-Esiste già un file salvato.\xfffeVuoi sovrascriverlo?
-Salvataggio...\xfffeNon spegnere l'alimentazione.
-\xf000Ā\x0001\x0000 gioco è stato salvato.
+Esiste già un salvataggio.\xfffeVuoi sovrascriverlo?
+Salvataggio...\xfffeNon spegnere la consolle.
+\xf000Ā\x0001\x0000 ha salvato il gioco.
 ちゅうい!!\xf000븁\x0000: つづきから はじめる』で\xfffeぼうけん していた\xf000븀\x0000レポ-トが かかれています!\xf000븁\x0000そちらで プレイしていた ぼうけんや\xfffeすべての ポケモン どうぐ などが\xf000븀\x0000きえてしまいます...\xf000븁\x0000ほんとうに\xfffeうえから かいても いいですか?
 Errore salvataggio.\xf000븁\x0000
 Esiste già un file di gioco salvato.\xfffeÈ Impossibile salvare.\xf000븁\x0000\xfffeFare riferimento alle istruzioni\xfffeOpuscolo per i dettagli.\xf000븁\x0000\xfffePremere i tasti SU + SELECT + B\xfffela schermata del titolo se si desidera cancellare\xf000븀\x0000\xfffeil file di gioco salvato corrente.
 Esiste già un file di gioco salvato.\xfffeÈ Impossibile salvare.\xf000븁\x0000\xfffeFare riferimento alle istruzioni\xfffeOpuscolo per i dettagli.\xf000븁\x0000\xfffePremere i tasti SU + SELECT + B\xfffela schermata del titolo se si desidera cancellare\xf000븀\x0000\xfffeil file di gioco salvato corrente.\xf000븁\x0000
-Salvataggio di molti dati...\xfffeNon spegnere l'alimentazione.
-Salvataggio...\xfffeNon spegnere l'alimentazione.
-Salvataggio...\xfffeNon spegnere l'alimentazione.
-Salvataggio...\xfffeNon spegnere l'alimentazione.
+Salvataggio di molti dati...\xfffeNon spegnere la consolle.
+Salvataggio...\xfffeNon spegnere la consolle.
+Salvataggio...\xfffeNon spegnere la consolle.
+Salvataggio...\xfffeNon spegnere la consolle.
 しんにゅう しているときや\xfffeしんにゅう されているときは\xf000븀\x0000\xfffeレポ-トが かけません!
 だれかと せつぞくちゅうの ようですが\xfffeせつだんして よろしいですか?
 Comunicazione di fine.\xfffeAttendere prego.
-Mamma: \xf000Ā\x0001\x0000!\xfffeBenvenuto a casa.\xf000븁\x0000Le cose sono state cercate male...\xfffeCome circa un riposo mentre...?\xf000븁\x0000... ... ...\xfffe... ... ...
+Mamma: \xf000Ā\x0001\x0000!\xfffeBenvenuto a casa.\xf000븁\x0000Mi pari un po' stanco...\xfffeVuoi riposarti qui...?\xf000븁\x0000... ... ...\xfffe... ... ...
 Mamma: Oho!\xf000븁\x0000Guarda come voi e i vostri Pokémon\xfffesi sente grande!\xf000븁\x0000\xfffeDiritto! Ho sentito questo\xfffedal professore prima...\xf000븁\x0000\xfffeOgni volta che il vostro Pokémon è\xfffefuori della salute... i suoi, HP...\xf000븁\x0000Essere sicuri di ottenere la guarigione\xfffepresso un centro Pokémon, va bene?\xf000븁\x0000\xfffeQuando sei fuori in avventura lontano,\xfffeAiuta ad elementi essenziali per Acquistare\xf000븀\x0000Dal negozio sono pozioni.\xf000븁\x0000\xfffeBeh, sono tornati!\xf000븁\x0000\xfffeFai attenzione!\xfffeE sii sulla strada giusta!
 In primo luogo, diciamo ripristinare il tuo Pokémon\xfffein piena salute.
 Si prega di visitare un centro Pokémon quando i vostri\xfffeHP del Pokémon vanno giù.\xf000븁\x0000\xfffeSe avete intenzione di viaggiare in qualsiasi\xfffedistanza, devi fare scorta di pozioni\xf000븀\x0000\xfffeal Pokémarket\xf000븁\x0000\xfffeBuona fortuna, Allenatore!
