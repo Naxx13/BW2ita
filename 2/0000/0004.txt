@@ -1,3 +1,3 @@
 Cancellare tutti i dati salvati?
-Una volta che i dati salvati vengono cancellati,\xfffenon possono più essere recuperati.\xf000븁\x0000\xfffeVuoi veramente cancellare\xfffetutti i dati salvati?
+Quando i dati salvati verranno\xfffecancellati non potranno più\xfffeessere recuperati.\xf000?\x0000\xfffeVuoi veramente cancellare\xfffetutti i dati salvati?
 Cancellazione dei dati...\xfffeNon spegnere la console.
