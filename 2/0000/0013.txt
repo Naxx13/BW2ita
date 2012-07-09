@@ -37,8 +37,8 @@ SCENA 1
 SCENA 2
 SCENA 3
 MISC.
-だいすき１
-だいすき２
+PREFERITO 1
+PREFERITO 2
 FORESTA
 CITTA'
 DESERTO
@@ -71,7 +71,7 @@ PARTY ⒆⒇
 LISTA BOX
 BOX LOTTA
 CAMBIARE BOX
-もちものせいり
+SPOSTAMENTO DI ELEMENTI
 SUMMARIO
 STRUMENTI
 SEGNO
@@ -88,8 +88,8 @@ SOSTITUISCI
 ANNULLA
 ANNULLA
 Metti il Pokémon\xfffenel box?
-かべがみを\xfffeはりかえる
-ポケモンを\xfffeあずける
+Cambia\xfffeSfondo
+Deposita\xfffePokèmon
 Borsa
 Dai
 Sposta
@@ -98,9 +98,9 @@ Sposta
 \xf000Ć\x0001\x0000
 \xf000Ĉ\x0001\x0000
 \xf000ĉ\x0001\x0000
-せいかく
-とくせい
-もちもの
+NATURA
+AABILITA
+OGGETTI
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
 Nessuno
@@ -110,8 +110,8 @@ N°
 Mosse imparate
 Si
 No
-ボックスを　せいりする
-バトルボックス
+Muovi pokemon
+Box lotta
 ポケモンを　しぼりこむ
 じょうけんを　えらび　ＯＮに　すると\xfffeしぼりこみを　おこないます。
 ポケモンの　なまえの\xfffeかしらもじを　えらんでください。
