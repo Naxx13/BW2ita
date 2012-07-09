@@ -20,7 +20,7 @@ The reading of me there's\xfffeNo doubt about it!
 The reading of me there's\xfffeNo doubt about it!\xf000븁\x0000
 ???: Ehi, so che sono bella...\xf000븁\x0000
 Ehi, \xfffeanche tu pensi che sia bella?\xf000븁\x0000
-Oh scusate, stavo...\xfffeComunque, sono Belle!\xf000븁\x0000\xfffeSono l'assistente della Prof.ssa Aralia!\xf000븁\x0000\xfffeStavo cercando qualcuno che\xfffevoleva un Pokemon!\xf000븁\x0000\xfffAspetta! Sei tu \xf000Ā\x0001\x0000?
+Oh scusate, stavo...\xfffeComunque, sono Belle!\xf000븁\x0000\xfffeSono l'assistente della Prof.ssa Aralia!\xf000븁\x0000\xfffeStavo cercando qualcuno che\xfffevoleva un Pokemon!\xf000븁\x0000\xfffeAspetta! Sei tu \xf000Ā\x0001\x0000?
 Cosa?! \xfffeTu sei \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeWow, sei proprio come ti\xfffeavevano descritto!\xf000븁\x0000
 Cosa?! \xfffeTu sei \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeWow, sei proprio come ti\xfffeavevano descritto!\xf000븁\x0000
 \xf000Ā\x0001\x0001? \xfffeLo hai visto prima?\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 è tuo amico?
@@ -60,7 +60,7 @@ Già. Già.\xf000븁\x0000\xfffeLo so, \xfffeviaggiare è davvero bello!\xf000�
 Ehi!\xf000븁\x0000\xfffeEntrambi ora abbiamo un Pokemon!\xfffePerchè non proviamo a lottare?
 Lottiamo!\xfffeVedremo chi deve allenarsi di più.\xf000븁\x0000\xfffeForza, \xf000ā\x0001\x0003!\xf000븁\x0000
 Ho perso!\xfffeDovrò andare ad allenarmi\xfffecon qualche Pokémon selvatico!\xf000븁\x0000\xfffeOh Bene...\xfffeNon è un grand'affare.\xf000븁\x0000\xfffeBeh, andrò prima di te!\xfffeI miei Pokémon saranno molto più forti!\xf000븁\x0000
-\xf000Ā\x0001\x0001Era la nostra prima lotta!\xfffePenso che abbiamo lottato molto bene!\xf000븁\x0000\
+\xf000Ā\x0001\x0001Era la nostra prima lotta!\xfffePenso che abbiamo lottato molto bene!\xf000븁\x0000\x0000
 E' stato difficile!\xf000븁\x0000\xfffeMa, sei ancora debole.\xf000븁\x0000
 I tuoi Pokémon sono distrutti,\xfffeandiamo in un Centro Pokémon.\xf000븁\x0000\xfffeLasciami guidarti!\xf000븁\x0000
 Questo è il Centro Pokémon!\xfffeSembra sempre lo stesso in tutte le città!\xf000븁\x0000
@@ -91,30 +91,30 @@ Dai, chiamiamo\xfffela Prof.ssa Aralia insieme!\xf000븁\x0000
 L'Interpoké sta squillando!
 \xf000Ā\x0001\x0000\xfffeè connesso all'Interpokè.\xf000븁\x0000
 Belle: Ciao　\xf000Ā\x0001\x0000!\xfffeEhi, prof.ssa! Siamo qui!\xf000븁\x0000\xfffeSe parli con la Prof.ssa con\xfffel'Interpoké, lei può valutarti il Pokédex\xf000븀\x0000\xfffee inoltre può anche\xf000븁\x0000\xfffecinsegnarti molto\xfffesull'evoluzione dei Pokémon!\xf000븁\x0000\xfffeBeh, anch'io ho la mia parte!\xf000븁\x0000
-あなたの　ポケモンが\xfffeどれだけ　なついているか\xf000븀\x0000\xfffeあたしが　おしえてあげるね！！\xf000븁\x0000
-チェレン『そうだね\xf000븁\x0000\xfffeぼくは　ポケモンの　とくせいや\xfffeタイプの　あいしょうに　ついて\xf000븀\x0000\xfffeしっていることを　おしえてあげるよ\xf000븁\x0000
-\xf000Ā\x0001\x0001『ジムリーダーだな！\xfffeさっそくだけど　ちょうせん　だぜッ！\xf000븁\x0000
-チェレン『きみも\xfffeてごわそうな　トレーナーだね\xf000븁\x0000\xfffeりょうかい！\xfffeでは　ポケモンジムに　おいで\xf000븁\x0000
-\xf000Ā\x0001\x0001『なんだよ！\xfffeぜったいに　かつからなッ！\xf000븁\x0000
-ベル『ジムリーダーって\xfffeそうぞういじょうに　たいへん　だねえ\xf000븁\x0000
-それじゃあ　つづけて\xfffeＣギアを　つかえるように　するね！\xf000븁\x0000\xfffeＣギアは　せきがいせんや\xfffeむせん　Ｗｉ－Ｆｉなど\xf000븁\x0000\xfffeつうしんに　かんけいする\xfffeデバイス　なんだよ！\xf000븁\x0000
-\xf000Ā\x0001\x0000は\xfffe\xf000\xff00\x0001\x0001Ｃギア\xf000\xff00\x0001\x0000を　てにいれた！
-Ｃギアの　でんげんを　いれて\xfffeつうしんを　はじめますか？
-はい
-いいえ
-Ｃギアの　きのうが\xfffeせいげんされますが　よろしいですか？
+Quanto sei diventato amico\xfffecon i tuoi Pokémon?\xf000븀\x0000\xfffeTe lo dirò io!\xf000븁\x0000
+Komor: Bene.\xf000븁\x0000\xfffeIo invece ti insegnerò\xfffequalità e compatibilità dei\xf000븀\x0000\xfffetipi di tutti i Pokémon!\xf000븁\x0000
+\xf000Ā\x0001\x0001: Sei il capopalestra!\xfffeVoglio sfidarti subito!!\xf000븁\x0000
+Komor: Anche tu\xfffemi sembri un Allenatore molto forte!\xf000븁\x0000\xfffeCapisco!\xfffeAllora, ti aspetto in Palestra.\xf000븁\x0000
+\xf000Ā\x0001\x0001: Perfetto!\xfffeDevo assolutamente vincere!!\xf000븁\x0000
+Belle: Immagino che essere\xfffecapopalestra sia più che difficile, eh?\xf000븁\x0000
+Dunque, continuando,\xfffeeccoti il C-Gear!\xf000븁\x0000\xfffeIl C-Gear è un dispostitivo che\xfffeti connette tramite le connessioni\xf000븁\x0000\xfffeinfrarossi, wireless, oppure Wi-Fi!\xf000븁\x0000
+\xf000Ā\x0001\x0000\xfffeha ricevuto il \xf000\xff00\x0001\x0001C-Gear\xf000\xff00\x0001\x0000!
+Vuoi accendere il C-Gear e iniziare\xfffela comunicazione?
+SI
+NO
+Alcune funzione del C-Gear\xfffesaranno impedite. Va bene?
 ほんたいの　せっていにより\xfffeむせんつうしんが　つかえません\xf000븁\x0000\xfffeむせんつうしんを　つかうには\xfffeほんたいせっていの　むせんつうしんを\xf000븀\x0000\xfffeオンにしてください　（５０６９９）\xf000븁\x0000
-ほら！　Ｃギアが　きどうして\xfffeがめんが　あらわれたでしょ！\xf000븁\x0000\xfffeその　がめんの　みぎしたに　ある\xfffe？マークに　タッチすれば\xf000븀\x0000\xfffeＣギアの　せつめいが　よめるよ\xf000븁\x0000\xfffeで　どうするのお？\xf000븁\x0000\xfffeサンギタウンを　こえたさきの\xfffeタチワキシティなら\xf000븀\x0000\xfffeべつの　ポケモンジムも　あるけど？
-Ｃギアの　でんげんを　いれるなら\xfffeがめん　みぎしたの\xf000븀\x0000\xfffeでんげんマークを　タッチするんだよ！\xf000븁\x0000\xfffeそして　でんげんを　いれたあとは\xfffeがめんの　みぎしたに　ある\xf000븀\x0000\xfffe？マークに　タッチすれば\xf000븀\x0000\xfffeＣギアの　せつめいが　よめるよ！\xf000븁\x0000\xfffeで　どうするのお？\xf000븁\x0000\xfffeサンギタウンを　こえたさきの\xfffeタチワキシティなら\xf000븀\x0000\xfffeべつの　ポケモンジムも　あるけど？
-\xf000Ā\x0001\x0001『おい！\xfffeコイツが　はなしたいってさ\xf000븁\x0000
-\xf000Ā\x0001\x0001のいもうと『……あのね\xfffe\xf000Ā\x0001\x0000さん\xf000븁\x0000\xfffeあたしの　チョロネコ……\xf000븁\x0000\xfffeしんか　しちゃってたけど\xfffeみつけてくれて　ありがとう！\xf000븁\x0000
-\xf000Ā\x0001\x0001『まだ　あるんだろ？\xf000븁\x0000
-\xf000Ā\x0001\x0001のいもうと『……あのね\xfffe\xf000Ā\x0001\x0000さん\xf000븁\x0000\xfffeここんとこね\xfffeポケモンの　ゆめを　みるの\xf000븀\x0000\xfffeゾロアーク　って　ポケモンの……\xf000븁\x0000\xfffeなんか　\xf000Ā\x0001\x0000さんの\xfffeなまえを　よんでいるんだよ\xf000븁\x0000
-\xf000Ā\x0001\x0001『よく　わかんないけど\xfffeはなしを　きくと　どうやら\xf000븁\x0000\xfffeその　ゆめのなかの　ゾロアーク\xfffeチャンピオンロードに　いるらしいんだ\xf000븁\x0000\xfffeいいたいことは　それだけ\xfffeじゃーな\xf000븁\x0000
-あっ　わすれてた\xf000븁\x0000\xfffeチャンピオン　おめでとな！\xf000븁\x0000\xfffeオレの　いったとおりだったな\xfffeオマエには　センスが　あるってッ！\xf000븁\x0000
-パートナーである　ポケモンを\xfffeたたかわせるのが　ポケモントレーナー\xf000븁\x0000\xfffeそのなかでも　とびっきり　つよいのが\xfffeジムリーダー　なんだってね！
-ジムリーダーの　チェレンさんってね\xf000븁\x0000\xfffeすうねんまえ　ポケモンと　ともに\xfffeイッシュちほうを　めぐったそうよ
-トレーナーズスクールに\xfffeはやく　はいりたいなー\xf000븁\x0000\xfffeポケモンのこと\xfffeいろいろ　しりたいんだよねー
+Guarda!　E' apparsa l'icona\xfffedi accensione del C-Gear!\xf000븁\x0000\xfffeAh, vedi quell'icona in basso\xfffea destra? Tocca ? se vuoi ricevere\xf000븀\x0000\xfffepiù informazioni sul C-Gear.\xf000븁\x0000\xfffeDunque, cosa farai?\xf000븁\x0000\xfffeSe vai oltre la Città di Sangi,\xfffec'è Zondopoli.\xf000븀\x0000\xfffeNon c'è un'altra Palestra?
+Se vuoi accendere il C-Gear\xfffedevi toccare l'icona di accensione\xf000븀\x0000\xfffein basso a destra!\xf000븁\x0000\xfffePoi, una volta acceso,\xfffedevi toccare il pulsante ?\xf000븀\x0000\xfffese vuoi ricevere più informazioni\xf000븀\x0000\xfffesul funzionamento del C-Gear!\xf000븁\x0000\xfffeDunque, cosa farai?\xf000븁\x0000\xfffeDopo la Città di Sangi,\xfffec'è Zondopoli.\xf000븀\x0000\xfffeNon c'è un'altra Palestra?
+\xf000Ā\x0001\x0001: Ehi!\xfffeTi vuole parlare mia sorella!\xf000븁\x0000
+Sorella di \xf000Ā\x0001\x0001: ... Dunque,\xfffe\xf000Ā\x0001\x0000,\xf000븁\x0000\xfffeper il mio Purrloin..\xf000븁\x0000\xfffeAnche se si è evoluto, ti\xffferingrazio per averlo trovato!\xf000븁\x0000
+\xf000Ā\x0001\x0001: E...?\xf000븁\x0000
+Sorella di \xf000Ā\x0001\x0001: Ecco...\xfffe\xf000Ā\x0001\x0000,\xf000븁\x0000\xfffeQui...\xfffeHo visto uno Zoroark\xf000븀\x0000\xfffein sogno...\xf000븁\x0000\xfffeChe stava chiamando, mi sembra,\xfffeil nome di　\xf000Ā\x0001\x0000.\xf000븁\x0000
+\xf000Ā\x0001\x0001: Non capisco bene, però\xfffesentendo la storia,\xf000븁\x0000\xfffemi pare che quel Zoroark\xfffesia sulla Via Vittoria.\xf000븁\x0000\xfffeDovresti cercarlo, ecco,\xfffesolo questo!\xf000븁\x0000
+Ah, dimenticavo!\xf000븁\x0000\xfffeComplimenti, nuovo campione!\xf000븁\x0000\xfffeオレの　いったとおりだったな\xfffeオマエには　センスが　あるってッ！\xf000븁\x0000
+Sono gli allenatori che fanno\xfffelottare i propri Pokèmon compagni!\xf000븁\x0000\xfffeTra di essi, il capopalestra\xfffeè quello più forte di tutti!
+Komoer è il capopalestra, vero?\xf000븁\x0000\xfffeSembra che molti anni fa, coi suoi\xfffePokémon abbia girato tutta Unima!
+Voglio entrare presto\xfffealla scuola per allenatori!!\xf000븁\x0000\xfffeVoglio imparare molte cose\xfffesui Pokémon!
 Ora sono esperto dei Pokémon!\xf000븁\x0000\xfffeGrazie agli studi della\xfffevicina Scuola per Allenatori!
 Una vista dall'osservatorio...\xfffePuoi vedere il lago\xf000븀\x0000\xfffedel Percorso 19 di fronte Alisopoli.
 La forza della scienza è incredibile!\xf000븁\x0000\xfffeOra con le telecomunicazioni, \xf000븁\x0000\xfffesi può giocare insieme\xfffea più di 100 persone!\xf000븀\x0000\xfffeAnche tu puoi farlo!
