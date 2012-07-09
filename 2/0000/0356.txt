@@ -1,9 +1,9 @@
-No. of Pokémon
+N° del Pokémon
 Livello Pokémon
 Pokémon speciale
 Stesso Pokémon
 Stessi oggetti
-Lanciatore meraviglia
+Mirabilanciere
 : Niente restrizioni
 : \xf000Ȁ\x0001\x0000
 : \xf000Ȁ\x0001\x0000 o più
@@ -15,7 +15,7 @@ Lanciatore meraviglia
 : Diventa \xf000Ȃ\x0001\x0000-
 : Diventa \xf000Ȃ\x0001\x0000+
 : Permesso
-: Banned
+: Vietato
 : Permesso
 : Vietato
 : Permesso
