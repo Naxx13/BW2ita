@@ -32,7 +32,7 @@ La battaglia sta per cominciare...\xfffeAttendi un momento perfavore.
 BATTAGLIA A ROTAZIONE
 Crea una connessione a infrarossi\xfffecon un amico per scambiarvi il codice amico.
 Il tuo blocco amici è pieno.\xfffenon puoi registrare altri amici.
-\xf000봂\x0000Registered Friends\xfffe\xf000봂\x0000\xf000ȁ\x0001\x0000/32
+\xf000봂\x0000Amici Registrati\xfffe\xf000봂\x0000\xf000ȁ\x0001\x0000/32
 CONFERMA
 E il numero dei membri?
 Crea una connessione a infrarossi\xfffecon tutti i partecipanti.
