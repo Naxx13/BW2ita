@@ -15,7 +15,7 @@ Presto, \xfffetroveremo Belle.
 Possiamo andare dopo al Centro Pokémon.
 Alla Scuola per Allenatori, \xfffequalcuno ha detto che \xf000븁\x0000\xfffebisogna sconfiggere gli altri allena-\xfffetori prima del capopalestra, \xf000븀\x0000\xfffeche è un allenatore molto forte!\xf000븁\x0000
 Sto andando nel Percorso 19 per\xfffeallenarmi dopo questo, \xf000븁\x0000\xfffese mi cerchi. \xfffeCi vediamo!\xf000븁\x0000\xfffeSarà difficile rimanere\xfffebuoni amici,\xfffea causa dei Pokemon.\xf000븁\x0000
-Guarda!\xf000븁\x0000\xfffeLa persona sullo spiazzo panoramico\xfffedi Alisopoli...\xf000븁\x0000\xfffeDeve essere Belle!\xfffeC'è anche un bel panorama!\xf000븁\x0000\xfffeSbrigati!\xfffeVoglio ricevere un Pokémon!\xf000븁\x0000
+Guarda!\xf000븁\x0000\xfffeLa persona sull'osservatorio\xfffedi Alisopoli...\xf000븁\x0000\xfffeDeve essere Belle!\xfffeC'è anche un bel panorama!\xf000븁\x0000\xfffeSbrigati!\xfffeVoglio ricevere un Pokémon!\xf000븁\x0000
 The reading of me there's\xfffeNo doubt about it!
 The reading of me there's\xfffeNo doubt about it!\xf000븁\x0000
 ???: Ehi, so che sono bella...\xf000븁\x0000
@@ -76,21 +76,21 @@ Dovrai attraversare il mare.\xfffeCome dice la mappa.\xf000븁\x0000\xfffeSarà 
 ...Ehehe\xf000븁\x0000\xfffeSono orgogliosa di essere venuta qui|\xf000븁\x0000\xfffeForza! Andiamo al Percorso 19!\xf000븁\x0000\xfffeTi mostrerò come catturare un Pokemon!\xf000븁\x0000
 Buona giornata!\xfffePiù persone, più Pokémon!
 Imparerò come \xfffeallenare Pokemon!
-ベル『おうい！\xf000븁\x0000
-ベル『ねえねえ！\xf000븁\x0000
-どうだった？\xfffeジムリーダーとの　ポケモンしょうぶ\xf000븁\x0000\xfffeって！　それは\xfffeベーシックバッジ！\xf000븁\x0000\xfffeすごいすごーい！　ポケモンと\xfffeたびを　はじめたばかり　なのに！\xf000븁\x0000\xfffeあなたには　トレーナーの\xfffeさいのうが　あるよ　ぜったい！！\xf000븁\x0000\xfffeじゃあ　わたしからは　これ\xfffe「おんがえし」の　わざマシン　だよ！\xf000븁\x0000
-おんがえしを　おぼえた　ポケモンは\xfffeトレーナーに　なつくほどに\xf000븀\x0000\xfffeわざの　いりょくが　アップするんだよ\xf000븁\x0000
-それにしても　チェレンったら……\xf000븁\x0000
-チェレン『ベル！\xf000븁\x0000\xfffe２ねんぶり　だね\xf000븁\x0000
-ベル『うひゃあ！\xf000븁\x0000
-どっ　どうしたの？\xf000븁\x0000
-チェレン『せっかくだから\xfffeライブキャスターの　とうろくを\xf000븀\x0000\xfffeと　おもってね！\xf000븁\x0000
-これで　きみの　ライブキャスターから\xfffeぼくに　れんらくが　できるね\xf000븁\x0000
-ベル『あっ　あたしも！\xf000븁\x0000
-いっしょに　アララギはかせも\xfffeとうろく　したよ！\xf000븁\x0000
-ライブキャスターが　なっている！
-\xf000Ā\x0001\x0000は\xfffeライブキャスターを　つなげた\xf000븁\x0000
-ベル『ね　\xf000Ā\x0001\x0000！\xfffeアララギはかせ　かっこいいでしょ！\xf000븁\x0000\xfffeライブキャスターで　はなせば\xfffeポケモンずかんの　かんせいぐあいを\xf000븀\x0000\xfffeひょうか　してくれたり\xf000븁\x0000\xfffeポケモンの　しんかに　ついて\xfffeいろいろ　おしえてくれるよ！\xf000븁\x0000\xfffeもちろん　あたしたちも！\xf000븁\x0000
+Belle: Ehhhii!\xf000븁\x0000
+Belle: Dunquee!\xf000븁\x0000
+Com'è andata?\xfffePer la lotta con il capopalestra!\xf000븁\x0000\xfffeEhi! Quella è\xfffela Medaglia Base!\xf000븁\x0000\xfffeSplendido, Spleeeendido!\xfffeAnche se hai appena iniziato l'avventura!\xf000븁\x0000\xfffeSei assolutamente un alle-\xfffenatore di talento!!\xf000븁\x0000\xfffeBeh, in segno di "gratitudine"\xfffeeccoti questa MT!\xf000븁\x0000
+Con questa MT, più i\xfffePokémon ti sono affezionati, più la\xf000븀\x0000\xfffepotenza della mossa sarà maggiore!\xf000븁\x0000
+Comunque, se Komor...\xf000븁\x0000
+Komor: Belle! E' da due\xf000븁\x0000\xfffeanni che non ci si vede!\xf000븁\x0000
+Belle: Uaaaa!\xf000븁\x0000
+C-Che cos'è accaduto?\xf000븁\x0000
+Komor: Siccome stavo aspettando,\xfffepensavo di chiamarti\xf000븀\x0000\xfffecoll'Interpoké!\xf000븁\x0000
+Avresti potuto chiamarmi\xfffecol tuo Interpoké!\xf000븁\x0000
+Belle: Ah, beh, anch'io!\xf000븁\x0000
+Dai, chiamiamo\xfffela Prof.ssa Aralia insieme!\xf000븁\x0000
+L'Interpoké sta squillando!
+\xf000Ā\x0001\x0000\xfffeè connesso all'Interpokè.\xf000븁\x0000
+Belle: Ciao　\xf000Ā\x0001\x0000!\xfffeEhi, prof.ssa! Siamo qui!\xf000븁\x0000\xfffeSe parli con la Prof.ssa con\xfffel'Interpoké, lei può valutarti il Pokédex\xf000븀\x0000\xfffee inoltre può anche\xf000븁\x0000\xfffecinsegnarti molto\xfffesull'evoluzione dei Pokémon!\xf000븁\x0000\xfffeBeh, anch'io ho la mia parte!\xf000븁\x0000
 あなたの　ポケモンが\xfffeどれだけ　なついているか\xf000븀\x0000\xfffeあたしが　おしえてあげるね！！\xf000븁\x0000
 チェレン『そうだね\xf000븁\x0000\xfffeぼくは　ポケモンの　とくせいや\xfffeタイプの　あいしょうに　ついて\xf000븀\x0000\xfffeしっていることを　おしえてあげるよ\xf000븁\x0000
 \xf000Ā\x0001\x0001『ジムリーダーだな！\xfffeさっそくだけど　ちょうせん　だぜッ！\xf000븁\x0000
@@ -118,14 +118,14 @@ Imparerò come \xfffeallenare Pokemon!
 オレ　ポケモンのこと　くわしいよ！\xf000븁\x0000\xfffeだって　トレーナーズスクールで\xfffeいろいろ　おしえてもらったもん！
 みはらしだい　からの　けしき……\xfffeめのまえに　ひろがる　１９ばんどうろ\xf000븀\x0000\xfffeあれは　ヒオウギの　じまんだな
 La forza della scienza è incredibile!\xf000븁\x0000\xfffeOra con le telecomunicazioni, \xf000븁\x0000\xfffesi può giocare insieme\xfffea più di 100 persone!\xf000븀\x0000\xfffeAnche tu puoi farlo!
-ひとは　たびをして　おとなになる……\xfffeわたしも　このまちを　でようかなあ？
-やせいの　ポケモンは\xfffeひとを　おそうことも　あるの！\xf000븁\x0000\xfffeでもね　そばに　いれば\xfffeなかよくなれるのも　ポケモンよ
-あなたの　ママなら\xfffeポケモンを　やすませて\xf000븀\x0000\xfffeげんきに　するのも　じょうずよね！
+Una persona matura nel viaggio...\xfffeMa andrà bene lasciare la città?
+I Pokémon selvatici possono\xfffeanche attaccare le persone!\xf000븁\x0000\xfffeEcco perchè dovresti avere sempre\xfffedei Pokémon al tuo fianco!
+Se fossi la tua mamma,\xfffesarei brava a curare i tuoi\xf000븀\x0000\xfffePokémon facendoli riposare!
 Sei certo?\xf000븁\x0000\xfffeNon ci impiegherò molto.\xfffeTi contatterò!\xf000븁\x0000\xfffe...............\xfffe...............\xf000븁\x0000\xfffeWow!　E' bello che mio figlio\xfffestia per completare il Pokedex!\xf000븁\x0000\xfffeDunque, Prof.ssa, chi è lei?\xf000븁\x0000
 Si!\xfffeBelle?\xf000븁\x0000\xfffeLa conosco!\xfffeHa un grande cappello verde, giusto?\xf000븁\x0000\xfffeSi. Si.\xfffeGiustissimo! Giustissimo!\xf000븁\x0000
 Questa è Alisopoli.\xfffeE' ancora in sviluppo.
 Casa di \xf000Ā\x0001\x0000
-Terrazzo Panoramico\xfffeUno dei punti di vista!
+Osservatorio\xfffeUno dei punti di vista!
 Scuola per Allenatori\xfffeAttualmente in costruzione
 Palestra di Alisopoli\xfffeCapopalestra Komor\xf000븀\x0000\xfffeColui che cerca la verità
 Andiamo!!
