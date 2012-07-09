@@ -25,10 +25,10 @@ ACCETTA
 CANCELLA
 Numero
 Dalla A alla Z
-Dal più Pesante al più Leggero
-Dal più Leggero al più Pesante
-Dal più Alto al più Basso
-Dal più Basso al più Alto
+Più Pesante
+Più Leggero
+Più Alto
+Più Basso
 Buio
 Roccia
 Psico
