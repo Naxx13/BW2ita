@@ -1,9 +1,9 @@
-アデク『そうだ！　\xf000Ā\x0001\x0000\xfffeおまえさんの　ポケモンは　げんきか？\xf000븁\x0000\xfffeトレーナーの　おまえさんのため\xfffeがんばってくれるのは　ポケモンだ\xf000븀\x0000\xfffeいつだって　いたわってやらんとな！\xf000븁\x0000
-わしの　いえは　まだまだ　さき\xf000븁\x0000\xfffeポケセンに　いくか　どうかは\xfffeおまえさんに　まかせるわい！\xf000븁\x0000
-アデク『おう　こっちだ！\xfffeでは　しゅぎょう　しようか！\xf000븁\x0000
-ところで……　なにゆえ\xfffeタウンマップを　２つも　もっておる？\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……\xf000븁\x0000
-ほほう！\xfffeともだちの　タウンマップか\xf000븁\x0000
-おまえさんの　ともだち　だが\xfffe\xf000ā\x0001\x0000を　つれているだろう\xf000븁\x0000\xfffeうむ！ さきほど　２０ばんどうろで\xfffeポケモンを　きたえておったな……\xf000븁\x0000\xfffeそれならば！　さきに\xfffeタウンマップを　とどけるのだ！\xf000븁\x0000
+Nardo: \xf000Ā\x0001\x0000!\xfffeStanno bene, i tuoi Pokémon?\xf000븁\x0000\xfffSarai avvantaggiato sugli altri\xfffeallenatori se i tuoi Pokémon fanno il loro meglio.\xfffeAuguro ai tuoi Pokémon buona fortuna.\xf000븀\x0000\xfffeSii sempre gentile con loro!\xf000븁\x0000
+La mia casa è avanti.\xf000븁\x0000\xfffeVai al Centro Pokémon, per favore.\xfffeCi vediamo più tardi!\xf000븁\x0000
+Nardo: Giusto, di qua!\xfffeDunque, ci alleniamo?\xf000븁\x0000
+Per curiosità... Perchè\xfffehai 2 Mappe Città?\xf000븁\x0000\xfffe...... ...... ......\xfffe...... ...... ......\xf000븁\x0000
+Oh!\xfffeE' quella del tuo amico?\xf000븁\x0000トレーナー
+\xf000ā\x0001\x0000 il compagno del\xfffetuo amico, non credi?\xf000븁\x0000\xfffeSi! Tempo fa, quando avevo 20 anni,\xfffeho allenato Pokémon a Kanto...\xf000븁\x0000\xfffeEcco! Se possibile, dagli la\xfffeMappa Città, più avanti!\xf000븁\x0000
 ２０ばんどうろ　なら\xfffeみちなりに　すすめば　すぐだ！\xf000븁\x0000
 ２０ばんどうろ　なら\xfffeみちなりに　すすめば　すぐだ！\xf000븁\x0000\xfffeさあ！　タウンマップを　とどけてこい\xfffeそれまで　ここで　まっているぞ！
 アデク『おう！　ともだちに\xfffeタウンマップを　わたせたようだな！\xf000븁\x0000\xfffeふむう……！\xf000븁\x0000\xfffeわずかの　あいだに　おまえさんも\xfffeポケモンも　みちがえるようだ！\xf000븁\x0000\xfffeよし！　きたえるのは　なし\xf000븁\x0000\xfffeかわりに　おまえさんと　ポケモンの\xfffeちからを　かしてくれい！\xf000븁\x0000
@@ -15,15 +15,15 @@
 アデクさんから　おそわったこと\xfffeきみも　しりたい？
 ポケモンしょうぶのとき　とびだすのは\xfffeポケモンリストの　ひだりうえに\xf000븀\x0000\xfffeセットした　ポケモン　なんだって！\xf000븁\x0000\xfffeだから　おれ　そだてたい　ポケモンか\xfffeつよい　ポケモンを　セットしてるよ！
 もう　えんりょ　しちゃって！\xfffeせっかくだから　どんどん　きいてよ！
-あなたは　ひらがな　よりも\xfffeかんじの　ほうが　すきなのかしら？
-では\xfffe話し方を　変えてみるわね
-そうよね！　ひらがなには\xfffeひらがなの　あじわいが　あるわね
+Pensi che viaggiare con i Pokémon\xfffecambi le persone?
+Anche io! Viaggiare e pensare a\xfffemolte cose può fare la differenza.
+Giusto! E' bello gustarsi il\xfffeviaggio senza preoccuparsi troppo!
 ここは　サンギタウン　サンギは\xfffeうらないや　けいさんに　つかう　ぼう
 ふるい　とけいだい……
 ベル『おうい！\xf000븁\x0000
 ベル『ねえねえ！\xf000븁\x0000
 ごめんね！\xf000븁\x0000\xfffeあなたに　たくした　ポケモンずかん\xfffeパワーアップしておくの　わすれてたよ\xf000븁\x0000\xfffeそのなも　せいそくちリスト！\xfffeこれ　すごいんだよ\xf000븀\x0000\xfffeちょっと　ずかんを　かりるね！\xf000븁\x0000
-\xf000Ā\x0001\x0000の　ポケモンずかんが\xfffeパワーアップ　した！
+\xf000Ā\x0001\x0000's Pokédex has\xfffebeen upgraded!
 せいそくちリストは　ばしょ　ごとに　\xfffeどんな　ポケモンが　いるのか\xf000븁\x0000\xfffeたしかめることが　できる\xfffeポケモンずかんの　モード　なんだよ！\xf000븁\x0000
 つかいかたは　ずかんを　ひらいて\xfffeがめん　ひだりしたの\xf000븀\x0000\xfffe「せいそくち」の　ところに　タッチ！\xf000븀\x0000\xfffeつぎに　みたい　ばしょを　えらんでね\xf000븁\x0000\xfffeその　ばしょに　せいそく　する\xfffeポケモンを　すべて　みたり\xf000븀\x0000\xfffeつかまえたら　おしえてくれるよ！\xf000븁\x0000\xfffeもういちど\xfffeつかいかたの　せつめいを　きく？
 じゃあ　アドバイス！\xf000븁\x0000\xfffeみちを　あるいていると\xfffeくさむらが　ゆれることが　あるの！\xf000븀\x0000\xfffeゆれた　くさむらの　なかには……\xf000븁\x0000\xfffeあとは　じっさいの\xfffeおたのしみ　だよ！\xf000븁\x0000
