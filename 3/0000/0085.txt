@@ -1,6 +1,6 @@
-Corrente vincitore : \xf000ȃ\x0001\x0000!\xf000븁\x0000\xfffeNext car: No. \xf000Ȁ\x0001\x0001.\xfffeContinuare la battaglia?
+Allenatori vinti : \xf000ȃ\x0001\x0000!\xf000븁\x0000\xfffePros. Vagone: N° \xf000Ȁ\x0001\x0001.\xfffeContinuare la battaglia?
 CONTINUA
-RECORD
+REGISTRA
 RIPOSO
 RITIRATI
 Cancellare la tua sfida?
