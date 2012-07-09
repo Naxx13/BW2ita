@@ -1,18 +1,18 @@
 \xf000ȁ\x0001\x0000Ppl.
 Totale:\xf000Ȅ\x0001\x0000
 Chi vuoi ringraziare?
-Will you use \xf000đ\x0001\x0001?\xfffe\xf000Ȃ\x0001\x0002 needed/\xf000Ȃ\x0001\x0003 held
-Use the \xf000đ\x0001\x0001\xfffethat \xf000Ā\x0001\x0000 activated?
-Special Pass Power activated!\xfffeDo you want to use\xfffe\xf000đ\x0001\x0001?
-Used \xf000đ\x0001\x0001!
+Userai \xf000đ\x0001\x0001?\xfffe\xf000Ȃ\x0001\x0002 il necessario/\xf000Ȃ\x0001\x0003 Impugnandolo
+Utilizza il \xf000đ\x0001\x0001\xfffeche \xf000Ā\x0001\x0000 ha attivato?
+Speciale Permesso per la Potenza attivato!\xfffeLo vuoi usare\xfffe\xf000đ\x0001\x0001?
+usato \xf000đ\x0001\x0001!
 Non hai abbastanza Pass Orbs\xfffeper usare questo Passapotere.\xfffe\xf000Ȃ\x0001\x0002 needed/\xf000Ȃ\x0001\x0003 held
-Using \xf000đ\x0001\x0001.\xfffeSecondi rimasti: \xf000ȁ\x0001\x0005.
-Using \xf000đ\x0001\x0001.\xfffeTempo rimasto: \xf000Ȃ\x0001\x0004 min., \xf000ȁ\x0001\x0005 sec.
+Uso \xf000đ\x0001\x0001.\xfffeSecondi rimasti: \xf000ȁ\x0001\x0005.
+Uso \xf000đ\x0001\x0001.\xfffeTempo rimasto: \xf000Ȃ\x0001\x0004 min., \xf000ȁ\x0001\x0005 sec.
 disse“\xf000Ĝ\x0001\x0000!"
-じぶんのスコア
-ごうけい
+IL MIO PUNTEGGIO
+TOTALE
 \xf000Ȅ\x0001\x0000
-のこりじかん
+VERIFICA
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 VERIFICA
 SI
@@ -37,45 +37,44 @@ Hiya!
 \xf000Ā\x0001\x0000 catturato\xfffeun Pokémon raro!
 \xf000Ā\x0001\x0000 \xf000Ă\x0001\x0002's\xfffesale di livello!
 \xf000Ā\x0001\x0000 \xfffe\xf000Ă\x0001\x0002 evelve\xfffein \xf000ā\x0001\x0001!
-Dummy Message
-\xf000Ā\x0001\x0000 found\xfffe\xf000ĉ\x0001\x0001!
-\xf000Ā\x0001\x0000's playing time has\xfffeexceeded \xf000Ȃ\x0001\x0001 hours!
+messaggio fittizio
+\xf000Ā\x0001\x0000 Trovato\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ā\x0001\x0000 Il tempo di gioco è di\xfffeexceeded \xf000Ȃ\x0001\x0001 hours!
 \xf000Ā\x0001\x0000 completato il\xfffePokédex!
-\xf000Ā\x0001\x0000 has been thanked\xfffemore than \xf000Ȃ\x0001\x0001 times!
-\xf000Ā\x0001\x0000 e`nella reception\xfffearea della Union Room.
+\xf000Ā\x0001\x0000 è stato ringraziato\xfffemore più \xf000Ȃ\x0001\x0001 volte
 \xf000Ā\x0001\x0000 grazie!
 \xf000ā\x0001\x0001 e` stato\xfffebeing distribuito!
-The \xf000ĉ\x0001\x0001 e` stato\xfffedistribuito!
+Il \xf000ĉ\x0001\x0001 e` stato\xfffedistribuito!
 Un misterioso regalo e` stato\xfffebeing distribuito!
 \xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002attacca\xfffeera un colpo critico!
 \xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 tocca\xfffea colpo critico!
 \xf000Ā\x0001\x0000 escaped\xfffedalla battaglia!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffehas molti pochi HP!
+\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffehas molti pochi Ps!
 \xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffehas Molti pochi PP!
 \xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffee` svenuto
 \xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffeha condizioni di stato!
 \xf000Ā\x0001\x0000 usa\xfffe\xf000ĉ\x0001\x0001!
 \xf000Ā\x0001\x0000 usa\xfffe\xf000ć\x0001\x0001!
 \xf000Ā\x0001\x0000 ricevuto\xfffeun Uovo!
-\xf000ā\x0001\x0001 hatched from\xfffe\xf000Ā\x0001\x0000's Egg!\xfffe
-\xf000Ā\x0001\x0000 is\xfffeshopping.
-\xf000Ā\x0001\x0000 e` in una\xfffeBattle Subway challenge.
-\xf000Ā\x0001\x0000 ha\xfffe\xf000Ȁ\x0001\x0001 vinto\xfffein la battaglia!
+\xf000ā\x0001\x0001 nati dalle\xfffe\xf000Ā\x0001\x0000's Uova!\xfffe
+\xf000Ā\x0001\x0000 è\xfffeshopping.
+\xf000Ā\x0001\x0000 e` in una\xfffesfida nella Metrò lotta.
+\xf000Ā\x0001\x0000 ha\xfffe\xf000Ȁ\x0001\x0001 vinto\xfffe la battaglia!
 \xf000Ā\x0001\x0000 vince\xfffeun trofeo nella battaglia!
-\xf000Ā\x0001\x0000 challenged\xfffethe Battle Institute.
+\xf000Ā\x0001\x0000 sfida\xfffeL' Istituto della Battaglia.
 \xf000Ā\x0001\x0000 e` cerificato\xfffe\xf000Ɓ\x0001\x0001 nell`\xfffeIstituto della Battaglia!
-\xf000Ā\x0001\x0000 got on\xfffethe Ferris wheel.
-\xf000Ā\x0001\x0000 entered\xfffethe Poké Transfer.
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 is currently\xfffeparticipating in the Musical contest.
+\xf000Ā\x0001\x0000 preso\xfffesulla Ruota panoramica.
+\xf000Ā\x0001\x0000 entrato\xfffenel Poké Trasferitore.
+\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 sta\xfffepartecipando al concorso musicale.
 \xf000Ā\x0001\x0000 usa the received\xfffe\xf000đ\x0001\x0001!
 \xf000Ā\x0001\x0000 dice\xfffe“\xf000Ĝ\x0001\x0001."
-dummy message
-\xf000Ā\x0001\x0000さんは\xfffe\xf000Ŀ\x0001\x0001\xfffeを　ポケウッドで　さつえいちゅうです
-\xf000Ā\x0001\x0000さんは\xfffe\xf000Ŀ\x0001\x0001\xfffeを　ポケウッドで　かんしょうちゅうです
-\xf000Ā\x0001\x0000さんは\xfffe\xf000Ļ\x0001\x0001に\xfffeちょうせんちゅうです
-\xf000Ā\x0001\x0000さんは\xfffe\xf000Ļ\x0001\x0001で\xfffe\xf000Ȁ\x0001\x0002かいせんを　とっぱしました
-\xf000Ā\x0001\x0000さんは\xfffe\xf000Ļ\x0001\x0001で\xfffe\xf000Ȁ\x0001\x0002かいせんで　はいたいしました
-\xf000Ā\x0001\x0000さんは\xfffe\xf000Ļ\x0001\x0001で\xfffeゆうしょう　しました！
-\xf000Ā\x0001\x0000さんは\xfffeジョインアベニューで\xfffeかいものを　しています
-\xf000Ā\x0001\x0000さんは\xfffe\xf000ą\x0001\x0001の　エリア\xf000ȁ\x0001\x0002に\xfffeちょうせんちゅうです
-\xf000Ā\x0001\x0000さんは\xfffe\xf000ą\x0001\x0001の　エリア\xf000ȁ\x0001\x0002を\xfffeクリアしました！
+messaggio fittizio
+\xf000Ā\x0001\x0000Sig.\xfffe\xf000Ŀ\x0001\x0001\xfffeを　ポケウッドで　さつえいちゅうです
+\xf000Ā\x0001\x0000Sig.\xfffe\xf000Ŀ\x0001\x0001\xfffeを　ポケウッドで　かんしょうちゅうです
+\xf000Ā\x0001\x0000Sig.\xfffe\xf000Ļ\x0001\x0001に\xfffeちょうせんちゅうです
+\xf000Ā\x0001\x0000Sig.\xfffe\xf000Ļ\x0001\x0001で\xfffe\xf000Ȁ\x0001\x0002かいせんを　とっぱしました
+\xf000Ā\x0001\x0000Sig.\xfffe\xf000Ļ\x0001\x0001で\xfffe\xf000Ȁ\x0001\x0002かいせんで　はいたいしました
+\xf000Ā\x0001\x0000Sig.\xfffe\xf000Ļ\x0001\x0001で\xfffeゆうしょう　しました！
+\xf000Ā\x0001\x0000Sig.\xfffeジョインアベニューで\xfffeかいものを　しています
+\xf000Ā\x0001\x0000Sig.\xfffe\xf000ą\x0001\x0001の　エリア\xf000ȁ\x0001\x0002に\xfffeちょうせんちゅうです
+\xf000Ā\x0001\x0000Sig.\xfffe\xf000ą\x0001\x0001
