@@ -23,11 +23,11 @@ Mi dispiace...\xfffeNon puoi ancora entrare nella Stanza Unione.\xf000븁\x0000
 Hai almeno un Pokémon\xfffeche non può entrare.\xf000븁\x0000
 Aspetta, Allenatore!\xf000븁\x0000\xfffeIl titolo sulla tua Scheda Allenatore\xfffeè ancora solo "Allenatore di Pokémon", no?\xf000븁\x0000\xfffeSe cambi il tuo titolo, puoi facilmente\xfffeproiettare la tua immagine ad altri quando\xf000븀\x0000\xfffeli incontri nella Stanza Unione.\xf000븁\x0000\xfffeFammi vedere...\xfffeCosa ne pensi di \xf000Ď\x0001\x0000?\xf000븀\x0000\xfffeTi piace?\xf000븁\x0000\xfffeQuesta è l'impressione che ho avuto di te.\xfffePrimo, cambiamo il tuo titolo.\xf000븁\x0000\xfffeSe non ti piace quello nuovo, puoi\xfffecambiarlo selezionando la tua Scheda Allenatore.\xf000븁\x0000
 Sembra che non puoi ancora usarlo.
-ライブキャスターが　なっている
-\xf000Ā\x0001\x0000は\xfffeライブキャスターを　つなげた\xf000븁\x0000
+L'Interpoké sta squillando
+\xf000Ā\x0001\x0000 è connesso all'Interpoké.\xf000븁\x0000
 おや？\xfffeきみは……\xf000븁\x0000
 わるいね……\xf000븁\x0000\xfffeきみを　みていたら\xfffeなぜだか　はなしこんでしまったよ
 おきゃくさま！\xf000븁\x0000\xfffeランダムマッチの　さんかちゅうに\xfffeほんたいの　でんげんが　きれましたね\xf000븁\x0000\xfffe１じかん\xfffeランダムマッチや　Ｗｉ－Ｆｉたいかいで\xf000븀\x0000\xfffeたいせんが　できなくなります\xf000븁\x0000\xfffeじかんが　たちましたら\xfffeまた　おこしください\xf000븁\x0000
-たいせんの　せいかを　たたえて\xfffeバトルポイントを　しんてい　いたします\xf000븁\x0000
-\xf000Ā\x0001\x0000は　バトルポイントを\xfffe\xf000ȁ\x0001\x0001ＢＰ　てにいれた！
-Salvataggio in corso... Non spegnere!
+Guadagnerai PL per ogni\xfffevittoria che conseguerai.\xf000븁\x0000
+\xf000Ā\x0001\x0000 ha ricevuto \xf000ȁ\x0001\x0001 PL!
+Salvataggio...\xfffeNon spegnere la console.
