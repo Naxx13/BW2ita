@@ -4,9 +4,9 @@ DONO SEGRETO
 IMPOSTAZIONI NINTENDO WFC
 BATTLE COMPETITION
 IMPOSTAZIONI SINCROGIOCO
-RELOCATOR
+POKÈTRASPORTO
 TEST MIC.
-Link Unima
+LINK UNIMA
 Protagonista
 Tempo: \xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
 Pokédex: \xf000Ȃ\x0001\x0000
@@ -18,8 +18,8 @@ Medaglie: \xf000ȁ\x0001\x0000
 \xf000ą\x0001\x0000
 Info salvataggio
 Impostazione sistema chiave
-アシストモード
-Modalità sfida
+Modalità Aiuto
+Modalità Sfida
 Foresta bianca
 Città nera
 Roccia
