@@ -96,35 +96,35 @@ Questo percorso marino è famoso per\xfffei banchi di sabbia che attraversano l'
 Un via coperta dalla nebbia a causa\xfffedelle cascate.
 Un percorso le cui scogliere\xfffeappuntite possono\xfffefar fuggire molte persone.
 Molti che hanno visitato Sciroccpoli\xffferimangono li per prendersi una pausa.
-ちけいの　かんけいで　きゅうりゅうが\xfffeはっせいし　じゆうに　すすめない
-リゾートデザートと　じつづきだったと\xfffeしてきする　けんきゅうしゃも　いる
-４ほんの　はしらで　ささえられた\xfffeイッシュさいだい　さいちょうの　はし
-ふねの　うんこうに　あわせて\xfffeあがったり　さがったりする　はし
-ちかてつが　とおりぬけても\xfffeびくともしない　こうてつの　はし
-イッシュを　かいたくした　ひとびとが\xfffeつくり　くらしはじめた　ふるい　はし
-どんな　しょうげきも　やわらげるよう\xfffeデザインされた　さいせんたんの　はし
-イッシュの　ちゅうしんに　ある\xfffeふしぎな　パワーが　やどる　ばしょ
-つよさを　もとめる　トレーナーが\xfffeきけんを　かえりみずに　はいりこむ
+The fast current here makes it\xfffedifficult to surf.
+Some researchers believe it was once\xfffecontiguous with Desert Resort.
+The biggest, longest bridge in Unova\xfffehas four supporting towers.
+A drawbridge raises and lowers,\xfffedepending on the ship schedules.
+A sturdy steel bridge that won't\xfffebudge an inch when trains cross it.
+An old bridge that settlers of the\xfffeUnova region built and now live on.
+The most advanced bridge in Unova,\xfffedesigned to soften any impact.
+In the middle of the Unova region,\xfffeit is a place of mysterious power.
+Trainers seeking further strength\xfffeenter the cavern despite the risks.
 イッシュを　みわたせるほど　たかい\xfffeやまの　すそのに　ひろがる　まち
-ヒオウギシティジム
-トレーナーズスクール
-ポケモンセンター
+Aspertia City Gym
+Trainers' School
+Pokémon Center
 くもと　けむりに　おおわれがち　だが\xfffeまちにくらす　ひとびとは　かっぱつ
-タチワキシティジム
-ポケモンセンター
+Virbank City Gym
+Pokémon Center
 なみまに　うかぶ　たてものが\xfffeしまのように　みえる　リゾートシティ
-セイガイハシティジム
-ポケモンセンター
+Seigaiha City Gym
+Pokémon Center
 せいしき　めいしょうは\xfffeポケウッドムービースタジオ
 ひとと　こうりゅうする　ほどに\xfffeはってん　していく　おおどおり
 まちの　はじまりを　つげる\xfffeとけいだいが　シンボル
-ポケモンセンター
+Pokémon Center
 かざんちかくの　つちを　つかって\xfffeつくる　とうきや　じきが　じまん
-ポケモンセンター
+Pokémon Center
 くろのまてんろう
 しろのじゅどう
-かんこうきゃくに　にんきだが\xfffeリゾートとよぶには　きびしい　さばく
-かつて　えいがを　ほこるも　いつしか\xfffeすなにうもれた　おおむかしの　いせき
+It is a popular place for tourists,\xfffebut too harsh to be a resort.
+Ancient ruins with a glorious history,\xfffeburied in the sand as time went by.
 でいりぐちの　かなごうしが　はずされ\xfffeものずきな　トレーナーが　うろつく
 ポケモンと　ひとが　あつまるうちに\xfffeいつしか　ぼくじょうに　なった
 ポケモンが　はたらきやすいように\xfffeせっけい　されている　コンビナート
@@ -153,11 +153,11 @@ Molti che hanno visitato Sciroccpoli\xffferimangono li per prendersi una pausa.
 \xf000Ȇ\x0001\x0000
 \xf000ȁ\x0001\x0000
 こだいの　おうが　ねむると\xfffeつたえられる　おおむかしの　はか
-カトレアのべっそう
+Villa di Catlina
 わざおもいだし
 わざわすれ
 わざおしえ
 きせつけんきゅうじょ
 わざおしえ
 わざおしえ
-ポケモンセンター
+Centro Pokèmon 
