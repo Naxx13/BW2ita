@@ -3,5 +3,5 @@ Inserisci\xfffeCodice amico（０１－\xf000ȁ\x0001\x0000）
 Inserisci grado（０１－\xf000ȁ\x0001\x0000）
 Indietro
 Ok
-そのトレインナンバーは　ありません\xfffe\xf000ȁ\x0001\x0000までの　すうじを　いれてください
-そのランクは　ありません\xfffe\xf000ȁ\x0001\x0000までの　すうじを　いれてください
+Non c'è il Numero Treno.\xfffePer favore inserisci un numero fino a  \xf000ȁ\x0001\x0000.
+Non c'è il Valutazione.\xfffePer favore inserisci un numero fino a  \xf000ȁ\x0001\x0000.
