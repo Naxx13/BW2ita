@@ -50,7 +50,7 @@ MOSSE APPRESE
 Abbiate cura di \xf000Ă\x0001\x0001!
 comunicazioni in arresto...\xfffeSi prega di attendere.
 Selezionare la prima lettera del nome dei\xfffePokémon che si desidera trovare.
-Nessun Pokémon con selezionata\xfffela lettera è stato trovato
+Nessun Pokémon con selezionata\xfffela lettera è stato trovato.
 \xf000봂\x0000ア
 \xf000봂\x0000イ
 \xf000봂\x0000ウ
@@ -95,7 +95,7 @@ Nessun Pokémon con selezionata\xfffela lettera è stato trovato
 \xf000봂\x0000レ
 \xf000봂\x0000ロ
 \xf000봂\x0000ワ
-こうかんは\xfffeキャンセル されました
+Lo scambio è stato\xfffeannullato.
 Il commercio è stato annullato.
 È necessario tale Pokémon da ottenere\xfffeattraverso la vostra avventura!
 Vi è un Pokémon che non può essere\xfffescambiato nella dell' altro allenatore.
@@ -134,8 +134,8 @@ Ritorno \xf000Ă\x0001\x0000 a \xf000Ā\x0001\x0001.\xfffeArrivederci, \xf000Ă\
 Bentornato, \xf000Ă\x0001\x0001!
 RICERCA SCAMBI
 Si prega di scegliere i vostri Pokémon da offrire.\xfffeÈ possibile selezionare fino a tre Pokémon.
-Are you OK with your selection?
-In attesa della decisione del tuo amico.\xfffePlease wait...
+Sei sicuro della selezione fatta?
+In attesa della decisione del tuo amico.\xfffeAttendere Prego...
 Premere OK per selezionare uno ciascuno\xfffeper selezionare ciascuno dei Pokémon scelto?
 L' altro allenatore ha annullato lo scambio.
 Altri Trainer apparentemente\xfffevogliono scambiare Pokémon.
