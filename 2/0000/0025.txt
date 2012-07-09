@@ -1,7 +1,7 @@
 Accendi il C-Gear e\xfffeinizia la comunicazione?
 Quando è acceso, chiudendo la\xfffeconsolle verrà messo nella Modalità\xfffeRiposo se la batteria è scarica.\xfffePer favore controllare la carica.
 Spegni il C-Gear e\xfffetermina la comunicazione?
-\xf000\xff00\x0001\x0001ちゅうい！\xf000\xff00\x0001\x0000\xfffeひこうきや　びょういんなど\xfffeむせんつうしんを　きんしに　している\xfffeばしょでは　Ｃギアの　でんげんをきって\xfffeつうしんを　せつだん　してください
+\xf000\xff00\x0001\x0001Attenzione!\xf000\xff00\x0001\x0000\xfffePer favore spegni il C-Gear\xfffein luoghi, come aerei\xfffee ospedali, dove la comunicazione\xfffewireless è proibita.
 Il C-Gear non può essere acceso.\xfffeLa comunicazione Wireless è spenta.\xfffeAccendi la comunicazione Wireless nelle\xfffeimpostazioni del sistema. Errore: 50699
 SI
 NO
