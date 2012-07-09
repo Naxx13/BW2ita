@@ -116,7 +116,7 @@ Varco Ponte
 Varco Percorso
 Rovine degli Abissi
 Alisopoli
-Città di Virbank
+Zondopoli
 Città di Seigaiha
 Pokewood
 Via Unione
@@ -129,7 +129,7 @@ Percorso 22
 Percorso 23
 Canali di Austropoli
 Fattoria di Sangi
-Complesso Tachiwaki
+Complesso Zondopoli
 Monte rinascita
 Casa strana
 Via Vittoria
@@ -143,7 +143,7 @@ Cava Marina
 Grotta del Cuore
 Voragine nascosta
 Tubo Marino
-Cancello Tachiwaki
+Cancello Zondopoli
 Alisopoli
 Riserva Naturale
 Segreteria Medaglie
