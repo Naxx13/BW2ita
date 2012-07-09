@@ -2,16 +2,16 @@ Test Message
 $\xf000ȅ\x0001\x0002
 Vuoi salvare il gioco?
 Esiste già un salvataggio.\xfffeVuoi sovrascriverlo?
-Salvataggio...\xfffeNon spegnere la consolle.
+Salvataggio...\xfffeNon spegnere la console.
 \xf000Ā\x0001\x0000 ha salvato il gioco.
 ちゅうい!!\xf000븁\x0000: つづきから はじめる』で\xfffeぼうけん していた\xf000븀\x0000レポ-トが かかれています!\xf000븁\x0000そちらで プレイしていた ぼうけんや\xfffeすべての ポケモン どうぐ などが\xf000븀\x0000きえてしまいます...\xf000븁\x0000ほんとうに\xfffeうえから かいても いいですか?
 Errore salvataggio.\xf000븁\x0000
 Esiste già un file di gioco salvato.\xfffeÈ Impossibile salvare.\xf000븁\x0000\xfffeFare riferimento alle istruzioni\xfffeOpuscolo per i dettagli.\xf000븁\x0000\xfffePremere i tasti SU + SELECT + B\xfffela schermata del titolo se si desidera cancellare\xf000븀\x0000\xfffeil file di gioco salvato corrente.
 Esiste già un file di gioco salvato.\xfffeÈ Impossibile salvare.\xf000븁\x0000\xfffeFare riferimento alle istruzioni\xfffeOpuscolo per i dettagli.\xf000븁\x0000\xfffePremere i tasti SU + SELECT + B\xfffela schermata del titolo se si desidera cancellare\xf000븀\x0000\xfffeil file di gioco salvato corrente.\xf000븁\x0000
-Salvataggio di molti dati...\xfffeNon spegnere la consolle.
-Salvataggio...\xfffeNon spegnere la consolle.
-Salvataggio...\xfffeNon spegnere la consolle.
-Salvataggio...\xfffeNon spegnere la consolle.
+Salvataggio di molti dati...\xfffeNon spegnere la console.
+Salvataggio...\xfffeNon spegnere la console.
+Salvataggio...\xfffeNon spegnere la console.
+Salvataggio...\xfffeNon spegnere la console.
 しんにゅう しているときや\xfffeしんにゅう されているときは\xf000븀\x0000\xfffeレポ-トが かけません!
 だれかと せつぞくちゅうの ようですが\xfffeせつだんして よろしいですか?
 Comunicazione di fine.\xfffeAttendere prego.
