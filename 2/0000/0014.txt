@@ -2,7 +2,7 @@ Cosa fai con \xf000Ă\x0001\x0000?
 Per favore segnalo
 Liberare questo pokèmon?
 \xf000Ă\x0001\x0000 è stato liberato.
-Ciao\xf000Ă\x0001\x0000!
+Ciao, \xf000Ă\x0001\x0000!
 La tua squadra è al completo!
 Questo è il tuo ultimo pokèmon!
 Cosa vuoi fare?
