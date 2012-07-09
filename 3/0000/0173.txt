@@ -15,7 +15,7 @@ Stai per diventare un allenatore di Pokemon!\xf000븀\x0000\xfffeIo dico di si, 
 Il nome della ragazza è Belle!\xfffeLei ha un grande cappello verde!
 Oh? Andate d'accordo!\xfffeState cercando Belle!\xf000븁\x0000\xfffeNon l'avete trovata ancora?\xfffeLei ha un grande cappello verde!
 Belle?\xf000븁\x0000\xfffeMe lo ha detto la fantastica\xfffeProf.ssa Aralia!
-Bentornato!\xfffCome stanno i tuoi Pokemon?\xf000븁\x0000\xfffeSembrano stanchi.\xfffeLasciali riposare qui!\xf000븁\x0000
+Bentornato!\xfffeCome stanno i tuoi Pokemon?\xf000븁\x0000\xfffeSembrano stanchi.\xfffeLasciali riposare qui!\xf000븁\x0000
 \xf000Ā\x0001\x0000, i tuoi Pokémon stanno bene, \xfffesembrano pieni di energia!
 ママ『おなじ　いっぽでも\xfffeポケモンのことを　かんがえながらの\xf000븀\x0000\xfffeいっぽの　ほうが　ステキよね！
 ママ『あたしも　わかいころは\xfffeあちこちの　ポケモンセンターを\xf000븀\x0000\xfffeてんてんと　したものよ！
@@ -29,7 +29,7 @@ Bentornato!\xfffCome stanno i tuoi Pokemon?\xf000븁\x0000\xfffeSembrano stanchi
 ママ『おひさしぶり　ですね\xfffeアララギはかせ！\xf000븁\x0000
 アララギ『そんなに　ごぶさた　かい？\xfffe……おもいだせないねえ\xf000븁\x0000\xfffeっと　そいつは　わたしが　きた\xfffeもくてきとは　かんけい　ないからね\xf000븁\x0000
 \xf000Ā\x0001\x0000！\xf000븁\x0000\xfffeでんどういりを　きねんして\xfffeおまえさんの　ポケモンずかんを\xf000븀\x0000\xfffeパワーアップ！　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000の　ポケモンずかんが\xfffeパワーアップ　した！
+\xf000Ā\x0001\x0000's Pokédex has\xfffebeen upgraded!
 アララギ『どこが　パワーアップしたか\xfffeおしえるから　きいてくれるかい？\xf000븁\x0000\xfffeといっても　すごく　シンプル！\xf000븁\x0000\xfffeぜんこくの　あらゆる　ポケモンを\xfffeきろく　できるように　したんだよ\xf000븁\x0000
 ママ『へえ！　すごいですね\xfffeさすが　おやこで　ポケモンはかせ！\xf000븁\x0000
 アララギ『ははは\xfffeほめても　なにも　でないよ\xf000븁\x0000\xfffeさてと　それでは\xfffeわたしは　おいとま　するかね\xf000븁\x0000
@@ -37,17 +37,17 @@ Bentornato!\xfffCome stanno i tuoi Pokemon?\xf000븁\x0000\xfffeSembrano stanchi
 ママ『いっちゃった……\xf000븁\x0000\xfffeそうだ！　\xf000Ā\x0001\x0000！\xfffeママからも　プレゼントよ！\xf000븁\x0000
 ママ『なにをしても　それは　すべて\xfffeあなたと　ポケモンの　じかん\xf000븁\x0000\xfffeだから　じぶんで　きめて\xfffeじぶんが　したいことを　しなさいな\xf000븁\x0000\xfffeママも　じぶんの　じかんを\xfffeママの　すきなように　たのしむから！
 no data
-ウィーが　ある！\xfffeリモコンがたの　コントローラ　だ！
-まあたらしい　ベッド！
-\xf000Ā\x0001\x0000は\xfffeパソコンを　チェックした！\xf000븁\x0000\xfffeたんけんの　こころえ　その１\xfffeＸボタンで　メニューが　ひらく！\xf000븁\x0000\xfffeたんけんの　こころえ　その２\xfffeレポートを　えらぶと　きろく　できる！
-イッシュずかん　かんせいの\xfffeひょうしょうじょう　だ！\xf000븁\x0000
-ぜんこくずかん　かんせいの\xfffeひょうしょうじょう　だ！\xf000븁\x0000
+E' una Wii!\xfffeHa un Telecomanto Wii!
+Un letto completamente nuovo!
+\xf000Ā\x0001\x0000 controlla il PC!\xf000븁\x0000\xfffe"Premi il bottone X per aprire il menu!\xf000븁\x0000\xfffeAccertati di aver salvato!"
+E' un riconoscimento per aver\xfffecompletato il Pokédex di Unima!\xf000븁\x0000
+E' un riconoscimento per aver\xfffecompletato il Pokédex Nazionale!\xf000븁\x0000
 バトルサブウェイの\xfffeシングル　マスターに　しょうりした\xf000븀\x0000\xfffeあかしの　トロフィーだ！
 バトルサブウェイの\xfffeダブル　マスターに　しょうりした\xf000븀\x0000\xfffeあかしの　トロフィーだ！
 バトルサブウェイの\xfffeマルチ　マスターに　しょうりした\xf000븀\x0000\xfffeあかしの　トロフィーだ！
 かんらんしゃの　もけい\xfffeママが　かってきた　おみやげ
 ママが　むかし　もらったらしい\xfffeポケモン　ダルマッカの　にんぎょう\xf000븁\x0000\xfffeななころび　やおき
-えへへ\xfffeあそびに　きちゃった！\xf000븁\x0000\xfffeアララギはかせが　２０ばんどうろの\xfffeどうくつを　しらべてみるんだって！
+You've returned to visit me! You should\xfffecheck out Heart Cave on Route 20!\xf000븀\x0000
 こころのくうどう……\xf000븁\x0000\xfffeユクシー　エムリット　アグノム\xfffe３びきの　ポケモンは\xf000븀\x0000\xfffeどこへ　とんでいったのかなあ？\xf000븁\x0000\xfffeユクシーは　ちえを\xfffeしょうちょうする　ポケモン……\xf000븁\x0000\xfffeイッシュで　ちえが　あつまるのは\xfffeシッポウの　はくぶつかん？\xf000븁\x0000\xfffeエムリットは　かんじょうを\xfffeつかさどる　ポケモン　でしょ\xf000븁\x0000\xfffeかんじょうを　ゆさぶるのは\xfffeタワーオブヘブンの　かね　かなあ？\xf000븁\x0000\xfffeで　アグノムは　いし……\xf000븁\x0000\xfffeいし　ねえ\xfffeなにかをしたい　という　おもい……\xf000븀\x0000\xfffeいったい　なんだろうね
 ２３ばんどうろの\xfffeふしぎな　ポケモン……\xf000븁\x0000\xfffeなにかの　いしを\xfffeかんじさせる　ポケモン……\xf000븁\x0000\xfffeじっさいに　しらべに　いくのが\xfffeいちばん　だよねえ！
 ポケモンの\xfffeたいりょうはっせい　ってあるでしょ！\xf000븁\x0000\xfffeあれって　ほんとうに\xfffeおんなじ　ポケモンばかり　でてきて\xf000븁\x0000\xfffeどこに　いたの！？　って\xfffeビックリしちゃうよねえ\xf000븁\x0000\xfffeゲートにある　でんこうけいじばん　で\xfffeたいりょうはっせいのことが　わかるよ
