@@ -1,23 +1,23 @@
-Allenatore di Pokémon
-Allenatore di Pokémon
+Allenatore di ⒆⒇ 
+Allenatore di ⒆⒇ 
 Ragazzo
 Ragazza
 Scolaro
 Scolaro
-Attaccante
+Tennista
 Difensore
 Cameriere
 Cameriera
-Capo
-Capo
-Capo
-Maestra Asilo
-Prescolare
-Prescolare
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Maestrina
+Prescolaro
+Prescolaro
 Gemelli
-Allevatore ⒆⒇ 
-Allevatore ⒆⒇ 
-Capo
+Allevatore di ⒆⒇
+Allevatore di ⒆⒇
+Lenora
 nessun dato
 nessun dato
 nessun dato
@@ -30,87 +30,86 @@ Viaggiatore
 Pescatore
 Musicista
 Ballerino
-Buffone
+Pagliaccio
 Artista
 Pasticciere
 Psichico
 Psichico
 nessun dato
-Allenatore ⒆⒇ 
+Allenatore di ⒆⒇
 nessun dato
-Allenatore ⒆⒇ 
-Ragazzo ricco
-Signora
+Allenatore di ⒆⒇
+Ragazzo Ricco
+Lady
 Pilota
-Operaio
 Lavoratore
-Hoopster
+Cestista
 Scienziato
-no data
+nessun dato
 ＯＬ
-Ace Trainer
-Ace Trainer
+Fantallenatore
+Fantallenatore
 Cintura Nera
 Scienziato
-Striker
-Brycen
+Calciatore
+Silvestro
 nessun dato
 nessun dato
-Roughneck
-Janitor
+Zuccapelata
+Netturbino
 Pokéfan
 Pokéfan
 Dottore
-Infermiere
-Hooligans
-Battle Girl
-Parasol Lady
-Clerk ⑭
-Clerk ⑭
-Filantropo
-Filantropo
+Infermiera
+Teppisti
+Combat Girl
+Ombrellina
+Affarista ⑭
+Affarista ⑭
+Fan
+Fan
 Veterano
 Veterano
-Ciclista
-Infielder
-Hiker
+Centauro
+Lanciatore
+Avventuriero
 Socialite
 Gentiluomo
-Team Plasma
+Recluta
 Superquattro
 Superquattro
 Superquattro
 Superquattro
-no data
-Depot Agent
+nessun dato
+Ferroviario
 Nuotatore ⑭
 Nuotatore ⑮
 Poliziotto
-Camerriera
-Subway Boss
+Domestica
+Boss Metro
 Campione
-Cyclista
-Cyclista
+Ciclista
+Ciclista
 Motociclista
 nessun dato
 nessun dato
 nessun dato
-nessu dato
+nessun dato
 GAME FREAK
 nessun dato
 nessun dato
-Allenatore ⒆⒇ 
-Team Plasma
-Boss metrò
+Allenatore di ⒆⒇
+Recluta
+Boss Metro
 nessun dato
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
 Capo
 Capo
 Capo
@@ -144,27 +143,27 @@ Winona
 Tate
 Liza
 Juan
-Allenatore ⒆⒇ 
-Guitarist
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
-Boss Metrò
-no data
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
-Boss Metrò
+Allenatore di ⒆⒇
+Chitarrista
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Boss Metro
+nessun dato
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Boss Metro
 nessun dato
 Roark
 Gardenia
@@ -174,30 +173,30 @@ Wake
 Byron
 Candice
 Volkner
-Blu
+Blue
 Lance
 Steven
 Wallace
 Beauty
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
-Team Plasma
-Team Plasma
-Team Plasma
-Team Plasma
-Allenatore ⒆⒇ 
-Team Plasma
-Team Plasma
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Recluta
+Recluta
+Recluta
+Recluta
+Allenatore di ⒆⒇
+Recluta
+Recluta
 Campione
-Fantasma
-Allenatore ⒆⒇ 
+Phantom
+Allenatore di ⒆⒇
 GAME FREAK
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
 Eroe
 Eroe
 Ninja
@@ -206,9 +205,10 @@ SF Crew
 SF Crew
 Scienziato
 Scienziato
-Casuale
-Casuale
+Casual
+Casual
 Mr. Ouji
+Principessa
 Hachiku-kan
 Mecha Combi
 UFO
@@ -218,19 +218,19 @@ Cursed Uncle
 Cursed Child
 Wooly Mammoth
 Cursed Man
-Ghost Maiden
+Domestica Fantasma
 Strega
-Orsacchiotto
+Orsetto
 Dummy Suit
 Dummy Suit
 Dummy Suit
 Dummy Suit
-Boss metro
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
-Allenatore ⒆⒇ 
+Boss Metro
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
+Allenatore di ⒆⒇
 nessun dato
-Uomo del futuro
-Harlequin
+Furutomane
+Pagliaccio
 Rosso
-Allenatore ⒆⒇ 
+Allenatore di ⒆⒇
