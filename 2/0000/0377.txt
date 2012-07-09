@@ -1,50 +1,50 @@
 Volare per dove?
 ダミー
-Una cittadina rurale la cui brezza\xfffeda il senso di qualcosa che sta per avvenire.
-Laboratorio della Prof.Aralia
+Una cittadina rurale la cui brezza\xfffeda il senso di qualcosa\xfffeche sta per avvenire.
+Lab. Prof.ssa Aralia
 Questa città offre panorami mozzafiato\xfffeper la presenza di numerose alture.
 Centro Pokémon
-Scala d'ingresso costruita in memoria\xfffedi una vecchia casa durante un periodo nevoso.
-Palestra della città di Levantopoli
+Scala d'ingresso costruita in memoria\xfffedi una vecchia casa \xfffedurante un periodo nevoso.
+Palestra 
 Centro Pokémon
-Scuola degli allenatori
-Laboratorio di Zania
+Scuola per Allenatori
+Laboratorio Zaina
 Una città costruita tra i magazzini\xffferestaurati costruiti 100 anni fà.
-Palestra di Zefiropoli
-Pokémon Center
+Palestra
+Centro Pokémon
 Museo di Zefiropoli
 Bar Magazzino 
-Metropoli in cui torreggiano\xfffegrandi grattacieli che oltrepassano le nubi.
-Palestra di Austropoli
+Metropoli in cui torreggiano\xfffegrandi grattacieli che \xfffeoltrepassano le nubi.
+Palestra
 Centro Pokémon
-Associazione Sondaggi
-Servizio di valutazione nomi
-Massaggi Pokémon
+Ass. Sondaggi
+Valuta Nomi
+Massaggi 
 Nave Reale Unima
 La città dei divertimenti.\xfffeMolto animata e piena d'attrazioni.
-Palestra di Sciroccopoli
+Palestra
 Centro Pokémon
-Teatro Musical
-Lotta Metropolitana
+PokèMusial
+Metrò Lotta
 Stadio Stellare
 Campetto
 Città portuale dove arriva la\xfffemaggior parte delle merci di Unima.
-Palestra di Libecciopoli
+Palestra
 Centro Pokémon
-Mercato di Libecciopoli
-Casa dell'esperto mosse
+Mercato
+Esperto Mosse
 Qui si coltivano ortaggi che vengono\xfffepoi aerotrasportati in tutta Unima.
-Palestra di Ponentopoli
+Palestra
 Centro Pokémon
-Casa della famiglia delle mosse
+Famiglia Mosse
 Servizio Carico
 Di inverno la ricopre\xfffedi un manto argenteo.
-Palestra di Mistralopoli
+Palestra
 Centro Pokémon
 Pokémon Fan Club
 Città che ha rispetto per la storia\xfffee cura per le cose del passato.
 Qui le vistigia del passato hanno fatto posto\xfffealle moderne comodità.
-Palestra di Boreduopoli
+Palestra
 Centro Pokémon
 Casa lotta
 Possono accedervi solo gli allenatori\xfffeche hanno tutte le medaglie.
@@ -53,7 +53,7 @@ Gli abitanti rispettano le usanze del passato,\xfffee vivono una vita regolata.
 Centro Pokémon
 Luogo marittimo di villeggiatura\xfffeche d'estate si anima di molti vacanzieri.
 Centro Pokémon
-Una citta col cantiere ferroviario dove\xfffedove i treni si fermano per una revisione.
+Una citta col cantiere ferroviario dove\xfffedove i treni si fermano\xfffeper una revisione.
 Una città moderna in continuo sviluppo\xfffeche attira un sacco di persone.
 Centro Pokémon
 Un posto dalla natura generosa, che\xfffeattrae persone desiderose di un pò di verde.
@@ -76,13 +76,13 @@ Questa piscina sottomarina cresce dall'\xfffeacqua piovana che si assorbe nel te
 Una grotta dimenticata caratterizzata\xfffedalla presenza di una leggenda.
 Una piccola torre con una grande campana i cui \xfffesuoni si dice purifichino lo spirito.
 Dicono che l'acqua depositata nelle cavità\xfffesulla pianura crei la brughiera.
-Un tempo le persone hanno vissuto in questo villaggio, e\xfffee sembra lo stesso di com'era allora.
+Un tempo le persone hanno vissuto\xfffein questo villaggio, e\xfffee sembra lo stesso di com'era allora.
 Un mare di fama mondiale dalle splendenti onde.
-Una foresta misteriosa dove le persone si\xfffeperdono nonostante il semplice paesaggio.
+Una foresta misteriosa dove le persone si\xfffeperdono nonostante\xfffeil semplice paesaggio.
 Una piccola strada sulla riva, dove \xfffepuoi goderti il paesaggio marino in pace.
 Un percorso rurale dove i gli allenatori\xfffeprincipianti possono sidarsi a vicenda.
 Un percorso lungo e tortuoso con molti\xfffestagni  ed erba alta.
-Una tempesta di sabbia ostacola la costruzione\xfffedi una strada che connette due città.
+Una tempesta di sabbia\xfffeostacola la costruzione\xfffedi una strada che connette due città.
 Un perocorso affollato dove\xfffegli artisti si riuniscono.
 Un percorso con molti alberi\xfffeper gli amanti della natura.
 Le passerelle ti aiutano\xfffead evitare l'erba alta.
@@ -94,7 +94,7 @@ Limpidi ruscelli scolpiscono il meraviglioso\xfffepanorama di questo percorso.
 Un luogo di piacere, dove é  piacevole\xfffecamminare sulle dolci colline.
 Questo percorso marino è famoso per\xfffei banchi di sabbia che attraversano l'oceano.
 Un via coperta dalla nebbia a causa\xfffedelle cascate.
-Un percorso le cui scogliere appuntite possono\xfffefar fuggire molte persone.
+Un percorso le cui scogliere\xfffeappuntite possono\xfffefar fuggire molte persone.
 Molti che hanno visitato Sciroccpoli\xffferimangono li per prendersi una pausa.
 ちけいの　かんけいで　きゅうりゅうが\xfffeはっせいし　じゆうに　すすめない
 リゾートデザートと　じつづきだったと\xfffeしてきする　けんきゅうしゃも　いる
