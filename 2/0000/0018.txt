@@ -40,12 +40,12 @@ La Difesa Speciale di \xf000Ă\x0001\x0000 nemico\xfffeaumenta!
 La Velocità di \xf000Ă\x0001\x0000 aumenta!
 La Velocità di \xf000Ă\x0001\x0000 selvatico aumenta!
 La Velocità di \xf000Ă\x0001\x0000 nemico aumenta!
-La precisione di \xf000Ă\x0001\x0000 aumenta!
-La precisione di \xf000Ă\x0001\x0000 selvatico\xfffeaumenta!
-La precisione di \xf000Ă\x0001\x0000 nemico aumenta!
-L'elusione di \xf000Ă\x0001\x0000 aumenta!
-L'elusione di \xf000Ă\x0001\x0000 selvatico aumenta!
-L'elusione di \xf000Ă\x0001\x0000 nemico aumenta!
+La Precisione di \xf000Ă\x0001\x0000 aumenta!
+La Precisione di \xf000Ă\x0001\x0000 selvatico\xfffeaumenta!
+La Precisione di \xf000Ă\x0001\x0000 nemico aumenta!
+L'Elusione di \xf000Ă\x0001\x0000 aumenta!
+L'Elusione di \xf000Ă\x0001\x0000 selvatico aumenta!
+L'Elusione di \xf000Ă\x0001\x0000 nemico aumenta!
 L'Attacco di \xf000Ă\x0001\x0000 aumenta di molto!
 L'Attacco di \xf000Ă\x0001\x0000 selvatico aumenta\xfffedi molto!
 L'Attacco di \xf000Ă\x0001\x0000 nemico aumenta di\xfffemolto!
@@ -61,12 +61,12 @@ La Difesa Speciale di \xf000Ă\x0001\x0000 nemico\xfffeaumenta di molto!
 La Velocità di \xf000Ă\x0001\x0000 aumenta di molto!
 La Velocità di \xf000Ă\x0001\x0000 selvatico aumenta\xfffedi molto!
 La Velocità di \xf000Ă\x0001\x0000 nemico aumenta di\xfffemolto!
-La precisione di \xf000Ă\x0001\x0000 aumenta\xfffedi molto!
-La precisione di \xf000Ă\x0001\x0000 selvatico\xfffeaumenta di molto!
-La precisione di \xf000Ă\x0001\x0000 nemico aumenta\xfffedi molto!
-L'elusione di \xf000Ă\x0001\x0000 aumenta di molto!
-L'elusione di \xf000Ă\x0001\x0000 selvatico aumenta\xfffedi molto!
-L'elusione di \xf000Ă\x0001\x0000 nemico aumenta di\xfffemolto!
+La Precisione di \xf000Ă\x0001\x0000 aumenta\xfffedi molto!
+La Precisione di \xf000Ă\x0001\x0000 selvatico\xfffeaumenta di molto!
+La Precisione di \xf000Ă\x0001\x0000 nemico aumenta\xfffedi molto!
+L'Elusione di \xf000Ă\x0001\x0000 aumenta di molto!
+L'Elusione di \xf000Ă\x0001\x0000 selvatico aumenta\xfffedi molto!
+L'Elusione di \xf000Ă\x0001\x0000 nemico aumenta di\xfffemolto!
 L'Attacco di \xf000Ă\x0001\x0000 aumenta moltissimo!
 L'Attacco di \xf000Ă\x0001\x0000 selvatico aumenta\xfffemoltissimo!
 L'Attacco di \xf000Ă\x0001\x0000 nemico aumenta\xfffemoltissimo!
@@ -82,12 +82,12 @@ La Difesa Speciale di \xf000Ă\x0001\x0000 nemico\xfffeaumenta moltissimo!
 La Velocità di \xf000Ă\x0001\x0000 aumenta\xfffemoltissimo!
 La Velocità di \xf000Ă\x0001\x0000 selvatico aumenta\xfffemoltissimo!
 La Velocità di \xf000Ă\x0001\x0000 nemico aumenta\xfffemoltissimo!
-La precisione di \xf000Ă\x0001\x0000 aumenta\xfffemoltissimo!
-La precisione di \xf000Ă\x0001\x0000 selvatico\xfffeaumenta moltissimo!
-La precisione di \xf000Ă\x0001\x0000 nemico aumenta\xfffemoltissimo!
-L'elusione di \xf000Ă\x0001\x0000 aumenta moltissimo!
-L'elusione di \xf000Ă\x0001\x0000 selvatico aumenta\xfffemoltissimo!
-L'elusione di \xf000Ă\x0001\x0000 nemico aumenta\xfffemoltissimo!
+La Precisione di \xf000Ă\x0001\x0000 aumenta\xfffemoltissimo!
+La Precisione di \xf000Ă\x0001\x0000 selvatico\xfffeaumenta moltissimo!
+La Precisione di \xf000Ă\x0001\x0000 nemico aumenta\xfffemoltissimo!
+L'Eelusione di \xf000Ă\x0001\x0000 aumenta moltissimo!
+L'Elusione di \xf000Ă\x0001\x0000 selvatico aumenta\xfffemoltissimo!
+L'Elusione di \xf000Ă\x0001\x0000 nemico aumenta\xfffemoltissimo!
 L'Attacco di \xf000Ă\x0001\x0000 diminuisce!
 L'Attacco di \xf000Ă\x0001\x0000 selvatico\xfffediminuisce!
 L'Attacco di \xf000Ă\x0001\x0000 nemico diminuisce!
@@ -103,12 +103,12 @@ La Difesa Speciale di \xf000Ă\x0001\x0000 nemico\xfffediminuisce!
 La Velocità di \xf000Ă\x0001\x0000 diminuisce!
 La Velocità di \xf000Ă\x0001\x0000 selvatico\xfffediminuisce!
 La Velocità di \xf000Ă\x0001\x0000 nemico diminuisce!
-La precisione di \xf000Ă\x0001\x0000 diminuisce!
-La precisione di \xf000Ă\x0001\x0000 selvatico\xfffediminuisce!
-La precisione di \xf000Ă\x0001\x0000 nemico\xfffediminuisce!
-L'elusione di \xf000Ă\x0001\x0000 diminuisce!
-L'elusione di \xf000Ă\x0001\x0000 selvatico\xfffediminuisce!
-L'elusione di \xf000Ă\x0001\x0000 nemico diminuisce!
+La Precisione di \xf000Ă\x0001\x0000 diminuisce!
+La Precisione di \xf000Ă\x0001\x0000 selvatico\xfffediminuisce!
+La Precisione di \xf000Ă\x0001\x0000 nemico\xfffediminuisce!
+L'Elusione di \xf000Ă\x0001\x0000 diminuisce!
+L'Elusione di \xf000Ă\x0001\x0000 selvatico\xfffediminuisce!
+L'Elusione di \xf000Ă\x0001\x0000 nemico diminuisce!
 L'Attacco di \xf000Ă\x0001\x0000 diminuisce di molto!
 L'Attacco di \xf000Ă\x0001\x0000 selvatico diminuisce\xfffedi molto!
 L'Attacco di \xf000Ă\x0001\x0000 nemico diminuisce\xfffedi molto!
@@ -124,12 +124,12 @@ La Difesa Speciale di \xf000Ă\x0001\x0000 nemico\xfffediminuisce di molto!
 La Velocità di \xf000Ă\x0001\x0000 diminuisce\xfffedi molto!
 La Velocità di \xf000Ă\x0001\x0000 selvatico\xfffediminuisce di molto!
 La Velocità di \xf000Ă\x0001\x0000 nemico diminuisce\xfffedi molto!
-La precisione di \xf000Ă\x0001\x0000 diminuisce\xfffedi molto!
-La precisione di \xf000Ă\x0001\x0000 selvatico\xfffediminuisce di molto!
-La precisione di \xf000Ă\x0001\x0000 nemico diminuisce\xfffedi molto!
-L'elusione di \xf000Ă\x0001\x0000 diminuisce di molto!
-L'elusione di \xf000Ă\x0001\x0000 selvatico diminuisce\xfffedi molto!
-L'elusione di \xf000Ă\x0001\x0000 nemico diminuisce di\xfffemolto!
+La Precisione di \xf000Ă\x0001\x0000 diminuisce\xfffedi molto!
+La Precisione di \xf000Ă\x0001\x0000 selvatico\xfffediminuisce di molto!
+La Precisione di \xf000Ă\x0001\x0000 nemico diminuisce\xfffedi molto!
+L'Elusione di \xf000Ă\x0001\x0000 diminuisce di molto!
+L'Elusione di \xf000Ă\x0001\x0000 selvatico diminuisce\xfffedi molto!
+L'Elusione di \xf000Ă\x0001\x0000 nemico diminuisce di\xfffemolto!
 L'Attacco di \xf000Ă\x0001\x0000 cala a picco!
 L'Attacco di \xf000Ă\x0001\x0000 selvatico cala a\xfffepicco!
 L'Attacco di \xf000Ă\x0001\x0000 nemico cala a picco!
@@ -145,12 +145,12 @@ La Difesa Speciale di \xf000Ă\x0001\x0000 nemico\xfffecala a picco!
 La Velocità di \xf000Ă\x0001\x0000 cala a picco!
 La Velocità di \xf000Ă\x0001\x0000 selvatico cala a\xfffepicco!
 La Velocità di \xf000Ă\x0001\x0000 nemico cala\xfffea picco!
-La precisione di \xf000Ă\x0001\x0000 cala a picco!
-La precisione di \xf000Ă\x0001\x0000 selvatico cala a\xfffepicco!
-La precisione di \xf000Ă\x0001\x0000 nemico cala\xfffea picco!
-L'elusione di \xf000Ă\x0001\x0000 cala a picco!
-L'elusione di \xf000Ă\x0001\x0000 selvatico cala a\xfffepicco!
-L'elusione di \xf000Ă\x0001\x0000 nemico cala a picco!
+La Precisione di \xf000Ă\x0001\x0000 cala a picco!
+La Precisione di \xf000Ă\x0001\x0000 selvatico cala a\xfffepicco!
+La Precisione di \xf000Ă\x0001\x0000 nemico cala\xfffea picco!
+L'Elusione di \xf000Ă\x0001\x0000 cala a picco!
+L'Elusione di \xf000Ă\x0001\x0000 selvatico cala a\xfffepicco!
+L'Elusione di \xf000Ă\x0001\x0000 nemico cala a picco!
 L'Attacco di \xf000Ă\x0001\x0000 non può aumentare\xfffedi più!
 L'Attacco di \xf000Ă\x0001\x0000 selvatico non può\xfffeaumentare di più!
 L'Attacco di \xf000Ă\x0001\x0000 nemico non può\xfffeaumentare di più!
@@ -166,12 +166,12 @@ La Difesa Speciale di \xf000Ă\x0001\x0000 nemico non\xfffepuò aumentare di pi�
 La Velocità di \xf000Ă\x0001\x0000 non può aumentare\xfffedi più!
 La Velocità di \xf000Ă\x0001\x0000 selvatico non può\xfffeaumentare di più!
 La Velocità di \xf000Ă\x0001\x0000 nemico non può\xfffeaumentare di più!
-La precisione di \xf000Ă\x0001\x0000 non può\xfffeaumentare di più!
-La precisione di \xf000Ă\x0001\x0000 selvatico non\xfffepuò aumentare di più!
-La precisione di \xf000Ă\x0001\x0000 nemico non può\xfffeaumentare di più!
-L'elusione di \xf000Ă\x0001\x0000 non può aumentare\xfffedi più!
-L'elusione di \xf000Ă\x0001\x0000 selvatico non può\xfffeaumentare di più!
-L'elusione di \xf000Ă\x0001\x0000 nemico non può\xfffeaumentare di più!
+La Precisione di \xf000Ă\x0001\x0000 non può\xfffeaumentare di più!
+La Precisione di \xf000Ă\x0001\x0000 selvatico non\xfffepuò aumentare di più!
+La Precisione di \xf000Ă\x0001\x0000 nemico non può\xfffeaumentare di più!
+L'Elusione di \xf000Ă\x0001\x0000 non può aumentare\xfffedi più!
+L'Elusione di \xf000Ă\x0001\x0000 selvatico non può\xfffeaumentare di più!
+L'Elusione di \xf000Ă\x0001\x0000 nemico non può\xfffeaumentare di più!
 L'Attacco di \xf000Ă\x0001\x0000 non può diminuire\xfffedi più!
 L'Attacco di \xf000Ă\x0001\x0000 selvatico non può\xfffediminuire di più!
 L'Attacco di \xf000Ă\x0001\x0000 nemico non può\xfffediminuire di più!
@@ -187,12 +187,12 @@ La Difesa Speciale di \xf000Ă\x0001\x0000 nemico non\xfffepuò diminuire di pi�
 La Velocità di \xf000Ă\x0001\x0000 non può diminuire\xfffedi più!
 La Velocità di \xf000Ă\x0001\x0000 selvatico non può\xfffediminuire di più!
 La Velocità di \xf000Ă\x0001\x0000 nemico non può\xfffediminuire di più!
-La precisione di \xf000Ă\x0001\x0000 non può\xfffediminuire di più!
-La precisione di \xf000Ă\x0001\x0000 selvatico non\xfffepuò diminuire di più!
-La precisione di \xf000Ă\x0001\x0000 nemico non può\xfffediminuire di più!
-L'elusione di \xf000Ă\x0001\x0000 non può diminuire\xfffedi più!
-L'elusione di \xf000Ă\x0001\x0000 selvatico non può\xfffediminuire di più!
-L'elusione di \xf000Ă\x0001\x0000 nemico non può\xfffediminuire di più!
+La Precisione di \xf000Ă\x0001\x0000 non può\xfffediminuire di più!
+La Precisione di \xf000Ă\x0001\x0000 selvatico non\xfffepuò diminuire di più!
+La Precisione di \xf000Ă\x0001\x0000 nemico non può\xfffediminuire di più!
+L'Elusione di \xf000Ă\x0001\x0000 non può diminuire\xfffedi più!
+L'Elusione di \xf000Ă\x0001\x0000 selvatico non può\xfffediminuire di più!
+L'Elusione di \xf000Ă\x0001\x0000 nemico non può\xfffediminuire di più!
 Le statistiche di \xf000Ă\x0001\x0000 tornano alla\xfffenormalità!
 Le statistiche di \xf000Ă\x0001\x0000 selvatico\xfffetornano alla normalità!
 Le statistiche di \xf000Ă\x0001\x0000 nemico tornano\xfffealla normalità!
