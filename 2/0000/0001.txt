@@ -1,8 +1,8 @@
-PS／PP
+PS/PP
 Terapie
 Stato
 Rimedi
-PS／PP
+PS/PP
 Terapie
 Strumenti lotta
 Pokéball
@@ -23,10 +23,10 @@ Avanti
 PS/PP
 Terapie
 Stato
-Guaritori
+Rimedi
 Pokéball
 Strumenti lotta
-／
+/
 \xf000Ȁ\x0001\x0000
 \xf000Ȁ\x0001\x0000
 Usa
