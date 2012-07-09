@@ -1,12 +1,12 @@
-チェックをする　あいてと\xfffeせきがいせんつうしんを　してください
-せきがいせんつうしんに　しっぱい\xfffeメニューに　もどります
-せきがいせんつうしんが　\xfffeつながりました！
-チェックをする　あいてと\xfffeせきがいせんつうしんを　してください
-チェックちゅう　です\xfffeつうしんを　つづけてください
-したがめんの　メニューを\xfffeタッチで　スタート！
-チェックスタート
-ランキング
-もどる
-やめる
-フィーリングチェック
-シーンが　ずれました\xfffeさきへ　すすみます
+Create an Infrared Connection to start\xfffethe Feeling Check with someone.
+Infrared Communication failed\xfffereturning to menu.
+You've created an Infrared Connection!
+Create an Infrared Connection to start\xfffethe Feeling Check with someone.
+Checking...\xfffePlease maintain the Infrared Connection.
+Tap the menu in the Touch Screen\xfffeto begin!
+BEGIN CHECK
+RANKING
+CANCEL
+BACK
+FEELING CHECK
+You wish to continue and\xfffethe scene has changed.
