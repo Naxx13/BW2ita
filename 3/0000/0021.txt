@@ -34,7 +34,7 @@ Baccaki
 Baccaperina
 Baccapesca
 Ding-dong!\xf000븁\x0000\xfffeEsatto!\xfffeProssima domanda!\xf000븁\x0000
-Quando il tuo Pokémon usa\xfffela mossa chiamata Bullo...\xf000븀\x0000\xfffeTL'altro pokèmon oltre\xf000븁\x0000\xfffead avere un incremento di Attacco\xfffein quale stato si troverà?
+Quando il tuo Pokémon usa\xfffela mossa chiamata Bullo...\xf000븀\x0000\xfffel'altro pokèmon oltre\xf000븁\x0000\xfffead avere un incremento di Attacco\xfffein quale stato si troverà?
 Sonno
 Contraccolpo
 Confusione
@@ -46,14 +46,14 @@ La lavagna spiega i cambiamenti\xfffedi stato dei Pokémon in battaglia.\xf000�
 Cosa vuoi leggere?
 What type is the of status\xfffethat is caused by a certain\xf000븀\x0000\xffferate when being blown\xf000븁\x0000\xfffeby a Poison-type move?\xfffeAlso, the item known as Antidote,\xf000븁\x0000\xfffecan heal this despicable status.\xf000븁\x0000
 La Paralisi riduce la Velocità\xfffee potrebbe impedire di attaccare.\xf000븁\x0000\xfffeRimane dopo una battaglia, quindi usa un \xfffeAntiparalisi.\xf000븁\x0000
-Se un Pokèmon si addormenta, diventerà\xfffeincapace di attaccare.\xf000븁\x0000\xfffeIl Pokèmon potrebbe svegliarsi da solo,\xfffema se una battaglia termina mentre è\xf000븀\x0000\xfffeaddormentato rimarrà addormentato.\xf000븁\x0000\xfffeSveglialo usando Sveglia.\xf000븁\x0000
+Se un Pokémon si addormenta, diventerà\xfffeincapace di attaccare.\xf000븁\x0000\xfffeIl Pokémon potrebbe svegliarsi da solo,\xfffema se una battaglia termina mentre è\xf000븀\x0000\xfffeaddormentato rimarrà addormentato.\xf000븁\x0000\xfffeSveglialo usando Sveglia.\xf000븁\x0000
 Una scottatura riduce l'Attcacco e\xffferiduce costantemente i PS della vittima.\xf000븁\x0000\xfffeUna scottatura permane dopo la battaglia.\xfffeCura una scottatura usando Antiscottatura.\xf000븁\x0000
-Se un Pokèmon è congelato, diventa\xfffecompletamente indifeso.\xf000븁\x0000\xfffeIl Pokémon potrebbe scongelarsi da solo,\xfffema se una battaglia finisce mentre è\xf000븀\x0000\xfffecongelato, rimarrà congelato.\xf000븁\x0000\xfffeScongelalo usando Antigelo.\xf000븁\x0000
+Se un Pokémon è congelato, diventa\xfffecompletamente indifeso.\xf000븁\x0000\xfffeIl Pokémon potrebbe scongelarsi da solo,\xfffema se una battaglia finisce mentre è\xf000븀\x0000\xfffecongelato, rimarrà congelato.\xf000븁\x0000\xfffeScongelalo usando Antigelo.\xf000븁\x0000
 Avvelenamento
 Paralisi
 Sonno
 Scottatura
 Congelamento
 Indietro
-Frozen
+Congelato
 Back
