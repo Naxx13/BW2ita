@@ -15,8 +15,8 @@ Maestra Asilo
 Prescolare
 Prescolare
 Gemelli
-⒆⒇ Allevatore
-⒆⒇ Allevatore
+Allevatore ⒆⒇ 
+Allevatore ⒆⒇ 
 Capo
 nessun dato
 nessun dato
@@ -36,9 +36,9 @@ Pasticciere
 Psichico
 Psichico
 nessun dato
-⒆⒇ Allenatore
+Allenatore ⒆⒇ 
 nessun dato
-⒆⒇ Allenatore
+Allenatore ⒆⒇ 
 Ragazzo ricco
 Signora
 Pilota
@@ -50,7 +50,7 @@ no data
 ＯＬ
 Ace Trainer
 Ace Trainer
-Black Belt
+Cintura Nera
 Scienziato
 Striker
 Brycen
@@ -67,8 +67,8 @@ Battle Girl
 Parasol Lady
 Clerk ⑭
 Clerk ⑭
-Backers
-Backers
+Filantropo
+Filantropo
 Veterano
 Veterano
 Ciclista
@@ -99,26 +99,26 @@ nessu dato
 GAME FREAK
 nessun dato
 nessun dato
-⒆⒇ Allenatore
+Allenatore ⒆⒇ 
 Team Plasma
 Boss metrò
 nessun dato
-⒆⒇ Allenatore
-⒆⒇ Allenatore
-⒆⒇ Allenatore
-⒆⒇ Allenatore
-⒆⒇ Allenatore
-⒆⒇ Allenatore
-⒆⒇ Allenatore
-⒆⒇ Allenatore
-Leader
-Leader
-Leader
-Leader
-Leader
-Leader
-Leader
-Leader
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
+Capo
+Capo
+Capo
+Capo
+Capo
+Capo
+Capo
+Capo
 Brock
 Misty
 Lt. Surge
@@ -144,27 +144,27 @@ Winona
 Tate
 Liza
 Juan
-⒆⒇ Allenatore
+Allenatore ⒆⒇ 
 Guitarist
-⒆⒇ Allenatore
-⒆⒇ Allenatore
-⒆⒇ Allenatore
-⒆⒇ Allenatore
-⒆⒇ Allenatore
-⒆⒇ Allenatore
-⒆⒇ Allenatore
-⒆⒇ Allenatore
-boss metrò
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
+Boss Metrò
 no data
-⒆⒇ Allenatore
-⒆⒇ Allentore
-⒆⒇ Allenatore
-⒆⒇ Allenatore
-⒆⒇ Allenatore
-⒆⒇ Allenatore
-⒆⒇ Allenatore
-⒆⒇ allenatore
-Boss metrò
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
+Boss Metrò
 nessun dato
 Roark
 Gardenia
@@ -179,25 +179,25 @@ Lance
 Steven
 Wallace
 Beauty
-⒆⒇ Allenatore
-⒆⒇ Allenatore
-⒆⒇ Allenatore
-⒆⒇ Allenatore
-⒆⒇ Allenatore
-⒆⒇ Allenatore
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
 Team Plasma
 Team Plasma
 Team Plasma
 Team Plasma
-⒆⒇ Allenatore
+Allenatore ⒆⒇ 
 Team Plasma
 Team Plasma
 Campione
 Fantasma
-⒆⒇ Allenatore
+Allenatore ⒆⒇ 
 GAME FREAK
-⒆⒇ Allenatore
-⒆⒇ Allenatore
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
 Eroe
 Eroe
 Ninja
@@ -226,11 +226,11 @@ Dummy Suit
 Dummy Suit
 Dummy Suit
 Boss metro
-⒆⒇ Allenatore
-⒆⒇ Allenatore
-⒆⒇ Allenatore
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
+Allenatore ⒆⒇ 
 nessun dato
 Uomo del futuro
 Harlequin
 Rosso
-⒆⒇ Allenatore
+Allenatore ⒆⒇ 
