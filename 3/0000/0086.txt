@@ -1,4 +1,4 @@
-\xf000Ā\x0001\x0000 received \xf000ȁ\x0001\x0001 BP!
+\xf000Ā\x0001\x0000 ha ricevuto \xf000ȁ\x0001\x0001 PL!
 Salvataggio in corso...\xfffeNon rimuovere l'alimentazione.
 Salvataggio...\xfffeon rimuovere l'alimentazione.
 Congratulazioni!Hai raggiunto\xfffesette vittorie di fila!\xf000븁\x0000\xfffeSiccome le hai vinte di fila,\xfffeTi sei aggiudicato questi Punti Lotta!\xf000븁\x0000
@@ -8,7 +8,7 @@ E, \xf000Ā\x0001\x0000,ora hai ottenuto \xfffeil diritto di lottare\xf000븀\x0
 E, \xf000Ā\x0001\x0000,ora hai ottenuto \xfffeil diritto di lottare\xf000븀\x0000\xfffenel Super Treno in lotta multipla!\xf000븁\x0000
 In aggiunta,per commemorare l'evento ,ti conferisco \xfffequesto trofeo.\xf000븁\x0000\xfffeTi suggeriamo di esporlo a casa tua!
 Goditi la giornata qui.\xf000븁\x0000\xfffeSe vuoi continuare la tua \xfffesfida o tornare a Sciroccopli,\xf000븀\x0000\xfffeavvertimi.
-Qui termina la linea del Treno Singolo.\xf000븁\x0000\xfffeQuando vuoi ritornare a Sciroccopoli,\xfffeavvertimi.\xf000븁\x0000\xfffDiveriti mentre stai qui.
+Qui termina la linea del Treno Singolo.\xf000븁\x0000\xfffeQuando vuoi ritornare a Sciroccopoli,\xfffeavvertimi.\xf000븁\x0000\xfffdiveriti mentre stai qui.
 Qui termina la linea del Treno in lotta Doppio.\xf000븁\x0000\xfffeQuando vuoi tornare a Sciroccopoli,\xfffeavvertimi.\xf000븁\x0000\xfffeDivertit mentre stai qui.
 Qui termina la linea del Treno in lotta Multipla.\xf000븁\x0000\xfffeQuando vuoi tornare a Sciroccopli,\xfffeavvertimi.\xf000븁\x0000\xfffeDivertiti mentre stai qui.
 Vuoi tornare a Sciroccopoli?
