@@ -72,14 +72,14 @@ MEMORY LINK
 CANCELLA
 Pokémon VERSIONE NERA 2 o\xfffePokémon VERSIONE BIANCA 2\xfffela chiav verrà inviata.
 Pokémon VERSIONE NERA 2 o\xfffePokémon VERSIONE BIANCA 2\xfffePuò essere collegata.
-Scarica il software per Nintendo 3DS\xfffe"RAdar Pokémon" per inviare\xfffedati e Pokémon al Box o\xfffeal tuo Zaino.
-Return to title screen.
+Scarica il software per Nintendo 3DS\xfffe"Radar Pokémon" per inviare\xfffedati e Pokémon al Box o\xfffeal tuo Zaino.
+Ritorna alla schermata dei titoli.
 MEMORY LINK
 COMUNICAZIONE WIRELESS
 Wi-Fi
 CANCELLA
 Attendi la comunicazione wirless\xfffetra due console DS.
-Find out information on Wi-Fi.
+Trova informazioni sul Wi-Fi.
 Vai alla MEMORY LINK.
 Torna al MENÚ PRINCIPALE.
 MENÚ PRINCIPALE
@@ -136,11 +136,11 @@ Trying to synch with either\xfffePOCKET MONSTERS BLACK or\xfffePOCKET MONSTERS W
 Wrong game synch ID.
 Attempted to synch to a busy game.\xfffePlease wait a few moments and try again.
 MEMORY LINK reports being read...
-Completed MEMORY LINK!
+MEMORY LINK completato!
 MEMORY LINK
 Wireless service needs to do more tasks.
 Comunicazione in corso...\xfffeAspetta un momento.
-Requested game is busy.\xfffePlease wait a few moments and try again.
+Il gioco richiesto è occupato.\xfffeAttendi un attimo e riprova.
 Can't find synch ID.
 TRE AUTO
 EACH OF BONE AND DREAM
@@ -161,18 +161,18 @@ Pokemon Musical.
 The Pokemon Breeder in the Pokemon Center is planning something.
 LA CHIAVE non può essere usata.
 NINTENDO 3DS LINK
-Trovare dati RAdar Pokémon?
-Connetti con il RAdar Pokémon.
-Ricerca dati RAdar Pokémon in corso.
-\xf000a\x0001\x0000 has arrived!\xf000?\x0000
+Trovare dati Radar Pokémon?
+Connetti con il Radar Pokémon.
+Ricerca dati Radar Pokémon in corso.
+\xf000a\x0001\x0000 è arrivato!\xf000?\x0000
 Dati sovrascritti con successo!
-Connessione con RAdar Pokémon interrotta.
-Data is coming.
+Connessione con Radar Pokémon interrotta.
+Dato in arrivo.
 Initializing communication.\xfffePokemon AR Searcher is reading data...
 Seleziona un Pokémon.
-In order to send, you need to save.
+Prima di inviare, devi salvare.
 Couldn't find Nintendo 3DS Pokemon \xfffeAR Searcher channel.
 Nintendo 3DS Pokemon AR Searcher data is not a Pokemon.
 Per inviare un Pokémon al Box devi averne 6 in Squadra.
 Invio Pokémon al Box in corso.
-Item being sent to bag.
+Oggetto inviato alla borsa.
