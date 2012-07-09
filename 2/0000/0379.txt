@@ -1,18 +1,18 @@
-Nome 
+NOME
 
-Natura
-POKÉDEX
-Soldi
+NATURA
+POKEDEX
+SOLDI
 ID No.
-Tempo
-Inizio avventura
-HALL OF FAME DEBUT
+TEMPO
+AVVENTURA INIZIATA IL:
+DEBUTTO SALA D'ONORE
 Tempo di connessione
 Collegamento lotte
 LINK BATTLE WINS
 LINK BATTLE LOSSES
 LINK TRADES
-Appare un pokemon selvatico
+POKEMON SELVATICI VISTI
 TRAINERS BATTLED
 PEOPLE PASSED BY
 FEELING CHECKS
@@ -20,17 +20,17 @@ USABLE PASS POWERS
 MUSICAL PERFORMANCES
 Poké Transfer HIGH SCORE
 Battle Test HIGH SCORE
-フェスミッション　クリアすう
-ポケウッド　さつえい　かいすう
-ＰＷＴ　ゆうしょう　かいすう
-\xf000Ĺ\x0001\x0007に
-あんないした　ひとの　かず
+Missioni FES
+Film Pokéwood
+Lotte PWT
+\xf000Ĺ\x0001\x0007
+Film diretti
 ：
-－－－－年 －－月 －－日 －－時 －－分
-ーー：ーー
-Cancel
-Touch Card to flip.
-Sign Card
+-- -- ---- -- ore -- minuti
+--:--
+Annulla
+Tocca la carta per girare.
+Firma
 Vuoi firmare \xfffela tua Carta Allenatore?
 La tua firma corrente verrà cancellata. \xfffeContinuare?
 Ardita
@@ -59,54 +59,54 @@ Vivace
 Cauta
 Furba
 \xf000Ȅ\x0001\x0000
-\xf000Ȇ\x0001\x0000円
-\xf000ȃ\x0001\x0000年 \xf000ȁ\x0001\x0001月 \xf000ȁ\x0001\x0002日
-\xf000ȃ\x0001\x0000年 \xf000ȁ\x0001\x0001月 \xf000ȁ\x0001\x0002日 \xf000ȁ\x0001\x0003時 \xf000ȁ\x0001\x0004分
-\xf000Ȃ\x0001\x0000ひき
+\xf000Ȇ\x0001\x0000 $
+\xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0001/\xf000ȃ\x0001\x0000
+\xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0001/\xf000ȃ\x0001\x0000 \xf000ȁ\x0001\x0003 ore \xf000ȁ\x0001\x0004 minuti
+\xf000Ȃ\x0001\x0000
 Capopalestra di Alisopoli\xfffeKomor
-しんりを　もとめる　もの
-みんなの　ゆめは　それぞれ　ちがう\xfffeきみは　きみが　したいことを　さがせ
-Capopalestra di Tachiwaki\xfffeVelia
-ポイズンライフ　ポイズンライブ！
-ともだちのため　ポケモンのため\xfffeノー！　というのも　やさしさでしょ！
+Colui che cerca la verità
+Ognuno ha un sogno diverso.\xfffeFai si che si avveri se lo desideri.
+Capopalestra di Zondopoli\xfffeVelia
+Vita Veleno, Vivere Veleno!
+Questo è per i miei amici, sia\xfffeumani che Pokémon! Siate felici!
 Capopalestra di Austropoli\xfffeArtemisio
 Artista di insetti speciale
 Umm... Giusto. Tu!\xfffeUsa Pokémon coleottero!
 Capopalestra di Sciroccopoli\xfffeCamelia
 La bellezza scintillante
-May you always continue to be a person\xfffewho brightens your surroundings.
+Spero continui ad essere la persona\xfffeche illumina ciò che ti circonda.
 Capopalestra di Levantopoli\xfffeRafan
 Il boss sotterraneo
-Ya always want to live honestly\xfffefer yerself and yer Pokémon.
+Si, vivi sempre onestamente\xfffeper te e i tuoi Pokémon.
 Capopalestra di Mistralopoli\xfffeAnemone
 La ragazza che vola in alto
-You’ll see smiles all around you,\xfffewith the brightest of skies above you.
+Vedrai sorrisi attorno a te,\xfffecon il cielo splendente sopra di te.
 Capopalestra di Boreduopoli\xfffeAristide
 Il sindaco spartano
-Sincere Trainer,\xfffekeep growing stronger!
-Capopalestra di Seigahia\xfffeShizui
-うみよりも　うみな　おとこ！
-じんせいを　あらなみに　たとえるのも\xfffeちんぷだが　おはん　ながされるなよ！
+Sinceramente Allenatori,\xfffediventate sempre più forti!
+Capopalestra di Seigahia\xfffeCiprian
+Uomo di Mare
+Cavalcare un'onda stupenda è\xfffeil modo per mantenersi in forma!
 Medaglia Base\xfffeRiceve: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
-I pokemon ti obbediranno fino al Lv. 20\xfffe.
+I pokemon ti obbediranno fino al Lv. 20.\xfffe
 
 Medaglia Tossina\xfffeRiceve: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
-I pokemon ti obbediranno fino al Lv. 30\xfffe.
+I pokemon ti obbediranno fino al Lv. 30.\xfffe
 
 Medaglia Insetto\xfffeRiceve: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
-I pokemon ti obbediranno fino al Lv. 40\xfffe.
+I pokemon ti obbediranno fino al Lv. 40.\xfffe
 
 Medaglia Volt\xfffeRiceve: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
-I pokemon ti obbediranno fino al Lv. 50\xfffe.
+I pokemon ti obbediranno fino al Lv. 50.\xfffe
 
 Medaglia Sisma\xfffeRiceve: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
-I pokemon ti obbediranno fino al Lv. 60\xfffe.
+I pokemon ti obbediranno fino al Lv. 60.\xfffe
 
 Medaglia Jet\xfffeRiceve: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
-I pokemon ti obbediranno fino al Lv. 70\xfffe.
+I pokemon ti obbediranno fino al Lv. 70.\xfffe
 
 Medaglia Leggenda\xfffeRiceve: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
-I pokemon ti obbediranno fino al Lv. 80\xfffe.
+I pokemon ti obbediranno fino al Lv. 80.\xfffe
 
 Medaglia Onda\xfffeReceve: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
-Tutti i pokemon di qualsiasi livello ti obbedirannoxfffe.
+Tutti i pokemon di qualsiasi livello ti obbediranno.\xfffe
