@@ -9,11 +9,11 @@ Una salutare sudata...\xfffeSono orgoglioso di essere atleta!
 ＰＯＷＥＲ！\xf000븁\x0000\xfffeポケモンも　アメフトも\xfffeパワーが　いのち！！\xf000븁\x0000
 Non ho avuto abbastanza forza...?
 パワーは　たりないが\xfffeやさしさは　たりているぞ！\xf000븁\x0000
-Sto allenandomi al massimot\xfffecon i miei Pokémon!
+Sto allenandomi al massimo\xfffecon i miei Pokémon!
 Un elegante Smasher\xfffeha una lotta elegante!\xf000븁\x0000
 A-a-anche se ho perso,\xfffenon mi scompongo.
 うろたえたりして\xfffeこんな　モノ　あげちゃうわ！\xf000븁\x0000
-Siccom sono una lady, non sarò\xfffedispiaciuta nel perdere la lotta!
+Siccome sono una lady, non sarò\xfffedispiaciuta nel perdere la lotta!
 よせんしあいが　ちかいのよ！\xf000븁\x0000\xfffeあんたを　かべに　みたてて\xfffeスマッシュの　れんしゅうさ！\xf000븁\x0000
 Whoa! Lasciami... riprendere... fiato...\xfffeE' stato un buon allenamento...
 ハア　ハア　ハア\xfffeハア　ハア　ハア……\xf000븁\x0000
@@ -120,91 +120,91 @@ Stavo aspettando quella mossa!
 いきものが　ぜんりょくで\xfffeうごく　うつくしさ！\xf000븁\x0000\xfffeあぁっ！\xfffeもっと　ちかくで　みさせておくれ！\xf000븁\x0000
 Ho visto la loro bellezza da vicino!
 ディス　イズ　アート\xfffeディス　イズ　プレゼント！\xf000븁\x0000
-You know, creatures that exert \xfffeall their strength are always beautiful.
+Sai, le creature che esercitano \xfffetutta la loro forza sono sempre belle.
 おいらに　かったら\xfffeこの　バックパックの　なかの\xf000븀\x0000\xfffeいいもの　あげるよ！\xf000븁\x0000
-You are great!\xfffeAnd strong!
-Here you are.\xfffeI will give you this as I promised!\xf000븁\x0000
+Tu sei grande!\xfffeE forte!
+Eccoti qui.\xfffeTi darò questo, ho promesso!\xf000븁\x0000
 やまや　もりを\xfffeおもいきり　はしりまわるって\xf000븀\x0000\xfffeきもち　いいもんな！
-I came here on my journey,\xfffebut it's kind of lively here, isn't it?\xf000븁\x0000
-Is there a festival or something \xfffegoing on here?
-This is what I found during my trip.\xfffeI don't need it, so I will give it to you.\xf000븁\x0000
-Everybody is dressed the same way.\xfffeIs this some kind of ceremony?
+Sono venuto qui nel mio viaggio,\xfffema è una specie di nuova vita qui, vero?\xf000븁\x0000
+C'è una festa o qualcosa  \xfffedel genere qui?
+Questo è quello che ho trovato nelmio viaggio.\xfffeNon ne ho bisogno, lo darò a te.\xf000븁\x0000
+Tutti sono vestiti allo stesso modo.\xfffeE'forse una sorta di cerimonia?
 スポーツせんしゅ　って\xfffeきっと　まんぞく　していないわよね\xf000븁\x0000\xfffeおばさん　しあいを　みていて\xfffeそう　かんじるんだよね\xf000븁\x0000\xfffeりゆう？　おばさんに　かてたら\xfffeはなしてあげるわよ！\xf000븁\x0000
-Are you pleased with your victory?\xfffeOr are you unsatisfied?
-This Moomoo Milk is tasty\xfffeand so very satisfying!\xf000븁\x0000
+Sei sodisfatto della tua vittoria?\xfffeOppure sei insoddisfatto?
+Il latte Moomoo è molto gustoso\xfffee molto sddisfacente!\xf000븁\x0000
 どれだけ　すごい　プレイができても\xfffeもっと　すごい　プレイを　したいはず\xf000븁\x0000\xfffeおばさんも　おいしい　パンが\xfffeやけたとしても　まんぞくできない\xf000븁\x0000\xfffeだって　つぎに　やける　パンは\xfffeもっともっと　おいしくしたいもの！
 あつくなれる　ばしょ！\xfffeそう　きいて　ここに　きました！\xf000븀\x0000\xfffeあつくして　もらいましょうか！\xf000븁\x0000
-The heat here is too much.\xfffeI'm just burning up!
+Qui fa troppo caldo.\xfffeSto bruciando!
 あつい　きもちを！\xf000븁\x0000
 ハートが　バーニング！\xfffeあつい　しょうぶを　ありがとう！\xf000븁\x0000\xfffeつぎは　スポーツかんせんで\xfffeメラメラ　もえちゃいます！
 ポケモンを　げんきに　そだてるコツ\xfffeしあいを　みせて　しげきを　あたえる\xf000븀\x0000\xfffeそれと！　しょうぶを　させること！\xf000븁\x0000
-It's so frustrating to lose!\xfffeBut it's also important to learn from it.
+E'così frustante perdere!\xfffeMa è anche importante imparare dai propri errori.
 だいじなことを　おもいだせた\xfffeというわけで　えんりょせずに　ね\xf000븁\x0000
 かって　わかること　より\xfffeまけて　わかることが　おおい！\xf000븀\x0000\xfffeスポーツも　おなじだと　おもうなー
-The Pokémon I raised are\xfffeas good as professionals!\xf000븁\x0000
-The Pokémon you raised\xfffeare great, too!
+Ho allenato molti Pokèmon\xfffesono un bravo professionista!\xf000븁\x0000
+Il Pokèmon che hai allenato\xfffeè troppo forte!
 すごい　ポケモンを　みせてくれて\xfffeうれしかったから　ほら……\xf000븁\x0000
-There are so many ways\xfffeto raise Pokémon.
-I am not skipping work!\xf000븁\x0000
-If I had known this would happen,\xfffeI would have worked diligently.
+Ci sono molti modi per\xfffeallenare i Pokèmon.
+Non saltare il lavoro!\xf000븁\x0000
+Se avessi saputo che sarebbe successo,\xfffeavrei lavorato di più.
 よし！\xfffeまじめに　なる！\xf000븁\x0000
-Taking a productive break\xfffeis also part of any job!
-Someone sent me a ticket, so I came.\xfffeBut there's no game going on!\xf000븁\x0000
-I have a lot of work to do.\xfffeWhat am I doing here?
+Prendere una pausa fa parte\xfffedi qualsiasi lavoro!
+Qualcuno mi ha mandato un biglietto, per questo sono venuto.\xfffeMa c'è una partita in corso!\xf000븁\x0000
+Ho un sacco di lavoro qui.\xfffeCosa ci faccio qui?
 きみに　これを　くれてやる\xfffeそうすれば　なにか　したことになる\xf000븁\x0000
-Athletes on off days are no better\xfffethan guys on days off.
+Gli atleti nei non giorni di riposo sono bravi.\xfffeNei giorni di riposo..
 わたしが　ほいくえんで\xfffeおせわしてる　こどもの　なかにも\xf000븀\x0000\xfffeいつか　スターに　なっちゃったりする\xf000븀\x0000\xfffeすごい　こが　いるのかなー\xf000븁\x0000
 アナタも　けっこう　ひかってるけど\xfffeほんとうの　スターって　いいわよねー
-You seem to have potential as a star.\xfffeSo, will you please be my friend?\xf000븁\x0000
-Should I get autographs now\xfffefrom children who are likely to be stars?
+Hai un potenziale come una stella.\xfffeCosì ti chiedo, vuoi diventare mio amico?\xf000븁\x0000
+Dovrei ottenere degli autografi \xfffedai bambini che vogliono diventare delle star?
 おじさんは　サッカーと\xfffeポケモンを　こよなく　あいしてる\xf000븁\x0000\xfffeどうだい？　そうじや　とよばれた\xfffeおじさんの　ポケモンは　すごいぞ！\xf000븁\x0000
-I could not stop all\xfffeof your Pokémon's attacks...
+Io non riuscivo a smettere\xfffeda tuti gli attacchi dei tuoi Pokèmon...
 これは　\xfffeうけとめて　くれるかい？\xf000븁\x0000
 おじさん　もとは　サッカーせんしゅ\xfffeポジションは　スイーパー\xf000븁\x0000\xfffeいまの　おしごとも　あるいみ\xfffeスイーパー　なんだよね
 せんしゅの　ポケモンは　すごいなー！\xf000븁\x0000\xfffeでも　ぼくの\xfffeポケモンだって　すごいぞー！\xf000븁\x0000
-Your Pokémon are also great!
+I tuoi Pokèmon sono grandi!
 おたがいの　ポケモンを\xfffeたたえるために　これを！\xf000븁\x0000
-I will strive to raise my Pokémon\xfffeto that level!
+Mi sforzerò ad allenare il mio Pokémon\xfffefino a questo livello!
 きょうの　しあい　みたーっ！？\xf000븁\x0000\xfffeせんしゅと　ポケモンの\xfffeおりなす　ボールさばき！\xf000븁\x0000\xfffeこの　こうふんを\xfffeしょうぶに　ぶつけるわ！\xf000븁\x0000
-I lost, but I am still excited!
+Ho perso, ma sono ancora eccitato!
 こうふん　しちゃったから\xfffeプレゼント　しちゃうわ！！\xf000븁\x0000
 スポーツを　たのしむ\xfffeポケモンちゃんが　みられるのは\xf000븀\x0000\xfffeライモンシティ　だけ！
-When I come here, I get hyper!\xfffeSo, let's have a battle right away!\xf000븁\x0000
-I lost against you too quickly!
+Quando sono qui mi sento Iper!\xfffeDai facciamo subito una battaglia!\xf000븁\x0000
+Ho perso contro di te troppo in fretta!
 アッサリ　これを　あげるっ！\xf000븁\x0000
 しあい　みてると\xfffeテンション　あがっちゃって！\xf000븀\x0000\xfffeもう　じっとなんか　してらんねえっ！
 ドクター！　おきゃくさまの\xfffeなかに　ドクターは　いませんか？\xf000븁\x0000\xfffeはい　わたしが　ドクターです\xfffeさっそく　しょうぶと　まいりましょう\xf000븁\x0000
-Oh! My Pokémon is all worn out!
+Oh! Il mio Pokémon è esausto!
 ポケモンの　げんきが　なくなったら\xfffeげんきのかたまり！\xf000븁\x0000
 しあいを　みていても\xfffeせんしゅが　ケガを　しないか\xf000븀\x0000\xfffeしんぱい　してばかりだよ
 おおぜいの　なかから\xfffeぼくに　はなしかけた　きみ！\xf000븀\x0000\xfffeみる　め　あるじゃないか！\xf000븁\x0000
-You are a worthy opponent!
+Tu sei un degno avversario!
 きみの　わざの　つかいかた\xfffeはっきりいって　ぼくの　このみだよ！\xf000븁\x0000\xfffeこれ……　よかったら！\xf000븁\x0000
 ふふ\xf000븁\x0000\xfffeひとごみに　いても　ぼくが\xfffeつよそうだと　ばれちゃうんだな
 ふだんは　エリートらしく　してるけど\xfffeここに　いるときくらい　ふつうの\xf000븀\x0000\xfffeおんなのこで　いたいの\xf000븁\x0000
-I don't want to think about Pokémon\xfffevery much right now!
-If I give you this,\xfffewill you leave me alone?\xf000븁\x0000
+Non voglio pensare ai  Pokémon\xfffeNon sto vivendo un grande momento!
+Se ti do questo,\xfffemi lasci da solo?\xf000븁\x0000
 エリートだって　たまにはさ\xfffeふつうの　おんなのこ　してたいの！\xf000븁\x0000\xfffeかっこいい　せんしゅに　キャーって\xfffeさわいだりして　たのしみたいの
 つぎは　どっちの　チームが\xfffeゴールを　きめるか！？\xf000븀\x0000\xfffeオレに　かてば　おしえるよ！\xf000븁\x0000
-Aha!\xfffeThat team will score next!
+Aha!\xfffeQuesta squadra ti batterà!
 ピキーン！\xfffeオレは　これを　あげる！\xf000븁\x0000
 オレの　ちょうのうりょく\xfffeボールが　ゴールに　きまる\xf000븀\x0000\xfffeすんぜんにしか　はたらかないよ
 うふふ……\xf000븁\x0000\xfffeわたしが　ねんじた　チームが\xfffeかならず　かつのよ！\xf000븁\x0000
-What...? Was everything up till now\xfffejust a coincidence...?
+Cosa...? Tutto quello fino ad adesso\xfffeè stata una coincidenza?
 わたしに　かてた　ひとには\xfffeかならず　あげるのよ！\xf000븁\x0000
-Feelings matter when you cheer!\xfffeIf I believe, I feel my team will win!
-Fishing is a perfectly respectable sport!\xfffeWhy isn't there a fishing stadium?!\xf000븁\x0000
-...Of course, fishing is fun\xfffewhen you enjoy it in nature.\xf000븁\x0000
+I sentimenti valgono molto!\xfffeCredo che la mia squadra vincerà!
+La pesca è uno sport di tutto rispetto!\xfffePerchè non c'è uno stadio?!\xf000븁\x0000
+...Naturalmente la pesca è divertente\xfffequando ami la natura.\xf000븁\x0000
 たのしい　ひとときを　ありがとう\xfffeこれは　ほんの　きもちだよ\xf000븁\x0000
-I like quiet nature,\xfffebut I like lively places like this, too.
+Amo la natura tranquilla,\xfffeMa mi piacciono i posti vitali, come questo
 スポーツの　おおくは\xfffeジェントルマンの　あそびから\xf000븀\x0000\xfffeうまれて　いるのだよ！\xf000븁\x0000
-Ladies and Gentlemen!\xfffeThe game is over!
-Because I am a Gentleman,\xfffeI will present you with this gift.\xf000븁\x0000
+Signore e Signori!\xfffeIl gioco è finito!
+Perchè sono un gentiluomo,\xfffeti regalo questo dono.\xf000븁\x0000
 ポケモンしょうぶは　ひとと\xfffeポケモンが　なかよくなり\xf000븀\x0000\xfffeしぜんに　うまれた　あそびだね
 なあなあ　ちょっと\xfffeオメー　みた！？\xf000븁\x0000\xfffeスゲーよ！　ここ　いつも　テレビに\xfffeでている　ゆうめいな　ひとが\xf000븀\x0000\xfffeたっくさん　いるんだよー！\xf000븁\x0000
-Athletes are all coooool.\xfffeI want to be like them.
+Gli atleti sono tutti coooool..\xfffeVoglio essere come loro.
 オメーも　かっこいいな\xfffeあこがれるよー！　これ　やるよー！\xf000븁\x0000
-Aghhhhh. Why didn't I bring a camera,\xfffeor a notebook for an autograph?
+Aghhhhh. Perché non ho portato una macchina fotografica,\xfffeo un libro, per un autografo?
 おきゃくを　たのしませる　ところは\xfffeスポーツも　ジャグリングも　おなじ！\xf000븀\x0000\xfffeれんしゅうの　せいかを　みせるよ\xf000븁\x0000
 While I am having a Pokémon battle,\xfffeI catch ten balls!
 きみも　これを　キャッチ！\xf000븁\x0000
