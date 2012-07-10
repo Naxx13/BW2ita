@@ -2,8 +2,8 @@ Nardo: \xf000Ā\x0001\x0000!\xfffeStanno bene, i tuoi Pokémon?\xf000븁\x0000\x
 La mia casa è avanti.\xf000븁\x0000\xfffeVai al Centro Pokémon, per favore.\xfffeCi vediamo più tardi!\xf000븁\x0000
 Nardo: Giusto, di qua!\xfffeDunque, ci alleniamo?\xf000븁\x0000
 Per curiosità... Perchè\xfffehai 2 Mappe Città?\xf000븁\x0000\xfffe...... ...... ......\xfffe...... ...... ......\xf000븁\x0000
-Oh!\xfffeE' quella del tuo amico?\xf000븁\x0000Allenatore
-\xf000ā\x0001\x0000 il compagno del\xfffetuo amico, non credi?\xf000븁\x0000\xfffeSi! Tempo fa, quando avevo 20 anni,\xfffeho allenato Pokémon a Kanto...\xf000븁\x0000\xfffeEcco! Se possibile, dagli la\xfffeMappa Città, più avanti!\xf000븁\x0000
+Oh!\xfffeE' quella del tuo amico?\xf000븁\x0000
+\xf000ā\x0001\x0000 è il compagno del\xfffetuo amico, vero?\xf000븁\x0000\xfffeSi! Tempo fa, quando avevo 20 anni,\xfffeho allenato Pokémon a Kanto...\xf000븁\x0000\xfffeEcco! Se possibile, dagli la\xfffeMappa Città, più avanti!\xf000븁\x0000
 Dovresti subito andare \xfffeal Percorso 20!\xf000븁\x0000
 Dovresti subito andare \xfffeal Percorso 20!\xf000븁\x0000\xfffeBeh! Dato che devi consegnare la\xfffeMappà Città, aspetterò qui!
 Nardo: Ooh! Hai consegnato\xfffela Mappa Città al tuo amico!\xf000븁\x0000\xfffeMmhh...!\xf000븁\x0000\xfffeわずかの　あいだに　おまえさんも\xfffeポケモンも　みちがえるようだ！\xf000븁\x0000\xfffeBene! Senza allenamento\xf000븁\x0000\xfffei tuoi Pokémon perderanno la\xfffeloro forza!\xf000븁\x0000
@@ -14,11 +14,11 @@ Non dimenticarti di salvare\xfffeil gioco ogni volta\xf000븀\x0000\xfffeche pro
 Dal passato al futuro, io penso\xfffeche sia una gran cosa\xf000븁\x0000\xfffegiocare sempre con i tuoi Pokémon!
 Vuoi sapere che cosa\xfffeci ha insegnato Nardo?
 Durante una lotta, il Pokémon\xfffeche combatte è quello in alto a sinistra\xf000븀\x0000\xfffenella lista della tua squadra!\xf000븁\x0000\xfffeEcco perchè ci metto i Pokémon\xfffeche voglio fare diventare più forti！
-Non posso più evitarlo..\xfffeFinalmente - *rullo di tamburi* - è completato!
+Non posso più evitarlo..\xfffeFinalmente - *rullo di tamburi* - è completo!
 Pensi che viaggiare con i Pokémon\xfffecambi le persone?
 Anche io! Viaggiare e pensare a\xfffemolte cose può fare la differenza.
 Giusto! E' bello gustarsi il\xfffeviaggio senza preoccuparsi troppo!
-ここは　サンギタウン　サンギは\xfffeうらないや　けいさんに　つかう　ぼう
+Questa è Città di Sangi\xfffeうらないや　けいさんに　つかう　ぼう
 Torre del Vecchio Orologio...
 Belle: Ehi!\xf000븁\x0000
 Belle: Ehi, ehi!\xf000븁\x0000
