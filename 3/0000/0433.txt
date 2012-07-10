@@ -1,5 +1,5 @@
 Sembra che questo albero possa\xfffeessare tagliato? Vuoi tagliarlo?
-\xf000Ă\x0001\x0000 usa taglio!\xf000븁\x0000
+\xf000Ă\x0001\x0000 usa Taglio!\xf000븁\x0000
 Sembra che questo albero possa\xfffeessare tagliato?
 Un Pokémon potrebbe spaccarla!\xfffeVuoi usare Spaccaroccia?
 Sembra una roccia molto dura...\xfffeChissa se un Pokémon potrebbe romperla.
@@ -11,24 +11,24 @@ Forza ha permesso di\xfffespostare i massi.
 \xf000Ă\x0001\x0000 usa Forza!\xf000븁\x0000
 La forza di  \xf000Ă\x0001\x0000 ha permesso\xfffedi spostare i massi!
 Il masso\xfffevi è caduto dentro!
-L'acqua è di un blu profondo...\xfffeVuoi usare surf?
+L'acqua è di un blu profondo...\xfffeVuoi usare Surf?
 \xf000Ă\x0001\x0000 usa Surf!\xf000븁\x0000
-Non puoi usare surf se\xfffec'è qualcuno con te.
-ふかい　きりに　おおわれている……\xfffeきりばらいを　つかいますか？
-\xf000Ă\x0001\x0000は\xfffeきりばらいを　つかった！\xf000븁\x0000
-ふかい　きりに　おおわれている……\xfffeポケモンの　わざで　はらえるかも？
-いわはだが　ゴツゴツしている……\xfffeロッククライムを　つかいますか？
-\xf000Ă\x0001\x0000は\xfffeロッククライムを　つかった！\xf000븁\x0000
-いわはだが　ゴツゴツしている……\xfffeポケモンのわざで　いどうできるかも？
-つれあるいている　ときは\xfffeロッククライムを　つかえません！
+Non puoi usare Surf se\xfffec'è qualcuno con te!
+C'è una nebbia fitta...\xfffeVuoi usare Scacciabruma?
+\xf000Ă\x0001\x0000 usa Scacciabruma!\xf000븁\x0000
+C'è una nebbia fitta... Chissa se\xfffeun Pokémon riuscisse a diradarla.
+Ci sono dei segni sulla roccia...\xfffeVuoi usare Scalaroccia?
+\xf000Ă\x0001\x0000 usa Scalaroccia!\xf000븁\x0000
+Ci sono dei segni sulla roccia...\xfffeChissa se un Pokémon riuscisse a scalarla.
+Non puoi usare Scalaroccia se\xfffec'è qualcuno con te!
 E' una grande cascata.\xfffeVuoi usare Cascata?
 \xf000Ă\x0001\x0000 usa Cascata!\xf000븁\x0000
-Un muro d'acqua si infrange\xfffea tera con un forte rombo.
-さいごに　やすんだ\xfffe\xf000ą\x0001\x0000に　テレポートする？
+Un muro d'acqua si infrange\xfffea terra con un forte rombo.
+Vuoi teletrasportarti\xfffea \xf000ą\x0001\x0000?
 \xf000Ă\x0001\x0000 usa Flash!\xf000븁\x0000
 \xf000Ă\x0001\x0000 usa Teletrasporto!\xf000븁\x0000
 \xf000Ă\x0001\x0000 usa Fossa!\xf000븁\x0000
 E' una parte di mare profondo, ma un\xfffePokémon potrebbe immergersi.
 E' una parte di mare profondo.\xfffeVuoi usare Sub?
 \xf000Ă\x0001\x0000 usa Sub!\xf000븁\x0000
-ふたりで　いるときは\xfffe\xf000ć\x0001\x0000は　つかえません！
+Non puoi usare\xf000ć\x0001\x0000\xfffese c'è qualcun altro!
