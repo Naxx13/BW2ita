@@ -2,7 +2,7 @@ Ehi \xf000Ā\x0001\x0000!!\xf000븁\x0000
 Sono io \xf000Ā\x0001\x0001!\xfffeDove prendo il mio Pokemon?\xf000븁\x0000\xfffeDa qualche parte qui in giro, vero?\xfffeNon vedo l'ora di diventare Allenatore!\xf000븀\x0000\xfffeSono annoiato al momento.\xf000븁\x0000
 Cosa?\xf000븁\x0000\xfffe...............\xfffe...............\xf000븁\x0000
 Chi è Belle?\xfffeSta per darti un Pokemon?\xfffeDavvero?!\xf000븁\x0000
-\xf000Ā\x0001\x0001, \xf000Ā\x0001\x0000 \xfffeQuando otterrò il Pokémon\xf000븁\x0000\xfffeme ne prenderò cura, questo è certo!\xf000븁\x0000
+\xf000Ā\x0001\x0001, \xf000Ā\x0001\x0000!\xfffeQuando riceverete il Pokémon,\xf000븁\x0000\xfffeme ne prenderò cura, questo è certo!\xf000븁\x0000
 E' davvero gentile da parte tua.\xf000븁\x0000
 Bene!\xfffeSto per ricevere un pokemon!\xf000븁\x0000\xfffeDovrò!\xf000븁\x0000\xfffePoi, \xfffediverrò un Allenatore di Pokémon!\xf000븀\x0000\xfffeSi fiderà di me per ogni cosa!\xf000븁\x0000\xfffeHai ragione!\xf000븁\x0000\xfffeSento il tuo desiderio di\xfffediventare un buon allenatore!\xf000븁\x0000
 Torneremo fra un attimo!\xf000븁\x0000
@@ -78,7 +78,7 @@ Buona giornata!\xfffePiù persone, più Pokémon!
 Imparerò come \xfffeallenare Pokemon!
 Belle: Ehhhii!\xf000븁\x0000
 Belle: Dunquee!\xf000븁\x0000
-Com'è andata?\xfffePer la lotta con il capopalestra!\xf000븁\x0000\xfffeEhi! Quella è\xfffela Medaglia Base!\xf000븁\x0000\xfffeSplendido, Spleeeendido!\xfffeAnche se hai appena iniziato l'avventura!\xf000븁\x0000\xfffeSei assolutamente un alle-\xfffenatore di talento!!\xf000븁\x0000\xfffeBeh, in segno di "gratitudine"\xfffeeccoti questa MT!\xf000븁\x0000
+Com'è andata?\xfffePer la lotta con il capopalestra, intendo!\xf000븁\x0000\xfffeEhi! Quella è\xfffela Medaglia Base!\xf000븁\x0000\xfffeSplendido, Spleeeendido!\xfffeAnche se hai appena iniziato l'avventura!\xf000븁\x0000\xfffeSei assolutamente un alle-\xfffenatore di talento!!\xf000븁\x0000\xfffeBeh, in segno di "gratitudine"\xfffeeccoti questa MT!\xf000븁\x0000
 Con questa MT, più i\xfffePokémon ti sono affezionati, più la\xf000븀\x0000\xfffepotenza della mossa sarà maggiore!\xf000븁\x0000
 Comunque, se Komor...\xf000븁\x0000
 Komor: Belle! E' da due\xf000븁\x0000\xfffeanni che non ci si vede!\xf000븁\x0000
