@@ -2,19 +2,19 @@ Nardo: \xf000Ā\x0001\x0000!\xfffeStanno bene, i tuoi Pokémon?\xf000븁\x0000\x
 La mia casa è avanti.\xf000븁\x0000\xfffeVai al Centro Pokémon, per favore.\xfffeCi vediamo più tardi!\xf000븁\x0000
 Nardo: Giusto, di qua!\xfffeDunque, ci alleniamo?\xf000븁\x0000
 Per curiosità... Perchè\xfffehai 2 Mappe Città?\xf000븁\x0000\xfffe...... ...... ......\xfffe...... ...... ......\xf000븁\x0000
-Oh!\xfffeE' quella del tuo amico?\xf000븁\x0000トレーナー
+Oh!\xfffeE' quella del tuo amico?\xf000븁\x0000Allenatore
 \xf000ā\x0001\x0000 il compagno del\xfffetuo amico, non credi?\xf000븁\x0000\xfffeSi! Tempo fa, quando avevo 20 anni,\xfffeho allenato Pokémon a Kanto...\xf000븁\x0000\xfffeEcco! Se possibile, dagli la\xfffeMappa Città, più avanti!\xf000븁\x0000
 Dovresti subito andare \xfffeal Percorso 20!\xf000븁\x0000
 Dovresti subito andare \xfffeal Percorso 20!\xf000븁\x0000\xfffeBeh! Dato che devi consegnare la\xfffeMappà Città, aspetterò qui!
 Nardo: Ooh! Hai consegnato\xfffela Mappa Città al tuo amico!\xf000븁\x0000\xfffeMmhh...!\xf000븁\x0000\xfffeわずかの　あいだに　おまえさんも\xfffeポケモンも　みちがえるようだ！\xf000븁\x0000\xfffeBene! Senza allenamento\xf000븁\x0000\xfffei tuoi Pokémon perderanno la\xfffeloro forza!\xf000븁\x0000
 Nardo: \xf000Ā\x0001\x0000！\xf000븁\x0000\xfffeAppena torni a Alisopoli\xfffevai alla Scuola per Allenatori\xf000븀\x0000\xfffeche è anche la Palestra!\xf000븁\x0000\xfffeMi hanno detto che il capo-\xfffepalestra è tornato!\xf000븁\x0000\xfffeE' un avviso!\xf000븁\x0000\xfffeLa lotta in Palestra è un buon modo\xfffeper accertare il legame fra\xf000븀\x0000\xfffete e i tuoi Pokémon!\xf000븁\x0000
-あさは　おなかが　へったと\xfffeポケモンが　おこしに　きて\xf000븁\x0000\xfffeよるは　あそびつかれた\xfffeポケモンが　ベッドを　ひとりじめ\xf000븁\x0000\xfffeああ！　みたされてるなあ
-サンギぼくじょう　だがな\xfffeやせいポケモンも　とびだすんじゃぞ！\xf000븁\x0000\xfffeそりゃもう　じぶんの　ポケモンだけが\xfffeたより　っちゅー　わけよ！
-これまでに　やったことを\xfffeわすれないように　きろく　するため\xf000븀\x0000\xfffeレポートを　かいているの！
-どんなときでも　かこと　みらいは\xfffeすてきに　おもえるけど\xf000븁\x0000\xfffeポケモンと　あそんでいる　すてきな\xfffeじかんは　いま　なんだよねー！
-アデクさんから　おそわったこと\xfffeきみも　しりたい？
-ポケモンしょうぶのとき　とびだすのは\xfffeポケモンリストの　ひだりうえに\xf000븀\x0000\xfffeセットした　ポケモン　なんだって！\xf000븁\x0000\xfffeだから　おれ　そだてたい　ポケモンか\xfffeつよい　ポケモンを　セットしてるよ！
-もう　えんりょ　しちゃって！\xfffeせっかくだから　どんどん　きいてよ！
+Al mattino i Pokémon sono\xfffeaffamati.\xf000븁\x0000\xfffeAlla sera, i Pokémon sono stanchi\xfffee ronfano nel letto.\xf000븁\x0000\xfffeAh! Sono soddisfatto.
+Tuttavia, la Fattoria di Sangi ha\xfffealcuni Pokémon selvatici che saltellano.\xf000븁\x0000\xfffeそりゃもう　じぶんの　ポケモンだけが\xfffeたより　っちゅー　わけよ！
+Non dimenticarti di salvare\xfffeil gioco ogni volta\xf000븀\x0000\xfffeche progredisci!
+Dal passato al futuro, io penso\xfffeche sia una gran cosa\xf000븁\x0000\xfffegiocare sempre con i tuoi Pokémon!
+Vuoi sapere che cosa\xfffeci ha insegnato Nardo?
+Durante una lotta, il Pokémon\xfffeche combatte è quello in alto a sinistra\xf000븀\x0000\xfffenella lista della tua squadra!\xf000븁\x0000\xfffeEcco perchè ci metto i Pokémon\xfffeche voglio fare diventare più forti！
+Non posso più evitarlo..\xfffeFinalmente - *rullo di tamburi* - è completato!
 Pensi che viaggiare con i Pokémon\xfffecambi le persone?
 Anche io! Viaggiare e pensare a\xfffemolte cose può fare la differenza.
 Giusto! E' bello gustarsi il\xfffeviaggio senza preoccuparsi troppo!
@@ -26,5 +26,5 @@ Scusa! Mi son dimenticata\xfffedi fare qualcosa per te.\xf000븁\x0000\xfffeC'è
 Il Pokédex di \xf000Ā\x0001\x0000\xfffeè stato aggiornato!
 La Lista per Habitat mostra una lista\xfffedi Pokémon per ciascun luogo!\xf000븁\x0000\xfffeCon questa nuova opzione, puoi controllare\xfffese lì hai catturato tutti i Pokémon.\xf000븁\x0000
 Per usarla, apri il Pokédex,\xfffee nell'angolo in basso a sinistra\xf000븀\x0000\xfffetocca il pulsante Habitat!\xf000븀\x0000\xfffePoi scegli il luogo che vuoi!\xf000븁\x0000\xfffeIn più, ti mostrerà addirittura quando\xfffehai visto e preso tutti i\xf000븀\x0000\xfffePokémon del posto!\xf000븁\x0000\xfffeHai capito tutto?\xfffeVuoi che ti rispieghi?
-じゃあ　アドバイス！\xf000븁\x0000\xfffeみちを　あるいていると\xfffeくさむらが　ゆれることが　あるの！\xf000븀\x0000\xfffeゆれた　くさむらの　なかには……\xf000븁\x0000\xfffeあとは　じっさいの\xfffeおたのしみ　だよ！\xf000븁\x0000
+Ecco qualche consiglio!\xf000븁\x0000\xfffeQuando cammini in uno sprazzo d'erba alta,\xfffeessa potrebbe muoversi!\xf000븀\x0000\xfffeSe l'erba si sta muovendo...\xf000븁\x0000\xfffeBeh, il resto è\xfffecompito tuo scoprirlo!\xf000븁\x0000
 Riempire il Pokédex è espandere\xfffeil tuo modo di vedere il mondo!\xf000븁\x0000\xfffeAssicurati di visitare molti luoghi\xfffee incontrare molti nuovi Pokémon per riempirlo!\xf000븁\x0000\xfffeCi vediamo!\xf000븁\x0000
