@@ -8,8 +8,8 @@ ITA
 SPA
 Dettagli
 \xf000Ȃ\x0001\x0000
-HT
-WT
+Altezza:
+Peso:
 『Modalità Ricerca』
 Per favore inserisci i criteri.
 『Risultati Ricerca』
