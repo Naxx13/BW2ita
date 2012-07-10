@@ -1,13 +1,13 @@
-None
-East of England
-East Midlands
-Greater London
-North East England
-North West England
-Northern Ireland
-Scotland
-South East England
-South West England
-Wales
-West Midlands
-Yorkshire and the Humber
+Nessuno
+Est dell` Inghilterra
+Est delle Midlands
+Londra
+Nord Est dell` Inghilterra 
+Nord Ovest dell` Inghilterra
+Nord Irlanda
+Scozia
+Sud Est dell` Inghilterra
+Sud Ovest dell` Inghilterra
+Galles
+Ovest delle Midlands
+Yorkshire e Humber
