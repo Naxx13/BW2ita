@@ -20,8 +20,8 @@ SELEZIONA
 ELIMINA
 ESCI
 Elenco dei messaggi registrati:\xfffePerfavore seleziona il messaggio\xfffeche vuoi usare.
-Please choose a message type\xfffeor the place you want\xfffeyour word or phrase to go.
-Perfavore scegli dove\xfffeil tuo mesaggio o parola deve essere posizionato.
+Per favore scegli un messaggio\xfffeo il posto dove vuoi che\xfffela tua parola o frase vada.
+Per favore scegli dove\xfffeil tuo mesaggio o parola deve essere posizionato.
 Modalità di Gruppo:\xfffePerfavore scegli la frase o il mesaggio\xfffedal gruppo.
 Modalità ABC:\xfffePerfavore seleziona la lettera\xfffeda scegliere.
 ABC MODE:\xfffePlease choose a word or phrase\xfffefrom the narrowed-down list.
