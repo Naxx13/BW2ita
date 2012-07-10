@@ -1,6 +1,6 @@
-スプレーの　こうかが　きれた！
-スプレーの　こうかが　きれた！\xfffeつづけて　つかいますか？
-\xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！
+E' svanito l'effetto del repellente!
+E' svanito l'effetto del repellente!\xfffeVuoi usarne un altro?
+\xf000Ā\x0001\x0000 ha usato\xfffe\xf000ĉ\x0001\x0001!
 ここには\xfffeなにも　いないようだ……
 なぜだか\xfffeあまいかおりは　きえてしまった……
 ポケモンを　つりあげた！\xf000븁\x0000
