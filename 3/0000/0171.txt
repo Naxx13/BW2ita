@@ -8,11 +8,11 @@ Questa era la lotta\xfffedel mio inizio come Capopalestra!\xf000븀\x0000\xfffeE
 \xf000Ā\x0001\x0000 ha ricevuto da Komor\xfffela Medaglia Base!\xf000븁\x0000
 Per commemorare questa lotta,\xfffeeccoti la prima Medaglia, la Medaglia Base!\xf000븁\x0000\xfffeCon questa medaglia, i Pokémon\xfffescambiati fino al L. 20\xf000븀\x0000\xfffeti obbediranno senza problemi!\xf000븀\x0000\xfffeInoltre, per via della forza dei\xf000븁\x0000\xfffetuoi Pokémon, eccoti anche questa!\xf000븁\x0000
 Insegnado a un Pokémon Cuordileone,\xfffepuoi infodere a quel Pokémon\xf000븀\x0000\xfffeil coraggio di lottare!\xf000븁\x0000\xfffePerciò, se durante una sfida\xfffeusi Cuordileone,\xf000븀\x0000\xfffel'Attacco del Pokémon aumenterà!\xf000븁\x0000\xfffeAh, ricordati che puoi usare una\xfffeMT tutte le volte che ti serve.\xf000븁\x0000
-In questa regione di Unima\xfffevi sono 8 Palestre Pokémon\xf000븀\x0000\xfffee quindi ci sono 8 medaglie.\xf000븁\x0000\xfffeきみも　ポケモントレーナーなら\xfffeすべての　ジムバッジを　あつめなよ！\xf000븁\x0000\xfffeそのほうが　ポケモンずかんの\xfffeページも　うまっていくからね！\xf000븁\x0000\xfffeうん！　ぼくも　２ねんほどまえ\xfffeポケモンずかんを　もって\xf000븀\x0000\xfffeベルたちと　いっしょに　たびしたんだ
-Komor: これから　なにをするかは\xfffeきみが　きめれば　いいんだよ\xf000븁\x0000\xfffeまよっても　だいじょうぶ\xfffeきみには　ポケモンが　いるからね！
-チェレンさんに　みこまれて\xfffeジムの　トレーナーに　なったぜ！\xf000븁\x0000
-もうひとりの　おんなのこに　かてれば\xfffeジムリーダーと　しょうぶ　できるよ！
-すごいな！　きみなら\xfffeジムリーダーと　しょうぶ　できるよ！
+In questa regione di Unima\xfffevi sono 8 Palestre Pokémon\xf000븀\x0000\xfffee quindi ci sono 8 medaglie.\xf000븁\x0000\xfffeE anche tu, in quanto allenatore,\xfffehai il compito di collezionare\xf000븁\x0000\xfffetutte le medaglie! Così potrai\xfffeanche riempire le pagine del Pokédex!\xf000븁\x0000\xfffeGià! Anche io, più o meno due anni fa,\xfffeavevo un Pokédex e insieme\xf000븀\x0000\xfffea Belle viaggiavo per Unima!
+Komor: Da questo momento,\xfffequalsiasi cosa tu decida andrà bene!\xf000븁\x0000\xfffeAndrà bene anche se perderai,\xfffeperchè i Pokémon sono al tuo fianco!
+Io stimo molto Komor!\xfffE' diventato Capopalestra in poco tempo!\xf000븁\x0000
+Se batti anche la ragazza,\xfffepotrai sfidare il Capopalestra!
+Incredibile! Ora puoi\xfffesfidare il Capopalestra!
 ……チェレンさんに　みこまれたのも\xfffeほかに　ひとが　いないから？\xf000븁\x0000\xfffeイヤイヤ！　たとえ　そうでも\xfffeぼくが　つよくなれば　いいんだ！
 たったいま　チェレンさんから\xfffeまなんだことを　おしえてあげる！\xf000븁\x0000
 まっ　ちょっとは　やるわね！\xfffeだけど　もうひとりに　かてるの？
@@ -21,4 +21,4 @@ Komor: これから　なにをするかは\xfffeきみが　きめれば　い�
 どうも！　じぶんは\xfffeポケモンジムに　ちょうせんする\xf000븀\x0000\xfffeトレーナーを　ガイドする\xf000븀\x0000\xfffeガイドーと　いいます\xf000븁\x0000\xfffeジムに　ちょうせん\xfffeありがとう　ございます\xf000븀\x0000\xfffeきねんに　これを　さしあげるっす！\xf000븁\x0000
 ポケモンジムは　ポケモントレーナーの\xfffeうでまえが　いかほどか\xf000븀\x0000\xfffeためす　しせつ　なんですよね！\xf000븁\x0000\xfffeわかりやすく　いえば\xfffeジムリーダーに　かてば　なかなかの\xf000븀\x0000\xfffeトレーナーとして　みとめられるっす！\xf000븁\x0000
 ポケモンしょうぶは　たたかえる\xfffeポケモンが　いなくなれば　まけ\xf000븁\x0000\xfffeですので　たくさんの　ポケモンを\xfffeつれていると　ゆうり　かもですね！
-ジムバッジを　てにいれた\xfffeその　ワンダフルな　しゅんかんを\xf000븀\x0000\xfffeいつまでも　おぼえていてほしいっすね
+Hai ricevuto la Medaglia!\xfffeSpero che tu ricorda sempre\xf000븀\x0000\xfffequest'attimo meraviglioso!
