@@ -1,6 +1,6 @@
-Si
-No
-Dimentica
-Tieni le vecchie mosse!
-Non far imparare \xf000ć\x0001\x0000!
-Fai imparare \xf000ć\x0001\x0000!
+SI
+NO
+DIMENTICA
+TIENI LE VECCHIE MOSSE
+BLOCCA \xf000ć\x0001\x0000!
+NON BLOCCARE \xf000ć\x0001\x0000!
