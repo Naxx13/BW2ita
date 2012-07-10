@@ -1,20 +1,21 @@
-どうも！\xfffe\xf000Ĝ\x0001\x0000　です
-はじめまして！\xfffe\xf000Ĝ\x0001\x0000　だいすき　です！
-\xf000Ĝ\x0001\x0000　は\xfffeすき　ですか？
-おえかき　しようよ！\xfffe\xf000Ĝ\x0001\x0000　を　かきたいな
-たいせん　しようよ！\xfffe\xf000Ĝ\x0001\x0000　で　たたかうよ！
-\xf000Ĝ\x0001\x0000　トレーナー　です\xfffeたいせん　してください！
-おしゃべり　しようよ！\xfffe\xf000Ĝ\x0001\x0000　はなしが　いいな
-こうかん　してください！\xfffe\xf000Ĝ\x0001\x0000　が　ほしい！
-こうかん　してください！\xfffe\xf000Ĝ\x0001\x0000　を　あげます！
-\xf000Ĝ\x0001\x0000　こうかん　しよう\xfffeヒントは　\xf000Ĝ\x0001\x0001　！
-いっしょに\xfffe\xf000Ĝ\x0001\x0000　しませんか？
-\xf000Ĝ\x0001\x0000　を　\xfffeしたい　ひと　いる？
-\xf000Ĝ\x0001\x0000　と\xfffe\xf000Ĝ\x0001\x0001　したい！
-\xf000Ĝ\x0001\x0000　で\xfffe\xf000Ĝ\x0001\x0001　へ　いこう！
-オーケー　です！
-\xf000Ĝ\x0001\x0000\xfffeわかりました！
-\xf000Ĝ\x0001\x0000\xfffeちょっと　まってね
-\xf000Ĝ\x0001\x0000　は\xfffeしたく　ないです……
-ありがとう！\xfffeまた　\xf000Ĝ\x0001\x0000　しようね！
-さようなら！\xfffe\xf000Ĝ\x0001\x0000
+Ciao!\xfffeI'm \xf000Ĝ\x0001\x0000.
+Felice di conoscerti!\xfffeamo \xf000Ĝ\x0001\x0000!
+Ti piace \xf000Ĝ\x0001\x0000?
+Disegnamo!Voglio disegnare\xfffe\xf000Ĝ\x0001\x0000!
+Lottiamo!\xfffedico \xf000Ĝ\x0001\x0000!
+Sono un \xf000Ĝ\x0001\x0000Allenatore!\xfffePer favore lotta con me!
+Chattiamo\xfffeHow about \xf000Ĝ\x0001\x0000?
+Facciamo uno scambio!\xfffeVoglio un\xf000Ĝ\x0001\x0000!
+Facciamo uno scambio!\xfffeOffro\xf000Ĝ\x0001\x0000!
+Vuoi scambiare \xf000Ĝ\x0001\x0000?\xfffeEcco un suggerimento: \xf000Ĝ\x0001\x0001!
+Vuoi unirti a me\xfffeper \xf000Ĝ\x0001\x0000? 
+Chiunque voglia\xfffe\xf000Ĝ\x0001\x0000?
+Voglio\xf000Ĝ\x0001\x0000\xfffecon \xf000Ĝ\x0001\x0001!
+Andiamo a\xf000Ĝ\x0001\x0000\xfffedi \xf000Ĝ\x0001\x0001!
+OK!
+\xf000Ĝ\x0001\x0000?\xfffeHo capito!
+\xf000Ĝ\x0001\x0000?\xfffeResisti!
+Non voglio\xfffe\xf000Ĝ\x0001\x0000...
+È stato divertente! Spero che si possa\xfffe\xf000Ĝ\x0001\x0000 ancora un altra volta.
+Ci vediamo!\xfffe\xf000Ĝ\x0001\x0000!
+
