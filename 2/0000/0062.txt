@@ -26,22 +26,22 @@ Tu e i tuoi compagni non avete selezionato la\xfffestessa cosa. Ritorno al menu 
 Vuoi salvare il gioco?
 SI
 NO
-Salvataggio...\xfffenon spegnere la console.
-Lo scambio sta per cominciare...\xfffeAttendi un momento perfavore.
-La battaglia sta per cominciare...\xfffeAttendi un momento perfavore.
+Salvataggio...\xfffeNon spegnere la console.
+Lo scambio sta per cominciare...\xfffeAttendi un momento per favore.
+La battaglia sta per cominciare...\xfffeAttendi un momento per favore.
 BATTAGLIA A ROTAZIONE
 Crea una connessione a infrarossi\xfffecon un amico per scambiarvi il codice amico.
-Il tuo blocco amici è pieno.\xfffenon puoi registrare altri amici.
+Il tuo blocco amici è pieno.\xfffeNon puoi registrare altri amici.
 \xf000봂\x0000Registered Friends\xfffe\xf000봂\x0000\xf000ȁ\x0001\x0000/32
 CONFERMA
 E il numero dei membri?
 Crea una connessione a infrarossi\xfffecon tutti i partecipanti.
 Crea una connessione a infrarossi con il\xfffeleader che decide lo spettacolo.
-Comunica con le\xf000Ȁ\x0001\x0000 persone .\xfffeCONFERMA: Procedi
+Comunica con le\xf000Ȁ\x0001\x0000 persone.\xfffeCONFERMA: Procedi
 COMBATTI USANDO IL BOX LOTTA
 COMBATTI USANDO LA TUA SQUADRA
 Il tuo amico è stato registrato\xfffenel blocco amici!
 Il tuo blocco amici è stato aggiornato!
-Devi avere almeno due pokèmon\xfffenella tua squadra per scambiare!
-C'è già un file di salvataggio.\xfffeE impossibile salvare.\xf000븁\x0000\xfffePerfavore consulta il\xfffemanuale per i dettagli.\xf000븁\x0000\xfffePremi su+select+B sullo\xfffeschermo del titolo se vuoi cancellare\xf000븀\x0000\xfffeil salvataggio attuale.
+Devi avere almeno due Pokémon\xfffenella tua squadra per scambiare!
+C'è già un file di salvataggio.\xfffeE' impossibile salvare.\xf000븁\x0000\xfffePer favore consulta il\xfffemanuale per i dettagli.\xf000븁\x0000\xfffePremi su+select+B sullo\xfffeschermo del titolo se vuoi cancellare\xf000븀\x0000\xfffeil salvataggio attuale.
 Crea una connessione a infrarossi\xfffecon gli amici con cui vuoi giocare.
