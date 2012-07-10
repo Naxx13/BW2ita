@@ -14,7 +14,7 @@ Quando riceverò il Pokemon, \xfffeinizierò a viaggiare!\xf000븁\x0000\xfffeE 
 Presto, \xfffetroveremo Belle.
 Possiamo andare dopo al Centro Pokémon.
 Alla Scuola per Allenatori, \xfffequalcuno ha detto che \xf000븁\x0000\xfffebisogna sconfiggere gli altri allena-\xfffetori prima del capopalestra, \xf000븀\x0000\xfffeche è un allenatore molto forte!\xf000븁\x0000
-Sto andando nel Percorso 19 per\xfffeallenarmi dopo questo, \xf000븁\x0000\xfffese mi cerchi. \xfffeCi vediamo!\xf000븁\x0000\xfffeSarà difficile rimanere\xfffebuoni amici,\xfffea causa dei Pokemon.\xf000븁\x0000
+Andrò nel Percorso 19 per\xfffeallenarmi dopo averlo ricevuto, \xf000븁\x0000\xfffese mi cerchi. \xfffeCi vedremo più tardi!\xf000븁\x0000\xfffeSarà difficile rimanere\xfffebuoni amici, perchè diventeremo\xffferivali a causa dei Pokemon.\xf000븁\x0000
 Guarda!\xf000븁\x0000\xfffeLa persona sull'osservatorio\xfffedi Alisopoli...\xf000븁\x0000\xfffeDeve essere Belle!\xfffeC'è anche un bel panorama!\xf000븁\x0000\xfffeSbrigati!\xfffeVoglio ricevere un Pokémon!\xf000븁\x0000
 The reading of me there's\xfffeNo doubt about it!
 The reading of me there's\xfffeNo doubt about it!\xf000븁\x0000
@@ -55,15 +55,15 @@ Oh, è Belle!\xf000븁\x0000\xfffeOttimo!\xf000븁\x0000
 Ehi!\xf000븁\x0000
 Sto per diventare un allenatore!\xf000븁\x0000
 Vuoi un Pokemon?\xf000븁\x0000
-Si per favore!\xf000븁\x0000\xfffeSto per diventare amico\xfffedel mio Pokemon!\xf000븀\x0000\xfffeSto per viaggiare per tutta Unima\xfffeper cercare nuovi Pokemon!\xf000븁\x0000
+Si per favore!\xf000븁\x0000\xfffeSto per diventare amico\xfffedel mio Pokemon!\xf000븀\x0000\xfffeSto per viaggiare per tutta Unima!\xfffeper cercare nuovi Pokemon!\xf000븁\x0000
 Già. Già.\xf000븁\x0000\xfffeLo so, \xfffeviaggiare è davvero bello!\xf000븁\x0000\xfffeHo solo un altro Pokedex!\xf000븁\x0000\xfffeCi sono più Pokemon che 2 anni fa,\xfffeperchè la distribuzione è cambiata.\xf000븁\x0000
-Ehi!\xf000븁\x0000\xfffeEntrambi ora abbiamo un Pokemon!\xfffePerchè non proviamo a lottare?
+Ehi!\xf000븁\x0000\xfffeEntrambi ora avete un Pokemon!\xfffePerchè non provate a lottare?
 Lottiamo!\xfffeVedremo chi deve allenarsi di più.\xf000븁\x0000\xfffeForza, \xf000ā\x0001\x0003!\xf000븁\x0000
-Ho perso!\xfffeDovrò andare ad allenarmi\xfffecon qualche Pokémon selvatico!\xf000븁\x0000\xfffeOh Bene...\xfffeNon è un grand'affare.\xf000븁\x0000\xfffeBeh, andrò prima di te!\xfffeI miei Pokémon saranno molto più forti!\xf000븁\x0000
-\xf000Ā\x0001\x0001Era la nostra prima lotta!\xfffePenso che abbiamo lottato molto bene!\xf000븁\x0000\x0000
+Ho perso!\xfffeDovrò andare ad allenarmi\xfffecon qualche Pokémon selvatico!\xf000븁\x0000\xfffeBeh...\xfffeNon è molto divertente.\xf000븁\x0000\xfffeBeh, andrò prima di te!\xfffeI miei Pokémon saranno molto più forti!\xf000븁\x0000
+\xf000Ā\x0001\x0001! Era la nostra prima lotta!\xfffePenso che abbiamo lottato molto bene!\xf000븁\x0000\x0000
 E' stato difficile!\xf000븁\x0000\xfffeMa, sei ancora debole.\xf000븁\x0000
 I tuoi Pokémon sono distrutti,\xfffeandiamo in un Centro Pokémon.\xf000븁\x0000\xfffeLasciami guidarti!\xf000븁\x0000
-Questo è il Centro Pokémon!\xfffeSembra sempre lo stesso in tutte le città!\xf000븁\x0000
+Questo è il Centro Pokémon!\xfffeSembra sempre lo stesso dappertutto!\xf000븁\x0000
 E' bello vederti di nuovo Belle!\xf000븁\x0000\xfffeSembra che \xf000Ā\x0001\x0000 abbia scelto \xfffe\xf000ā\x0001\x0002!\xf000븁\x0000\xfffe*Risatina*\xfffePenso che tu abbia scelto giusto!\xf000븁\x0000
 Oh! Stavo per dimenticare!\xf000븁\x0000\xfffePrendi queste Scarpe da Corsa!\xf000븁\x0000
 \xf000Ā\x0001\x0000 riceve le \xfffe\xf000\xff00\x0001\x0002Scarpe da Corsa\xf000\xff00\x0001\x0000!
