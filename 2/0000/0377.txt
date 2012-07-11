@@ -43,13 +43,13 @@ Palestra
 Centro Pokémon
 Pokémon Fan Club
 Città che ha rispetto per la storia\xfffee cura per le cose del passato.
-Qui le vistigia del passato hanno fatto posto\xfffealle moderne comodità.
+Qui le vistigia del passato hanno \xfffefatto posto alle moderne comodità.
 Palestra
 Centro Pokémon
 Casa lotta
 Possono accedervi solo gli allenatori\xfffeche hanno tutte le medaglie.
 Centro Pokémon
-Gli abitanti rispettano le usanze del passato,\xfffee vivono una vita regolata.
+Gli abitanti rispettano le usanze del\xfffepassato, e vivono una vita regolata.
 Centro Pokémon
 Luogo marittimo di villeggiatura\xfffeche d'estate si anima di molti vacanzieri.
 Centro Pokémon
@@ -71,14 +71,14 @@ La piu antica città nella regione \xfffedi Unima. Nessuno sa la sua storia.
 Questa salita ripida è l'ultimo \xfffeostacolo prima della Lega Pokémon!
 La leggende dice che se ti avventuri in questa\xfffefossa gigante, seguiranno sicuramente sventure.
 Un isola simbolo di speranza per un mondo\xfffedove Pokémon ed umani vivono liberi.
-Il laboratorio segreto del Team Plasma è situato\xfffesu una piccola isola tranquilla.
+Il laboratorio segreto del Team Plasma\xfffeè posto su di una piccola isola tranquilla.
 Questa piscina sottomarina cresce dall'\xfffeacqua piovana che si assorbe nel terreno.
 Una grotta dimenticata caratterizzata\xfffedalla presenza di una leggenda.
-Una piccola torre con una grande campana i cui \xfffesuoni si dice purifichino lo spirito.
-Dicono che l'acqua depositata nelle cavità\xfffesulla pianura crei la brughiera.
-Un tempo le persone hanno vissuto\xfffein questo villaggio, e\xfffee sembra lo stesso di com'era allora.
-Un mare di fama mondiale dalle splendenti onde.
-Una foresta misteriosa dove le persone si\xfffeperdono nonostante la semplice strada.
+Una torre con una grande campana i cui \xfffesuoni si dice purifichino lo spirito.
+Dicono che l'acqua depositata nelle \xfffecavità sulla pianura crei la brughiera.
+Un tempo le persone hanno vissuto in\xfffequesto villaggio, e sembra non sia cambiato.
+Un mare di fama mondiale dalle\xfffesplendenti onde.
+Una foresta misteriosa dove ci si\xfffeperde nonostante la semplice strada.
 Una piccola strada sulla riva, dove \xfffepuoi goderti il paesaggio marino in pace.
 Un percorso rurale dove i gli allenatori\xfffeprincipianti possono sidarsi a vicenda.
 Un percorso lungo e tortuoso con molti\xfffestagni  ed erba alta.
@@ -90,22 +90,22 @@ Piove molto qui, e la palude\xfffeè abitata da molti Pokémon.
 Questa strada pavimentata attrae\xfffegli amanti della bicicletta.
 Magazzini Nove
 Una strada che conduce ai Portali\xfffedelle medaglie, piena zeppa di audaci allenatori.
-Limpidi ruscelli scolpiscono il meraviglioso\xfffepanorama di questo percorso.
+Limpidi ruscelli scolpiscono il meravi-\xfffeglioso panorama di questo percorso.
 Un luogo di piacere, dove é  piacevole\xfffecamminare sulle dolci colline.
-Questo percorso marino è famoso per\xfffei banchi di sabbia che attraversano l'oceano.
+Questo percorso marino è famoso per\xfffela sabbia che attraversa l'oceano.
 Un via coperta dalla nebbia a causa\xfffedelle cascate.
 Un percorso le cui scogliere\xfffeappuntite possono\xfffefar fuggire molte persone.
 Molti che hanno visitato Sciroccpoli\xffferimangono li per prendersi una pausa.
 Una forte corrente crea\xfffedifficoltà per usare surf.
-Some researchers believe it was once\xfffecontiguous with Desert Resort.
-The biggest, longest bridge in Unova\xfffehas four supporting towers.
+Alcuni ricercatori credevano che\xfffeuna volta fosse collegato al Castello Sepolto.
+Il più grande, lungo ponte in Unima\xfffeha quattro torri di supporto.
 A drawbridge raises and lowers,\xfffedepending on the ship schedules.
-A sturdy steel bridge that won't\xfffebudge an inch when trains cross it.
-An old bridge that settlers of the\xfffeUnova region built and now live on.
-The most advanced bridge in Unova,\xfffedesigned to soften any impact.
-In the middle of the Unova region,\xfffeit is a place of mysterious power.
+Un duro ponte d'acciaio che non\xfffesi muove d'un dito se ci passa un treno.
+Un vecchio ponte che i coloni di\xfffeUnima costruirono e abitano.
+Il più avanzato ponte di Unima,\xfffeprogettato per resistere a tutto.
+Nel mezzo della regione di Unima,\xfffeè un luogo pieno di mistero.
 Trainers seeking further strength\xfffeenter the cavern despite the risks.
-イッシュを　みわたせるほど　たかい\xfffeやまの　すそのに　ひろがる　まち
+Cittadella ai piedi di una montagna\xfffedove si può osservare tutta Unima.
 Palestra
 Scuola per Allenatori
 Centro Pokémon
