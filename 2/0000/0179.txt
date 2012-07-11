@@ -68,37 +68,37 @@ Il \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0001/20\xf000ȁ\x0001\x0000\xfffe\xf000\
 \xf000\xff00\x0001\x0002\x0000preferisce il dolce \xf000\xff00\x0001\x0000
 \xf000\xff00\x0001\x0002\x0000preferisce l'amaro \xf000\xff00\x0001\x0000
 \xf000\xff00\x0001\x0002\x0000preferisce l'aspro \xf000\xff00\x0001\x0000
-Happily eats anything.
-Loves to eat.
+Mangia fortunatamente qualche cosa.
+Ama mangiare.
 Often dozes off.
-Often naps.
-Often scatter things.
-Likes to relax.
-Proud of its power.
-Likes to thrash about.
-A little quick tempered.
+Si appisola spesso.
+Disperde spesso le cose.
+Ama rilassarsi.
+Orgoglioso del suo potere.
+Gli piace agitarsi.
+Un piccolo e veloce temperato.
 Likes to fight.
-Quick tempered.
-Sturdy body.
-Capable of taking hits.
-Highly persistent.
-Good endurance.
-Good perseverence.
-Likes to run.
-Alert to sounds.
-Impetuous and silly.
-Somewhat of a clown.
-Quick to flee.
-Highly curious.
-Mischievous.
-Thoroughly cunning.
-Often lost in thought.
-Very finicky.
-Strong willed.
-Somewhat vain.
-Strongly defiant.
-Hates to lose.
-Somewhat stubborn.
+Molto Agitato.
+Corpo robusto.
+Capace a prendere colpi.
+Molto persistente.
+Buona resistenza.
+Buona perseveranza.
+Piace correre.
+Avverte i suoni.
+Impetuoso e sciocco.
+Fa' il clown.
+Rapido a fuggire.
+Grande Curioso.
+Malizioso.
+Molto astuto.
+Spesso, perso nei suoi pensieri.
+Molto schizzinoso.
+Tenace.
+Un po' vanitoso.
+Molto insolente.
+Odia perdere.
+un po 'testardo.
 \xf000ȁ\x0001\x0006/\xf000ȁ\x0001\x0007/20\xf000ȁ\x0001\x0005\xfffeA mysterious Pokémon\xfffeEgg received from\xfffe\xf000\xff00\x0001\x0002\xf000ą\x0001\x0008\xf000\xff00\x0001\x0000.\xfffe
 \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeA mysterious Pokémon\xfffeEgg obtained in\xfffe\xf000\xff00\x0001\x0002\xf000ą\x0001\x0004\xf000\xff00\x0001\x0000.
 \xf000ȁ\x0001\x0006/\xf000ȁ\x0001\x0007/20\xf000ȁ\x0001\x0005\xfffeA very mysterious\xfffePokémon Egg obtained\xfffeat \xf000\xff00\x0001\x0002\xf000ą\x0001\x0008\xf000\xff00\x0001\x0000.\xfffe
@@ -170,13 +170,13 @@ CIBO PREFERITO
 \xf000\xff00\x0001\x0002 likes bitter \xf000\xff00\x0001\x0000.
 \xf000\xff00\x0001\x0002 likes sour \xf000\xff00\x0001\x0000.
 No preference
-Coolness increased!
+Freddezza aumenta!
 Toughness increased!
-Beauty increased!
-Cuteness increased!
-Smartness increased!
-Nothing changed!
-It won't eat any more.
+Bellezza aumenta!
+Cuteness aumenta!
+Eleganza aumenta!
+non è cambiato nulla!
+Non mangia piu'.
 Fiocco Commemorativo
 Dettagli
 Indietro
