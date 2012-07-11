@@ -1212,9 +1212,9 @@ I'm a heartbreaker...\xfffeMy name... Charles.
 あなた……　ダレ？\xf000븁\x0000\xfffeここに　あたしいがいの　にんげんが！\xfffeトレーナーが　いるなんて　おかしい！\xf000븁\x0000
 あなたは　ふつうの　にんげん\xfffeふつうの　ポケモントレーナー　ね……
 この　いえ　には……\xfffeおそれ　かなしみ　あきらめ……\xf000븁\x0000\xfffeさまざまな　おもいが　うずまき……\xfffeみちの　エネルギーと　なっている！
-たぎる　たましい！\xfffeオレの　ミネズミ　すっげーぜ！！\xf000븁\x0000
-しぼむ　たましい……\xfffeこんなはずじゃ　なかったのに
-ふたたび　たぎる　たましい！\xfffeまけたって　きにしない！\xf000븀\x0000\xfffeまえに　すすむことが　だいじだぜ！
+Anima ribollente!\xfffeIl mio Patrat è supeer!!\xf000븁\x000000
+Anima sconsolata...\xfffeNon avevo questa impressione, però...
+Di nuovo anima ribollente!\xfffeNon mi importa se ho perso!\xf000븀\x0000\xfffeE' importante perdere per migliorarsi!
 トリプルバトルは　ポケモン\xfffe３びきでの　ポケモンしょうぶ　だよ！
 トリプルバトルを　きわめた\xfffeぼくの　つよさを　みなさい！\xf000븁\x0000
 そんな……\xfffeきわめたはず　なのに……
