@@ -1,10 +1,10 @@
 Volare per dove?
 ダミー
-Una cittadina rurale la cui brezza\xfffeda il senso di qualcosa\xfffeche sta per avvenire.
+Una cittadina rurale la cui brezza da\xfffel'idea di qualcosa che sta per avvenire.
 Lab. Prof.ssa Aralia
 Questa città offre panorami mozzafiato\xfffeper la presenza di numerose alture.
 Centro Pokémon
-Scala d'ingresso costruita in memoria\xfffedi una vecchia casa \xfffedurante un periodo nevoso.
+Scala d'ingresso costruita in memoria\xfffedi una vecchia casa durante una nevicata.
 Palestra 
 Centro Pokémon
 Scuola per Allenatori
@@ -14,7 +14,7 @@ Palestra
 Centro Pokémon
 Museo di Zefiropoli
 Bar Magazzino 
-Metropoli in cui torreggiano\xfffegrandi grattacieli che \xfffeoltrepassano le nubi.
+Metropoli in cui torreggiano grandi\xfffegrattacieli che oltrepassano le nubi.
 Palestra
 Centro Pokémon
 Ass. Sondaggi
@@ -53,7 +53,7 @@ Gli abitanti rispettano le usanze del passato,\xfffee vivono una vita regolata.
 Centro Pokémon
 Luogo marittimo di villeggiatura\xfffeche d'estate si anima di molti vacanzieri.
 Centro Pokémon
-Una citta col cantiere ferroviario dove\xfffedove i treni si fermano\xfffeper una revisione.
+Una citta col cantiere ferroviario dove\xfffedove i treni si fermano per revisione.
 Una città moderna in continuo sviluppo\xfffeche attira un sacco di persone.
 Centro Pokémon
 Un posto dalla natura generosa, che\xfffeattrae persone desiderose di un pò di verde.
@@ -78,18 +78,18 @@ Una piccola torre con una grande campana i cui \xfffesuoni si dice purifichino l
 Dicono che l'acqua depositata nelle cavità\xfffesulla pianura crei la brughiera.
 Un tempo le persone hanno vissuto\xfffein questo villaggio, e\xfffee sembra lo stesso di com'era allora.
 Un mare di fama mondiale dalle splendenti onde.
-Una foresta misteriosa dove le persone si\xfffeperdono nonostante\xfffeil semplice paesaggio.
+Una foresta misteriosa dove le persone si\xfffeperdono nonostante la semplice strada.
 Una piccola strada sulla riva, dove \xfffepuoi goderti il paesaggio marino in pace.
 Un percorso rurale dove i gli allenatori\xfffeprincipianti possono sidarsi a vicenda.
 Un percorso lungo e tortuoso con molti\xfffestagni  ed erba alta.
-Una tempesta di sabbia\xfffeostacola la costruzione\xfffedi una strada che connette due città.
+Una tempesta di sabbia ostacola la\xfffecostruzione di una strada che connette due città.
 Un perocorso affollato dove\xfffegli artisti si riuniscono.
 Un percorso con molti alberi\xfffeper gli amanti della natura.
 Le passerelle ti aiutano\xfffead evitare l'erba alta.
 Piove molto qui, e la palude\xfffeè abitata da molti Pokémon.
 Questa strada pavimentata attrae\xfffegli amanti della bicicletta.
 Magazzini Nove
-Una strada che conduce ai Portali k\xfffedelle medaglie, piena zeppa di audaci allenatori.
+Una strada che conduce ai Portali\xfffedelle medaglie, piena zeppa di audaci allenatori.
 Limpidi ruscelli scolpiscono il meraviglioso\xfffepanorama di questo percorso.
 Un luogo di piacere, dove é  piacevole\xfffecamminare sulle dolci colline.
 Questo percorso marino è famoso per\xfffei banchi di sabbia che attraversano l'oceano.
@@ -106,14 +106,14 @@ The most advanced bridge in Unova,\xfffedesigned to soften any impact.
 In the middle of the Unova region,\xfffeit is a place of mysterious power.
 Trainers seeking further strength\xfffeenter the cavern despite the risks.
 イッシュを　みわたせるほど　たかい\xfffeやまの　すそのに　ひろがる　まち
-Aspertia City Gym
-Trainers' School
+Palestra
+Scuola per Allenatori
 Centro Pokémon
 くもと　けむりに　おおわれがち　だが\xfffeまちにくらす　ひとびとは　かっぱつ
-Virbank City Gym
+Palestra
 Centro Pokémon
 なみまに　うかぶ　たてものが\xfffeしまのように　みえる　リゾートシティ
-Seigaiha City Gym
+Palestra
 Centro Pokémon
 せいしき　めいしょうは\xfffeポケウッドムービースタジオ
 ひとと　こうりゅうする　ほどに\xfffeはってん　していく　おおどおり
