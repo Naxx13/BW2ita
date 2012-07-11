@@ -34,8 +34,8 @@ Torna presto！\xfffeひんしつには　じしんが　あるからさ！
 りえきかんげん！\xf000븁\x0000\xfffeブラックシティの　しにせと\xfffeいえば　この　おみせ！\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で！\xf000븀\x0000\xfffeいかがですか？
 はい　どうぞ！\xfffeおきゃくさん　いい　かいものしたね！\xf000븁\x0000
 おっと！\xfffeバッグが　いっぱいだぞ！
-おいおい！\xfffeおかねが　たりないぞ！
-また　きてくれよ！\xfffeひんしつには　じしんが　あるからさ！
-おっと　すまない\xfffeきょうは　うりきれだ\xf000븀\x0000\xfffeまた　べつのひに　きてくれよ
+Hey!\xfffeil denaro non è sufficiente
+Grazie,la preghiamo di venire ancora\xfffenon è gradita la qualità
+Oops mi dispiace\xfffeoggi c'è una svendita\xf000븀\x0000\xfffepuoi darmi anche un'altro giorno
 Comprare
 No grazie!
