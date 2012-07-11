@@ -16,8 +16,8 @@ Insegna a che Pokémon?
 ポケモンをえらんで　けってい
 Deposita che Pokémon?
 Usa su che Pokémon?
-どのポケモンと　がったい？
-Cosa fa\xfffe\xf000Ă\x0001\x0000?
+Con che Pokémon vuoi unirlo?
+Cosa fai con\xfffe\xf000Ă\x0001\x0000?
 Cosa fai con\xfffelo strumento?
 Cosa fai con\xfffela Lettera?
 Che mossa vuoi\xffferipristinare?
@@ -57,13 +57,13 @@ I PP di \xf000ć\x0001\x0000\xfffeaumentano!
 \xf000Ă\x0001\x0000は　\xf000č\x0001\x0001の\xfffeきそポイントが　あがった！
 あたらしい　バッジを　てにするまで\xfffeまだ　つかえません
 メールを　はずさないと\xfffeどうぐは　もてません！
-\xf000Ă\x0001\x0000は　すでに\xfffe\xf000ĉ\x0001\x0001を　もっています\xf000븁\x0000\xfffeもっている　どうぐを\xfffeとりかえますか？
+\xf000Ă\x0001\x0000 tiene già\xfffe\xf000ĉ\x0001\x000!\xf000븁\x0000\xfffeVuoi scambiare i due\xfffestrumenti？
 SI
 NO
 \xf000Ă\x0001\x0000は　どうぐを\xfffeなにも　もっていません！
 Ricevi \xf000ĉ\x0001\x0000\xfffeda \xf000Ă\x0001\x0001!
 バッグが　いっぱいで\xfffeどうぐを　うけとれません！
-\xf000ĉ\x0001\x0001を　あずかり\xfffe\xf000ĉ\x0001\x0002を　もたせました！
+Ricevi \xf000ĉ\x0001\x0001 e\xfffedai \xf000ĉ\x0001\x0002 da tenere!
 さんかを　やめますか？
 SI
 NO
@@ -79,7 +79,7 @@ SI
 NO
 さんか　できる　ポケモンは\xfffe２ひき　まで　です！
 すでに　なみのり　しています
-ここでは　つかえません
+Non si può usare qui.
 Non avrebbe alcun effetto.
 ひんしの　ポケモンには\xfffeつかえません
 てもちが　いっぱい　なので\xfffeぶんり　できません
@@ -95,7 +95,7 @@ Non avrebbe alcun effetto.
 はっきんだまを　ギラティナには\xfffeいどうできない！
 はっきんだまは　ギラティナから\xfffeいどうできない！
 タマゴには　どうぐを\xfffeもたせられない！
-ポケモンを　えらんでください
+Scegli un Pokémon.
 ２ひき　そろっていません！
 ３ひき　そろっていません！
 ４ひき　そろっていません！
@@ -138,20 +138,20 @@ Prendi
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
 Sposta
-Sposta Letera
-Non partecipa
-Vietato!
-Primo
-Secondo
-Terzo
-Quarto
-Quinto
-Sesto
-Capace！
-Incapace!
-Appresa!
-Usa!
-Non puoi!
+Sposta LetTera
+NON ISCRITTO
+VIETATO!
+PRIMO
+SECONDO
+TERZO
+QUARTO
+QUINTO
+SESTO
+CAPACE!
+NON CAPACE!
+APPRESA!
+USA!
+INCAPACE!
 でられます
 でられません
 おなじ　ポケモンが　います
