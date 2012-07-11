@@ -43,38 +43,38 @@ Evita che il Pokémon\xffferesti scottato.
 Impedisce la fuga\xfffeai Pokémon di tipo Acciaio.
 il Pokémon è immune alle\xfffemosse basate sul suono.
 Il Pokémon recupera gradualmente\xfffePS quando piove.
-Genera una tempesta di sabbia\xfffe durante la lotta.
+Genera una tempesta di sabbia\xfffedurante la lotta.
 Il nemico\xfffeusa più PP.
 Aumenta la resistenza alle mosse\xfffedi tipo Fuoco e Ghiaccio.
 Il Pokémon si risveglia\xfffepiù rapidamente dal sonno.
 Al contatto\xfffepuò scottare il nemico.
 Garantisce la fuga\xfffedai Pokémon selvatici.
 Evita che la precisione\xfffediminuisca.
-Evita che l'Attacco\\xfffevenga ridotto.
-Il Pokémon può\\xffferaccogliere strumenti.
-Il Pokémon attacca\\xfffeun turno sì e uno no.
-Aumenta l'Attacco,\\xfffema riduce la precisione.
-Al contatto subitom\\xfffeil nemico può infatuarsi.
-Aumenta l'Att. Sp.\\xfffese ci sono Meno o Più.
-Aumenta l'Att. Sp.\\xfffese ci sono Meno o Più.
-La forma di Castform\\xfffecambia in base al tempo.
-Protegge il Pokémon\\xfffedal furto di strumenti.
-Il Pokèmon può guarire\\xfffei problemi di stato.
-Aumenta l'Attacco\\xfffein caso di problemi di stato.
-Aumenta la Difesa\\xfffein caso di problemi di stato.
-Danneggia i nemici\\xfffeche usano mosse ruba-PS.
-In difficoltà, potenzia\\xfffele mosse di tipo Erba.
-In difficoltà, potenzia\\xfffele mosse di tipo Fuoco.
-In difficoltà, potenzia\\xfffele mosse di tipo Acqua.
-In difficoltà, potenzia\\xfffele mosse di tipo Coleottero.
-Protegge il Pokémon\\xfffedai contraccolpi.
-Aumenta l'intensità dei raggi\\xfffe solari durante la lotta.
-Impedisce la fuga\\xfffeal nemico.
-Evita che il Pokémon\\xfffesi addormenti.
-Le statistiche non possono\\xfffeessere ridotte.
-Aumenta la statistica\\xfffeAttacco del Pokémon.
-Evita che il Pokémon\\xfffesubisca brutti colpi.
-neutralizza gli effetti\\xfffedei cambiamenti atmosferici.
+Evita che l'Attacco\xfffevenga ridotto.
+Il Pokémon può\xffferaccogliere strumenti.
+Il Pokémon attacca\xfffeun turno sì e uno no.
+Aumenta l'Attacco,\xfffema riduce la precisione.
+Al contatto subitom\xfffeil nemico può infatuarsi.
+Aumenta l'Att. Sp.\xfffese ci sono Meno o Più.
+Aumenta l'Att. Sp.\xfffese ci sono Meno o Più.
+La forma di Castform\xfffecambia in base al tempo.
+Protegge il Pokémon\xfffedal furto di strumenti.
+Il Pokèmon può guarire\xfffei problemi di stato.
+Aumenta l'Attacco\xfffein caso di problemi di stato.
+Aumenta la Difesa\xfffein caso di problemi di stato.
+Danneggia i nemici\xfffeche usano mosse ruba-PS.
+In difficoltà, potenzia\xfffele mosse di tipo Erba.
+In difficoltà, potenzia\xfffele mosse di tipo Fuoco.
+In difficoltà, potenzia\xfffele mosse di tipo Acqua.
+In difficoltà, potenzia\xfffele mosse di tipo Coleottero.
+Protegge il Pokémon\xfffedai contraccolpi.
+Aumenta l'intensità dei raggi\xfffe solari durante la lotta.
+Impedisce la fuga\xfffeal nemico.
+Evita che il Pokémon\xfffesi addormenti.
+Le statistiche non possono\x0000eessere ridotte.
+Aumenta la statistica\xfffeAttacco del Pokémon.
+Evita che il Pokémon\xfffesubisca brutti colpi.
+neutralizza gli effetti\xfffedei cambiamenti atmosferici.
 Aumenta l'elusione\xfffese il Pokémonè confuso.
 Le mosse Elettro subite\xfffeaumentano la Velocità.
 Rende più forti contro\xfffenemici dello stesso sesso.
@@ -101,7 +101,7 @@ Le mosse di entrambi i Pokémon\xfffevanno a segno.
 Anche i nemici più lenti\xfffeAttaccano per primi.
 Potenzia le mosse più deboli\xfffedel Pokémon.
 Evita i problemi di stato\xfffequando c'è il sole.
-Il pokemon non può usarexffflo strumento che tiene.
+Il pokemon non può usare\xfffelo strumento che tiene.
 Neutralizza le abilità\xfffeche bloccano le mosse.
 Aumenta la probabilità\xfffedi infliggere brutti colpi.
 Arreca danni al nemico\xfffeche sferra il colpo finale.
@@ -125,7 +125,7 @@ Riduce i PS\xfffedei nemici addormentati.
 Al contatto, ruba\xfffelo strumento tenuto dal nemico.
 Aumenta i danni,annullando\xfffegli effetti secondari delle mosse.
 I cambi alle statistiche\xfffehanno effetto inverso.
-Il nemico è intimidito e nonxfff può mangiare le bacche.
+Il nemico è intimidito e non\xfffepuò mangiare le bacche.
 L'Attacco aumenta se\xfffecalano le statistiche.
 Calano le statistiche se\xfffei PS sono meno della metà.
 A volte inibisce l'ultima\xfffemossa usata dal nemico.
@@ -157,7 +157,7 @@ Per la paura di certi tipi\xfffedi mosse, aumenta la Velocità.
 Riflette al nemico \xfffele mosse di stato .
 Aumenta l'Attacco se colpito\xfffeda una mossa di tipo Erba.
 Dà la priorità alle\xfffemosse di stato.
-Potenzia alcune mosse'\xfffenella tempesta di sabbia.
+Potenzia alcune mosse\xfffenella tempesta di sabbia.
 Danneggia il bersaglio\xfffeal contatto.
 Se in difficoltà,cambia\xfffel'aspetto del Pokémon.
 Aumenta la precisione\xfffedi tutta la squadra.
