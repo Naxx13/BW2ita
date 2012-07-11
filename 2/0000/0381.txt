@@ -205,11 +205,11 @@ Gli atleti sono tutti coooool..\xfffeVoglio essere come loro.
 オメーも　かっこいいな\xfffeあこがれるよー！　これ　やるよー！\xf000븁\x0000
 Aghhhhh. Perché non ho portato una macchina fotografica,\xfffeoppure un libro, per un autografo?
 おきゃくを　たのしませる　ところは\xfffeスポーツも　ジャグリングも　おなじ！\xf000븀\x0000\xfffeれんしゅうの　せいかを　みせるよ\xf000븁\x0000
-Mentre sto combattendo,\xfffesto prendendo 10 Pokèball!
+Mentre sto combattendo,\xfffesto perdendendo le mie 10 Pokèball!
 きみも　これを　キャッチ！\xf000븁\x0000
 テクニックは　ついたが\xfffeその　いかしかたが　わからん！\xf000븀\x0000\xfffeやはり　じっせん　あるのみ！
 どハデな　ドームに　あたりから\xfffeキャーキャーとびかう　かんせい……\xf000븁\x0000\xfffeうう……\xfffeオラ　うらやましいっスっ！\xf000븁\x0000
-Che cosa è così grande circa per gli atleti popolari?\xfffeChe cosa c'è di male nelle arti marziali?
+Che cosa è così potente per degli atleti popolari?\xfffeChe cosa c'è di male nelle arti marziali?
 からてかの　おもいが\xfffeこもっている　これを……\xf000븁\x0000
 オンボロ　どうじょうで　あたりからは\xfffeオスや　ウスの　かけごえ　のみ……\xf000븀\x0000\xfffeこんなことなら　スポーツせんしゅに\xf000븀\x0000\xfffeなれば　よかったっス……
 Quando sarò grande,\xfffediventerò un grande atleta professionista!\xf000븁\x0000
@@ -237,8 +237,8 @@ Non guardatemi. Ho perso!
 たのむ！　これを　やるから\xfffeまけた　オレを　みるな！\xf000븁\x0000
 Che autografo vuoi?\xfffeNon vuoi il mio?
 あなた　げんきー！\xf000븁\x0000\xfffeげんきの　ないコは\xfffeあたしが　おしおき　しちゃうわよ！\xf000븁\x0000
-Basta non chiudere!\xfffeSe sei così energico!
-OK! An energetic Trainer!\xfffeTake this!\xf000븁\x0000
+Basta non finire la partita!\xfffeSe sei così energico!
+OK!Un allenatore energico!\xfffeTieni questo!\xf000븁\x0000
 Gli infermieri bisogno di molta resistenza,\xfffesia di giorno che di notte!
 Il mio tesoro sta lavorando qui.\xfffe Che dici? Sei invidioso?\xf000븁\x0000
 Il mio tesoro è seriamente il migliore.\xfffeMette mergogna agli atleti.
@@ -255,7 +255,7 @@ Una volta-nella-mia-vita volo!\xfffeVola, vola, e vola via!
 ＶＩＰせきが　どんなもんか\xfffeしりたければ　ぼくに　かつことだね\xf000븁\x0000
 I posti VIP sono molto lontani \xfffequesti sono per gli atleti!
 ＶＩＰ！　ＶＩＰ！\xfffeＶ！　Ｉ！　Ｐ！\xf000븁\x0000
-Ho potuto vedere l'ammenda della partita, ma\xfffegli atleti sembravano chicchi di riso.
+Ho potuto vedere il caro prezzo della partita, ma\xfffegli atleti sembravano chicchi di riso.
 あなた……！\xfffeあの　ひとの　ファンなのね\xf000븁\x0000\xfffeわたしには　わかる！　だけど\xfffeあの　ひとは　わたさないわ！\xf000븁\x0000
 Oh no, oh Perchè?\xfffeMi dispiace...
 あの　ひとは　むりだけど\xfffeこれで　ゆるして……\xf000븁\x0000
@@ -281,8 +281,8 @@ E 'stato molto utile ...
 うーん　きみは\xfffeなかなか　きょうみぶかい！\xf000븁\x0000\xfffeこれどーぞ！\xf000븁\x0000
 Sia sport e Pokémon sono \xfffecome una scienza per me!
 まいにち　まいにち　くすりくさい\xfffeけんきゅうしつに　こもってますと\xf000븀\x0000\xfffeストレスが　たまって　しまいます\xf000븁\x0000
-Waaaaaahhh! Frustate!
-La rottura della mia battaglia mi ha fatto sentire meglio!\xfffeEcco un segno della mia riconoscenza.\xf000븁\x0000
+Waaaaaahhh! Frustante!
+La disfatta della mia battaglia mi ha fatto sentire meglio!\xfffeEcco un segno della mia riconoscenza.\xf000븁\x0000
 Facciamo un'altra battaglia Pokémon \xfffea volte, servono per non essere stressati!
 オレが　はいているのは\xfffeたんぱん　じゃない！\xf000븀\x0000\xfffeハーフパンツ　なんだよ！\xf000븁\x0000
 Eri così forte che a momenti i miei\xfffepantaloni cadevano!
