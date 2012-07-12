@@ -13,6 +13,7 @@ Una scottatura riduce l'Attacco\xfffee i PS della vittima.\xf000븁\x0000\xfffeU
 Se un Pokémon viene congelato, diventa\xfffecompletamente indifeso.\xf000븁\x0000\xfffeIl Pokémon potrebbe scongelarsi da solo,\xfffema se una lotta finisce mentre è\xf000븀\x0000\xfffein quello stato, rimarrà congelato.\xf000븁\x0000\xfffeScongelalo con un Antigelo.\xf000븁\x0000
 Veleno
 Paralisi
+Assopimento
 Scottatura
 Congelamento
 Indietro
