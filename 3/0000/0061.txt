@@ -1,16 +1,16 @@
-ほんじつ　ロイヤルイッシュごう　には\xfffe\xf000Ȁ\x0001\x0003にん　トレーナーが　いて\xf000븀\x0000\xfffeあなたは　\xf000Ȁ\x0001\x0004にんに　かっていますね\xf000븁\x0000\xfffeふねは　しゅっこうちゅう　ですが\xfffeそれでも　おりますか？
-ほんじつ　ロイヤルイッシュごう　には\xfffe\xf000Ȁ\x0001\x0003にん　トレーナーが　います\xf000븁\x0000\xfffeふねは　しゅっこうちゅう　ですが\xfffeそれでも　おりますか？
-でっかい　ふねに　たくさんの　へや！\xfffeトレーナーさがしに　こまっている\xf000븁\x0000\xfffeそんな　キミに　ヒントを　あげたい！\xfffeおじさんの　ヒントを　きくかい？
-きてきが　なるまで\xfffeはなしに　むちゅうに　なってしまう\xf000븁\x0000\xfffeせんしつの　なかには\xfffeそんな　おきゃくさんも　いるよ！
-このさきは　ロイヤルイッシュごう\xfffeじまんの　てんぼうフロアに　なります
-きょうは　あおいろの　ドアの　へやに\xfffeトレーナーは\xf000븀\x0000\xfffeひとりしか　いない　みたいだよ
-きょうは　あおいろの　ドアの　へやに\xfffeトレーナーが\xf000븀\x0000\xfffe\xf000Ȁ\x0001\x0002にん　いる　みたいだよ
-うみの　うえを　はしっている！\xfffeそんな　ふしぎな　ことが　できてしまう
-てんぼうフロアに　いくか\xfffeせんしつで　トレーナーと　たたかうか\xf000븀\x0000\xfffeどっちが　いいか　まよってるんだ
-なみの　うごきに　あわせて\xfffeはしってるんだけどさ\xf000븀\x0000\xfffeなかなか　むずかしいね！
-ふねの　うえで　しょうぶを　したり\xfffeかんぱんで　けしきを　みたり……\xf000븀\x0000\xfffeさいこう　だね　このふねは！
-どの　へやに　はいるか\xfffeずっと　まよっているんだ！
-ジョウトから　しごとで　きたけど\xfffeここは　なにもかも　ダイナミックだな
+Il numero di Allenatori oggi a bordo della\xfffeNave Reale Unima è: \xf000Ȁ\x0001\x0003.\xf000븀\x0000\xfffeTu ne hai sconfitti: \xf000Ȁ\x0001\x0004.\xf000븁\x0000\xfffeLa nave ha lasciato il porto, ma possiamo\xffferientrare per questioni urgenti.\xf000븀\x0000\xfffeVuoi ritornare?
+Il numero di Allenatori oggi a bordo della\xfffeNave Reale Unima è: \xf000Ȁ\x0001\x0003.\xf000븁\x0000\xfffeLa nave ha lasciato il porto, ma possiamo\xffferientrare per questioni urgenti.\xf000븀\x0000\xfffeVuoi ritornare?
+Ci sono molte cabine su questa nave.\xfffeTrovare gli Allenatori è un'impresa!\xf000븁\x0000\xfffePerò potrei anche darti una mano.\xfffeAllora, lo vuoi un suggerimento?
+In alcune cabine ci sono dei passeggeri\xfffeche chiacchierano animatamente finché\xf000븀\x0000\xfffenon sentono il fischio della sirena.
+Più avanti c'è il ponte panoramico,\xfffeorgoglio della Nave Reale Unima.
+Oggi, nelle cabine con la porta azzurra\xfffetroverai un solo Allenatore.
+Oggi, nelle cabine con la porta azzurra\xfffetroverai \xf000Ȁ\x0001\x0002 Allenatori.
+Siamo in alto mare! A pensarci bene, non\xfffeè una cosa meravigliosa?
+Non so se andare a vedere il panorama o\xfffeaffrontare un Allenatore in cabina.\xf000븀\x0000\xfffeMmh... non riesco a decidermi.
+Non è per niente facile armonizzare\xfffeil movimento con quello delle onde!
+Questa nave è una meraviglia!\xfffeVi si può sia lottare che ammirare\xf000븀\x0000\xfffeil panorama dal ponte.
+Non so quale cabina scegliere!
+Sono venuto da Johto per lavoro. Trovo\xfffequesto posto sempre molto dinamico.
 おおっ！　いいところに　きた！\xfffeはなしあいてが　ほしかったんだ！\xf000븁\x0000\xfffeおれは　ジョウトちほう　から\xfffeしゅっちょうで　きてるんだけどさ\xf000븁\x0000\xfffeこっちの　ひとって　クールっていうか\xfffeとかいてきな　かんじじゃない？\xf000븁\x0000\xfffeそのせいか　きんちょうしちゃって\xfffeともだちを　つくれなくてね\xf000븁\x0000\xfffeきょうだって\xfffeせっかくの　やすみだってのに\xf000븀\x0000\xfffeひとりさみしく　ふねのうえさ\xf000븁\x0000\xfffe……そうだ！\xf000븁\x0000\xfffeおれに　イッシュりゅうの　ともだちの\xfffeつくりかたを　おしえてくれよ！\xf000븁\x0000\xfffeなっ　たのむよ！\xfffe……いそがしいって？\xf000븀\x0000\xfffeそこを　なんとか　おねがいだから！\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……\xf000븁\x0000\xfffe……いやー　ひさしぶりに　ひとと\xfffeたくさん　はなせたよ　ありがとうな！\xf000븁\x0000
 あぁ！　きてきが　なってる！\xf000븁\x0000\xfffeいそがしいところ　わるかった！\xfffeトレーナー　みつかると　いいな\xf000븁\x0000\xfffeおれは　おまえに　きいた　ほうほうで\xfffeこっちでの　ともだちを　みつけるよ
 おやすみちゅうでも　きぎょうせんしは\xfffeりんせんたいせい　さ！　いくぞっ！\xf000븁\x0000
@@ -55,14 +55,14 @@
 きてきが　なんかい　なっても\xfffeいいじゃないか！\xf000븁\x0000\xfffeさびしいんだ！\xfffeいかないでくれよ！
 ごめんなさい！　この　おへやは\xfffeせいそうちゅう　なの……\xf000븁\x0000\xfffeあらっ！？\xfffeあなた　トレーナーね！\xf000븁\x0000\xfffeふふっ　おねえさんと　こっそり\xfffeポケモンしょうぶ　しましょ！\xf000븁\x0000
 さぼって　しょうぶ　したことは\xfffeふたりだけの　ヒミツよ！
-きょうはねー……\xf000븁\x0000\xfffeふねの　ひだりがわには　\xf000Ȁ\x0001\x0000にん\xfffeふねの　みぎがわには　\xf000Ȁ\x0001\x0001にん　いるよ
-きょうはねー……\xf000븁\x0000\xfffeふねの　ひだりがわには……　いないね\xfffeふねの　みぎがわには　\xf000Ȁ\x0001\x0001にん　いるよ
-きょうはねー……\xf000븁\x0000\xfffeふねの　ひだりがわには　\xf000Ȁ\x0001\x0000にん　いて\xfffeふねの　みぎがわには……　いないね
-また　きが　むいたら　はなしかけてよ\xfffeおじさんが　いつでも　ヒント　だすよ
-トレーナーさがしの　ヒント\xfffeききたいかい？
-かしこまりました\xfffeそのまま　おまち　くださいませ\xf000븁\x0000
-かしこまりました\xfffeひきつづき　おたのしみ　くださいませ
-ふねの　なかの　トレーナー\xfffeすべてに　しょうりした！
-ロイヤルイッシュごうの\xfffeごじょうせん　ありがとうございます\xf000븁\x0000\xfffeほんじつの　ロイヤルイッシュごうには\xfffe\xf000Ȁ\x0001\x0003にん　トレーナーが　います\xf000븀\x0000\xfffeごゆっくり　おたのしみ　くださいませ\xf000븁\x0000
-ほんじつの　ロイヤルイッシュごうには\xfffe\xf000Ȁ\x0001\x0003にん　トレーナーが　います\xf000븀\x0000\xfffeあなたは……　おめでとうございます！\xf000븁\x0000\xfffeすべての　トレーナーに\xfffeしょうり　なされたのですね！\xf000븁\x0000\xfffeふねは　しゅっこうちゅう　ですが\xfffeふねから　おおりに　なられますか？
-ごじょうせん　ありがとうございました\xf000븁\x0000\xfffeこの　ゆうらんせんは　まもなく\xfffeヒウンシティに　とうちゃくいたします\xf000븁\x0000
+Gli Allenatori oggi a bordo sono:\xfffe\xf000Ȁ\x0001\x0000 a babordo e \xf000Ȁ\x0001\x0001 a tribordo.
+Gli Allenatori oggi a bordo sono:\xfffe\xf000Ȁ\x0001\x0001 a babordo e neanche uno a tribordo.
+Gli Allenatori oggi a bordo sono:\xfffe\xf000Ȁ\x0001\x0000 a tribordo e neanche uno a babordo.
+Quando hai tempo, vieni ancora a parlare\xfffecon me! Ti darò un suggerimento.
+Vuoi un suggerimento per trovare gli\xfffeAllenatori?
+Benissimo, un attimo di pazienza.\xf000븁\x0000
+Benissimo. Buon viaggio e buona\xfffepermanenza a bordo.
+Hai sconfitto tutti gli Allenatori a bordo!
+La Nave Reale Unima ti dà il benvenuto.\xf000븁\x0000\xfffeIl numero di Allenatori oggi a bordo\xfffeè: \xf000Ȁ\x0001\x0003. Buon viaggio!\xf000븁\x0000
+Il numero di Allenatori oggi a bordo della\xfffeNave Reale Unima è: \xf000Ȁ\x0001\x0003.\xf000븀\x0000\xfffeAh... complimenti vivissimi!\xf000븁\x0000\xfffeHai sconfitto tutti gli Allenatori!\xf000븁\x0000\xfffeLa nave ha lasciato il porto, ma possiamo\xffferientrare per questioni urgenti.\xf000븀\x0000\xfffeVuoi ritornare?
+Siamo in arrivo ad Austropoli.\xf000븁\x0000\xfffeRingraziamo tutti i passeggeri per aver\xfffeviaggiato con noi.\xf000븁\x0000
