@@ -71,8 +71,8 @@ Polveri:　\xf000ȃ\x0001\x0000
 Ｎｏ\xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
 \xf000봂\x0000ひでん\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Polvere di bacca
-Hai suonato il pokeflauto!\xfffeWow! Che bel suono!
-Hai suonato il pokefaluto!
+Hai suonato il Pokéflauto!\xfffeWow! Che bel suono!
+Hai suonato il Pokéflauto!
 Il pokèmon ha sentito il suono del\xfffeflauto e si è svegliato.
 Muovi
 Non puoi comprare\xfffe\xf000ĉ\x0001\x0000.
