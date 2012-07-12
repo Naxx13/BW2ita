@@ -1,24 +1,24 @@
 ???: Sfidante!\xf000븁\x0000
 Benvenuto alla Palestra\xfffedi Alisopoli!\xf000븁\x0000\xfffeSono Komor,\xfffeil Capopalestra!\xf000븁\x0000\xfffe... Eh? Vuoi sfidarmi\xfffesubito?\xf000븁\x0000\xfffe... Se prima non ti prepari,\xfffenon ce la farai!\xf000븁\x0000
-Accetto la sfida!\xfffeふたりとも　もちばに　いどうして\xf000븁\x0000
+Accetto la sfida!\xfffePrima vai a battere quei due!\xf000븁\x0000
 Dopo che hai battuto quei due,\xfffeio sarò pronto a lottare!
 Vorresti battermi, eh!\xfffeMa prima lotta con quei due!
 Questa lotta sarà\xfffeuna prima sfida per te\xf000븁\x0000\xfffema lo sarà anche per me, in quanto\xfffenuovo Capopalestra!\xf000븁\x0000\xfffePerciò, fa' del tuo meglio!\xfffeFatti sotto!\xf000븁\x0000
 Questa era la lotta\xfffedel mio inizio come Capopalestra!\xf000븀\x0000\xfffeE ti è andata bene...\xf000븁\x0000\xfffeOnestamente, se così è realmente,\xfffetu e i tuoi Pokémon siete formidabili!\xf000븁\x0000\xfffeE per mostrarlo anche agli altri,\xfffelascia che ti conferisca questa medaglia!\xf000븁\x0000
 \xf000Ā\x0001\x0000 ha ricevuto da Komor\xfffela Medaglia Base!\xf000븁\x0000
 Per commemorare questa lotta,\xfffeeccoti la prima Medaglia, la Medaglia Base!\xf000븁\x0000\xfffeCon questa medaglia, i Pokémon\xfffescambiati fino al L. 20\xf000븀\x0000\xfffeti obbediranno senza problemi!\xf000븀\x0000\xfffeInoltre, per via della forza dei\xf000븁\x0000\xfffetuoi Pokémon, eccoti anche questa!\xf000븁\x0000
-Insegnado a un Pokémon Cuordileone,\xfffepuoi infodere a quel Pokémon\xf000븀\x0000\xfffeil coraggio di lottare!\xf000븁\x0000\xfffePerciò, se durante una sfida\xfffeusi Cuordileone,\xf000븀\x0000\xfffel'Attacco del Pokémon aumenterà!\xf000븁\x0000\xfffeAh, ricordati che puoi usare una\xfffeMT tutte le volte che ti serve.\xf000븁\x0000
+Insegnando a un Pokémon Cuordileone,\xfffepuoi infodere a quel Pokémon\xf000븀\x0000\xfffeil coraggio di lottare!\xf000븁\x0000\xfffePerciò, se durante una sfida\xfffeusi Cuordileone,\xf000븀\x0000\xfffel'Attacco del Pokémon aumenterà!\xf000븁\x0000\xfffeAh, ricordati che puoi usare una\xfffeMT tutte le volte che ti serve.\xf000븁\x0000
 In questa regione di Unima\xfffevi sono 8 Palestre Pokémon\xf000븀\x0000\xfffee quindi ci sono 8 medaglie.\xf000븁\x0000\xfffeE anche tu, in quanto allenatore,\xfffehai il compito di collezionare\xf000븁\x0000\xfffetutte le medaglie! Così potrai\xfffeanche riempire le pagine del Pokédex!\xf000븁\x0000\xfffeGià! Anche io, più o meno due anni fa,\xfffeavevo un Pokédex e insieme\xf000븀\x0000\xfffea Belle viaggiavo per Unima!
 Komor: Da questo momento,\xfffequalsiasi cosa tu decida andrà bene!\xf000븁\x0000\xfffeAndrà bene anche se perderai,\xfffeperchè i Pokémon sono al tuo fianco!
 Io stimo molto Komor!\xfffE' diventato Capopalestra in poco tempo!\xf000븁\x0000
 Se batti anche la ragazza,\xfffepotrai sfidare il Capopalestra!
 Incredibile! Ora puoi\xfffesfidare il Capopalestra!
-……チェレンさんに　みこまれたのも\xfffeほかに　ひとが　いないから？\xf000븁\x0000\xfffeイヤイヤ！　たとえ　そうでも\xfffeぼくが　つよくなれば　いいんだ！
+... Perchè non c'è nessun\xfffealtro che stima Komor?\xf000븁\x0000\xfffeNon importa! Anche se così\xfffefosse, io diventerò forte!
 たったいま　チェレンさんから\xfffeまなんだことを　おしえてあげる！\xf000븁\x0000
 まっ　ちょっとは　やるわね！\xfffeだけど　もうひとりに　かてるの？
 まっ　かなり　やるわね！\xfffeだけど　チェレンさんに　かてるの？
-じぶんの　ポケモンのこと\xfffeもっと　くわしく　しってあげよっと！
-どうも！　じぶんは\xfffeポケモンジムに　ちょうせんする\xf000븀\x0000\xfffeトレーナーを　ガイドする\xf000븀\x0000\xfffeガイドーと　いいます\xf000븁\x0000\xfffeジムに　ちょうせん\xfffeありがとう　ございます\xf000븀\x0000\xfffeきねんに　これを　さしあげるっす！\xf000븁\x0000
-ポケモンジムは　ポケモントレーナーの\xfffeうでまえが　いかほどか\xf000븀\x0000\xfffeためす　しせつ　なんですよね！\xf000븁\x0000\xfffeわかりやすく　いえば\xfffeジムリーダーに　かてば　なかなかの\xf000븀\x0000\xfffeトレーナーとして　みとめられるっす！\xf000븁\x0000
-ポケモンしょうぶは　たたかえる\xfffeポケモンが　いなくなれば　まけ\xf000븁\x0000\xfffeですので　たくさんの　ポケモンを\xfffeつれていると　ゆうり　かもですね！
+Voglio conoscere i miei Pokémon\xfffepiù approfonditamente!
+Ciao! Io sono\xfffela guida per gli allenatori\xf000븀\x0000\xfffeche vogliono sfidare il\xf000븀\x0000\xfffecapopalestra Komor!\xf000븁\x0000\xfffeGrazie per voler lottare\xfffein questa Palestra!\xf000븀\x0000\xfffePer ricordo, tieni questo!\xf000븁\x0000
+Il compito di un Capopalestra\xfffeè quello di valutare la\xf000븀\x0000\xfffebravura di un allenatore!\xf000븁\x0000\xfffeE' facile valutare\xfffel'allenatore se\xf000븀\x0000\xfffevince il Capopalestra!\xf000븁\x0000
+Se in una lotta Pokémon non si hanno\xfffepiù Pokémon in forma, si perde!\xf000븁\x0000\xfffePerciò, più Pokémon si hanno,\xfffepiù si è avvantaggiati!
 Hai ricevuto la Medaglia!\xfffeSpero che tu ricorda sempre\xf000븀\x0000\xfffequest'attimo meraviglioso!
