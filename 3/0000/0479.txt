@@ -1,18 +1,18 @@
 \xf000Ā\x0001\x0000\xfffeaccende il PC.\xf000븁\x0000
 A che PC vuoi\xfffeaccedere?
 PC di qualcuno
-PC di Shoro
+PC di Mico
 \xf000Ā\x0001\x0000 PC
-PC della prof.ssa
-きろくをみる
+PC della prof.ssa Aralia
+Guarda record
 Aiuto
-Spegni
-Acceso il PC\xfffedella Prof.ssa Aralia！\xf000븀\x0000
-でんどういりの\xfffeデータが　こわれています\xf000븁\x0000\xfffeもういちど　でんどういり　すれば\xfffeだいじょうぶ　です\xf000븁\x0000
+Disconnettiti
+Acceso al PC\xfffedella Prof.ssa Aralia！\xf000븀\x0000
+I dati della tua sala d' onore sono corrotti.\xf000븁\x0000\xfffeSarà risolto se si mentrera nella \xfffesala d' onore di nuovo.\xf000븁\x0000
 Congratulazioni!\xf000븁\x0000\xfffePer commemorare la prima volta\xfffeche accedi è stato aggiunto uno sfondo！\xf000븁\x0000
 Congratulazioni！\xf000븁\x0000\xfffePer celebrare la sconfitta di Iris\xfffeè stato aggiunto uno sfondo！\xf000븁\x0000
 Congratulazioni！\xf000븁\x0000\xfffePer ricordare la cattura di Kyurem\xfffeè stato aggiunto uno sfondo!\xf000븁\x0000
-Sistema Deposito Pokémon\xfffeacceso.\xf000븁\x0000
+Sistema Memoria Pokémon\xfffaperto.\xf000븁\x0000
 Deposita Pokémon
 Ritira Pokémon
 Sposta Pokémon
@@ -26,17 +26,17 @@ Puoi spostare gli strumenti tenuti\xfffedai Pokémon nei box e nella squadra.
 Esci dal\xfffeSistema di Archiviazione Pokémon.
 Puoi registrare i Pokémon che userai in\xfffelotte contro altri giocatori.
 Connesso al PC di\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
-Box Mail
-せつぞくを　きる
-メールを　２０つう　まで\xfffeほぞん　することが　できます
-じぶんのパソコン　への\xfffeつうしんを　せつだん　します
-はじめてのクリア
-でんどういり
-せつぞくを　きる
-きろく　システムに\xfffeせつぞく　した！\xf000븁\x0000
-はじめて　クリアしたときの\xfffeメンバーを　みることが　できます
-でんどういり　したときの\xfffeメンバーを　みることが　できます
-きろくシステム　への\xfffeつうしんを　せつだん　します
-Collegato al PC\xfffedella Prof.ssa Aralia!\xf000븁\x0000
-ヘルプ　システムに\xfffeせつぞく　した！\xf000븁\x0000
+Box Messaggi
+Disconnettiti
+Possono essere memorizzati fino a\xfffe20 messaggi di posta
+Disconnettiti dal tuo PC.
+1° completamento del gioco.
+Sala d' onore
+Spegni
+Accesso all' archivio record.\xf000븁\x0000
+Guarda i pokémon con cui hai completato\xfffeil gioco la prima volta.
+Guarda i pokémon con cui hai varcato\xfffeLa sala d' onore
+Esci dall archivio record
+Accesso al PC\xfffedella Prof.ssa Aralia!\xf000븁\x0000
+Accesso al sistema di aiuto\xf000븁\x0000
 　
