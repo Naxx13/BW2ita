@@ -22,7 +22,7 @@ HIGH SCORE
 BEGIN A MISSION
 MISSIONE IN CORSO
 La missione è iniziata!\xf000븂\x0001Z
-Another mission is already\xfffein progress.
+Un'altra missione è già\xfffein progresso.
 Saleziona una delle\xfffesei missioni.
 Seleziona la missione.
 You cannot accept this mission\xfffewhen three worlds are connected.
