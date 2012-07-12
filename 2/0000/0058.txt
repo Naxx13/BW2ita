@@ -9,4 +9,4 @@ RANKING
 ANNULLA
 INDIETRO
 Verifica collegamento
-You wish to continue and\xfffethe scene has changed.
+Desideri continuare e \xfffeLa scena è cambiata.
