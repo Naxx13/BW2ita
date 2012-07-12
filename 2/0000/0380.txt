@@ -1,28 +1,28 @@
-Natura \xf000\xff00\x0001\x0002Ardua\xf000\xff00\x0001\x0000.
-Natura \xf000\xff00\x0001\x0002Solitaria\xf000\xff00\x0001\x0000.
-Natura \xf000\xff00\x0001\x0002Coraggiosa\xf000\xff00\x0001\x0000.
-Natura \xf000\xff00\x0001\x0002Inflessibile\xf000\xff00\x0001\x0000.
-Natura \xf000\xff00\x0001\x0002Cattiva\xf000\xff00\x0001\x0000.
+Natura \xf000\xff00\x0001\x0002Ardita\xf000\xff00\x0001\x0000.
+Natura \xf000\xff00\x0001\x0002Schiva\xf000\xff00\x0001\x0000.
 Natura \xf000\xff00\x0001\x0002Audace\xf000\xff00\x0001\x0000.
+Natura \xf000\xff00\x0001\x0002Decisa\xf000\xff00\x0001\x0000.
+Natura \xf000\xff00\x0001\x0002Birbona\xf000\xff00\x0001\x0000.
+Natura \xf000\xff00\x0001\x0002Sicura\xf000\xff00\x0001\x0000.
 Natura \xf000\xff00\x0001\x0002Docile\xf000\xff00\x0001\x0000.
-Natura \xf000\xff00\x0001\x0002Tranquilla\xf000\xff00\x0001\x0000.
-Natura \xf000\xff00\x0001\x0002Biricchina\xf000\xff00\x0001\x0000.
-Natura \xf000\xff00\x0001\x0002Negligente\xf000\xff00\x0001\x0000.
+Natura \xf000\xff00\x0001\x0002Placida\xf000\xff00\x0001\x0000.
+Natura \xf000\xff00\x0001\x0002Scaltra\xf000\xff00\x0001\x0000.
+Natura \xf000\xff00\x0001\x0002Fiacca\xf000\xff00\x0001\x0000.
 Natura \xf000\xff00\x0001\x0002Timida\xf000\xff00\x0001\x0000.
-Natura \xf000\xff00\x0001\x0002Frettolosa\xf000\xff00\x0001\x0000.
+Natura \xf000\xff00\x0001\x0002Lesta\xf000\xff00\x0001\x0000.
 Natura \xf000\xff00\x0001\x0002Seria\xf000\xff00\x0001\x0000.
 Natura \xf000\xff00\x0001\x0002Allegra\xf000\xff00\x0001\x0000.
-Natura \xf000\xff00\x0001\x0002Ingenua\xf000\xff00\x0001\x0000..
+Natura \xf000\xff00\x0001\x0002Ingenua\xf000\xff00\x0001\x0000.
 Natura \xf000\xff00\x0001\x0002Modesta\xf000\xff00\x0001\x0000.
 Natura \xf000\xff00\x0001\x0002Mite\xf000\xff00\x0001\x0000.
 Natura \xf000\xff00\x0001\x0002Quieta\xf000\xff00\x0001\x0000.
-Natura \xf000\xff00\x0001\x0002Schiva\xf000\xff00\x0001\x0000.
-Natura \xf000\xff00\x0001\x0002Temeraria\xf000\xff00\x0001\x0000.
+Natura \xf000\xff00\x0001\x0002Ritrosa\xf000\xff00\x0001\x0000.
+Natura \xf000\xff00\x0001\x0002Ardente\xf000\xff00\x0001\x0000.
 Natura \xf000\xff00\x0001\x0002Calma\xf000\xff00\x0001\x0000.
 Natura \xf000\xff00\x0001\x0002Gentile\xf000\xff00\x0001\x0000.
-Natura \xf000\xff00\x0001\x0002Sfacciata\xf000\xff00\x0001\x0000.
-Natura \xf000\xff00\x0001\x0002Attenta\xf000\xff00\x0001\x0000.
-Natura \xf000\xff00\x0001\x0002Strana\xf000\xff00\x0001\x0000.
+Natura \xf000\xff00\x0001\x0002Vivace\xf000\xff00\x0001\x0000.
+Natura \xf000\xff00\x0001\x0002Cauta\xf000\xff00\x0001\x0000.
+Natura \xf000\xff00\x0001\x0002Furba\xf000\xff00\x0001\x0000.
 \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffe\xf000\xff00\x0001\x0002\xf000ą\x0001\x0004\xf000\xff00\x0001\x0000\xfffeIncontrato al L. \xf000Ȃ\x0001\x0003.
 \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffe\xf000\xff00\x0001\x0002\xf000ą\x0001\x0004\xf000\xff00\x0001\x0000\xfffeApparentemente incontrato al\xfffeL. \xf000Ȃ\x0001\x0003.
 \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffe\xf000\xff00\x0001\x0002\xf000ą\x0001\x0004\xf000\xff00\x0001\x0000\xfffeArrivato al L. \xf000Ȃ\x0001\x0003.
@@ -52,36 +52,36 @@ Natura \xf000\xff00\x0001\x0002Strana\xf000\xff00\x0001\x0000.
 \xf000á\x0001\x0006/\xf000á\x0001\x0007/20\xf000á\x0001\x0005\xfffe\xf000\xff00\x0001\x0002\xf000â\x0001\x0008\xf000\xff00\x0001\x0000\xfffeAppeared out of a legend.\xf000\xff00\x0001\x0000\xfffeLegendary Pokemon.\xfffeFateful encounter.
 \xf000á\x0001\x0006/\xf000á\x0001\x0007/20\xf000á\x0001\x0005\xfffe\xf000\xff00\x0001\x0002\xf000â\x0001\x0008\xf000\xff00\x0001\x0000\xfffeAppeared out of a legend.\xf000\xff00\x0001\x0000\xfffeLegendary Pokemon.\xfffeFateful encounter.
 \xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001/20\xf000ȁ\x0001\x0002\xfffe\xf000\xff00\x0001\x0002\xf000ą\x0001\x0004\xf000\xff00\x0001\x0000\xfffeであった。\xfffeとあるトレーナーと\xfffeトモダチらしい　ちょっと\xfffeめずらしい　ポケモン。
-Ama mangiare.
-Often dozes off.
-Si appisola spesso.
-Disperde spesso le cose.
-Ama rilassarsi.
-Orgoglioso del suo potere.
-Gli piace agitarsi.
-Un piccolo e veloce temperato.
-Gli piace combattere.
-Molto Agitato.
-Corpo robusto.
-Capace a prendere colpi.
-Molto persistente.
-Buona resistenza.
-Buona perseveranza.
-Piace correre.
-Avverte i suoni.
-Impetuoso e sciocco.
-Fa' il clown.
-Rapido a fuggire.
-Grande Curioso.
-Malizioso.
-Molto astuto.
-Spesso, perso nei suoi pensieri.
-Molto schizzinoso.
-Tenace.
-Un po' vanitoso.
+Adora mangiare.
+Si addormenta spesso.
+Lascia cose in giro.
+Dorme a lungo.
+Adora rilassarsi.
+La forza è il suo vanto.
+Adora dimenarsi.
+Si arrabbia facilmente.
+Adora combattere.
+Facilmente irritabile.
+Ha un corpo robusto.
+Forte in attacco.
+Molto ostinato.
+Molto paziente.
+Molto tenace.
+Adora correre.
+Fa attenzione ai suoni.
+Irruente e semplice.
+Una specie di buffone.
+Sa fuggire velocemente.
+Grande Ficcanaso.
+Alquanto Vivace.
+Estremamente Sagace.
+Si Perde nel suo Mondo.
+Molto Esigente.
+Sa il fatto suo.
+Abbastanza superficiale.
 Molto insolente.
-Odia perdere.
-Un po 'testardo.
+Non sopporta perdere.
+Un pò testardo.
 \xf000ȁ\x0001\x0006/\xf000ȁ\x0001\x0007/20\xf000ȁ\x0001\x0005\xfffeA mysterious Pokémon\xfffeUovo ricevuto da\xfffe\xf000\xff00\x0001\x0002\xf000ą\x0001\x0008\xf000\xff00\x0001\x0000.\xfffe
 \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeA mysterious Pokémon\xfffeUovo ottenuto in\xfffe\xf000\xff00\x0001\x0002\xf000ą\x0001\x0004\xf000\xff00\x0001\x0000.
 \xf000ȁ\x0001\x0006/\xf000ȁ\x0001\x0007/20\xf000ȁ\x0001\x0005\xfffeA very mysterious\xfffeUovo Pokèmon ottenuto\xfffeat \xf000\xff00\x0001\x0002\xf000ą\x0001\x0008\xf000\xff00\x0001\x0000.\xfffe
