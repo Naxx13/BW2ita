@@ -1,51 +1,51 @@
-Giudicherò le tue lotte\xfffein un Esame di Lotta!\xf000븁\x0000\xfffeCosa vorresti fare?
-Il grande ritorno! Vorresti lottare\xfffein un Esame di Lotta?
-Mi dispiace...\xf000븁\x0000\xfffePotrebbe essere troppo presto per\xfffelottare in un Esame di Lotta per te.\xf000븁\x0000\xfffePer favore torna dopo aver finito il tuo\xfffeviaggio ed essere diventato più forte.
-Torna presto.
-Che lotta vorresti fare,\xfffein Singolo o in Doppio?
-Allora, iniziamo.\xf000븁\x0000\xfffeTieni a mente che una volta che inizi,\xfffedovrai affrontare cinque lotte\xf000븀\x0000\xfffesenza nessuna pausa.\xf000븁\x0000\xfffeOra, scegli i Pokémon che vorresti\xfffefare partecipare, per favore.\xf000븁\x0000
-Salvataggio...\xfffeNon spegnere la console.
-Ora, l'Esame di Lotta inizia!\xfffeEntra, per favore!\xf000븁\x0000
-Perfetto.\xf000븁\x0000\xfffeTi dirò il risultato\xfffedell'Esame di Lotta.\xf000븁\x0000\xfffeIl risultato è...\xf000븁\x0000
-Rango Master! Magnifico!\xfffeFa' che io sia il tuo apprendista.
-Il risultato è Rango d'Elité!\xfffeE' qualcosa di cui puoi essere fiero!
-Il risultato è Rango Iper!\xfffeDevi esercitarti ancora di più.
-Il risultato è Rango Super.\xfffeSei molto forte.
-Il risultato è Rango Normale.\xfffeLa tua forza è media.
-Il risultato è Rango Novellino.\xfffePotresti impegnarti un po' di più.
-Il risultato è Rango Principiante.\xfffeDovresti imparare le basi, prima.
-I've been waiting for you!\xf000븁\x0000\xfffeWould you like to challenge\xfffethe downloaded Single Battle Test?
-Would you like to download\xfffea special Battle Test?
-Hmm... I don't see anything\xfffeto download...\xf000븁\x0000\xfffeWhat would you like to do?
-I downloaded a special\xfffeSingle Battle Test!\xf000븁\x0000\xfffeYou only have one chance to challenge,\xfffeso please battle until the end\xf000븀\x0000\xfffewithout turning off the power.\xf000븁\x0000
-I downloaded a special \xfffeDouble Battle Test!\xf000븁\x0000\xfffeYou only have one chance to challenge,\xfffeso please battle until the end\xf000븀\x0000\xfffewithout turning off the power.\xf000븁\x0000
-Would you like to challenge right away?
-OK. See you later.\xfffeI've been waiting for you!
-You will take a Battle Test using\xfffethree Pokémon for Single Battles\xf000븀\x0000\xfffeand four Pokémon for Double Battles.\xf000븁\x0000\xfffeYou may not use duplicate Pokémon or\xfffeheld items.\xf000븁\x0000\xfffeFor these battles, all Pokémon will be\xfffeset to Lv. 50.\xf000븁\x0000\xfffeYou will battle against five Trainers in a\xffferow, and I will be your judge.\xf000븁\x0000\xfffeWhat would you like to do?
-Affronterai l'avversario N. \xf000Ȁ\x0001\x0000.\xfffeBuona fortuna!\xf000븁\x0000
-I've been waiting for you.\xf000븁\x0000\xfffeWould you like to challenge\xfffethe downloaded Double Battle Test?
-You seem to have taken all of the\xfffecurrent Battle Tests already.\xf000븁\x0000\xfffeWhat would you like to do?
-Non ci sono risultati da mostrare.
-Che test vorresti vedere?
-Communicating... Don't turn off the\xfffepower. Press the B Button to cancel.
-Lotta
+L'Esame di Lotta valuterà le tue abilità\xfffenella lotta! Vuoi provare a sostenerlo?
+Oooh, illustre Allenatore! Desideri\xfffesostenere l'Esame di Lotta?
+Sono desolato...\xf000븁\x0000\xfffeÈ ancora troppo presto per te: ora non\xfffepuoi sostenere l'Esame di Lotta.\xf000븁\x0000\xfffeRitorna quando avrai acquisito più forza\xfffeed esperienza!
+Bene, sarà per la prossima volta!
+Preferisci una Lotta in Singolo o una\xfffeLotta in Doppio?
+Però fai attenzione, perché ogni sfida\xfffeè composta da cinque lotte di seguito,\xf000븀\x0000\xfffesenza alcuna pausa!\xf000븁\x0000\xfffeOra scegli bene quali Pokémon vuoi far\xfffepartecipare.\xf000븁\x0000
+Salvataggio in corso.\xfffeNon spegnere la console.
+L'Esame di Lotta sta per avere inizio.\xfffeAccomodati, prego!\xf000븁\x0000
+Finito!\xf000븁\x0000\xfffeTi comunico senza indugio il risultato\xfffedell'Esame di Lotta.\xf000븁\x0000\xfffeIl risultato è...\xf000븁\x0000
+Incredibile, Livello Master!!!\xfffeFavoloso! Lascia che diventi tuo allievo!
+Livello Élite!!!\xfffePotrai vantartene con gli amici!
+Livello Iper!\xfffeHai studiato molto, eh?
+Livello Super!\xfffeSei piuttosto forte!
+Livello Normale!\xfffeLa tua forza è... come dire... normale.
+Livello Esordiente!\xfffeDevi impegnarti un po' di più!
+Livello Principiante!\xfffeE se imparassi prima le basi?
+Ti stavo aspettando!\xf000븁\x0000\xfffeVuoi provare a sostenere l'Esame di\xfffeLotta in Singolo che hai scaricato?
+Vuoi scaricare un Esame di Lotta\xfffespeciale?
+Non trovo nulla da poter scaricare.\xfffeChe si fa?
+L'Esame di Lotta in Singolo speciale è\xfffestato scaricato!\xf000븁\x0000\xfffeNon spegnere la console durante la sfida,\xfffee lotta senza sosta fino alla fine!\xf000븁\x0000
+L'Esame di Lotta in Doppio speciale è\xfffestato scaricato!\xf000븁\x0000\xfffeNon spegnere la console durante la sfida,\xfffee lotta senza sosta fino alla fine!\xf000븁\x0000
+Vuoi iniziare subito la sfida?
+Bene, allora a più tardi!
+All'Esame di Lotta si partecipa con tre\xfffePokémon per la Lotta in Singolo e con\xf000븀\x0000\xfffequattro per la Lotta in Doppio.\xf000븁\x0000\xfffeI Pokémon che partecipano devono essere\xfffetutti diversi tra loro, e lo stesso vale\xf000븀\x0000\xfffeper i loro strumenti.\xf000븁\x0000\xfffeInoltre, qui tutti i Pokémon diventano\xfffedi livello 50 prima di lottare.\xf000븁\x0000\xfffeQuando avrai affrontato cinque Allenatori\xfffedi seguito, ti verrà svelato il risultato\xf000븀\x0000\xfffedell'esame.\xf000븁\x0000\xfffeAllora, cosa vuoi fare?
+È il turno dell'Allenatore numero \xf000Ȁ\x0001\x0000.\xfffeIn bocca al lupo!\xf000븁\x0000
+Ti stavo aspettando!\xf000븁\x0000\xfffeVuoi provare a sostenere l'Esame di\xfffeLotta in Doppio che hai scaricato?
+Hai già superato tutti gli Esami di Lotta\xfffedisponibili. Cosa vorresti fare?
+Al momento non ci sono risultati di esami\xfffeda mostrare.
+Di quale esame vuoi vedere il risultato?
+Comunicazione in corso. Non spegnere\xfffela console. Pulsante B per annullare.
+Iniziare l'Esame
 Info
-Annulla
-Singolo
-Doppio 
+Esci
+In Singolo
+In Doppio
 Download
 Normale
 Speciale
-LOTTA SINGOLA
-LOTTA IN DOPPIO
-RISULTATI TEST
+LOTTA SINGOLO
+LOTTA DOPPIO
+RISULTATO
 PUNTI
 \xf000ȃ\x0001\x0000
-RANGO PRINCIPIANTE
-RANGO NOVELLINO
-RANGO NORMALE
-RANGO SUPER
-RANGO IPER
-RANGO ELITE'
-RANGO MASTER
-Il download è stato cancellato.
+Livello Principiante
+Livello Esordiente
+Livello Normale
+Livello Super
+Livello Iper
+Livello Élite
+Livello Master
+Il download è stato annullato!
