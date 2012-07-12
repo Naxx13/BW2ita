@@ -5,10 +5,10 @@
 ポケモンに　どうぐを\xfffeもたせられるだろ？\xf000븁\x0000\xfffeでもさ　ひとが　つくった　どうぐ……\xfffeたとえば　キズぐすり　とかは\xf000븀\x0000\xfffeつかいかたが　わからないみたいだね
 ノーマルタイプの　ポケモンは\xfffeかくとうタイプに　よわい！\xf000븁\x0000\xfffeだけど　このあたりだと\xfffeサンギぼくじょうの\xf000븀\x0000\xfffeリオル　ぐらいしか　いないからね……\xf000븁\x0000\xfffeほのお　みず　くさタイプの\xfffeポケモンで　たたかうなら\xf000븀\x0000\xfffeじゅんすいな　つよさくらべに　なるね
 こくばんに　ポケモンが\xfffeたたかっているときに　おこる\xf000븁\x0000\xfffeたいちょうの　へんかに　ついて\xfffeかかれてます\xf000븁\x0000
-What do you want to read about?
+Che cosa vuoi leggere?
 どくを　うけると\xfffeたたかっている　あいだ\xf000븀\x0000\xfffeたいりょくが　へっていきます\xf000븁\x0000\xfffeせんとうが　おわっても\xfffeどくの　ままです\xf000븁\x0000\xfffeどくけしで　なおしましょう\xf000븁\x0000
-Paralysis reduces the Speed stat\xfffeand may prevent movement.\xf000븁\x0000\xfffeIt remains after battle, so use a\xfffeParlyz Heal.\xf000븁\x0000
-If a Pokémon falls asleep, it will be\xfffeunable to attack.\xf000븁\x0000\xfffeThe Pokémon may wake up on its own,\xfffebut if a battle ends while it is\xf000븀\x0000\xfffesleeping, it will stay asleep.\xf000븁\x0000\xfffeWake it up using an Awakening.\xf000븁\x0000
+La paralisi riduce la Velocità\xfffee può impedire i movimenti.\xf000븁\x0000\xfffeRimane dopo la lotta, perciò usa\xfffeun Antiparalisi.\xf000븁\x0000
+Se un Pokémon si addormenta, non\xfffepotrà attaccare.\xf000븁\x0000\xfffeIl Pokémon potrebbe svegliarsi da solo,\xfffema se una lotta finisce mentre è\xf000븀\x0000\xfffeaddormentato, rimarà in quello stato.\xf000븁\x0000\xfffeWake it up using an Awakening.\xf000븁\x0000
 A burn reduces the Attack stat and\xfffesteadily reduces the victim's HP.\xf000븁\x0000\xfffeA burn lingers after battle.\xfffeCure a burn using a Burn Heal.\xf000븁\x0000
 If a Pokémon is frozen, it becomes\xfffecompletely helpless.\xf000븁\x0000\xfffeThe Pokémon may thaw out on its own,\xfffebut if a battle ends while it is\xf000븀\x0000\xfffefrozen, it will stay frozen.\xf000븁\x0000\xfffeThaw it out using an Ice Heal.\xf000븁\x0000
 Poison
