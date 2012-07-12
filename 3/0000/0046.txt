@@ -1,16 +1,16 @@
-Benvenuto al maestoso\xfffeRoyal UNOVA！\xf000븁\x0000\xfffeVuoi acquistare un biglietto\xfffeper 1000 pokédollari？
-Questa crociera è\xfffela prima del suo genere.\xf000븁\x0000
-Il sistema di navigazione della\xfffeRoyal UNOVA è in manutenzione.\xf000븀\x0000\xfffeRitorna sta sera.
-Oh？　Sembra che tu\xfffenon abbia abbastanza soldi...
-Vuoi pagare 1000 pokèdollari,\xfffeper un biglietto？
-イッシュちほうの　おおきな　はし\xfffeスカイアローブリッジを　くぐり\xf000븁\x0000\xfffeワンダーブリッジを　まわって\xfffeヒウンシティに　もどります\xf000븁\x0000\xfffeきてきが　５かい　なりましたら\xfffeとうちゃくの　あいずで　ございます\xf000븁\x0000
-ロイヤルイッシュごうの　かんぱんでは\xfffeじまんの　けしきを　たのしめます\xf000븁\x0000\xfffeきゃくしつには　しょうぶずきな\xfffeトレーナーが　あつまって　おります\xf000븁\x0000\xfffeぜひ　けしきも　しょうぶも\xfffeおたのしみ　ください\xf000븁\x0000\xfffeなお　むせんきや　けいきるいへの\xfffeえいきょうが　あるため\xf000븁\x0000\xfffeせんないで　Ｃギアを\xfffeつかうことは　できません\xf000븁\x0000\xfffeごりかいの　ほど\xfffeよろしく　おねがい　いたします\xf000븁\x0000
-Sei sicuro di voler\xfffespegnere il C-GEAR？
-まもなく　しゅっこうに　なります\xfffeいってらっしゃいませ！\xf000븁\x0000
-かしこまりました\xfffeまたの　おこしを　おまちしております
-Grazie per essere salito a bordo!\xfffeTorna a farci visita.
-ほんじつの　しゅっこうは\xfffeしゅうりょう　いたしました\xf000븀\x0000\xfffeまた　あす　おこしくださいませ
-Congratulazioni！\xf000븁\x0000\xfffeHai sconfitto tutti\xfffegli allenatori！\xf000븁\x0000\xfffePrego accetta questo\xfffecome premio！\xf000븁\x0000
-ふねにのる
-ふねのせつめい
-やめる
+Ti do il benvenuto sulla Nave Reale Unima!\xfffeViaggia con noi tra sogno e lotta!\xf000븁\x0000\xfffeIl biglietto costa $1000.\xfffeVuoi viaggiare con noi?
+La Nave Reale Unima salpa una volta\xfffeal giorno, nel tardo pomeriggio.\xf000븀\x0000\xfffeÈ una nave da crociera.\xf000븁\x0000
+La Nave Reale Unima salpa solo nel tardo\xfffepomeriggio. Ti prego di ritornare.
+Mi dispiace, ma non hai abbastanza soldi.\xfffeTi prego di tornare un'altra volta.
+Il biglietto costa $1000.\xfffeVuoi viaggiare con noi?
+Passeremo sotto al ponte più grande di\xfffeUnima, il Ponte Freccialuce, arriveremo\xf000븀\x0000\xfffefino al Ponte Meraviglie e da lì torneremo\xf000븀\x0000\xfffead Austropoli.\xf000븁\x0000\xfffeLa fine della traversata sarà annunciata\xfffeda cinque fischi della sirena a vapore.\xf000븁\x0000
+Dal maestoso ponte della Nave Reale Unima\xfffesi possono ammirare viste stupende!\xf000븁\x0000\xfffeE nelle cabine si incontrano Allenatori\xfffeamanti della lotta!\xf000븁\x0000\xfffePaesaggi da sogno e lotte appassionate!\xfffeUna crociera davvero memorabile!\xf000븁\x0000\xfffeAvvisiamo che sulla nave non si può usare\xfffeil C-Gear in quanto potrebbe interferire\xf000븀\x0000\xfffecon le apparecchiature di bordo.\xf000븁\x0000
+Vuoi spegnere il C-Gear?
+Stiamo per lasciare il porto.\xfffeBuon viaggio!\xf000븁\x0000
+Va bene.\xfffeTorna a trovarci.
+Grazie per aver scelto la nostra nave!\xfffeTorna ancora, ti aspettiamo!
+Il tour di oggi è terminato.\xfffeTorna a trovarci domani!
+Congratulazioni!\xf000븁\x0000\xfffeHai battuto tutti gli Allenatori a bordo!\xf000븁\x0000\xfffeQuesto premio è per te!\xf000븁\x0000
+Sali
+Informazioni
+Esci
