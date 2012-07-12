@@ -1,36 +1,36 @@
-Ciao! Io sono una umile cameriera! \xf000 븁 \x0000 \xfffeIl mio maestro ha un cuore grande da soddisfare e una\xfffegrande pancia. E' un buongustaio! \xf000 븁 \x0000 \xfffe Così sto cercando ingredienti\xfffeper far saltare il suo cuore di gioia! \xf000 븁 \x0000
-Sniff, sniff...Sniff, sniff... \xf000 븁 \x0000 \xfffeOh, che aroma! L'odore è così delizioso! \xf000 븁 \x0000 \xfffehai un ingrediente così meraviglioso\xfffenella tua borsa? \xf000 븀 \x0000 \xfffePotresti considerare di vendermelo? \xf000 븁 \x0000
-Oh, l'odore è così buono! \xf000 븁 \x0000 \xfffeQuello \xf000ĉ \x0001 \x0000tuo è un ingrediente molto\xffferaro davvero! \xf000 븁 \x0000 \xfffeVuoi prenderlo $ \xf000ȇ \x0001 \x0001 per questo?
-Torna indietro \xf000ĉ \x0001 \x0000 e \xfffe riceverai $ \xf000ȇ \x0001 \x0001!
-Grazie! \xf000 븁 \x0000 \xfffeCon questo, posso creare un menu eccellente. \xfffeIl mio maestro sarà sorpreso!
-Hmmm... Questo non è esattamente quello che sto\xfffecercando.\xf000븁\x0000\xfffeNon credo che il mio maestro sarà soddisfatto\xfffecon tale odore...
-Aww... Beh, questo è OK.\xf000븁\x0000\xfffetu puoi cercarmi un ingrediente così delizioso? ,\xfffeper favore fammelo sapere!
-Sniff, sniff... Sniff, sniff...\xf000븁\x0000\xfffeBeh, io non sento nessun odore interessante\xfffenella tua borsa.\xf000븁\x0000\xfffeMa se trovi un ingrediente così delizioso,\xfffeper favore fammelo sapere!
-Minerale, Minerale, Minerale...\xfffeQuesti sono i minerali che adoro!\xf000븁\x0000\xfffeAh, questo drovrebbe far ridere \xf000븁\x0000\xfffeComunque ti pagherò bene per\xfffei minerali rari.\xf000븁\x0000\xfffeE non solo i minerali! Pietre, Gemme,\xfffecocci...frammenti di minerali! Io li amo tutti.!\xf000븁\x0000
-Tu non hai un minerale che adoro\xfffee che scuote il mio cuore?\xf000븁\x0000
-Oh, io adoro i minerali!\xf000븁\x0000\xfffeQuesto \xf000ĉ\x0001\x0000, mi stà scuotendo!\xfffeVuoi venderlo per $\xf000ȇ\x0001\x0001?
-Torna indietro \xf000ĉ\x0001\x0000\xfffee riceverai $\xf000ȇ\x0001\x0001!
-L'affare è fatto!\xfffeHo segnato un minerale che adoro
-Huh? Cosa diavolo è questo?\xf000븁\x0000\xfffeTu non puoi scuotere la mia anima\xfffecon un minerale così scadente!
-Hmmm. Il mio cuore non cambierà.\xfffeSpero che me lo venderai un giorno.
-Tu non hai un minerale che adoro\xfffee che scuote il mio cuore?\xf000븁\x0000\xfffeHmmmm. Non sembri averlo.\xfffeTorna indietro di nuovo.
-Come puoi vedere,\xfffeio sono un miliardario ultraricco!\xf000븁\x0000\xfffee come vedi,\xfffeil mio hobby e quello di collezionare oggetti rari!\xf000븁\x0000\xfffeIn realtà, questo vestito è ultra costoso\xfffee raro.\xf000븀\x0000\xfffeRiesci a vederlo? Puoi?\xf000븁\x0000
-C'è qualcosa in cui questo miliardario \xfffevuole mettere le mani, anche se questo\xf000븀\x0000\xfffesignifichi spendere un sacco di soldi.\xf000븁\x0000\xfffeHai un oggetto raro ?\xfffenon è vero?\xf000븁\x0000
-QUello \xf000ĉ\x0001\x0000!! Lo vuoi vendere a me \xfffeper $\xf000ȇ\x0001\x0001? Lo vuoi?
-Torna indietro \xf000ĉ\x0001\x0000\xfffee riceverai $\xf000ȇ\x0001\x0001!
-Io ho un oggetto molto buono!\xfffeNon credi che sia grande? Non credi?
-Questo è leggermente diverso.\xfffeNon la pensi così anche tu?vero?
-Se cambi idea,\xfffemi vendi l'oggetto raro? Tu vuoi?
-In realtà è...\xfffeE'un tesoro raro, Reliqua Corona!\xf000븁\x0000\xfffeMi è stato detto che era nella parte più interna\xfffedelle Rovine Abissali!\xf000븁\x0000\xfffeCredo che sia comprensibile che si\xfffedesideri farne tesoro, ma tu vuoi vendermelo\xf000븀\x0000\xfffeper $\xf000ȇ\x0001\x0001? Vuoi?
-C'è qualcosa in cui questo miliardario\xfffevuole mettere le mani, anche se questo\xf000븀\x0000\xfffesignifichi spendere un sacco di soldi.\xf000븁\x0000\xfffeHai un oggetto raro ?\xfffenon è vero?\xf000븁\x0000\xfffeGrrr! Tu non hai un oggetto raro,\xfffenon è vero?
-Hey controlla fuori. io ho un affare molto piacevole\xfffeper te!\xf000븁\x0000\xfffeTu sai come ai Pokémon piace nascondersi dietro\xfffepietre o rocce, vero?\xf000븁\x0000\xfffeA volte si nascondono cose interessanti, anche.\xf000븁\x0000\xfffese trovi qualcosa di interessante dietro una roccia,\xfffedovresti portarla a me.\xf000븁\x0000\xfffeCe la farò ne vale la pena.\xf000븁\x0000
-Che succede?\xfffeHai trovato qualcosa di interessante per me?\xf000븁\x0000
-Hey, buono! Fammi controllare\xfffeQuello \xf000ĉ\x0001\x0000...\xf000븁\x0000\xfffeTi darò $\xf000ȇ\x0001\x0001 per questo.\xfffeChe ne dici ?
-Torna indietro \xf000ĉ\x0001\x0000\xfffee riceverai $\xf000ȇ\x0001\x0001!
-Hey, Grazie!\xf000븁\x0000\xfffeScometto che posso venderlo a un collezionista per\xfffepiù di quanto ti ho appena dato.\xf000븁\x0000\xfffeAh! Questo non è roba per te!
-No, questo non va bene. Non vale nemmeno il mio tempo
-Hey, vieni a vedere, se trovi qualcosa\xfffedi interessante capito?\xf000븁\x0000\xfffeCe la farò ne vale la pena.
-Che succede?\xfffehai trovato qualcosa di interessante per me?\xf000븁\x0000\xfffe ... No, niente di interessante nella tua borsa.\xfffeOh bene. Magari la prossima volta!
+Salve! Sono una Domestica appassionata\xfffedi cucina!\xf000븁\x0000\xfffeE sono sempre alla ricerca di nuovi\xfffeingredienti per arricchire i manicaretti\xf000븀\x0000\xfffeche preparo!\xf000븁\x0000
+Snif snif... mmm! Che buon profumino che\xfffeemana la tua Borsa!\xf000븁\x0000\xfffeSono proprio sicura che si tratta di\xfffequalche ingrediente da buongustai.\xf000븀\x0000\xfffeMe lo daresti?\xf000븁\x0000
+Wow! Che magnifico profumo!\xf000븁\x0000\xfffeSi tratta proprio di \xf000ĉ\x0001\x0000!\xf000븁\x0000\xfffeMi vendi questo misterioso ingrediente\xfffeper $\xf000ȇ\x0001\x0001?
+Affare fatto! Ecco a te $\xf000ȇ\x0001\x0001!
+Grazie infinite!\xf000븁\x0000\xfffeOra potrò preparare un menu coi fiocchi!\xfffeLa mia arte culinaria stupirà tutti!
+Non è esattamente quello che cercavo!\xf000븁\x0000\xfffeNon sento nessun profumino che possa\xfffeispirare il mio estro gastronomico.
+Beh, pazienza.\xf000븁\x0000\xfffeMa torna da me se vuoi vendermi qualche\xfffeingrediente prelibato!
+Snif snif...\xf000븁\x0000\xfffeOh, peccato. Non sento nessun buon\xfffeprofumino provenire dalla tua Borsa.\xf000븁\x0000\xfffeTorna da me se trovi qualche ingrediente\xfffeda veri buongustai!
+Rocce, pietre, sassolini... i minerali\xfffemi fanno impazzire!\xf000븁\x0000\xfffeNon riesco a metterci una pietra sopra!\xf000븁\x0000\xfffeInsomma, se si tratta di comprare\xfffeminerali, non bado a spese!\xf000븁\x0000
+Hai dei minerali capaci di farmi restare\xfffedi sasso per la loro bellezza?\xf000븁\x0000
+Per tutti i ciottoli del mio giardino!\xf000븁\x0000\xfffeIncredibile! Hai lo strumento\xfffe\xf000ĉ\x0001\x0000!\xf000븁\x0000\xfffePotrei pagare persino $\xf000ȇ\x0001\x0001 se ti\xfffeandasse di vendermelo!
+Affare fatto! Ecco a te $\xf000ȇ\x0001\x0001!
+Grazie, che soddisfazione! I minerali sono\xfffela mia passione!
+Eh? Ma che roba è?\xf000븁\x0000\xfffeNiente che possa farmi restare di sasso!
+La mia volontà è inamovibile come una\xffferoccia. Spero che un giorno cambierai\xf000븀\x0000\xfffeidea.
+Non hai qualche minerale che possa farmi\xffferestare di sasso per il suo splendore?\xf000븁\x0000\xfffeNo, eh? Non importa, ma torna qui da me\xfffese trovi qualcosa di interessante!
+Come puoi intuire dal mio aspetto, io sono\xfffeun plurimilionario!\xf000븁\x0000\xfffeIl mio passatempo preferito è raccogliere\xfffestrumenti originali!\xf000븁\x0000\xfffeProprio come i miei vestiti... vedi come\xfffesono eccentrici e costosi?\xf000븁\x0000
+Non hai per caso uno strumento che un\xfffeplurimilionario come me possa desiderare\xf000븀\x0000\xfffeardentemente?\xf000븁\x0000
+\xf000ĉ\x0001\x0000! Strepitoso è dire poco!\xfffeMe lo vendi per $\xf000ȇ\x0001\x0001?
+Affare fatto! Eccoti $\xf000ȇ\x0001\x0001!
+Che bell'acquisto! Come so spendere bene\xfffei miei soldi!
+E no, così non ci siamo. Gli strumenti che\xfffecerco io sono di tutt'altra natura!
+Se cambi idea, torna pure qui da me.\xfffeSoldi da spendere ne ho a palate!
+Ma hai Coronantica!\xf000븁\x0000\xfffeÈ un reperto molto famoso e dal valore\xfffeinestimabile!\xf000븁\x0000\xfffePensavo fosse ancora custodita nelle\xfffeprofondità delle Rovine degli Abissi!\xf000븁\x0000\xfffeImmagino che la starai conservando\xfffecon tutte le cure necessarie, ma...\xf000븁\x0000\xfffeChe ne dici invece di darla a me per\xfffe$\xf000ȇ\x0001\x0001?
+Non hai uno strumento raro?\xf000븁\x0000\xfffeMa così raro da spingermi a sborsare\xfffeun patrimonio pur di averlo?\xf000븁\x0000\xfffeNo, eh? Mi sa che ho frainteso, allora.
+Scusa se vado dritto al sodo, ma quello\xfffeche ho da proporti è un affarone!\xf000븁\x0000\xfffeQui intorno ci sono dei Pokémon che amano\xffferintanarsi sotto rocce e massi.\xf000븁\x0000\xfffeIl bello è che nascondono con sé anche\xfffedegli oggetti strabilianti!\xf000븁\x0000\xfffeE a questo punto entri in ballo tu!\xf000븁\x0000\xfffeSe riesci a impossessarti di una di queste\xfffemeraviglie, che ne dici di darla a me?\xf000븁\x0000\xfffeTe la pago a un prezzo molto alto,\xfffeil migliore che ti possano offrire.\xf000븁\x0000
+Allora? Hai materiale interessante da\xfffepropormi?\xf000븁\x0000
+Eh? M-Ma... è \xf000ĉ\x0001\x0000!\xf000븁\x0000\xfffeDunque... allora... vediamo... me lo vendi\xfffeper $\xf000ȇ\x0001\x0001?
+Affare fatto! Ecco a te $\xf000ȇ\x0001\x0001!
+Grazie!\xf000븁\x0000\xfffeE ora lo posso vendere ai collezionisti\xfffesfegatati per un prezzo ancora più alto!\xf000븁\x0000\xfffeAh ah ah! Sono un genio del business!
+No, scusa, ma non mi interessa.
+Se hai qualcosa di davvero raro da\xfffevendermi, torna a trovarmi!\xf000븁\x0000\xfffeTe lo pagherò molto di più del prezzo di\xfffemercato.
+Allora? Niente di strabiliante per me?\xf000븁\x0000\xfffeMmh, il contenuto della tua Borsa non mi\xfffealletta molto. Pazienza per questa volta,\xf000븀\x0000\xfffetorna da me se trovi qualcosa!
 フンフンフン……！\xf000븁\x0000\xfffeフキヨセで　はたけしごとを　しています\xfffeそう　ぼくには　こやしが　いるんだよ！\xf000븁\x0000\xfffeフンフンフン……！\xf000븁\x0000\xfffeきみは　ポケモントレーナー　だね！\xfffeじゃあ　かくしあなは　しっているかな\xf000븁\x0000\xfffeかくしあなの　おくで\xfffeこやしが　たまに　みつかるだろ\xf000븀\x0000\xfffeぼくは　それが　だいすき　なのさ！\xf000븁\x0000\xfffeフンフンフン……！\xfffeじゃあ　よろしくね！\xf000븁\x0000
 こやしを　もっているんだろ？\xfffeよかったら　みせてくれないかな？\xf000븁\x0000
 フンフンフン……！　このにおいは\xfffe\xf000ĉ\x0001\x0000だね！\xf000븁\x0000\xfffeその　こやしなら\xfffe\xf000ȇ\x0001\x0001円で　かいとるよ？
