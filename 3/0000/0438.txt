@@ -1,23 +1,23 @@
-ボクの　なまえは　ジャッジ！\xf000븁\x0000\xfffeほんとうの　なまえは　ちがうけれど\xfffeみんな　ジャッジって　よんでくれるよ\xf000븁\x0000\xfffeなぜかというと　ボクには\xfffeポケモンの　のうりょくを　みきわめる\xf000븁\x0000\xfffeつまり　ジャッジする\xfffeふしぎな　ちからが　あるからなんだ\xf000븁\x0000\xfffeきみも　よかったら\xfffeのうりょくが　きになる　ポケモンを\xf000븀\x0000\xfffeボクに　ジャッジさせてくださいよ！\xf000븁\x0000
-きみ！　よかったら\xfffeのうりょくが　きになる　ポケモンを\xf000븀\x0000\xfffeボクに　ジャッジさせてくださいよ！\xf000븁\x0000
-……そうですか\xfffeボクの　ジャッジは　いらないですか
-タマゴの　ジャッジですか！？\xfffeそれは　さすがに　むずかしいですね
-なるほど　なるほど……\xf000븁\x0000\xfffeこの　ポケモンは\xfffeまずまずの　のうりょくを　もっている\xf000븁\x0000\xfffeそんなふうに　ジャッジ　できますね\xf000븁\x0000
-なるほど　なるほど……\xf000븁\x0000\xfffeこの　ポケモンは　へいきん　いじょうの\xfffeのうりょくを　もっている\xf000븁\x0000\xfffeそんなふうに　ジャッジ　できますね\xf000븁\x0000
-なるほど　なるほど……\xf000븁\x0000\xfffeこの　ポケモンは　そうとう\xfffeゆうしゅうな　のうりょくを　もっている\xf000븁\x0000\xfffeそんなふうに　ジャッジ　できますね\xf000븁\x0000
-なるほど　なるほど……\xf000븁\x0000\xfffeこの　ポケモンは\xfffeすばらしい　のうりょくを　もっている\xf000븁\x0000\xfffeそんなふうに　ジャッジ　できますね\xf000븁\x0000
-ちなみに　いちばん　いい　かんじなのは\xfffeＨＰ　でしょうか\xf000븁\x0000
-ちなみに　いちばん　いい　かんじなのは\xfffeこうげき　でしょうか\xf000븁\x0000
-ちなみに　いちばん　いい　かんじなのは\xfffeぼうぎょ　でしょうか\xf000븁\x0000
-ちなみに　いちばん　いい　かんじなのは\xfffeとくこう　でしょうか\xf000븁\x0000
-ちなみに　いちばん　いい　かんじなのは\xfffeとくぼう　でしょうか\xf000븁\x0000
-ちなみに　いちばん　いい　かんじなのは\xfffeすばやさ　でしょうか\xf000븁\x0000
-それと　こうげきも\xfffeいい　かんじ　ですね\xf000븁\x0000
-なるほど　ぼうぎょも\xfffeいい　かんじ　ですね\xf000븁\x0000
-とくこうも　まけずおとらず\xfffeいい　かんじ　ですね\xf000븁\x0000
-とくぼうも　おなじように\xfffeいい　かんじ　ですね\xf000븁\x0000
-あと　すばやさも\xfffeいい　かんじ　ですね\xf000븁\x0000
-まあまあの　ちからを　もっている\xfffeそんなふうに　ジャッジできました！
-かなりの　ちからを　もっている\xfffeそんなふうに　ジャッジできました！
-すばらしい　ちからを　もっている\xfffeそんなふうに　ジャッジできました！
-さいこうの　ちからを　もっている\xfffeそんなふうに　ジャッジできました！
+Ciao, puoi chiamarmi Giudice!\xf000븁\x0000\xfffeEh eh, in realtà non è il mio vero nome,\xfffema tutti mi chiamano così.\xf000븁\x0000\xfffeÈ a causa di questo strano potere che\xfffepossiedo. Beh, forse è più un dono.\xf000븁\x0000\xfffePosso valutare, o meglio, giudicare il\xfffepotenziale complessivo di un Pokémon.\xf000븁\x0000\xfffeSe ti interessa, posso anche farlo con un\xfffePokémon della tua squadra.\xf000븁\x0000
+Se vuoi, posso giudicare il potenziale\xfffedi un Pokémon della tua squadra!\xf000븁\x0000
+Non ti serve il mio aiuto? Peccato.
+Vuoi che giudichi un Uovo?! È una cosa\xfffeimpossibile persino per me.
+Vediamo, vediamo...\xf000븁\x0000\xfffeIl potenziale complessivo di questo\xfffePokémon è discreto.\xf000븁\x0000\xfffeE il mio giudizio... è inappellabile!\xf000븁\x0000
+Vediamo, vediamo...\xf000븁\x0000\xfffeIl potenziale complessivo di questo\xfffePokémon è al di sopra della media.\xf000븁\x0000\xfffeE il mio giudizio... è inappellabile!\xf000븁\x0000
+Vediamo, vediamo...\xf000븁\x0000\xfffeIl potenziale complessivo di questo\xfffePokémon è ottimo.\xf000븁\x0000\xfffeE il mio giudizio... è inappellabile!\xf000븁\x0000
+Vediamo, vediamo...\xf000븁\x0000\xfffeIl potenziale complessivo di questo\xfffePokémon è eccellente.\xf000븁\x0000\xfffeE il mio giudizio... è inappellabile!\xf000븁\x0000
+Nella fattispecie, direi che il suo punto\xfffeforte sono i PS.\xf000븁\x0000
+Nella fattispecie, direi che il suo punto\xfffeforte è l'Attacco.\xf000븁\x0000
+Nella fattispecie, direi che il suo punto\xfffeforte è la Difesa.\xf000븁\x0000
+Nella fattispecie, direi che il suo punto\xfffeforte è l'Attacco Speciale.\xf000븁\x0000
+Nella fattispecie, direi che il suo punto\xfffeforte è la Difesa Speciale.\xf000븁\x0000
+Nella fattispecie, direi che il suo punto\xfffeforte è la Velocità.\xf000븁\x0000
+E anche il suo Attacco non è male.\xf000븁\x0000
+E anche la sua Difesa non è male.\xf000븁\x0000
+E anche il suo Attacco Speciale non è\xfffemale.\xf000븁\x0000
+E anche la sua Difesa Speciale non è male.\xf000븁\x0000
+E anche la sua Velocità non è male.\xf000븁\x0000
+In base al mio giudizio, il tuo Pokémon\xfffeè discreto.
+In base al mio giudizio, il tuo Pokémon\xfffeè ottimo.
+In base al mio giudizio, il tuo Pokémon\xfffeè straordinario.
+In base al mio giudizio, il tuo Pokémon\xfffenon potrebbe essere migliore.
