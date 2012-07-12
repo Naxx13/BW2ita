@@ -27,12 +27,12 @@ Esci dal\xfffeSistema di Archiviazione Pokémon.
 Puoi registrare i Pokémon che userai in\xfffelotte contro altri giocatori.
 Connesso al PC di\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
 Box Mail
-せつぞくを　きる
-メールを　２０つう　まで\xfffeほぞん　することが　できます
+Disconnetti
+È possibile salvare fino\xfffea 20 e-mail
 じぶんのパソコン　への\xfffeつうしんを　せつだん　します
 はじめてのクリア
 でんどういり
-せつぞくを　きる
+Disconnetti
 きろく　システムに\xfffeせつぞく　した！\xf000븁\x0000
 はじめて　クリアしたときの\xfffeメンバーを　みることが　できます
 でんどういり　したときの\xfffeメンバーを　みることが　できます
