@@ -7,7 +7,7 @@ Nel Centro Globale, puoi lottare o\xfffescambiare Pokémon con Pokémon fans da\
 Quest'area è in costruzione.\xfffeTorna più tardi.
 Non hai\xfffePokémon
 Si è verificato un errore di comunicazione.
-Random Matchup
+Corrispondenza casuale
 Scambio Globale
 Foto Musical
 Video Battaglie
@@ -29,7 +29,7 @@ Vi verrà chiesto di mettere i\xfffePokèmon in commercio.\xf000븁\x0000\xfffeI
 Tu puoi cercare altri Pokèmon\xfffeofferti da altri giocatori.\xf000븁\x0000\xfffeMa ti servirà stabilire quale Pokèmon\xfffegli allenatori vogliono in cambio.\xf000븁\x0000\xfffeSi può cercare il Pokèmon che si vuole\xfffema devi dare all'altro giocatore\xf000븁\x0000\xfffeil Pokèmon da lui desiderato.\xf000븁\x0000
 Offri Pokémon?
 Cerchi Pokémon?
-Understood
+Inteso
 Vuoi iniziare\xfffegli scambi della GTS?
 Inizia
 Info
@@ -60,7 +60,7 @@ Vuoi una descrizione dettagliata?
 フリーモード　について
 Modalità di valutazione
 Alcune regole speciali
-trovato
+Trovato
 フリーモードは\xfffeとおくにいる　みしらぬひとと\xf000븀\x0000\xfffeてがるに　たいせんする　モードです\xf000븁\x0000\xfffeポケモンを　そだてたら\xfffeきがるに　ちょうせん　してください\xf000븁\x0000
 レーティングモードは\xfffeたいせんを　きわめたい　ひとに\xf000븀\x0000\xfffeおすすめの　モードです\xf000븁\x0000\xfffeつうしんを　つなげたとき\xfffeレーティングの　ちかい　ひとと\xf000븀\x0000\xfffeたいせん　しやすく　なります\xf000븁\x0000\xfffeレーティングは\xfffe１５００から　スタートして\xf000븀\x0000\xfffeかつと　あがり　まけると　さがります\xf000븁\x0000\xfffeレーティングが　たかいほど\xfffeつよい　トレーナーと　なるので\xf000븁\x0000\xfffeぜひ　ちょうせんして\xfffeいまの　レベルを　たしかめてください\xf000븁\x0000\xfffeさいごに　さんかちゅうの\xfffeちゅういが　ひとつ　あります\xf000븁\x0000\xfffeレーティングモードの　せいせきは\xfffeＤＳほんたいを　かえて\xf000븁\x0000\xfffeＷｉ－Ｆｉコネクションに\xfffeせつぞく　すると\xf000븁\x0000\xfffeそれまでの　せいせきが\xfffeすべて　きえてしまいます\xf000븁\x0000\xfffeさんかちゅう　ＤＳほんたいを\xfffeかえるときは　ごちゅうい　ください\xf000븁\x0000
 ランダムマッチでは　いくつかの\xfffeとくべつな　ルールが　あります\xf000븁\x0000\xfffeポケモンの　レベルが　５１いじょうの\xfffeばあいは　すべて　５０に　なります\xf000븁\x0000\xfffeポケモンの　なまえは\xfffeニックネームで　よびません\xf000븁\x0000\xfffeまた　たいせんに　さんかさせる\xfffeポケモンを　えらぶとき\xf000븁\x0000\xfffeたいせんちゅう　ポケモンに\xfffeめいれいを　するとき\xf000븁\x0000\xfffeそれぞれに\xfffeせいげん　じかんが　あります\xf000븁\x0000\xfffeせいげん　じかんを　こえると\xfffeポケモンの　わざは\xf000븀\x0000\xfffeじどうで　えらばれることに　なるので\xf000븀\x0000\xfffeごちゅうい　ください\xf000븁\x0000\xfffeなお　たいせんにも\xfffeせいげん　じかんが　あります\xf000븁\x0000\xfffeせいげん　じかんを　こえても\xfffeしょうぶが　つかない　ときは\xf000븁\x0000\xfffeはんていにより　かちまけを\xfffeけってい　します\xf000븁\x0000
