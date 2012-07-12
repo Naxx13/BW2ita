@@ -82,12 +82,12 @@ Abbastanza superficiale.
 Molto insolente.
 Non sopporta perdere.
 Un pò testardo.
-\xf000ȁ\x0001\x0006/\xf000ȁ\x0001\x0007/20\xf000ȁ\x0001\x0005\xfffeA mysterious Pokémon\xfffeUovo ricevuto da\xfffe\xf000\xff00\x0001\x0002\xf000ą\x0001\x0008\xf000\xff00\x0001\x0000.\xfffe
-\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeA mysterious Pokémon\xfffeUovo ottenuto in\xfffe\xf000\xff00\x0001\x0002\xf000ą\x0001\x0004\xf000\xff00\x0001\x0000.
-\xf000ȁ\x0001\x0006/\xf000ȁ\x0001\x0007/20\xf000ȁ\x0001\x0005\xfffeA very mysterious\xfffeUovo Pokèmon ottenuto\xfffeat \xf000\xff00\x0001\x0002\xf000ą\x0001\x0008\xf000\xff00\x0001\x0000.\xfffe
-\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeA quite mysterious\xfffeUovo Pokèmon ottenuto\xfffeat \xf000\xff00\x0001\x0002\xf000ą\x0001\x0004\xf000\xff00\x0001\x0000.\xfffe
-“The Egg Watch"\xfffeSi sentono dei rumori\xfffeprovenire dall'interno!\xfffeSi schiuderà presto!
-“The Egg Watch"\xfffeSi sentono dei movimenti\xfffedi tanto in tanto. Si\xfffeschiuderà fra non molto.
-“The Egg Watch"\xfffeCosa uscirà da\xfffequi? Ci vorrà\xfffeancora un'pò!
-“The Egg Watch"\xfffeSembra che quest'uovo\xfffeci metterà molto a\xfffeschiudersi.
+Ricevuto un Uovo misterioso di\xfffePokémon.\xfffeOrigine: \xf000\xff00\x0001\x0002\xf000ą\x0001\x0008\xf000\xff00\x0001\x0000\xfffeData: \xf000ȁ\x0001\x0007 \xf000ƀ\x0001\x0006 20\xf000ȁ\x0001\x0005
+Ottenuto un Uovo misterioso di\xfffePokémon.\xfffeOrigine: \xf000\xff00\x0001\x0002\xf000ą\x0001\x0004\xf000\xff00\x0001\x0000\xfffeData: \xf000ȁ\x0001\x0002 \xf000ƀ\x0001\x0001 20\xf000ȁ\x0001\x0000
+Ottenuto un Uovo molto misterioso\xfffedi Pokémon.\xfffeOrigine: \xf000\xff00\x0001\x0002\xf000ą\x0001\x0008\xf000\xff00\x0001\x0000\xfffeData: \xf000ȁ\x0001\x0007 \xf000ƀ\x0001\x0006 20\xf000ȁ\x0001\x0005
+Ottenuto un Uovo alquanto\xfffemisterioso di Pokémon.\xfffeOrigine: \xf000\xff00\x0001\x0002\xf000ą\x0001\x0004\xf000\xff00\x0001\x0000\xfffeData: \xf000ȁ\x0001\x0002 \xf000ƀ\x0001\x0001 20\xf000ȁ\x0001\x0000
+\xfffeOsservazione Uovo:\xfffeSi sentono dei rumori provenire\xfffedall'interno. Sta per schiudersi!
+\xfffeOsservazione Uovo:\xfffeOgni tanto si muove. Si schiuderà\xfffepresto.
+\xfffeOsservazione Uovo:\xfffeCosa nascerà? Ci vorrà un po'\xfffedi tempo.
+\xfffeOsservazione Uovo:\xfffePare che quest'Uovo ci metterà\xfffemolto a schiudersi.
 N
