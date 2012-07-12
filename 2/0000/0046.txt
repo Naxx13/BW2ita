@@ -4,10 +4,10 @@ Attendere prego...
 Atterrato su una area bonus!\xfffeRicevuta una \xf000ĉ\x0001\x0000!
 Oh no, l'inventario è pieno...\xfffeLa bacca è stata rifiutata.
 Comunicazione in corso. Attendere prego...
-Un membro è caduto.\xfffeLo scambio è satto annullato.
-Il leader ha abbandonato.\xfffeLo scambio è satto annullato.
-Errore di comunicazione...\xfffeLo scambio è satto annullato.
+Un membro è caduto.\xfffeLo scambio è stato annullato.
+Il leader ha abbandonato.\xfffeLo scambio è stato annullato.
+Errore di comunicazione...\xfffeLo scambio è stato annullato.
 Il tempo è scaduto.\xfffeLo scambio è satto annullato.
 Comunicazione in corso.\xfffeAttendere prego...
 Salvataggio...\xfffeNon spegnere la console.
-Un uovo non può essere scambiato.\xfffeLo scambio è satto annullato.
+Un uovo non può essere scambiato.\xfffeLo scambio è stato annullato.
