@@ -84,30 +84,30 @@ Capogruppo
 Partecipa
 Vuoi attivare la comunicazione wireless\xfffeDS?
 つうしんの　せつだんに\xfffeしっぱい　しました
-Saving...\xfffeDon't turn off the power.
-Unfortunately, you have been\xfffedemoted to Rank \xf000ȁ\x0001\x0000...\xf000븁\x0000
-Would you like to use\xfffeInfrared Communication or\xf000븀\x0000\xfffeDS Wireless Communications?
-Infrared Communication
-DS Wireless Communications
-Would you like to launch\xfffeInfrared Communication and\xf000븀\x0000\xfffeDS Wireless Communications?
-Welcome to the Battle Subway.\xf000븁\x0000\xfffeI am sorry, but this Super Single Train is\xfffeonly for those who beat the Single Train.\xf000븁\x0000
-Welcome to the Battle Subway.\xf000븁\x0000\xfffeI am sorry, but this Super Double Train is\xfffeonly for those who beat the Double Train.\xf000븁\x0000
-Welcome to the Battle Subway.\xf000븁\x0000\xfffeI am sorry, but this Super Multi Train is\xfffeonly for those who beat the Multi Train.\xf000븁\x0000
-That was awesome!\xfffeLet's battle together again!\xf000븁\x0000
-That was really fun!\xfffeLet's battle together again!\xf000븁\x0000
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeMi dispiace, ma questo Super Single Train\xfffenon è pronto.\xf000븁\x0000
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeMi dispiace, ma questo Super Double Train\xfffenon è pronto.\xf000븁\x0000
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeMi dispiace, ma questo Super Multi Train\xfffenon è pronto.\xf000븁\x0000
-Welcome to the Battle Subway!\xf000븁\x0000\xfffeMi dispiace, ma questo Treno Wi-Fi\xfffenon è pronto.\xf000븁\x0000
-Would you like to send these\xffferesults using Nintendo WFC?
-Communicating. Please stand by...
-What kinds of Pokémon\xfffeshould I enter?
-What kinds of Pokémon\xfffeshould I enter?
-\xf000Ā\x0001\x0000 achieved a win streak\xfffeof \xf000ȃ\x0001\x0001 in the Multi Train challenge\xf000븀\x0000\xfffewith a Trainer.\xf000븁\x0000
-\xf000Ā\x0001\x0000 achieved a win streak of \xf000ȃ\x0001\x0001\xfffein the Multi Train challenge with a friend.\xf000븁\x0000
-\xf000Ā\x0001\x0000 achieved a win streak of\xfffe\xf000ȃ\x0001\x0001 in the Multi Train challenge with a\xf000븀\x0000\xfffeTrainer and a win streak of \xf000ȃ\x0001\x0002 in\xf000븀\x0000\xfffethe Multi Train challenge with a friend.\xf000븁\x0000
-NO DATA
-Vuoi prendere il treno\xfffeper Roteolia?
-Il treno presto lascerà la stazione.\xfffeTutti a bordo!\xf000븁\x0000
-We hope to see you again!
-We hope to see you again!\xf000븁\x0000
+Salvataggio in corso.\xfffeNon spegnere la console.
+Mi dispiace molto, ma la tua posizione in\xfffeclassifica è scesa al grado \xf000ȁ\x0001\x0000.\xf000븁\x0000
+Vuoi usare il collegamento a infrarossi o\xfffela comunicazione wireless DS?
+Collegamento a infrarossi
+Comunicazione wireless DS
+Vuoi avviare il collegamento a infrarossi\xfffee la comunicazione wireless DS?
+Ti do il benvenuto al Metrò Lotta!\xf000븁\x0000\xfffeDa questo binario parte il supertreno\xfffeLotta in Singolo. Possono salire solo\xf000븀\x0000\xfffegli Allenatori che sono usciti vincitori\xf000븀\x0000\xfffedal treno Lotta in Singolo.\xf000븁\x0000
+Ti do il benvenuto al Metrò Lotta!\xf000븁\x0000\xfffeDa questo binario parte il supertreno\xfffeLotta in Doppio. Possono salire solo\xf000븀\x0000\xfffegli Allenatori che sono usciti vincitori\xf000븀\x0000\xfffedal treno Lotta in Doppio.\xf000븁\x0000
+Ti do il benvenuto al Metrò Lotta!\xf000븁\x0000\xfffeDa questo binario parte il supertreno\xfffeLotta Multipla. Possono salire solo\xf000븀\x0000\xfffegli Allenatori che sono usciti vincitori\xf000븀\x0000\xfffedal treno Lotta Multipla.\xf000븁\x0000
+È stato divertente, vero? Ti aspetto per\xfffelottare di nuovo insieme!\xf000븁\x0000
+È stato divertente, vero? Ti aspetto per\xfffelottare di nuovo insieme!\xf000븁\x0000
+Ti do il benvenuto al Metrò Lotta!\xf000븁\x0000\xfffeMi dispiace, ma il supertreno Lotta in\xfffeSingolo non è ancora pronto.\xf000븁\x0000
+Ti do il benvenuto al Metrò Lotta!\xf000븁\x0000\xfffeMi dispiace, ma il supertreno Lotta in\xfffeDoppio non è ancora pronto.\xf000븁\x0000
+Ti do il benvenuto al Metrò Lotta!\xf000븁\x0000\xfffeMi dispiace, ma il supertreno Lotta\xfffeMultipla non è ancora pronto.\xf000븁\x0000
+Ti do il benvenuto al Metrò Lotta!\xf000븁\x0000\xfffeMi dispiace, ma il treno Lotta Wi-Fi\xfffenon è ancora pronto.\xf000븁\x0000
+Vuoi inviare questi risultati tramite la\xfffeNintendo Wi-Fi Connection?
+In attesa di collegamento...
+Che tipo di Pokémon vuoi che mandi in\xfffecampo?
+Che tipo di Pokémon vuoi che mandi in\xfffecampo?
+Al momento \xf000Ā\x0001\x0000 è alla sua vittoria\xfffeconsecutiva n°\xf000ȃ\x0001\x0001 nella modalità\xf000븀\x0000\xfffeMultipla con Allenatore.\xf000븁\x0000
+Al momento \xf000Ā\x0001\x0000 è alla sua vittoria\xfffeconsecutiva n°\xf000ȃ\x0001\x0001 nella modalità\xf000븀\x0000\xfffeMultipla con amico.\xf000븁\x0000
+Al momento \xf000Ā\x0001\x0000 è alla sua vittoria\xfffeconsecutiva n°\xf000ȃ\x0001\x0001 nella modalità\xf000븀\x0000\xfffeMultipla con Allenatore e n°\xf000ȃ\x0001\x0002 nella\xf000븀\x0000\xfffemodalità Multipla con amico.\xf000븁\x0000
+
+Vuoi salire sul treno diretto a Roteolia?
+Il treno sta per partire. Accomodati\xfffepure a bordo!\xf000븁\x0000
+Torna pure quando vuoi!
+Torna a farci visita!\xf000븁\x0000
