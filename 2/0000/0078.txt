@@ -1,22 +1,22 @@
-MEDAL SORTING MENU
-Achieved Medal
-Did not achieve Medal
+MENU ORDINE MEDAGLIE
+Medaglie Archiviate
+Medaglie non Archiviate
 \xf000봃\x0001\xf000Ȃ\x0001\x0000
 \xf000봃\x0001\xf000Ȃ\x0001\x0000／\xf000Ȃ\x0001\x0001
-Selected medal has been selected\xfffeand was registered.
-Selection registration\xfffewas terminated.
-Unable to select and register\xfffeunknown Medal(s)!
-How do you want to sort\xfffeyour Medals?
-IN A LIST
-SINGLE COLUMN
-EARNED METALS
-NOT ACHIEVED
-TYPE MODE
-NAME ORDER
-NEWER ONES
-RESET SORTING
-QUIT
-\xf000봃\x0001 Achieved on
-\xf000봃\x0001 Got a hint on
-\xf000봃\x0001２０\xf000ȁ\x0001\x0000 /　\xf000ȁ\x0001\x0001 /　\xf000ȁ\x0001\x0002
-The instructions in the Medal Box say to\xfffepress A to touch a medal and use your\xf000븀\x0000\xfffetouch pen to guide you to a Medal.\xfffeSTART can be used to bring up a menu.\xf000븀\x0000\xfffeYou can also tap Medals to view them.
+La medaglia è stata selezionata\xfffee registrata.
+La registrazione\xfffeè stata terminata.
+Incapace di registrare\xfffeMedaglie sconosciute!
+Come vuoi ordinare\xfffele tue Medaglie?
+IN LISTA
+UNA COLONNA
+MEDAGLIE RICEVUTE
+NON ARCHIVIATE
+PER TIPO
+PER NOME
+PIU' NUOVE
+ANNULLA ORDINE
+ESCI
+\xf000봃\x0001 Archiviata su
+\xf000봃\x0001 Ricevuto Suggerimento su
+\xf000봃\x000120\xf000ȁ\x0001\x0000 /　\xf000ȁ\x0001\x0001 /　\xf000ȁ\x0001\x0002
+Le istruzioni nel Box Medaglie dicono\xfffedi premere A per selezionare una medaglia\xf000븀\x0000\xfffee "penna" per guidarti ad una Medaglia.\xfffeSTART può essere usato per aprire il menu.\xf000븀\x0000\xfffePuoi anche toccare una Medaglia per vederla.
