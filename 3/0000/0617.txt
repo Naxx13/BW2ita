@@ -1,10 +1,10 @@
-\xf000ā\x0001\x0000 is\xfffemoving around energetically!
-\xf000ā\x0001\x0000 looks happy\xfffeto meet \xf000Ā\x0001\x0001!\xf000븁\x0000
-\xf000ā\x0001\x0000 seems to want\xfffeto join \xf000Ā\x0001\x0001's party...\xf000븁\x0000
-Would you like to add\xfffethe Pokémon to your party?
-Would you like \xf000ā\x0001\x0000\xfffeto move to the Deepest Clearing?
-There's no more room in the Deepest\xfffeClearing, so \xf000ā\x0001\x0000 could not move!
-Would you like \xf000ā\x0001\x0000\xfffeto move to the Forest Clearing?
-There's no more room in the Forest\xfffeClearing, so \xf000ā\x0001\x0000 could not move!
-\xf000ā\x0001\x0000 moved to\xfffethe Deepest Clearing!\xf000븁\x0000
-\xf000ā\x0001\x0000 moved to\xfffethe Forest Clearing!\xf000븁\x0000
+\xf000ā\x0001\x0000 gironzola allegramente!
+\xf000ā\x0001\x0000 sembra felice di avere\xfffeincontrato \xf000Ā\x0001\x0001!\xf000븁\x0000
+\xf000ā\x0001\x0000 sembra aver voglia di fare\xfffeamicizia con \xf000Ā\x0001\x0001...\xf000븁\x0000
+Vuoi fare amicizia con questo Pokémon?
+Vuoi che \xf000ā\x0001\x0000 vada nel Cuore del\xfffeBosco?
+Il Cuore del Bosco è pieno e \xf000ā\x0001\x0000\xfffenon può rimanerci!
+Vuoi che \xf000ā\x0001\x0000 vada nella Piazza del\xfffeBosco?
+La Piazza del Bosco è piena e \xf000ā\x0001\x0000\xfffenon può rimanerci!
+\xf000ā\x0001\x0000 ha raggiunto il Cuore del\xfffeBosco!\xf000븁\x0000
+\xf000ā\x0001\x0000 ha raggiunto la Piazza del\xfffeBosco!\xf000븁\x0000
