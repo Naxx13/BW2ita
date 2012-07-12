@@ -40,11 +40,11 @@ Contraccolpo
 Confusione
 Ding-dong! Ding-dong!\xf000븁\x0000\xfffeQuesto è corretto!\xfffeEcco il tuo regalo!\xf000븁\x0000
 ダブルバトルで　キーのみを　もった\xfffeみかたの　ポケモンに\xf000븀\x0000\xfffeいばるの　わざを　つかうと\xf000븁\x0000\xfffeわざを　うけた　みかたの\xfffeこうげきりょくが　あがり\xf000븀\x0000\xfffeキーのみで　こんらんが　なおります！\xf000븁\x0000\xfffeそして　こうげきりょくの　あがった\xfffeポケモンで　あいてを　こうげき！\xf000븁\x0000\xfffeダブルバトルって　くみあわせで\xfffeいろんな　ことが　できますよ！
-Come talk to me if you want\xfffeto take a quiz.
+Parla con me se vuoi\xfffeprendere un quiz.
 Boo-boo!!!\xf000븁\x0000\xfffeSfortunatamente, quella risposta\xfffenon era corretta...
 La lavagna spiega i cambiamenti\xfffedi stato dei Pokémon in battaglia.\xf000븁\x0000
 Cosa vuoi leggere?
-What type is the of status\xfffethat is caused by a certain\xf000븀\x0000\xffferate when being blown\xf000븁\x0000\xfffeby a Poison-type move?\xfffeAlso, the item known as Antidote,\xf000븁\x0000\xfffecan heal this despicable status.\xf000븁\x0000
+Che tipo di stato è\xfffequello che causa per un certo\xf000븀\x0000\xfffetempo bruciore\xf000븁\x0000\xfffeda una mossa di tipo veleno?\xfffeInoltre, l'oggetto Antidoto,\xf000븁\x0000\xfffepuò guarire questo ignobile stato.\xf000븁\x0000
 La Paralisi riduce la Velocità\xfffee potrebbe impedire di attaccare.\xf000븁\x0000\xfffeRimane dopo una battaglia, quindi usa un \xfffeAntiparalisi.\xf000븁\x0000
 Se un Pokémon si addormenta, diventerà\xfffeincapace di attaccare.\xf000븁\x0000\xfffeIl Pokémon potrebbe svegliarsi da solo,\xfffema se una battaglia termina mentre è\xf000븀\x0000\xfffeaddormentato rimarrà addormentato.\xf000븁\x0000\xfffeSveglialo usando Sveglia.\xf000븁\x0000
 Una scottatura riduce l'Attcacco e\xffferiduce costantemente i PS della vittima.\xf000븁\x0000\xfffeUna scottatura permane dopo la battaglia.\xfffeCura una scottatura usando Antiscottatura.\xf000븁\x0000
@@ -56,4 +56,4 @@ Scottatura
 Congelamento
 Indietro
 Congelato
-Back
+Indietro
