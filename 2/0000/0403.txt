@@ -346,7 +346,7 @@ Locomovolt
 Fogliamagica
 Docciascudo
 Calmamente
-Verdebufera
+Fendifoglia
 Dragodanza
 Cadutamassi
 Ondashock
@@ -534,7 +534,7 @@ Legnicorno
 Spadasolenne
 Conchilama
 Marchiafuoco
-Verdebufera
+Vorticerba
 Rulloduro
 Cotonscudo
 Urtoscuro
