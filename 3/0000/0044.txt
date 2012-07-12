@@ -1,10 +1,10 @@
-ハロー！　ハロー！\xfffeユナイテッドタワーに　ごようですか？
-ハロー！　この　ふねは\xfffeユナイテッドタワー　いきです
-おひとりさま　ごあんない　でーす！\xfffeどうぞ　ふねに　おのりください！\xf000븁\x0000
-ユナイテッドタワーは\xfffeせかいじゅうから　トレーナーが\xf000븀\x0000\xfffeあつまってくる　ばしょ　です！\xf000븁\x0000\xfffeもし　おきゃくさまに\xfffeとおく　はなれた　ばしょで　くらす\xf000븀\x0000\xfffeおともだちが　いらっしゃれば\xf000븁\x0000\xfffeかんどうの　さいかいなど\xfffeはたせるのでは　ないでしょうか！\xf000븁\x0000
-またの　おこしを　おまちしてますね！
-はい
-いいえ
-なにそれ？
+Ciao!\xfffeVuoi andare alla Torre Unione?
+Le persone cambiano a seconda del luogo\xfffein cui vivono.\xf000븁\x0000\xfffeChe curioso! Basta vivere in un luogo\xfffediverso perché cambino regole e modo\xf000븀\x0000\xfffedi pensare!
+Prego, da questa parte!\xf000븁\x0000
+Alla Torre Unione si riuniscono sempre\xfffeAllenatori di tutto il mondo!\xf000븁\x0000\xfffeSe hai amici che vivono lontano, è il posto\xfffemigliore per incontrarli di nuovo!\xf000븁\x0000
+Ah... Magari sarà per la prossima volta.
+SÌ
+NO
+Eh?!
 うんめいの　あかいいと　って\xfffeいっぽん　だけじゃなく\xf000븀\x0000\xfffeいくつかある　なかから　えらぶのよ\xf000븁\x0000\xfffeというわけで　あなたにも　これを\xf000븁\x0000
 その　あかいいとを　もっている\xfffeポケモンは　メロメロに　されたとき\xf000븀\x0000\xfffeあいても　メロメロに　しちゃうの！
