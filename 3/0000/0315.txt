@@ -8,7 +8,7 @@
 Moglie: Sono qui per curare\xfffei tuoi Pokémon!\xf000븀\x0000\xfffeE dunque per darti questo!\xf000븁\x0000
 Anche a te!\xf000븁\x0000
 Una Pozione a volte può essere\xfffepiù comoda di un Centro Pokémon!\xf000븁\x0000
-Fattore: Voi due non è che\xfffeavete visto il suo Herdier\xf000븀\x0000\xfffequi in giro, per caso?\xf000븁\x0000\xfffeSono un po' preoccupato che il nostro\xf000븁\x0000\xfffeduo di Herdier si sia separato...\xfffeMi serverà aiuto\xf000븀\x0000\xfffenelle ricerche!\xf000븁\x0000
+Fattore: Voi due non è che\xfffeavete visto il suo Herdier\xf000븀\x0000\xfffequi in giro, per caso?\xf000븁\x0000\xfffeSono un po' preoccupato quando ho visto\xf000븁\x0000\xfffeche mancava uno dei due...\xfffeMi serverà aiuto\xf000븀\x0000\xfffenelle ricerche!\xf000븁\x0000
 \xf000Ā\x0001\x0001: Cosa!?!\xfffeSei solo "un po'" preoccupato!?!\xf000븁\x0000\xfffeMa il Pokémon potrebbe\xfffeessere già molto lontano!\xf000븁\x0000\xfffeBah! Andrò io a cercarlo!\xfffe\xf000Ā\x0001\x0000! Vieni pure tu!\xf000븁\x0000
 Fattore: Perchè è arrabbiato?\xf000븁\x0000\xfffeComunque, secondo me sta solo\xfffegiocando da qualche parte nei pascoli...\xf000븁\x0000
 Moglie: Oh...\xf000븁\x0000\xfffeBeh, se i tuoi Pokèmon\xfffeavessero bisogno di riposo\xf000븀\x0000\xfffeio sarò qui per farli riposare!
@@ -34,7 +34,7 @@ Gyuugh! Baouf!
 Fattore: Ehi! Herdier!\xf000븁\x0000\xfffeCome ho fatto a non venire\xfffesubito a cercarti?\xf000븁\x0000\xfffeComunque sia,\xfffeti ringrazio moltissimo!\xf000븁\x0000
 \xf000Ā\x0001\x0001: Che stupido...\xf000븁\x0000\xfffeNon avrei mai abbandonato\xfffedavvero il Pokémon!\xf000븁\x0000\xfffeAvrei dovuto trovarlo io però!\xf000븁\x0000
 Fattore: Hmmm...\xfffeCosa gli è successo?\xf000븁\x0000\xfffeSembra che sia deluso dal\xfffefatto che tu abbia trovato Herdier...\xf000븁\x0000\xfffeBeh, amico mio,\xfffeci aspettano tutti! Andiamo a casa!\xf000븁\x0000
-Fattore: Grazie! Sono in debito\xfffecon te e i tuoi Pokémon!\xf000븁\x0000\xfffeSplendido, giusto?\xfffeDovresti vedere Nardo...!
+Fattore: Grazie! Sono in debito\xfffecon te e i tuoi Pokémon!\xf000븁\x0000\xfffeSplendido, giusto?\xfffeNon devi allenarti con Nardo...?
 In origine questa fattoria\xfffefu costruita per\xf000븁\x0000\xfffeproteggere i Pokémon!
 Fattore: Certo che è strano\xfffeche Herdier si sia allontanato...\xf000븁\x0000\xfffeSebbene giochi sempre con due Pokémon,\xfffema sa anche lavorare bene.
 Ecco! I tuoi Pokémon sono\xfffein perfetta forma!
