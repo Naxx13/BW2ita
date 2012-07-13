@@ -1,33 +1,33 @@
-あいてを　えらんでください
+Seleziona un amico.
 あいてを　よびだす
 あいてを　よびだしちゅう！
-アララギはかせ
+Prof.ssa Aralia
 \xf000Ā\x0001\x0001
-チェレン
-ベル
-ママ
-？？？
-はなす
-しんかを　おしえて
-ずかんチェック
-さよなら
-しんかについて　しりたいのは\xfffeどの　ポケモンかな？
-どうしたの？
-はなす
-なに　してる？
-さよなら
-なにか　あるのかよ？
-はなす
-タイプを　おしえて
-とくせいを　おしえて
-さよなら
-どの　タイプに　ついて\xfffeせつめい　すれば　いいのかな？
-どの　とくせいに　ついて\xfffeせつめい　すれば　いいのかな？
-なにか　ききたいの？
-はなす
-なかよしか　みて
-がんばりを　みて
-さよなら
+Komor
+Belle
+Mamma
+???
+Parla
+Dimmi sull'evoluzione
+Controlla Pokédex
+Ciao!
+Di che Pokémon vuoi\xfffeconoscere l'evoluzione?
+Cosa c'è?
+Parla
+Cosa fai?
+Ciao
+C'è qualcosa?
+Parla
+Dimmi dei Tipi!
+Dimmi delle Abilità!
+Ciao!
+Su che Tipo vuoi\xfffedelle spiegazioni?
+Su che abilità vuoi\xfffedelle spiegazioni?
+Cosa vuoi chiedermi?
+Parla
+Guarda Pkmn amici
+Guarda Pkmn ostili
+Ciao!
 どのコとの　なかを　しりたいの？
 \xf000Ā\x0001\x0000と　\xf000Ă\x0001\x0001って……\xfffeそんなに　なかが　よくないんだね\xf000븁\x0000\xfffeいっしょに　いても\xfffeあんまり　たのしく　なさそうだよ\xf000븁\x0000
 \xf000Ā\x0001\x0000と　\xf000Ă\x0001\x0001って……\xfffeそんなに　なかが　よくないんだね\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000のこと\xfffeちょっと　こわい　めで　みてるよ\xf000븁\x0000
