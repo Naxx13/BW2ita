@@ -29,7 +29,7 @@ Bentornato!\xfffeCome stanno i tuoi Pokemon?\xf000븁\x0000\xfffeSembrano stanch
 ママ『おひさしぶり　ですね\xfffeアララギはかせ！\xf000븁\x0000
 アララギ『そんなに　ごぶさた　かい？\xfffe……おもいだせないねえ\xf000븁\x0000\xfffeっと　そいつは　わたしが　きた\xfffeもくてきとは　かんけい　ないからね\xf000븁\x0000
 \xf000Ā\x0001\x0000！\xf000븁\x0000\xfffeでんどういりを　きねんして\xfffeおまえさんの　ポケモンずかんを\xf000븀\x0000\xfffeパワーアップ！　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000's Pokédex has\xfffebeen upgraded!
+Il Pokèdex di\xf000Ā\x0001\x0000è stato\xfffeaggiornato!
 アララギ『どこが　パワーアップしたか\xfffeおしえるから　きいてくれるかい？\xf000븁\x0000\xfffeといっても　すごく　シンプル！\xf000븁\x0000\xfffeぜんこくの　あらゆる　ポケモンを\xfffeきろく　できるように　したんだよ\xf000븁\x0000
 ママ『へえ！　すごいですね\xfffeさすが　おやこで　ポケモンはかせ！\xf000븁\x0000
 アララギ『ははは\xfffeほめても　なにも　でないよ\xf000븁\x0000\xfffeさてと　それでは\xfffeわたしは　おいとま　するかね\xf000븁\x0000
@@ -47,7 +47,7 @@ E' un riconoscimento per aver\xfffecompletato il Pokédex Nazionale!\xf000븁\x0
 バトルサブウェイの\xfffeマルチ　マスターに　しょうりした\xf000븀\x0000\xfffeあかしの　トロフィーだ！
 かんらんしゃの　もけい\xfffeママが　かってきた　おみやげ
 ママが　むかし　もらったらしい\xfffeポケモン　ダルマッカの　にんぎょう\xf000븁\x0000\xfffeななころび　やおき
-You've returned to visit me! You should\xfffecheck out Heart Cave on Route 20!\xf000븀\x0000
+Sei tornato a farmi visita! Dovresti\xfffeverificare la Grotta Cuore al percorso 20!\xf000븀\x0000
 こころのくうどう……\xf000븁\x0000\xfffeユクシー　エムリット　アグノム\xfffe３びきの　ポケモンは\xf000븀\x0000\xfffeどこへ　とんでいったのかなあ？\xf000븁\x0000\xfffeユクシーは　ちえを\xfffeしょうちょうする　ポケモン……\xf000븁\x0000\xfffeイッシュで　ちえが　あつまるのは\xfffeシッポウの　はくぶつかん？\xf000븁\x0000\xfffeエムリットは　かんじょうを\xfffeつかさどる　ポケモン　でしょ\xf000븁\x0000\xfffeかんじょうを　ゆさぶるのは\xfffeタワーオブヘブンの　かね　かなあ？\xf000븁\x0000\xfffeで　アグノムは　いし……\xf000븁\x0000\xfffeいし　ねえ\xfffeなにかをしたい　という　おもい……\xf000븀\x0000\xfffeいったい　なんだろうね
 ２３ばんどうろの\xfffeふしぎな　ポケモン……\xf000븁\x0000\xfffeなにかの　いしを\xfffeかんじさせる　ポケモン……\xf000븁\x0000\xfffeじっさいに　しらべに　いくのが\xfffeいちばん　だよねえ！
 ポケモンの\xfffeたいりょうはっせい　ってあるでしょ！\xf000븁\x0000\xfffeあれって　ほんとうに\xfffeおんなじ　ポケモンばかり　でてきて\xf000븁\x0000\xfffeどこに　いたの！？　って\xfffeビックリしちゃうよねえ\xf000븁\x0000\xfffeゲートにある　でんこうけいじばん　で\xfffeたいりょうはっせいのことが　わかるよ
