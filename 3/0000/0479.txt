@@ -1,14 +1,14 @@
 \xf000Ā\x0001\x0000\xfffeaccende il PC.\xf000븁\x0000
 A che PC vuoi\xfffeaccedere?
-PC di qualcuno
-PC di Shoro
+PC di ???
+PC di Mico
 \xf000Ā\x0001\x0000 PC
-PC della prof.ssa
-きろくをみる
+PC della prof.ssa aralia
+Guarda record
 Aiuto
-Spegni
+Disconnetiti
 Acceso il PC\xfffedella Prof.ssa Aralia！\xf000븀\x0000
-でんどういりの\xfffeデータが　こわれています\xf000븁\x0000\xfffeもういちど　でんどういり　すれば\xfffeだいじょうぶ　です\xf000븁\x0000
+Ituoi dati della sala d'Onore sono corrotti\xf000븁\x0000\xfffeSarà risolto se si entrerà nella\xfffeSala d' onore di nuovo.\xf000븁\x0000
 Congratulazioni!\xf000븁\x0000\xfffePer commemorare la prima volta\xfffeche accedi è stato aggiunto uno sfondo！\xf000븁\x0000
 Congratulazioni！\xf000븁\x0000\xfffePer celebrare la sconfitta di Iris\xfffeè stato aggiunto uno sfondo！\xf000븁\x0000
 Congratulazioni！\xf000븁\x0000\xfffePer ricordare la cattura di Kyurem\xfffeè stato aggiunto uno sfondo!\xf000븁\x0000
@@ -26,17 +26,17 @@ Puoi spostare gli strumenti tenuti\xfffedai Pokémon nei box e nella squadra.
 Esci dal\xfffeSistema di Archiviazione Pokémon.
 Puoi registrare i Pokémon che userai in\xfffelotte contro altri giocatori.
 Connesso al PC di\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
-Box Mail
-Disconnetti
-È possibile salvare fino\xfffea 20 e-mail
-じぶんのパソコン　への\xfffeつうしんを　せつだん　します
-はじめてのクリア
-でんどういり
-Disconnetti
-きろく　システムに\xfffeせつぞく　した！\xf000븁\x0000
-はじめて　クリアしたときの\xfffeメンバーを　みることが　できます
-でんどういり　したときの\xfffeメンバーを　みることが　できます
-きろくシステム　への\xfffeつうしんを　せつだん　します
+Messaggi
+Spegni
+Puoi conservare fino a 20 messaggi.
+Spegni il tuo PC.
+1° completamento del gioco.
+Sala d'Onore
+Spegni
+Accesso all'\xfffearchivio record\xf000븁\x0000
+Guarda i Pokémon con cui hai completato\xfffeil gioco la prima volta.
+Guarda i Pokémon con cui hai varcato la\xfffeSala d'Onore.
+Esci dall'\xfffearchivio record.
 Collegato al PC\xfffedella Prof.ssa Aralia!\xf000븁\x0000
-ヘルプ　システムに\xfffeせつぞく　した！\xf000븁\x0000
+Accesso al sistema d' aiuto.\xf000븁\x0000
 　
