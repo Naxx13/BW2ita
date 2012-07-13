@@ -1,7 +1,7 @@
-Vestiamo \xf000Ă\x0001\x0000\xfffecon degli oggetti di scena!
-Così ti sembra OK?
-Attendi che gli altri partecipanti \xfffeto si vestano.
-\xf000Ċ\x0001\x0000: Un oggetto di scena che sembra\xfffecarino sul \xf000ı\x0001\x0001.
-Gli oggetti di scena che sembrano carini su \xf000ı\x0001\x0000\xfffesono stati selezionati come primi.
-L'ordine degli oggetti di scena\xfffe è stato ripristinato a quello originale.
-Puoi tirar fuori oggetti di scena dalla lista\xfffeand e farli indossare ai tuoi pokémon.
+Agghinda \xf000Ă\x0001\x0000 con dei gadget!
+Il risultato ti soddisfa?
+In attesa che gli altri partecipanti\xfffeagghindino i loro Pokémon.
+Il gadget \xf000Ċ\x0001\x0000 è per\xfffe\xf000ı\x0001\x0001.
+I gadget per \xf000ı\x0001\x0000 sono i primi\xfffedella lista.
+L'ordine dei gadget è tornato quello\xfffeoriginale.
+Puoi trascinare i gadget fuori dal cerchio\xfffeper agghindare il Pokémon.
