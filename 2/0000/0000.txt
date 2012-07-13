@@ -1,146 +1,146 @@
-Senza risposta
-Nero2
-Bianco2
-Maschio
-Femmina
-Lotta
-Scambio
-La città
-Il paese
-Intelligente
-Atletico
-Tempo
-Denaro
-Apparenza
-Sostanza
-Cool
-Carino
-Strano
-Tepig
-Oshawott
-Snivy
-La spiaggia
-Un fiume
-Le montagne
-Classi
-Pause
-Pranzo
-Famiglia
-Amici
-Se stessi
-Primavera
-Estate
-Autunno
-Inverno
-Dolce
-Piccante
-Acido
-Amaro
-Divertente
-Cool
-Gentile
-Ricco
-Lotte
-Collezionare
-La storia
-Pokémon
-Inglese
-Matematica
-Scienze
-Studi sociali
-Inglese
-Matematica
-Scienze
-Studi sociali
-Allenatore
-Professore
-Team Plasma
-Pokémon
-Giocare fuori
-Shopping
-Leggere
-Videogiochi
-Dormire tardi
-Pop
-Rock
-Jazz
-Rap
-Classica
-News
-Dramma
-Commedia
-Sport
-Cartoni
-Azione
-Fantascienza
-Romantico
-Suspence
-Commedia
-Horror
-Baseball
-Calcio
-Basketball
-Football
-Hockey
-Arti marziali
-Rosso
-Verde
-Blu
-Giallo
-Bianco
-Nero
-Esercizio
-Leggere
-Musica
-Film
-Viaggiare
-Cucinare
-Pescare
-Videogiochi
-Studente
-Impiegato
-Creatore
-In proprio
-Pubblico ufficiale
-Casalinga
-Artista
-Job-Hopper
-Spighetto
-Chicco
-Maisello
-Aloé
-Artemisio
-Camelia
-Rafan
-Anemone
-Silvestro
-Iris
-Aristide
-Normale
-Fuoco
-Acqua
-Elettro
-Erba
-Ghiaccio
-Lotta
-Veleno
-Terra
-Volante
-Psico
-Coleottero
-Roccia
-Spettro
-Drago
-Buio
-Acciaio
-0-10 Ore
-10-20 Ore
-20-30 Ore
-30-40 Ore
-40-50 Ore
-50-60 Ore
-60-70 Ore
-70-80 Ore
-80-90 Ore
-90-100 Ore
-100+ Ore
+NON SA
+NERO 2
+BIANCO 2
+RAGAZZI
+RAGAZZE
+LOTTE
+SCAMBI
+CITTÀ
+CAMPAGNA
+INTELLIGENTI
+SPORTIVI
+TEMPO
+SOLDI
+ASPETTO
+CARATTERE
+SPECIALI
+CARINI
+STRANI
+TEPIG
+OSHAWOTT
+SNIVY
+AL MARE
+AL FIUME
+IN MONTAGNA
+LEZIONE
+RICREAZIONE
+PRANZO
+LA FAMIGLIA
+GLI AMICI
+SE STESSI
+PRIMAVERA
+ESTATE
+AUTUNNO
+INVERNO
+DOLCE
+PICCANTE
+ASPRO
+AMARO
+SIMPATICHE
+BELLE
+GENTILI
+RICCHE
+LE LOTTE
+LE CATTURE
+LE STORIE
+I POKÉMON
+ITALIANO
+MATEMATICA
+SCIENZE
+ST. SOCIALI
+ITALIANO
+MATEMATICA
+SCIENZE
+ST. SOCIALI
+ALLENATORE
+PROFESSORE
+TEAM PLASMA
+POKÉMON
+USCIRE
+FARE SPESE
+LEGGERE
+GIOCARE
+DORMIRE
+POP
+ROCK
+JAZZ
+RAP
+CLASSICA
+LE NOTIZIE
+LE SERIE TV
+I VARIETÀ
+LO SPORT
+I CARTONI
+DI AZIONE
+SCI-FI
+ROMANTICI
+DI SUSPENSE
+COMICI
+DELL'ORRORE
+BASEBALL
+CALCIO
+BASKET
+FOOTBALL
+HOCKEY
+JUDO
+ROSSO
+VERDE
+BLU
+GIALLO
+BIANCO
+NERO
+LO SPORT
+LA LETTURA
+LA MUSICA
+IL CINEMA
+VIAGGIARE
+CUCINARE
+PESCARE
+GIOCARE
+STUDENTE
+DIPENDENTE
+DESIGNER
+FREE LANCE
+STATALE
+CASALINGA
+ARTISTA
+PART-TIME
+CHICCO
+SPIGHETTO
+MAISELLO
+ALOÉ
+ARTEMISIO
+CAMELIA
+RAFAN
+ANEMONE
+SILVESTRO
+IRIS
+ARISTIDE
+NORMALE
+FUOCO
+ACQUA
+ELETTRO
+ERBA
+GHIACCIO
+LOTTA
+VELENO
+TERRA
+VOLANTE
+PSICO
+COLEOTTERO
+ROCCIA
+SPETTRO
+DRAGO
+BUIO
+ACCIAIO
+0 - 10H
+10 - 20H
+20 - 30H
+30 - 40H
+40 - 50H
+50 - 60H
+60 - 70H
+70 - 80H
+80 - 90H
+90 - 100H
+PIÙ DI 100H
