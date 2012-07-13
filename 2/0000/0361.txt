@@ -1,165 +1,165 @@
-Champion Ribbon
-Sinnoh Champ Ribbon
-Cool Ribbon
-Cool Ribbon Super
-Cool Ribbon Hyper
-Cool Ribbon Master
-Beauty Ribbon
-Beauty Ribbon Super
-Beauty Ribbon Hyper
-Beauty Ribbon Master
-Cute Ribbon
-Cute Ribbon Super
-Cute Ribbon Hyper
-Cute Ribbon Master
-Smart Ribbon
-Smart Ribbon Super
-Smart Ribbon Hyper
-Smart Ribbon Master
-Tough Ribbon
-Tough Ribbon Super
-Tough Ribbon Hyper
-Tough Ribbon Master
-Cool Ribbon
-Cool Ribbon Great
-Cool Ribbon Ultra
-Cool Ribbon Master
-Beauty Ribbon
-Beauty Ribbon Great
-Beauty Ribbon Ultra
-Beauty Ribbon Master
-Cute Ribbon
-Cute Ribbon Great
-Cute Ribbon Ultra
-Cute Ribbon Master
-Smart Ribbon
-Smart Ribbon Great
-Smart Ribbon Ultra
-Smart Ribbon Master
-Tough Ribbon
-Tough Ribbon Great
-Tough Ribbon Ultra
-Tough Ribbon Master
-Winning Ribbon
-Victory Ribbon
-Ability Ribbon
-Great Ability Ribbon
-Double Ability Ribbon
-Multi Ability Ribbon
-Pair Ability Ribbon
-World Ability Ribbon
-Artist Ribbon
-Effort Ribbon
-Alert Ribbon
-Shock Ribbon
-Downcast Ribbon
-Careless Ribbon
-Relax Ribbon
-Snooze Ribbon
-Smile Ribbon
-Gorgeous Ribbon
-Royal Ribbon
-Gorgeous Royal Ribbon
-Footprint Ribbon
-Record Ribbon
-Legend Ribbon
-Country Ribbon
-National Ribbon
-Earth Ribbon
-World Ribbon
-Classic Ribbon
-Premier Ribbon
-Event Ribbon
-Birthday Ribbon
-Special Ribbon
-Souvenir Ribbon
-Wishing Ribbon
-Battle Champion Ribbon
-Regional Champion Ribbon
-National Champion Ribbon
-World Champion Ribbon
-Ribbon for clearing the Pokémon League and\xfffeentering the Hall of Fame in another region.
-Ribbon awarded for beating the Sinnoh\xfffeChampion and entering the Hall of Fame.
-Hoenn Cool Contest\xfffeNormal Rank winner!
-Hoenn Cool Contest\xfffeSuper Rank winner!
-Hoenn Cool Contest\xfffeHyper Rank winner!
-Hoenn Cool Contest\xfffeMaster Rank winner!
-Hoenn Beauty Contest\xfffeNormal Rank winner!
-Hoenn Beauty Contest\xfffeSuper Rank winner!
-Hoenn Beauty Contest\xfffeHyper Rank winner!
-Hoenn Beauty Contest\xfffeMaster Rank winner!
-Hoenn Cute Contest\xfffeNormal Rank winner!
-Hoenn Cute Contest\xfffeSuper Rank winner!
-Hoenn Cute Contest\xfffeHyper Rank winner!
-Hoenn Cute Contest\xfffeMaster Rank winner!
-Hoenn Smart Contest\xfffeNormal Rank winner!
-Hoenn Smart Contest\xfffeSuper Rank winner!
-Hoenn Smart Contest\xfffeHyper Rank winner!
-Hoenn Smart Contest\xfffeMaster Rank winner!
-Hoenn Tough Contest\xfffeNormal Rank winner!
-Hoenn Tough Contest\xfffeSuper Rank winner!
-Hoenn Tough Contest\xfffeHyper Rank winner!
-Hoenn Tough Contest\xfffeMaster Rank winner!
-Super Contest Cool Category\xfffeNormal Rank winner!
-Super Contest Cool Category\xfffeGreat Rank winner!
-Super Contest Cool Category\xfffeUltra Rank winner!
-Super Contest Cool Category\xfffeMaster Rank winner!
-Super Contest Beauty Category\xfffeNormal Rank winner!
-Super Contest Beauty Category\xfffeGreat Rank winner!
-Super Contest Beauty Category\xfffeUltra Rank winner!
-Super Contest Beauty Category\xfffeMaster Rank winner!
-Super Contest Cute Category\xfffeNormal Rank winner!
-Super Contest Cute Category\xfffeGreat Rank winner!
-Super Contest Cute Category\xfffeUltra Rank winner!
-Super Contest Cute Category\xfffeMaster Rank winner!
-Super Contest Smart Category\xfffeNormal Rank winner!
-Super Contest Smart Category\xfffeGreat Rank winner!
-Super Contest Smart Category\xfffeUltra Rank winner!
-Super Contest Smart Category\xfffeMaster Rank winner!
-Super Contest Tough Category\xfffeNormal Rank winner!
-Super Contest Tough Category\xfffeGreat Rank winner!
-Super Contest Tough Category\xfffeUltra Rank winner!
-Super Contest Tough Category\xfffeMaster Rank winner!
-Ribbon awarded for clearing Hoenn's\xfffeBattle Tower's Lv. 50 challenge.
-Ribbon awarded for clearing Hoenn's\xfffeBattle Tower's Lv. 100 challenge.
-A Ribbon awarded for defeating the\xfffeTower Tycoon at the Battle Tower.
-A Ribbon awarded for defeating the\xfffeTower Tycoon at the Battle Tower.
-A Ribbon awarded for completing the\xfffeBattle Tower Double challenge.
-A Ribbon awarded for completing the\xfffeBattle Tower Multi challenge.
-A Ribbon awarded for completing the\xfffeBattle Tower Link Multi challenge.
-A Ribbon awarded for completing the\xfffeWi-Fi Battle Tower challenge.
-Ribbon awarded for being chosen as\xfffea super sketch model in Hoenn.
-Ribbon awarded for being an\xfffeexceptionally hard worker.
-A Ribbon for recalling an invigorating\xfffeevent that created life energy.
-A Ribbon for recalling a thrilling\xfffeevent that made life more exciting.
-A Ribbon for recalling feelings of\xfffesadness that added spice to life.
-A Ribbon for recalling a careless error\xfffethat helped steer life decisions.
-A Ribbon for recalling a refreshing\xfffeevent that added sparkle to life.
-A Ribbon for recalling a deep\xfffeslumber that made life soothing.
-A Ribbon for recalling that smiles\xfffeenrich the quality of life.
-An extraordinarily gorgeous and\xfffeextravagant Ribbon.
-An incredibly regal Ribbon with an\xfffeair of nobility.
-A gorgeous and regal Ribbon that\xfffeis the peak of fabulous.
-A Ribbon awarded to a Pokémon deemed\xfffeto have a top-quality footprint.
-A Ribbon awarded for setting an\xfffeincredible record.
-A Ribbon awarded for setting a\xfffelegendary record.
-Pokémon League\xfffeChampion Ribbon
-A Ribbon awarded for overcoming all\xfffedifficult challenges.
-A Ribbon awarded for winning 100\xfffematches in a row.
-Pokémon League\xfffeChampion Ribbon
-A Ribbon that proclaims love for\xfffePokémon.
-Special Holiday Ribbon
-Pokémon Event\xfffeParticipation Ribbon
-A Ribbon to celebrate a birthday.
-A special Ribbon for a special day.
-A Ribbon to cherish a special memory.
-A Ribbon said to make your wish come true.
-Battle Competition\xfffeChampion Ribbon
-Pokémon World Championships\xfffeRegional Champion Ribbon
-Pokémon World Championships\xfffeNational Champion Ribbon
-Pokémon World Championships\xfffeWorld Champion Ribbon
-League Ribbon\xf000ȁ\x0001\x0000
-Contest Ribbon\xf000ȁ\x0001\x0000
-Tower Ribbon\xf000ȁ\x0001\x0000
-Memorial Ribbon\xf000ȁ\x0001\x0000
-Gift Ribbon\xf000ȁ\x0001\x0000
+Fiocco Campione
+Fiocco Campione Sinnoh
+Fiocco Classe
+Fiocco Classe: Livello Super
+Fiocco Classe: Livello Iper
+Fiocco Classe: Livello Master
+Fiocco Bellezza
+Fiocco Bellezza: Livello Super
+Fiocco Bellezza: Livello Iper
+Fiocco Bellezza: Livello Master
+Fiocco Grazia
+Fiocco Grazia: Livello Super
+Fiocco Grazia: Livello Iper
+Fiocco Grazia: Livello Master
+Fiocco Acume
+Fiocco Acume: Livello Super
+Fiocco Acume: Livello Iper
+Fiocco Acume: Livello Master
+Fiocco Grinta
+Fiocco Grinta: Livello Super
+Fiocco Grinta: Livello Iper
+Fiocco Grinta: Livello Master
+Fiocco Classe
+Fiocco Classe: Livello Mega
+Fiocco Classe: Livello Ultra
+Fiocco Classe: Livello Master
+Fiocco Bellezza
+Fiocco Bellezza: Livello Mega
+Fiocco Bellezza: Livello Ultra
+Fiocco Bellezza: Livello Master
+Fiocco Grazia
+Fiocco Grazia: Livello Mega
+Fiocco Grazia: Livello Ultra
+Fiocco Grazia: Livello Master
+Fiocco Acume
+Fiocco Acume: Livello Mega
+Fiocco Acume: Livello Ultra
+Fiocco Acume: Livello Master
+Fiocco Grinta
+Fiocco Grinta: Livello Mega
+Fiocco Grinta: Livello Ultra
+Fiocco Grinta: Livello Master
+Fiocco Vittoria
+Fiocco Trionfo
+Fiocco Abilità
+Fiocco Abilità Mega
+Fiocco Abilità Doppia
+Fiocco Abilità Multipla
+Fiocco Abilità Insieme
+Fiocco Abilità Mondiale
+Fiocco Artista
+Fiocco Merito
+Fiocco Allarme
+Fiocco Stupore
+Fiocco Sconforto
+Fiocco Indolenza
+Fiocco Relax
+Fiocco Pisolino
+Fiocco Sorriso
+Fiocco Meraviglia
+Fiocco Reale
+Fiocco Meraviglia Reale
+Fiocco Orma
+Fiocco Record
+Fiocco Leggenda
+Fiocco Paese
+Fiocco Nazionale
+Fiocco Geo
+Fiocco Mondiale
+Fiocco Classico
+Fiocco Principale
+Fiocco Evento
+Fiocco Compleanno
+Fiocco Speciale
+Fiocco Ricordo
+Fiocco Desiderio
+Fiocco Campione Lotta
+Fiocco Campione Locale
+Fiocco Campione Nazionale
+Fiocco Campione Mondiale
+Fiocco per Campioni della Lega Pokémon con\xfffeaccesso alla Sala d'Onore di altre regioni.
+Fiocco per aver battuto il Campione di\xfffeSinnoh e meritato la Sala d'Onore.
+Gara di Classe: regione di Hoenn\xfffeVincitore Livello Normale!
+Gara di Classe: regione di Hoenn\xfffeVincitore Livello Super!
+Gara di Classe: regione di Hoenn\xfffeVincitore Livello Iper!
+Gara di Classe: regione di Hoenn\xfffeVincitore Livello Master!
+Gara di Bellezza: regione di Hoenn\xfffeVincitore Livello Normale!
+Gara di Bellezza: regione di Hoenn\xfffeVincitore Livello Super!
+Gara di Bellezza: regione di Hoenn\xfffeVincitore Livello Iper!
+Gara di Bellezza: regione di Hoenn\xfffeVincitore Livello Master!
+Gara di Grazia: regione di Hoenn\xfffeVincitore Livello Normale!
+Gara di Grazia: regione di Hoenn\xfffeVincitore Livello Super!
+Gara di Grazia: regione di Hoenn\xfffeVincitore Livello Iper!
+Gara di Grazia: regione di Hoenn\xfffeVincitore Livello Master!
+Gara di Acume: regione di Hoenn\xfffeVincitore Livello Normale!
+Gara di Acume: regione di Hoenn\xfffeVincitore Livello Super!
+Gara di Acume: regione di Hoenn\xfffeVincitore Livello Iper!
+Gara di Acume: regione di Hoenn\xfffeVincitore Livello Master!
+Gara di Grinta: regione di Hoenn\xfffeVincitore Livello Normale!
+Gara di Grinta: regione di Hoenn\xfffeVincitore Livello Super!
+Gara di Grinta: regione di Hoenn\xfffeVincitore Livello Iper!
+Gara di Grinta: regione di Hoenn\xfffeVincitore Livello Master!
+Super Gara di Classe\xfffeVincitore Livello Normale!
+Super Gara di Classe\xfffeVincitore Livello Mega!
+Super Gara di Classe\xfffeVincitore Livello Ultra!
+Super Gara di Classe\xfffeVincitore Livello Master!
+Super Gara di Bellezza\xfffeVincitore Livello Normale!
+Super Gara di Bellezza\xfffeVincitore Livello Mega!
+Super Gara di Bellezza\xfffeVincitore Livello Ultra!
+Super Gara di Bellezza\xfffeVincitore Livello Master!
+Super Gara di Grazia\xfffeVincitore Livello Normale!
+Super Gara di Grazia\xfffeVincitore Livello Mega!
+Super Gara di Grazia\xfffeVincitore Livello Ultra!
+Super Gara di Grazia\xfffeVincitore Livello Master!
+Super Gara di Acume\xfffeVincitore Livello Normale!
+Super Gara di Acume\xfffeVincitore Livello Mega!
+Super Gara di Acume\xfffeVincitore Livello Ultra!
+Super Gara di Acume\xfffeVincitore Livello Master!
+Super Gara di Grinta\xfffeVincitore Livello Normale!
+Super Gara di Grinta\xfffeVincitore Livello Mega!
+Super Gara di Grinta\xfffeVincitore Livello Ultra!
+Super Gara di Grinta\xfffeVincitore Livello Master!
+Fiocco per aver completato la sfida al L. 50\xfffedella Torre Lotta della regione di Hoenn.
+Fiocco per aver completato la sfida al L. 100\xfffedella Torre Lotta della regione di Hoenn.
+Fiocco per aver sconfitto il Boss Torre\xfffepresso la Torre Lotta.
+Fiocco per aver sconfitto il Boss Torre\xfffepresso la Torre Lotta.
+Fiocco per aver concluso la Lotta in Doppio\xfffedella Torre Lotta.
+Fiocco per aver concluso la Lotta Multipla\xfffedella Torre Lotta.
+Fiocco per aver concluso la Lotta Multipla\xfffein Link della Torre Lotta.
+Fiocco per aver completato la Torre Lotta\xfffeWi-Fi.
+Fiocco per essere stato scelto come\xfffemodello nella regione di Hoenn.
+Fiocco per aver lavorato duro.
+Fiocco per ricordare un evento che ha\xfffecreato energia vitale.
+Fiocco per ricordare un evento che ha reso\xfffela vita più emozionante.
+Fiocco per ricordare sentimenti tristi\xfffeche aggiungono sale alla vita.
+Fiocco per ricordare un errore che\xfffeha fatto prendere serie decisioni.
+Fiocco per ricordare un evento che ha dato\xfffevivacità alla vita.
+Fiocco per ricordare una dormita che ha\xfffereso la vita rassicurante.
+Fiocco per ricordare che sorridere\xfffearricchisce la qualità della vita.
+Fiocco straordinariamente sfarzoso\xfffee stravagante.
+Fiocco incredibilmente regale con un certo\xfffetocco di nobiltà.
+Stupendo Fiocco regale che rappresenta\xfffel'apoteosi della bellezza.
+Fiocco assegnato a un Pokémon con\xfffeimpronte di qualità molto elevata.
+Fiocco per aver stabilito un record\xfffeincredibile.
+Fiocco per aver stabilito un record\xfffeleggendario.
+Fiocco consegnato al Campione della Lega\xfffePokémon.
+Fiocco per aver superato tutte le sfide\xfffedifficili.
+Fiocco per aver ottenuto 100 vittorie\xfffedi seguito.
+Fiocco consegnato al Campione della Lega\xfffePokémon.
+Fiocco che proclama amore per i Pokémon.
+Fiocco delle vacanze speciali.
+Fiocco per la partecipazione ad un Evento\xfffePokémon.
+Fiocco commemorativo per un compleanno.
+Fiocco speciale per ricordare un giorno\xfffespeciale.
+Fiocco commemorativo di un ricordo speciale.
+Fiocco che sembra essere in grado\xfffedi esaudire i desideri.
+Fiocco per aver vinto una Gara di Lotta.
+Fiocco per aver vinto il Campionato Locale\xfffedel Pokémon World Championships.
+Fiocco per aver vinto il Campionato\xfffeNazionale del Pokémon World Championships.
+Fiocco per aver vinto il Campionato Mondiale\xfffedel Pokémon World Championships.
+Fiocchi Lega: \xf000ȁ\x0001\x0000
+Fiocchi Gara: \xf000ȁ\x0001\x0000
+Fiocchi Torre: \xf000ȁ\x0001\x0000
+Fiocchi Ricordo: \xf000ȁ\x0001\x0000
+Fiocchi Regalo: \xf000ȁ\x0001\x0000
