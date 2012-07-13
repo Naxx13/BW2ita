@@ -73,7 +73,7 @@ Polveri:　\xf000ȃ\x0001\x0000
 Polvere di bacca
 Hai suonato il Pokéflauto!\xfffeWow! Che bel suono!
 Hai suonato il Pokéflauto!
-Il pokèmon ha sentito il suono del\xfffeflauto e si è svegliato.
+Il Pokèmon ha sentito il suono del\xfffeflauto e si è svegliato.
 Muovi
 Non puoi comprare\xfffe\xf000ĉ\x0001\x0000.
 Quante vuoi venderne di\xfffe\xf000ĉ\x0001\x0000?
