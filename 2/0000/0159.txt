@@ -1,4 +1,4 @@
-ことばを　えらんでね！
+Ho scelto la parola！
 たいせんまえの　ことばを　かんがえよう
 かったときの　きめゼリフを　かんがえよう
 まけたときの　いいわけを　かんがえよう
@@ -21,8 +21,8 @@ ELIMINA
 ESCI
 Elenco dei messaggi registrati:\xfffePerfavore seleziona il messaggio\xfffeche vuoi usare.
 Per favore scegli un messaggio\xfffeo il posto dove vuoi che\xfffela tua parola o frase vada.
-Per favore scegli dove\xfffeil tuo mesaggio o parola deve essere posizionato.
-Modalità di Gruppo:\xfffePerfavore scegli la frase o il mesaggio\xfffedal gruppo.
+Per favore scegli dove\xfffeil tuo messaggio o parola deve essere posizionato.
+Modalità di Gruppo:\xfffePerfavore scegli la frase o il messaggio\xfffedal gruppo.
 Modalità ABC:\xfffePerfavore seleziona la lettera\xfffeda scegliere.
-ABC MODE:\xfffePlease choose a word or phrase\xfffefrom the narrowed-down list.
-GROUP MODE:\xfffePlease choose a group of words\xfffeor phrases that'll go in that place.
+MODALITà ABC:\xfffePerfavore seleziona una parola o frase\xfffedalla lista a tendina.
+Modalità di Gruppo:\xfffePerfavore seleziona un gruppo di parole\xfffeoo frasi that'll go in that place.
