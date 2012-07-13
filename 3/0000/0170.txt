@@ -1,12 +1,12 @@
-サンギタウンの　アデクさんに\xfffeせんせいを　おねがい　してたの\xf000븁\x0000\xfffeだけど　これからは　わかいひとの\xfffeじだいだからって　ことわられたのよね
-きみは　ポケモンしょうぶの　とき\xfffeどうぐを　つかったりしてる？\xf000븀\x0000\xfffeよければ　これを　つかってみてよ！\xf000븁\x0000
-ディフェンダーを　つかった\xfffeポケモンは　ぼうぎょが　たかまる！\xf000븁\x0000\xfffeしょうぶのとき　わざを　だすのか\xfffeそれとも　どうぐを　つかうのか\xf000븀\x0000\xfffeトレーナーの　はんだんが　だいじだよ
-しんかキャンセル　という\xfffeテクニックが　あるの！\xf000븀\x0000\xfffeじゃ　きょうかしょを　よむわね\xf000븁\x0000\xfffe「ポケモンが　しんかする　しゅんかん\xfffe　Ｂボタンを　おすことで\xf000븀\x0000\xfffe　ポケモンは　おどろき　しんかをやめる」
-ポケモンに　どうぐを\xfffeもたせられるだろ？\xf000븁\x0000\xfffeでもさ　ひとが　つくった　どうぐ……\xfffeたとえば　キズぐすり　とかは\xf000븀\x0000\xfffeつかいかたが　わからないみたいだね
-ノーマルタイプの　ポケモンは\xfffeかくとうタイプに　よわい！\xf000븁\x0000\xfffeだけど　このあたりだと\xfffeサンギぼくじょうの\xf000븀\x0000\xfffeリオル　ぐらいしか　いないからね……\xf000븁\x0000\xfffeほのお　みず　くさタイプの\xfffeポケモンで　たたかうなら\xf000븀\x0000\xfffeじゅんすいな　つよさくらべに　なるね
-こくばんに　ポケモンが\xfffeたたかっているときに　おこる\xf000븁\x0000\xfffeたいちょうの　へんかに　ついて\xfffeかかれてます\xf000븁\x0000
+Ho chiesto a Nardo della Città di\xfffeSangi se poteva essere il mio maestro.\xf000븁\x0000\xfffePerò in questo periodo allena solo\xfffei giovani, e perciò ha rifiutato.
+Durante una lotta Pokémon, tu\xfffeche strumenti usi?\xf000븀\x0000\xfffeSe ti va, prova a usare questo!\xf000븁\x0000
+Ho usato Difesa X e la Difesa\xfffedel mio Pokémon è aumentata!\xf000븁\x0000\xfffeChe mossa o strumento usare durante\xfffe una Lotta è un compito\xf000븀\x0000\xfffeimportante degli allenatori!
+C'è un modo per\xfffebloccare l'evoluzione!\xf000븀\x0000\xfffeAllora ti leggo il libro:\xf000븁\x0000\xfffe"Appena un Pokémon inizia a\xfffeevolversi, premendo il Pulsante B,\xf000븀\x0000\xfffel'evoluzione si fermerà!"
+Che strumento fai\xfffetenere ai Pokémon?\xf000븁\x0000\xfffePerò non capisco il senso di\xfffefar tenere ai Pokémon uno\xf000븀\x0000\xfffestrumento come Pozione...
+I Pokémon di tipo Normale sono\xfffedeboli contro quelli di tipo Lotta!\xf000븁\x0000\xfffePerò, non so quanti Riolu\xfffe ci siano alla Fattoria di Sangi...\xf000븀\x0000\xfffeNon ne ho proprio idea...\xf000븁\x0000\xfffePerò, in confronto ai Tipi Fuoco, Acqua\xfffeed Erba, quello lotta\xf000븀\x0000\xfffeè pura forza, eh?
+Sulla lavagna ci sono scritte\xfffele alterazioni di stato alle quali\xf000븁\x0000\xfffeun Pokémon può incorrere durante\xfffeuna Lotta.\xf000븁\x0000
 Che cosa vuoi leggere?
-どくを　うけると\xfffeたたかっている　あいだ\xf000븀\x0000\xfffeたいりょくが　へっていきます\xf000븁\x0000\xfffeせんとうが　おわっても\xfffeどくの　ままです\xf000븁\x0000\xfffeどくけしで　なおしましょう\xf000븁\x0000
+Se un Pokémon viene avvelenato\xfffedurante la Lotta,\xf000븀\x0000\xfffel'Attacco diminuirà.\xf000븁\x0000\xfffeRimane dopo la Lotta, perciò\xfffeper disintossicarlo usa\xf000븁\x0000\xfffeun Antidoto!\xf000븁\x0000
 La paralisi riduce la Velocità\xfffee può impedire i movimenti.\xf000븁\x0000\xfffeRimane dopo la lotta, perciò usa\xfffeun Antiparalisi.\xf000븁\x0000
 Se un Pokémon si addormenta, non\xfffepotrà attaccare.\xf000븁\x0000\xfffeIl Pokémon potrebbe svegliarsi da solo,\xfffema se una lotta finisce mentre è\xf000븀\x0000\xfffeaddormentato, rimarà in quello stato.\xf000븁\x0000\xfffeSveglialo con una Sveglia.\xf000븁\x0000
 Una scottatura riduce l'Attacco\xfffee i PS della vittima.\xf000븁\x0000\xfffeUna scottatura rimane dopo la lotta.\xfffeCurala con un Antiscottatura.\xf000븁\x0000
@@ -20,4 +20,4 @@ Indietro
 Palestra di Alisopoli\xf000븁\x0000\xfffeCapopalestra: Komor\xfffeAllenatori certificati!
 Palestra di Alisopoli\xf000븁\x0000\xfffeCapopalestra: Komor\xfffeAllenatori certificati!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
 Palestra di Alisopoli\xf000븁\x0000\xfffeCapopalestra: Komor\xfffeAllenatori certificati!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000 e \xf000Ā\x0001\x0001
-まさにいま　ジムリーダーは\xfffeねっせんの　まっさいちゅう　っす！
+Sono sicuro che in questo momento il\xfffeCapopalestra sta lottando!
