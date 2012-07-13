@@ -1,5 +1,5 @@
 Oh! Allenatore! I tuoi\xfffePokémon sembrano in forma!\xf000븁\x0000\xfffeGià!\xfffeTi chiedo un favore!\xf000븁\x0000\xfffeSi tratta di battere\xfffetutti i miei colleghi del Complesso!\xf000븀\x0000\xfffeAllora? Ci stai?
-Oh!\xfffeChe risposta promettente!\xf000븁\x0000\xfffeこの　コンビナートで　はたらく\xfffeしんじんの　さぎょういんが　いる\xf000븁\x0000\xfffeそいつら　３にんに\xfffeかつを　いれてきてくれ！
+Oh!\xfffeChe risposta promettente!\xf000븁\x0000\xfffeIn questo Complesso ci sono\xfffetre colleghi che devi\xf000븁\x0000\xfffebattere!\xfffeForza, vai!!
 なんとまあ……！　みんな\xfffeハングリーせいしんが　たりないぞ！
 おう！　たのんだぜ！\xf000븁\x0000\xfffeしんじん　さぎょういん　３にんは\xfffeコンビナートの　あちこちに　いるぞ！
 おお！　やってくれたな！\xfffeこいつは　ほんの　きもちだ！\xf000븁\x0000
@@ -21,6 +21,6 @@ Oh!\xfffeChe risposta promettente!\xf000븁\x0000\xfffeこの　コンビナー�
 はっ！　きかれてしまった\xfffeぼくの　あふれる　はくがくを！\xf000븁\x0000\xfffeというか　きみ……　ぼくの\xfffeはなしに　きょうみ　あるよね？\xf000븁\x0000\xfffeということは\xfffeコンビナートなかま　なのか！\xf000븁\x0000\xfffeうれしいな　ったら　うれしいな！\xfffeじゃあさ　これを　もっていきなよ！
 ぼくね　コンビナートに　くわしいだろ\xf000븁\x0000\xfffeなもんで　げんばかんとく　さんに\xfffeスカウトされたけど　みているだけで\xf000븀\x0000\xfffeじゅうぶん　シアワセ　なんだなあ……！
 あら？　あなたってば\xfffeポケモンずかんを　もってるんだ！\xf000븁\x0000\xfffeあたし　きいたよ！\xfffeさいしんの　ポケモンずかん　って\xf000븁\x0000\xfffeせいそくちリスト　って\xfffeすごい　きのうが　あるんでしょ！\xf000븁\x0000\xfffeじゃあさ　この　コンビナートに\xfffeどんな　ポケモンが　いるのか\xf000븀\x0000\xfffeあたしに　みせてくれない？\xf000븁\x0000
-あら？　せいそくちリストの\xfffeコンビナートの　ぶぶん\xf000븀\x0000\xfffeまだ　うまってないんだね……
-すごーい！\xfffeせいそくちリスト　うまってる！\xf000븁\x0000\xfffeすごいすごい！　この　コンビナート\xfffeこんなに　ポケモンが　いるんだ！\xf000븁\x0000\xfffeアリガト！　これは　おれいだよ\xf000븁\x0000
-せいそくちリストを　うめていたら\xfffeいつのまにか　ポケモンずかん\xf000븀\x0000\xfffeかんせい　しちゃうかもね！
+Ah? La parte di Lista per Habitat\xffferelativa al Complesso non è\xf000븀\x0000\xfffeancora completa...
+Fantaaastico!\xfffeHai completato la Lista per Habitat!\xf000븁\x0000\xfffeSupersuper!　Ci sono così tanti\xfffePokémon in questo Complesso!\xf000븁\x0000\xfffeGrazie! Prendi questo!\xf000븁\x0000
+Se completi la Lista per Habitat,\xfffesenza nemmeno accorgesene,\xf000븀\x0000\xfffeil Pokédex verrà completato!
