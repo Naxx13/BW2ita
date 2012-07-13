@@ -9,29 +9,29 @@ L\xf000Ȃ\x0001\x0000
 ♀
 Scegli un Pokémon.
 Scegli un Pokémon.
-Dove lo sposti?
-Darlo a un Pokémon?
-Usa su che Pokémon?
-Insegna a che Pokémon?
+Dove vuoi spostarlo?
+A chi vuoi dare lo strumento?
+Su quale Pokémon vuoi usarlo?
+A chi vuoi insegnarla?
 ポケモンをえらんで　けってい
-Deposita che Pokémon?
-Usa su che Pokémon?
+Quale Pokémon vuoi depositare?
+Su quale Pokémon vuoi usarlo?
 Con che Pokémon vuoi unirlo?
 Cosa fai con\xfffe\xf000Ă\x0001\x0000?
 Cosa fai con\xfffelo strumento?
 Cosa fai con\xfffela Lettera?
-Che mossa vuoi\xffferipristinare?
-Che mossa vuoi\xfffeaumentare?
-とった　メールを　パソコンに\xfffeてんそう　しますか？
+Quale mossa vuoi\xfffericaricare?
+Quale mossa vuoi\xfffepotenziare?
+Vuoi spedire al tuo PC il Messaggio\xfffeselezionato?
 SI
 NO
-とった　メールを　パソコンに\xfffeてんそう　しました
-メールを　とると　メッセージが\xfffeきえてしまいますが　よろしいですか？
+Il Messaggio è stato spedito al tuo PC.
+Se riprendi il Messaggio, il suo contenuto\xfffeandrà perso. Vuoi procedere comunque?
 SI
 NO
-パソコンの　メールボックスが\xfffeいっぱいです！
-ポケモンから　メールを\xfffeとりました！
-\xf000Ă\x0001\x0000 vorrebbe imparare\xfffe\xf000ć\x0001\x0001...\xf000븁\x0000\xfffeMa　\xf000Ă\x0001\x0000 conosce già\xfffe4 mosse!\xf000븁\x0000\xfffeDimentiare una mossa per\xfffefar posto a \xf000ć\x0001\x0001?
+Il Box Messaggi del PC è pieno.
+Hai ripreso il Messaggio dal Pokémon.
+\xf000Ă\x0001\x0000 vorrebbe imparare\xfffe\xf000ć\x0001\x0001, ma conosce già\xf000븀\x0000\xfffequattro mosse.\xf000븁\x0000\xfffeVuoi che ne dimentichi una e al suo\xfffeposto apprenda \xf000ć\x0001\x0001?
 SI
 NO
 Bloccare l'apprendimento\xfffedi \xf000ć\x0001\x0001?
@@ -44,33 +44,34 @@ Quale mossa vuoi\xfffefar dimenticare?
 \xf000Ă\x0001\x0000 e \xf000ć\x0001\x0001\xfffenon sono compatibili!\xf000븁\x0000\xfffeNon ha imparato \xf000ć\x0001\x0001!
 \xf000Ă\x0001\x0000 conosce già\xfffe\xf000ć\x0001\x0001!
 \xf000Ă\x0001\x0000 ha recuperato\xfffe\xf000Ȃ\x0001\x0001 PS！
-\xf000Ă\x0001\x0000\xfffenon è più avvelenato!
-\xf000Ă\x0001\x0000\xfffesi è svegliato!
-\xf000Ă\x0001\x0000 è \xfffeguarito dalla scottatura！
-\xf000Ă\x0001\x0000\xfffesi è scongelato!
+\xf000Ă\x0001\x0000 è stato disintossicato.
+\xf000Ă\x0001\x0000 guarisce dalla paralisi.
+\xf000Ă\x0001\x0000 guarisce dalla scottatura.
+\xf000Ă\x0001\x0000 è stato scongelato.
 PP ripristinati!　
-\xf000Ă\x0001\x0000\xfffeè di nuovo in salute!
-\xf000Ă\x0001\x0000\xfffeè di nuovo in perfetta salute!
-I PP di \xf000ć\x0001\x0000\xfffeaumentano!
+I PP sono stati ricaricati.
+\xf000Ă\x0001\x0000 non è più esausto!
+\xf000Ă\x0001\x0000 è di nuovo in forma.
+I PP di \xf000ć\x0001\x0000 aumentano.
 \xf000Ă\x0001\x0000\xfffenon è più confuso!
 \xf000Ă\x0001\x0000\xfffenon è più infatuato!
-\xf000Ă\x0001\x0000は　\xf000č\x0001\x0001の\xfffeきそポイントが　あがった！
-あたらしい　バッジを　てにするまで\xfffeまだ　つかえません
-メールを　はずさないと\xfffeどうぐは　もてません！
-\xf000Ă\x0001\x0000 tiene già\xfffe\xf000ĉ\x0001\x000!\xf000븁\x0000\xfffeVuoi scambiare i due\xfffestrumenti？
+La statistica \xf000č\x0001\x0001 di\xfffe\xf000Ă\x0001\x0000 aumenta.
+Per usare questo strumento devi\xfffeprima conseguire la prossima Medaglia.
+Prima di dare al Pokémon uno strumento\xfffedevi riprendere il Messaggio che porta.
+\xf000Ă\x0001\x0000 ha già \xf000ĉ\x0001\x0001!\xfffeVuoi scambiare i due strumenti?
 SI
 NO
-\xf000Ă\x0001\x0000は　どうぐを\xfffeなにも　もっていません！
-Ricevi \xf000ĉ\x0001\x0000\xfffeda \xf000Ă\x0001\x0001!
-バッグが　いっぱいで\xfffeどうぐを　うけとれません！
-Ricevi \xf000ĉ\x0001\x0001 e\xfffedai \xf000ĉ\x0001\x0002 da tenere!
+\xf000Ă\x0001\x0000 non ha nessuno strumento.
+Ricevi \xf000ĉ\x0001\x0001 da \xf000Ă\x0001\x0000.
+La Borsa è piena.
+Hai sostituito \xf000ĉ\x0001\x0001 con\xfffe\xf000ĉ\x0001\x0002!
 さんかを　やめますか？
 SI
 NO
 ちょうせんを　やめますか？
 SI
 NO
-\xf000Ă\x0001\x0000は\xfffeめを　さました！
+\xf000Ă\x0001\x0000 si è svegliato!
 ここを　だっしゅつ　して\xfffe\xf000ą\x0001\x0000に　もどる？
 SI
 NO
@@ -78,7 +79,7 @@ NO
 SI
 NO
 さんか　できる　ポケモンは\xfffe２ひき　まで　です！
-すでに　なみのり　しています
+Stai già usando Surf.
 Non si può usare qui.
 Non avrebbe alcun effetto.
 ひんしの　ポケモンには\xfffeつかえません
@@ -87,28 +88,28 @@ Non avrebbe alcun effetto.
 ひんしの　ポケモンとは\xfffeがったい　できません
 タマゴとは\xfffeがったい　できません
 ２ひき　そろっていません！
-\xf000Ă\x0001\x0000は\xfffeちょっと　なついた！\xf000븁\x0000\xfffe\xf000č\x0001\x0001の\xfffeきそポイントが　さがった！
-\xf000Ă\x0001\x0000は\xfffeさいこうに　なついていてる！\xf000븁\x0000\xfffe\xf000č\x0001\x0001の\xfffeきそポイントが　さがった！
-\xf000Ă\x0001\x0000は\xfffeちょっと　なついた！\xf000븁\x0000\xfffe\xf000č\x0001\x0001の\xfffeきそポイントは　もうさがらない！
+\xf000Ă\x0001\x0000 ora è più amichevole.\xf000븁\x0000\xfffeLa statistica \xf000č\x0001\x0001 è calata!
+\xf000Ă\x0001\x0000 ti adora!\xf000븁\x0000\xfffeLa statistica \xf000č\x0001\x0001 è calata!
+\xf000Ă\x0001\x0000 ora è più amichevole.\xf000븁\x0000\xfffeLa statistica \xf000č\x0001\x0001 non può\xfffecalare oltre!
 \xf000Ă\x0001\x0000 riceve\xfffe\xf000ĉ\x0001\x0001 da tenere！
 \xf000Ă\x0001\x0000の\xfffe\xf000ĉ\x0001\x0001と\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002の\xfffe\xf000ĉ\x0001\x0003を　いれかえた！
 はっきんだまを　ギラティナには\xfffeいどうできない！
 はっきんだまは　ギラティナから\xfffeいどうできない！
 タマゴには　どうぐを\xfffeもたせられない！
-Scegli un Pokémon.
-２ひき　そろっていません！
-３ひき　そろっていません！
-４ひき　そろっていません！
-５ひき　そろっていません！
-６ひき　そろっていません！
-さんか　できる　ポケモンは\xfffe１ひき　です！
-さんか　できる　ポケモンは\xfffe２ひき　まで　です！
-さんか　できる　ポケモンは\xfffe３ひき　まで　です！
-さんか　できる　ポケモンは\xfffe４ひき　まで　です！
-さんか　できる　ポケモンは\xfffe５ひき　まで　です！
-ボックスから　メールを　うつしました
-すでに　どうぐを　もっているので\xfffeメールを　もたせることが　できません
-そのポケモンには\xfffeつかえません
+Componi la tua squadra di Pokémon.
+Servono due Pokémon.
+Servono tre Pokémon.
+Servono quattro Pokémon.
+Servono cinque Pokémon.
+Servono sei Pokémon.
+Può partecipare solo un Pokémon.
+Non possono partecipare più di due\xfffePokémon.
+Non possono partecipare più di tre\xfffePokémon.
+Non possono partecipare più di quattro\xfffePokémon.
+Non possono partecipare più di cinque\xfffePokémon.
+Il Messaggio è stato trasferito\xfffedal Box.
+Il Pokémon ha già uno strumento.\xfffeNon può tenere questo Messaggio.
+Non è utilizzabile su questo Pokémon.
 ここを　だっしゅつして\xfffe\xf000ą\x0001\x0000に　もどる？
 SI
 NO
@@ -140,18 +141,18 @@ Prendi
 Sposta
 Sposta LetTera
 NON ISCRITTO
-VIETATO!
+VIETATO
 PRIMO
 SECONDO
 TERZO
 QUARTO
 QUINTO
 SESTO
-CAPACE!
-NON CAPACE!
-APPRESA!
-USA!
-INCAPACE!
+CAPACE
+NON CAPACE
+APPRESA
+CAPACE
+NON CAPACE
 でられます
 でられません
 おなじ　ポケモンが　います
@@ -169,7 +170,7 @@ Velocità
 \xf000Ȃ\x0001\x0000
 \xf000Ă\x0001\x0000\xfffeè salito al L. \xf000Ȃ\x0001\x0001!\xf000븅\x0001\x0002\xf000븅\x0001\x0005
 \xf000Ă\x0001\x0000\xfffeha imparato \xf000ć\x0001\x0001!\xf000븅\x0001\x0003\xf000븅\x0001\x0005
-ふたりで　いるときは\xfffe\xf000ć\x0001\x0000は　つかえません！
+Non puoi usare questo strumento\xfffequando ti accompagna qualcuno.
 いまは　それどころじゃ　ない！
 \xf000ĉ\x0001\x0001
 Cosa fai con\xfffeuovo?
