@@ -1,80 +1,80 @@
-The “How Do You Play the Game" Survey
-The “Details about People" Survey
-The “Pokémon Favorites" Survey
-The “Ideals and Values" Survey
-The “Likable People" Survey
-The “Preferences" Survey
-The “Entertainment" Survey
-The “School Life" Survey
-The “Sports and Pastimes" Survey
-The “More about Pokémon" Survey
-This is a survey about how people play Pokémon\xfffeBlack Version and Pokémon White Version.
-This is a survey to find out details\xfffeabout people.
-This is a survey to find out people's\xfffepreferences when it comes to Pokémon.
-This is a survey to find out about the ideals\xfffeand values of people.
-This is a survey to find out about what kinds\xfffeof people are most likable.
-This is a survey to find out about people's\xfffetastes in seasons, food, and art.
-This is a survey to find out what kinds of\xfffeentertainment people enjoy.
-This is a survey to find out about people's\xfffeschool life.
-This is a survey to find out what people like\xfffeto do in their spare time.
-This is a detailed survey to find out\xfffemore about what people think of Pokémon.
-Which version do you play?
-Are you male or female?
-Which do you prefer, battle or trade?
-Would you live in the city or country?
-What kind of person do you prefer?
-Which do you wish you had more of?
-Which do you value more in a person?
-What kind of Pokémon do you like best?
-What's your starter Pokémon?
-Where would you go for a vacation?
-What's your favorite time at school?
-What's most important to you?
-What season do you like best?
-What kind of food do you like best?
-What kind of people do you like best?
-What do you like about Pokémon?
-What subject do you like best?
-What subject do you like least?
-What do you want to become?
-What do you do in your spare time?
-What kind of music do you like?
-What kind of TV programs do you like?
-What kind of movies do you like?
-What's your favorite sport?
-What's your favorite color?
-What's your hobby?
-What kind of job do you have?
-Which Gym Leader do you like best?
-What Pokémon type do you like best?
-How long have you been playing?
-The “Pokémon Black Version or\xfffePokémon White Version" Survey
-The “Gender" Survey
-The “Battle vs. Trade" Survey
-The “Where to Live" Survey
-The “Smart vs. Athletic" Survey
-The “Time vs. Money" Survey
-The “Appearance vs. Substance" Survey
-The “Favorite Kind of Pokémon" Survey
-The “Starter Pokémon" Survey
-The “Vacation Spot" Survey
-The “School Days" Survey
-The “Important People" Survey
-The “Seasons" Survey
-The “Food" Survey
-The “Popular People" Survey
-The “Best Thing about Pokémon" Survey
-The “Favorite Subject" Survey
-The “Worst Subject" Survey
-The “Pokémon Jobs" Survey
-The “Leisure Time" Survey
-The “Music" Survey
-The “TV" Survey
-The “Movies" Survey
-The “Sports" Survey
-The “Colors" Survey
-The “Hobbies" Survey
-The “Jobs" Survey
-The “Gym Leaders" Survey
-The “Pokémon Types" Survey
-The “Gameplay Time" Survey
+I modi di giocare
+Tipologia dei giocatori
+Preferenze in fatto di Pokémon
+Le aspirazioni di ognuno
+Gli amici ideali
+I gusti
+I passatempi
+La vita scolastica
+I divertimenti
+Primo piano sui Pokémon
+Analizza in che modo i giocatori si divertono\xfffecon Pokémon Nero e Pokémon Bianco.
+Analizza la tipologia dei giocatori intorno a te.
+Analizza i gusti e le preferenze in materia\xfffedi Pokémon.
+Analizza le aspirazioni e il peso dato alle cose\xfffeda chi ti circonda.
+Analizza le qualità più apprezzate negli amici.
+Analizza le preferenze dei giocatori in fatto\xfffedi stagioni e sapori.
+Analizza i passatempi preferiti dai giocatori.
+Analizza la vita scolastica di chi ti circonda.
+Analizza le preferenze dei giocatori in fatto\xfffedi sport e divertimenti.
+Analizza i sentimenti dei giocatori rispetto\xfffeai Pokémon.
+Hai Pokémon Nero o Pokémon Bianco?
+Giocano di più i ragazzi o le ragazze?
+Preferisci le lotte o gli scambi?
+Preferisci vivere in città o in campagna?
+Come devono essere i tuoi amici ideali?
+Che cosa desideri di più?
+Che cosa ti attira di più negli altri?
+Che Pokémon preferisci?
+Con quale Pokémon hai cominciato?
+Dove andresti più volentieri in vacanza?
+Cosa preferisci fare a scuola?
+Qual è per te la cosa più importante?
+Qual è la tua stagione preferita?
+Che sapore preferisci?
+Che tipo di persone preferisci?
+Cosa ti attira dei Pokémon?
+Qual è la tua materia preferita?
+Qual è la materia che detesti?
+Chi vorresti essere?
+Che cosa ti piace fare nel tempo libero?
+Che genere di musica preferisci?
+Che genere di programma TV preferisci?
+Che genere di film preferisci?
+Qual è il tuo sport preferito?
+Qual è il tuo colore preferito?
+Qual è il tuo hobby preferito?
+Che genere di lavoro fai?
+Chi è il tuo Capopalestra preferito?
+Quale tipo di Pokémon preferisci?
+Quante ore hai giocato più o meno?
+Sondaggio per scoprire se si gioca di più a\xfffePokémon Nero o Pokémon Bianco.
+Sondaggio per scoprire se ci sono più\xffferagazzi o ragazze tra i giocatori.
+Sondaggio per scoprire se i giocatori\xfffepreferiscono le lotte o gli scambi.
+Sondaggio per scoprire se la gente\xfffepreferisce la compagna o la città.
+Sondaggio per scoprire se la gente\xfffepreferisce amici intelligenti o sportivi.
+Sondaggio per scoprire se la gente\xfffepreferisce avere più tempo o più soldi.
+Sondaggio per scoprire se la gente\xfffepreferisce avere amici belli o di cuore.
+Sondaggio per scoprire il Pokémon\xfffepreferito da più persone.
+Sondaggio per scoprire qual è il Pokémon\xfffepiù scelto all'inizio del viaggio.
+Sondaggio per scoprire dove i giocatori\xfffepreferiscono passare le vacanze.
+Sondaggio per scoprire cosa preferiscono\xfffefare a scuola i giocatori.
+Sondaggio per scoprire se conta di più\xfffela famiglia, gli amici o se stessi.
+Sondaggio per scoprire qual è la stagione\xfffepreferita dai giocatori.
+Sondaggio per scoprire qual è il cibo\xfffepreferito dai giocatori.
+Sondaggio per scoprire il tipo di persona\xfffepreferito dai giocatori.
+Sondaggio per scoprire che cosa attira di\xfffepiù dei Pokémon.
+Sondaggio per scoprire qual è la materia\xfffepreferita a scuola.
+Sondaggio per scoprire qual è la materia più\xfffeodiata a scuola.
+Sondaggio per scoprire chi ognuno vorrebbe\xfffediventare nel mondo dei Pokémon.
+Sondaggio per scoprire come i giocatori\xfffetrascorrono il tempo libero.
+Sondaggio per scoprire qual è il genere di\xfffemusica preferito dai giocatori.
+Sondaggio per scoprire qual è il tipo di\xfffeprogramma TV preferito dai giocatori.
+Sondaggio per scoprire il genere di film\xfffepreferito dai giocatori.
+Sondaggio per scoprire qual è lo sport\xfffepreferito dai giocatori.
+Sondaggio per scoprire il colore preferito\xfffedai giocatori.
+Sondaggio per scoprire il passatempo\xfffepreferito dai giocatori.
+Sondaggio per scoprire qual è il tipo di\xfffelavoro più diffuso tra i giocatori.
+Sondaggio per scoprire il Capopalestra più\xfffeamato in Pokémon Nero e Pokémon Bianco.
+Sondaggio per scoprire il tipo di Pokémon\xfffepiù popolare.
+Sondaggio per scoprire il tempo di gioco\xfffetotale raggiunto da ogni giocatore.
