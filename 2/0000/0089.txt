@@ -2,43 +2,43 @@ ENTRATA
 RICEVI PASSAPOTERE
 ACCETTA MISSIONE FES
 VISUALIZZA RECORD
-MISSION RECORD
-Please receive\xfffethe Fes Mission.
-Please accept\xfffethe Pass Power.
-Entree's Total Level: \xf000Ȃ\x0001\x0000
+RECORD MISSIONE
+Ricevi\xfffela Missione Fes.
+Accetta\xfffeil Passa Potere.
+Livello Totale d'entrata: \xf000Ȃ\x0001\x0000
 ◆Bianco Lv.: \xf000ȃ\x0001\x0000
 ◇Nero Lv.: \xf000ȃ\x0001\x0000
 PassaPoteri Disponibili: \xf000ȃ\x0001\x0000
 MISSIONE COMPLETATA
-MISSIONE HOSTED
-MISSIONE PERFORMED
+MISSIONE HOSTATA
+MISSIONE ESEGUITA
 PIU' PARTECIPANTI
-HIGH SCORE
+PUNTEGGIO MASSIMO
 \xf000Ȅ\x0001\x0000かい
 \xf000Ȅ\x0001\x0000かい
 \xf000Ȅ\x0001\x0000かい
 \xf000Ȃ\x0001\x0000にん
 \xf000Ȅ\x0001\x0000かい
-BEGIN A MISSION
+INIZIA MISSIONE
 MISSIONE IN CORSO
 La missione è iniziata!\xf000븂\x0001Z
-Another mission is already\xfffein progress.
+Un altra missione è attualmente\xfffein corso.
 Saleziona una delle\xfffesei missioni.
 Seleziona la missione.
-You cannot accept this mission\xfffewhen three worlds are connected.
-You cannot accept a mission when\xfffeyou have a visitor in your Entralink.
+Non puoi accettare questa missione\xfffequando tre mondi sono conessi.
+Non puoi accettare questa missione quando\xfffehai ospiti nel tuo Entralink.
 ミッションを　えらぶことで\xfffeあいてを　たすけることが　できます\xf000븁\x0000\xfffeまず　はじめに　このなかから\xfffe『サポート　ミッション』を　えらび\xf000븀\x0000\xfffeミッションを　かいしして　ください
 べつの　ミッションを\xfffeえらんで　います\xf000븁\x0000\xfffeまずは　『サポート　ミッション』を\xfffeえらんで　かいしして　ください
 \xf000ȃ\x0001\x0000こ
 SI
 NO
-Will you receive this Pass Power\xfffefrom the Entree?
+Vuoi ricevere questo Passa Potere\xfffeall'entrata?
 PASSAPOTERI DISPONIBILI
 『\xf000Ĝ\x0001\x0000』　を\xfffeハイルツリーから　うけとった！\xf000븁\x0000\xfffeうけとった『\xf000Ĝ\x0001\x0000』を\xfffeＣギアに　とうろくした！
-RECEIVE POWER
-Please select the Pass Power\xfffeyou want to receive from the Entree.
-CURRENT PASS POWER
-No Pass Power has been received.
+RICEVI POTERE
+Seleziona il Passa Potere che\xfffevuoi ricevere all'entrata.
+PASSA POTERE CORRENTE
+Nessun Passa Potere è stato ricevuto.
 Orbs needed: \xf000ȃ\x0001\x0000
 \xf000봂\x0000◆The White Level to receive it: \xf000Ȃ\x0001\x0000◆\xfffe\xfffeCurrent levels\xfffe◇Black Lv. : \xf000Ȃ\x0001\x0002   ◆White Lv. : \xf000Ȃ\x0001\x0001
 \xf000봂\x0000◆The Black Level to receive it: \xf000Ȃ\x0001\x0000◆\xfffe\xfffeCurrent levels\xfffe◇Black Lv. : \xf000Ȃ\x0001\x0002   ◆White Lv. : \xf000Ȃ\x0001\x0001
@@ -46,7 +46,7 @@ Orbs needed: \xf000ȃ\x0001\x0000
 チャレンジする　フェスミッションを\xfffeえらんでください
 ミッションかいし
 \xf000ŀ\x0001\x0000　Lv\xf000Ȁ\x0001\x0001を\xfffeかいし　しますか？
-フェスミッション　を\xfffeかいし　します
+Inizia missione\xfffeFestival
 はつどうちゅうの　デルパワー
 None
 Entralink
@@ -68,8 +68,8 @@ L\xf000Ȁ\x0001\x0000
 \xf000ȃ\x0001\x0000かい
 \xf000ȃ\x0001\x0000
 TOTALE
-MY SCORE
-さいこうきろく
+MIO PUNTEGGIO
+Miglior Record
 デルパワーは　３つまでしか\xfffeうけとれません！\xf000븁\x0000\xfffeあたらしく　デルパワーを\xfffeうけとる　ために\xf000븀\x0000\xfffeハイルツリーに　かえす\xf000븀\x0000\xfffeデルパワーを　えらんでください
 『\xf000Ĝ\x0001\x0000』　を\xfffeハイルツリーに　かえし\xf000븁\x0000\xfffe『\xf000Ĝ\x0001\x0001』を\xfffeハイルツリーから　うけとった！\xf000븁\x0000\xfffeうけとった『\xf000Ĝ\x0001\x0001』を\xfffeＣギアに　とうろくした！
-CANCEL
+CANCELLA
