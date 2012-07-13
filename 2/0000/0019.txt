@@ -101,7 +101,7 @@ La grandine imperversa!
 \xf000Č\x0001\x0000 può usare solo \xf000ć\x0001\x0001!
 Tutte le modifiche alle statistiche sono\xfffestate annullate!
 Ma non è successo nulla!
-\xf000Ć\x0001\x0001\xfffedi \xf000Ă\x0001\x0000
+Abilità di \xf000Ă\x0001\x0000\xfffe\xf000Ć\x0001\x0001
 Magnitudo 4!
 Magnitudo 5!
 Magnitudo 6!
