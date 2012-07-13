@@ -1,21 +1,21 @@
-\xf000봂\x0000 - RADAR INDAGINE -
-\xf000봂\x0000Tu puoi fare sondaggi sulle opinioni\xfffe\xf000봂\x0000delle persone vicino a te.
-\xf000봂\x0000SELEZIONA INDAGINE
-\xf000봂\x0000CERCA I RISULTATI DELL' INDAGINE
-\xf000봂\x0000 - COSE DA SAPERE -
-\xf000봂\x0000Scegli dalle opzioni di seguito\xfffe\xf000봂\x0000per avviare l' indagine
-Vuoi chiedere questo \xfffealle persone?
-CONFERMA
-CANCELLA
-\xf000봂\x0000Il sondaggio sta iniziando.
-\xf000봂\x0000Il sondaggio\xfffe\xf000봂\x0000non è ancora finito.
-\xf000봂\x0000Analizzo i risultati...
-\xf000봂\x0000- INDAGINE -
-\xf000봃\x0001\x000aN° \xf000ȁ\x0001\x0000: \xf000ē\x0001\x0001\xfffe\xf000봃\x0001\x000a\xf000Ȅ\x0001\x0002 Pers.\xfffe\xf000봃\x0001\x000a\xf000Ȅ\x0001\x0003%
-\xf000봃\x0001\x000aLa mia risposta è \xfffe\xf000봃\x0001\x000a\xf000ē\x0001\x0000
-\xf000봃\x0001\x000aTotale risposte oggi\xfffe\xf000봃\x0001\x000a\xf000ȃ\x0001\x0000 Pers.
-\xf000봃\x0001\x0008Modalità display:\xfffe\xf000봃\x0001\x0008Persone di oggi.
-\xf000봃\x0001\x000aTotale numero\xfffe\xf000봃\x0001\x000a\xf000ȅ\x0001\x0000 Pers.
-\xf000봃\x0001\x0008Modalità display:\xfffe\xf000봃\x0001\x0008Totale N° di persone
-\xf000봄\x0001\x0000Aggiornamento dei\xfffe\xf000봄\x0001\x0000dati...
-\xf000봂\x0000Seleziona per vedere i risultati del sonaggio
+\xf000봂\x0000Radar Sondaggi
+\xf000봂\x0000Puoi fare un sondaggio tra gli\xfffe\xf000봂\x0000Allenatori con cui stabilisci un contatto.
+\xf000봂\x0000SCEGLI UN SONDAGGIO
+\xf000봂\x0000LEGGI I RISULTATI
+\xf000봂\x0000Contenuto del sondaggio
+\xf000봂\x0000Scegli un sondaggio dalla\xfffe\xf000봂\x0000lista sul touch screen.
+Vuoi iniziare questo\xfffesondaggio?
+OK
+ANNULLA
+\xf000봂\x0000Via al sondaggio!
+\xf000봂\x0000Sondaggio\xfffe\xf000봂\x0000in corso.
+\xf000봂\x0000Analisi in corso.
+\xf000봂\x0000Risultati del sondaggio
+\xf000봃\x0001\x000aNº \xf000ȁ\x0001\x0000: \xf000ē\x0001\x0001\xfffe\xf000봃\x0001\x000aIntervistati: \xf000Ȅ\x0001\x0002\xfffe\xf000봃\x0001\x000a\xf000Ȅ\x0001\x0003%
+\xf000봃\x0001\x000aLa mia risposta è:\xfffe\xf000봃\x0001\x000a\xf000ē\x0001\x0000
+\xf000봃\x0001\x000aContatti odierni:\xfffe\xf000봃\x0001\x000a\xf000ȃ\x0001\x0000
+\xf000봄\x0001\x000dStai leggendo:\xfffe\xf000봄\x0001\x000aContatti odierni
+\xf000봃\x0001\x000aContatti totali:\xfffe\xf000봃\x0001\x000a\xf000ȅ\x0001\x0000
+\xf000봄\x0001\x000dStai leggendo:\xfffe\xf000봄\x0001\x000aContatti totali
+\xf000봄\x0001\x0014Aggiornamento\xfffe\xf000봄\x0001\x0014dati in corso.
+\xf000봂\x0000LEGGI QUESTO SONDAGGIO
