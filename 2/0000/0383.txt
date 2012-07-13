@@ -1,5 +1,5 @@
-Allenatore di ⒆⒇ 
-Allenatore di ⒆⒇ 
+Allenatore 
+Allenatore 
 Ragazzo
 Ragazza
 Scolaro
@@ -8,15 +8,15 @@ Tennista
 Difensore
 Cameriere
 Cameriera
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
+Allenatore
+Allenatore
+Allenatore
 Maestrina
 Prescolaro
 Prescolaro
 Gemelli
-Allevatore di ⒆⒇
-Allevatore di ⒆⒇
+Alleva ⒆⒇
+Alleva ⒆⒇
 Lenora
 nessun dato
 nessun dato
@@ -36,9 +36,9 @@ Pasticciere
 Psichico
 Psichico
 nessun dato
-Allenatore di ⒆⒇
+Allenatore
 nessun dato
-Allenatore di ⒆⒇
+Allenatore
 Ragazzo Ricco
 Lady
 Pilota
@@ -98,18 +98,18 @@ nessun dato
 GAME FREAK
 nessun dato
 nessun dato
-Allenatore di ⒆⒇
+Allenatore
 Recluta
 Boss Metro
 nessun dato
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
+Allenatore
+Allenatore
+Allenatore
+Allenatore
+Allenatore
+Allenatore
+Allenatore
+Allenatore
 Capo
 Capo
 Capo
@@ -143,26 +143,26 @@ Winona
 Tate
 Liza
 Juan
-Allenatore di ⒆⒇
+Allenatore
 Chitarrista
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
+Allenatore
+Allenatore
+Allenatore
+Allenatore
+Allenatore
+Allenatore
+Allenatore
+Allenatore
 Boss Metro
 nessun dato
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
+Allenatore
+Allenatore
+Allenatore
+Allenatore
+Allenatore
+Allenatore
+Allenatore
+Allenatore
 Boss Metro
 nessun dato
 Roark
@@ -178,25 +178,25 @@ Lance
 Steven
 Wallace
 Beauty
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
+Allenatore
+Allenatore
+Allenatore
+Allenatore
+Allenatore
+Allenatore
 Recluta
 Recluta
 Recluta
 Recluta
-Allenatore di ⒆⒇
+Allenatore
 Recluta
 Recluta
 Campione
 Phantom
-Allenatore di ⒆⒇
+Allenatore
 GAME FREAK
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
+Allenatore
+Allenatore
 Eroe
 Eroe
 Ninja
@@ -226,11 +226,11 @@ Dummy Suit
 Dummy Suit
 Dummy Suit
 Boss Metro
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
-Allenatore di ⒆⒇
+Allenatore
+Allenatore
+Allenatore
 nessun dato
 Furutomane
 Pagliaccio
 Rosso
-Allenatore di ⒆⒇
+Allenatore
