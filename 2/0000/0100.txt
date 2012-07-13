@@ -54,9 +54,9 @@ INFO
 Il Dono Segreto ti permette\xfffedi ricevere fantastici regali\xf000븀\x0000\xfffetra le varie modalità di comunicazione.\xf000븁\x0000\xfffeUna volta ricevuto il regalo,\xffferecati in qualsiasi Centro Pokemon e\xf000븀\x0000\xfffee prendilo dal postino.\xf000븁\x0000
 Quando hai ricevuto il Dono Segreto,\xfffela tua Wonder Card verrà mostrata\xf000븀\x0000\xfffenel Card Album.\xf000븁\x0000\xfffePuoi controllare la carta per vedere\xfffese hai ricevuto il regalo\xf000븀\x0000\xfffedal postino.\xf000븁\x0000\xfffeAssicurati di ricevere regali\xfffeche sono disponibili.\xf000븁\x0000\xfffeC'è un limite su quante\xfffecards puoi conservare nell' Album.\xf000븁\x0000\xfffePuoi conservare fino a 12 cards se hai\xfffeprecedentemente salvato il gioco.\xf000븁\x0000\xfffeSe non hai mai salvato finora,\xfffepuoi conservarne solo 3.\xf000븁\x0000\xfffeQuando gli slots per le carte sono pieni, tu non potrai\xfffepiù ricevere. Elimina\xf000븀\x0000\xfffequalche cards dall'Album.\xf000븁\x0000
 Quando il Card Album è pieno,\xfffenon puoi ricevere altre cards.\xf000븁\x0000\xfffePer ricevere nuove cards,\xfffescegli una Wonder Card e\xf000븀\x0000\xfffepremi il tasto A per gettarla.\xf000븁\x0000\xfffeSe hai qualche regalo in attesa,\xffferecati in un qualsiasi Centro Pokémon\xf000븁\x0000\xfffee ritira i tuoi regali\xfffedal postino.\xf000븁\x0000
-Quando hai ricevuto un Mystery Gift,\xfffela tua  Wonder Card apparirà\xf000븀\x0000\xfffenel Card Album.\xf000븁\x0000\xfffePuoi controllare la card per vedere\xfffese hai ricevuto il regalo\xf000븀\x0000\xfffedal postino.\xf000븁\x0000\xfffeAssicurati di ricevere regali\xfffeche sono disponibili.\xf000븁\x0000\xfffeC'è un limite di quante \xfffecards puoi depositare nell'Album.\xf000븁\x0000\xfffePuoi conservare fino a 12 cards se hai\xfffeprecedentemente salvato i tuoi progressi.\xf000븁\x0000\xfffeSe non hai ma salvato finora,\xfffepuoi depositare fino a 3 cards.\xf000븁\x0000\xfffeQuando lo slot è pieno, non ne potrai\xfffericevere altre. Elimina\xf000븀\x0000\xfffequalche cards dal tuo album.\xf000븁\x0000
+Quando hai ricevuto un Regalo Misterioso,\xfffela tua  Wonder Card apparirà\xf000븀\x0000\xfffenel Card Album.\xf000븁\x0000\xfffePuoi controllare la card per vedere\xfffese hai ricevuto il regalo\xf000븀\x0000\xfffedal postino.\xf000븁\x0000\xfffeAssicurati di ricevere regali\xfffeche sono disponibili.\xf000븁\x0000\xfffeC'è un limite di quante \xfffecards puoi depositare nell'Album.\xf000븁\x0000\xfffePuoi conservare fino a 12 cards se hai\xfffeprecedentemente salvato i tuoi progressi.\xf000븁\x0000\xfffeSe non hai ma salvato finora,\xfffepuoi depositare fino a 3 cards.\xf000븁\x0000\xfffeQuando lo slot è pieno, non ne potrai\xfffericevere altre. Elimina\xf000븀\x0000\xfffequalche cards dal tuo album.\xf000븁\x0000
 In comunicazione. Per favore attendi...
-Il nostri postino é attualmente sommerso\xfffdi regali per te!\xf000븁\x0000\xfffeVai a trovarlo in un altro Centro Pokémon\xfffee ricevi i tuoi regali.\xf000븁\x0000
+Il nostro postino é attualmente sommerso\xfffdi regali per te!\xf000븁\x0000\xfffeVai a trovarlo in un altro Centro Pokémon\xfffee ricevi i tuoi regali.\xf000븁\x0000
 Hai già ricevuto questo regalo.\xfffeNon puoi averne un altro.\xf000븁\x0000
 Non c'erano regali disponibili...\xf000븁\x0000
 La tua richiesta è stata rifiutata.\xf000븁\x0000
@@ -64,7 +64,7 @@ Non hai più spazio per altre Wonder Card.\xf000븁\x0000\xfffeNon potrai riceve
 Si
 No
 C'è stato un problema\xfffecon la ricezione del regalo.\xf000븁\x0000
-E'sato trovato un regalo, ma \xfffenon può essere ricevuto in questa versione.\xf000븀\x0000
+E'stato trovato un regalo, ma \xfffenon può essere ricevuto in questa versione.\xf000븀\x0000
 Non puoi ricevere altri regali finché\xfffenon salvi il gioco.\xf000븀\x0000\xfffeInizia una nuova partita e salva.\xf000븁\x0000
 ALBUM SCHEDE
 Tasto A: Ordina
@@ -74,7 +74,7 @@ INDIETRO
 Wonder Card
 Ricevuta il
 \xf000ȃ\x0001\x0000.\xf000ȁ\x0001\x0001.\xf000ȁ\x0001\x0002
-Ａ：おわる
+Ａ：Termina
 　
 Thank you for coming to see\xfffethe Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
 Thank you for coming to see\xfffethe 2010 Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
