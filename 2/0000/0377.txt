@@ -94,7 +94,7 @@ Limpidi ruscelli scolpiscono il meravi-\xfffeglioso panorama di questo percorso.
 Un luogo di piacere, dove é  piacevole\xfffecamminare sulle dolci colline.
 Questo percorso marino è famoso per\xfffela sabbia che attraversa l'oceano.
 Un via coperta dalla nebbia a causa\xfffedelle cascate.
-Un percorso le cui scogliere\xfffeappuntite possono\xfffefar fuggire molte persone.
+Un percorso le cui scogliere appuntite\xfffefanno fuggire molte persone.
 Molti che hanno visitato Sciroccpoli\xffferimangono li per prendersi una pausa.
 Una forte corrente crea\xfffedifficoltà per usare surf.
 Alcuni ricercatori credevano che\xfffeuna volta fosse collegato al Castello Sepolto.
@@ -109,14 +109,14 @@ Cittadella ai piedi di una montagna\xfffedove si può osservare tutta Unima.
 Palestra
 Scuola per Allenatori
 Centro Pokémon
-くもと　けむりに　おおわれがち　だが\xfffeまちにくらす　ひとびとは　かっぱつ
+Siccome è spesso coperto da nuvole\xfffee fumo, gli abitanti sono attivi.
 Palestra
 Centro Pokémon
-なみまに　うかぶ　たてものが\xfffeしまのように　みえる　リゾートシティ
+Dato che ci sono case galleggianti,\xfffesembra una città posta su un'isola.
 Palestra
 Centro Pokémon
-せいしき　めいしょうは\xfffeポケウッドムービースタジオ
-ひとと　こうりゅうする　ほどに\xfffeはってん　していく　おおどおり
+La denominazione ufficiale è\xfffe"Pokéwood Studi Cinematografici"
+Grazie agli scambi culturali,\xfffeè una strada in sviluppo.
 まちの　はじまりを　つげる\xfffeとけいだいが　シンボル
 Centro Pokémon
 かざんちかくの　つちを　つかって\xfffeつくる　とうきや　じきが　じまん
@@ -124,7 +124,7 @@ Centro Pokémon
 くろのまてんろう
 しろのじゅどう
 È un luogo frequentato dai turisti,\xfffema è troppo severa per essere un resort.
-Ancient ruins with a glorious history,\xfffeburied in the sand as time went by.
+Antiche rovine con una storia gloriosa,\xfffesepolto dalla sabbia col passare del tempo.
 でいりぐちの　かなごうしが　はずされ\xfffeものずきな　トレーナーが　うろつく
 ポケモンと　ひとが　あつまるうちに\xfffeいつしか　ぼくじょうに　なった
 ポケモンが　はたらきやすいように\xfffeせっけい　されている　コンビナート
@@ -154,10 +154,10 @@ Ancient ruins with a glorious history,\xfffeburied in the sand as time went by.
 \xf000ȁ\x0001\x0000
 こだいの　おうが　ねむると\xfffeつたえられる　おおむかしの　はか
 Villa di Catlina
-わざおもいだし
-わざわすれ
-わざおしえ
-きせつけんきゅうじょ
-わざおしえ
-わざおしえ
+Ricordamosse
+Scordamosse
+Insegnamosse
+Lab. ricerca Stagioni
+Insegnamosse
+Insegnamosse
 Centro Pokèmon 
