@@ -1,74 +1,37 @@
 OPZIONI
-VELOCITA' TESTO
-SCENA LOTTA
-STILE LOTTA
+VELOCITÀ TESTO
+ANIMAZIONE
+POKÉMON IN LOTTA
 SUONO
 ITALIANO
 Wi-Fi
-C-GEAR ON
-CONFERMA
-USCIRE
-LENTO
-MEDIO
-VELOCE
-ON
-OFF
-ITALIANO
-GIAPPONESE
+SALV. AUT. IR
+OK
+ESCI
+1
+2
+3
+SÌ
+NO
+SCEGLI
+TIENI
 STEREO
 MONO
 SI
 NO
-ACCESO 
+ACCESO 
 SPENTO
 SALVA
 NON SALVARE 
-È possibile scegliere tra tre differenti\xfffevelocità di scorrimento del testo.
-È possibile scegliere di cambiare Pokémon\xfffequando Pokémon avversario è esausto.
-È possibile scegliere se visualizzare\xfffeo meno le animazioni.
-È possibile scegliere il modo in cui si sentono i suoni del gioco.
+Scegli uno dei tre livelli di velocità\xfffedi scorrimento del testo.
+Scegli se vuoi vedere le animazioni durante\xfffele lotte di Pokémon.
+Scegli se tenere o sostituire il tuo Pokémon\xfffequando mandi KO l'avversario.
+Scegli la modalità audio del gioco.
 Puoi scegliere la lingua del gioco.
 È possibile attivare la comunicazione wireless\xfffeoppure no.
-È possibile scegliere di salvare il gioco\xfffeprima che il C-Gear si accenda.
-I dati sono già stati salvati.\xfffeNon è possibile modificare questa opzione.\xf000븁\x0000
-Vuoi apportare queste modifiche?
-Si
-No
-Falso Messaggio.
-OPZIONI
-VELOCITA TESTO
-SCENA LOTTA
-STILE LOTTA
-SUONO
-INGLESE
-Wi-Fi
-C-GEAR ON
-CONFERMA
-ESCI
-LENTO
-MEDIO
-VELOCE
-ACCESO
-SPENTO
-ITALIANO
-INGLESE
-STEREO
-MONO
-SI
+Scegli se salvare prima della connessione\xfffea infrarossi del C-Gear.
+Sono presenti altri dati di gioco salvati.\xfffeImpossibile cambiare le impostazioni.\xf000븁\x0000
+Vuoi salvare le modifiche?
+SÌ
 NO
-ACCESO
-SPENTO
-SALVA
-NON SALVARE
-È possibile scegliere tra tre diverse\xfffevelocità di scorrimento testo.
-È possibile scegliere di cambiare Pokémon\xfffequando un Pokémon avversario perde i sensi.
-È possibile scegliere se visualizzare\xfffespostare animazioni.
-È possibile scegliere il modo in cui i suoni del gioco.
-È possibile cambiare la lingua del gioco.
-È possibile attivare la comunicazione wireless\xfffeacceso o spento.
-È possibile scegliere di salvare il gioco\xfffeeprima che il C-Gear avvia IR.
-Dati sono stati salvati già.\xfffeNon è possibile modificare questa opzione.\xf000븁\x0000
-Vuoi apportare queste modifiche?
-Si
-No
 Falso Messaggio.
