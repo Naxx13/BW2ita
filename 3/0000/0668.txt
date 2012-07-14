@@ -1,26 +1,26 @@
-Welcome to the\xfffePokémon World Tournament!\xf000븁\x0000
-Would you like to register?
-Register
-Explanation
-Quit
-Which tournament would\xfffeyou like to hear about?
-We hope you join\xfffeus again!
-Type Expert Tournament\xfffeis a special tournament\xf000븀\x0000\xfffeonly for Pokémon of\xf000븀\x0000\xfffeone set type.\xf000븁\x0000\xfffeFor example, if you\xfffechoose the Fire type tournament,\xf000븀\x0000\xfffeyou are only able to\xf000븀\x0000\xfffeuse Fire type Pokémon.\xf000븁\x0000\xfffeEven with type limitation,\xfffeplease choose all\xf000븀\x0000\xfffedifferent Pokémon.\xf000븁\x0000\xfffeAll hold items must be\xfffedifferent.\xf000븁\x0000\xfffeAdditionally, the item Soul Dew\xfffeand the move Free Fall\xf000븀\x0000\xfffeare prohibited.\xf000븁\x0000\xfffeLegendary Pokémon\xfffecannot be used.\xf000븁\x0000\xfffeAlso, all participating\xfffePokémon will be adjusted\xf000븀\x0000\xfffeto level 50 for the battle.\xf000븁\x0000\xfffeVictory earns you a bit\xfffemore BP than usual\xf000븀\x0000\xfffeso do your best!\xf000븁\x0000
-Champions Tournament\xfffeis a tournament featuring\xf000븀\x0000\xfffethe Champions of Pokémon.\xf000븁\x0000\xfffePlease choose all\xfffedifferent Pokémon\xf000븀\x0000\xfffefor this tournament.\xf000븁\x0000\xfffeAll held items\xfffemust be different.\xf000븁\x0000\xfffeAdditionally, the item Soul Dew\xfffeand the move Free Fall\xf000븀\x0000\xfffeare prohibited.\xf000븁\x0000\xfffeLegendary Pokémon\xfffecannot be used.\xf000븁\x0000\xfffeAlso, all participating\xfffePokémon will be adjusted\xf000븀\x0000\xfffeto level 50 for the battle.\xf000븁\x0000\xfffeIn the Champions Tournament,\xfffethe amount of BP you earn\xf000븁\x0000\xfffeis based on the number of Pokémon\xfffeyou have remaining at the end.\xf000븁\x0000\xfffeAim for a perfect victory!!\xfffe!!\xf000븁\x0000
-In the Download Tournament\xfffeyou can participate in a\xf000븀\x0000\xfffevariety of tournaments\xf000븁\x0000\xfffedownloaded using the black PC\xfffebeside me.\xf000븁\x0000\xfffeThe rules depend on\xfffethe specific tournament.\xf000븁\x0000\xfffeYou can see the details\xfffeupon entering, so don't\xf000븀\x0000\xfffeforget to check!\xf000븁\x0000\xfffeVictory will earn you\xfffea bit more BP than usual\xf000븀\x0000\xfffeso do your best!\xf000븁\x0000
-Driftveil Tournament is\xfffean anything-goes tournament!\xf000븁\x0000\xfffeAll Pokémon and\xfffeall hold items are\xf000븀\x0000\xfffeallowed.\xf000븁\x0000\xfffeAlso, all participating\xfffePokémon will be adjusted\xf000븀\x0000\xfffeto level 25 for the battle.\xf000븁\x0000\xfffeVictory will earn you\xfffea bit more BP than usual\xf000븀\x0000\xfffeso do your best!\xf000븁\x0000
-Unova Leaders Tournament\xfffeis a tournament featuring\xf000븀\x0000\xfffeGym Leaders from Unova.\xf000븁\x0000\xfffeAll Pokémon\xfffeand hold items\xf000븀\x0000\xfffecan be used.\xf000븁\x0000\xfffeAlso, all participating Pokémon\xfffewill be adjusted to level 50\xf000븀\x0000\xfffefor the battle.\xf000븁\x0000\xfffeVictory will earn you\xfffeBattle Points so\xf000븀\x0000\xfffedo your best!\xf000븁\x0000
-Kanto Leaders Tournament\xfffeis a tournament featuring\xf000븀\x0000\xfffeGym Leaders from Kanto.\xf000븁\x0000\xfffePlease choose all\xfffedifferent Pokémon\xf000븀\x0000\xfffefor this tournament.\xf000븁\x0000\xfffeAll held items\xfffemust be different.\xf000븁\x0000\xfffeAdditionally, the item Soul Dew\xfffeand the move Free Fall\xf000븀\x0000\xfffeare prohibited.\xf000븁\x0000\xfffeLegendary Pokémon\xfffecannot be used.\xf000븁\x0000\xfffeAlso, all participating\xfffePokémon will be adjusted\xf000븀\x0000\xfffeto level 50 for the battle.\xf000븁\x0000\xfffeVictory earns you a bit\xfffemore BP than usual\xf000븀\x0000\xfffeso do your best!\xf000븁\x0000
-Johto Leaders Tournament\xfffeis a tournament featuring\xf000븀\x0000\xfffeGym Leaders from Johto.\xf000븁\x0000\xfffePlease choose all\xfffedifferent Pokémon\xf000븀\x0000\xfffefor this tournament.\xf000븁\x0000\xfffeAll held items\xfffemust be different.\xf000븁\x0000\xfffeAdditionally, the item Soul Dew\xfffeand the move Free Fall\xf000븀\x0000\xfffeare prohibited.\xf000븁\x0000\xfffeLegendary Pokémon\xfffecannot be used.\xf000븁\x0000\xfffeAlso, all participating\xfffePokémon will be adjusted\xf000븀\x0000\xfffeto level 50 for the battle.\xf000븁\x0000\xfffeVictory earns you a bit\xfffemore BP than usual\xf000븀\x0000\xfffeso do your best!\xf000븁\x0000
-Hoenn Leaders Tournament\xfffeis a tournament featuring\xf000븀\x0000\xfffeGym Leaders from Hoenn.\xf000븁\x0000\xfffePlease choose all\xfffedifferent Pokémon\xf000븀\x0000\xfffefor this tournament.\xf000븁\x0000\xfffeAll held items\xfffemust be different.\xf000븁\x0000\xfffeAdditionally, the item Soul Dew\xfffeand the move Free Fall\xf000븀\x0000\xfffeare prohibited.\xf000븁\x0000\xfffeLegendary Pokémon\xfffecannot be used.\xf000븁\x0000\xfffeAlso, all participating\xfffePokémon will be adjusted\xf000븀\x0000\xfffeto level 50 for the battle.\xf000븁\x0000\xfffeVictory earns you a bit\xfffemore BP than usual\xf000븀\x0000\xfffeso do your best!\xf000븁\x0000
-Sinnoh Leaders Tournament\xfffeis a tournament featuring\xf000븀\x0000\xfffeGym Leaders from Sinnoh.\xf000븁\x0000\xfffePlease choose all\xfffedifferent Pokémon\xf000븀\x0000\xfffefor this tournament.\xf000븁\x0000\xfffeAll held items\xfffemust be different.\xf000븁\x0000\xfffeAdditionally, the item Soul Dew\xfffeand the move Free Fall\xf000븀\x0000\xfffeare prohibited.\xf000븁\x0000\xfffeLegendary Pokémon\xfffecannot be used.\xf000븁\x0000\xfffeAlso, all participating\xfffePokémon will be adjusted\xf000븀\x0000\xfffeto level 50 for the battle.\xf000븁\x0000\xfffeVictory earns you a bit\xfffemore BP than usual\xf000븀\x0000\xfffeso do your best!\xf000븁\x0000
-World Leaders Tournament\xfffeis a tournament featuring\xf000븀\x0000\xfffeGym Leaders from every region.\xf000븁\x0000\xfffePlease choose all\xfffedifferent Pokémon\xf000븀\x0000\xfffefor this tournament.\xf000븁\x0000\xfffeAll held items\xfffemust be different.\xf000븁\x0000\xfffeAdditionally, the item Soul Dew\xfffeand the move Free Fall\xf000븀\x0000\xfffeare prohibited.\xf000븁\x0000\xfffeLegendary Pokémon\xfffecannot be used.\xf000븁\x0000\xfffeAlso, all participating\xfffePokémon will be adjusted\xf000븀\x0000\xfffeto level 50 for the battle.\xf000븁\x0000\xfffeIn the World Leaders Tournament,\xfffethe amount of BP you earn\xf000븀\x0000\xfffeis based on the number of Pokémon\xf000븀\x0000\xfffeyou have remaining at the end.\xf000븁\x0000\xfffeAim for a perfect victory!!\xfffe!!\xf000븁\x0000
-Rental Tournament is\xfffea special tournament where\xf000븀\x0000\xfffeyou battle using Pokémon\xf000븀\x0000\xfffewe have prepared.\xf000븁\x0000\xfffeRental Pokémon are\xfffedecided by lottery\xf000븀\x0000\xfffeso luck is also important.\xf000븁\x0000\xfffeVictory will earn you\xfffeBattle Points so\xf000븀\x0000\xfffedo your best!\xf000븁\x0000
-Mix Tournament is\xfffea special tournament where\xf000븀\x0000\xfffeyou and your opponent exchange\xf000븀\x0000\xfffePokémon and battle.\xf000븁\x0000\xfffeNormally, 1 Pokémon is exchanged,\xfffebut in Triple Battle mode,\xf000븀\x0000\xfffe2 Pokémon are exchanged.\xf000븁\x0000\xfffeThe exchanged Pokémon\xfffeare returned to their owners\xf000븁\x0000\xfffeafter the battle\xfffeso don't worry.\xf000븁\x0000\xfffeAlso, all participating\xfffePokémon will be adjusted\xf000븀\x0000\xfffeto level 50 for the battle.\xf000븁\x0000\xfffeVictory earns you\xfffeBattle Points so\xf000븀\x0000\xfffedo your best!\xf000븁\x0000
-Rental Master Tournament is\xfffea special tournament where\xf000븀\x0000\xfffeyou battle using Pokémon\xf000븀\x0000\xfffewe have prepared.\xf000븁\x0000\xfffeThe Pokémon are more\xffferare than in the Rental\xf000븀\x0000\xfffeTournament.\xf000븁\x0000\xfffeGym Leaders from every\xffferegion also participate\xf000븀\x0000\xfffeso it will make for a\xf000븀\x0000\xfffemore thrilling battle.\xf000븁\x0000\xfffeVictory will earn you\xfffea bit more BP than usual\xf000븀\x0000\xfffeso do your best!\xf000븁\x0000
-Mix Master Tournament is\xfffea special tournament where\xf000븀\x0000\xfffeyou and your opponent exchange\xf000븀\x0000\xfffePokémon and battle.\xf000븁\x0000\xfffeNormally, 1 Pokémon is exchanged,\xfffebut in Triple Battle mode,\xf000븀\x0000\xfffe2 Pokémon are exchanged.\xf000븁\x0000\xfffeThe exchanged Pokémon\xfffeare returned to their owners\xf000븁\x0000\xfffeafter the battle\xfffeso don't worry.\xf000븁\x0000\xfffeAlso, all participating\xfffePokémon will be adjusted\xf000븀\x0000\xfffeto level 50 for the battle.\xf000븁\x0000\xfffeUnova Gym Leaders join\xfffethe Mix Master Tournament\xf000븀\x0000\xfffeso you are able\xf000븀\x0000\xfffeto exchange for more rare\xf000븀\x0000\xfffePokémon for your battles!\xf000븁\x0000\xfffeVictory will get you\xfffea little bit more BP than usual.\xf000븀\x0000\xfffeDo your best!\xf000븁\x0000
-The Tournament Battle Rules\xfffeare Single, Double, Triple,\xf000븀\x0000\xfffeor Rotation.\xf000븁\x0000\xfffeSingle Battle uses\xfffe3 Pokémon per team.\xf000븁\x0000\xfffeDouble Battle uses\xfffe4 Pokémon per team.\xf000븁\x0000\xfffeTriple Battle uses\xfffe6 Pokémon per team.\xf000븁\x0000\xfffeRotation Battle uses\xfffe4 Pokémon per team.\xf000븀\x0000\xfffeThose are the four modes.\xf000븁\x0000\xfffeAlso, if you choose Triple\xfffeor Rotation Battle,\xf000븁\x0000\xfffethe amount of BP you receive for\xfffewinning is greater, so\xf000븀\x0000\xfffeput up your best fight!\xf000븁\x0000
-Which Tournament\xfffewould you like to enter?
+Benvenuto al\xfffePokémon World Tournament!\xf000븁\x0000
+Vuoi registrarti?
+Registrati
+Spiegazione
+Esci
+Di quale torneo vuoi sapere di più?
+Speriamo che tu ti unisca\xfffenuovamente a noi!
+Il Type Expert Tournament\xfffeè un torneo speciale\xf000븀\x0000\xffferiservato ai  Pokémon di\xf000븀\x0000\xfffedi un solo tipo.\xf000븁\x0000\xfffeAd esempio, se tu\xfffescegliessi il torneo di tipo Fuoco,\xf000븀\x0000\xfffepotresti usarele solamente \xf000븀\x0000\xfffePokémon di tipo Fuoco.\xf000븁\x0000\xfffeNonostante questa limitazione,\xfffesi prega di scegliere \xf000븀\x0000\xfffePokémon tutti differenti.\xf000븁\x0000\xfffeAnche gli strumenti tenuti\xfffe dai Pokémon devono essere differenti.\xf000븁\x0000\xfffeInoltre, lo strumento Soul Dew\xfffee la mossa Free Fall\xf000븀\x0000\xfffesono proibiti.\xf000븁\x0000\xfffe I Pokémon leggendari \xfffenon posso essere usati.\xf000븁\x0000\xfffeInfine, tutti i \xfffePokémon partecipenti verranno portati\xf000븀\x0000\xfffeal liv. 50  durante la battaglia.\xf000븁\x0000\xfffeLa vittoria ti farà ottenere\xfffeun po' più PL del solito,\xf000븀\x0000\xfffequindi fai del tuo meglio!\xf000븁\x0000
+Il Champions Tournament\xfffeè un torneo con i\xf000븀\x0000\xfffethe Campioni di Pokémon.\xf000븁\x0000\xfffeSi prega di scegliere\xfffetutti Pokémon differenti\xf000븀\x0000\xfffeper questo torneo.\xf000븁\x0000\xfffeTutti gli strumenti\xfffedevono essere differenti.\xf000븁\x0000\xfffeInoltre, lo strumento Soul Dew\xfffee la mossa Free Fall\xf000븀\x0000\xfffesono proibiti.\xf000븁\x0000\xfffeI Pokémon leggendari\xfffenon possono essere utilizzati.\xf000븁\x0000\xfffeTutti i Pokémon \xfffepartecipanti verranno portati\xf000븀\x0000\xfffeal liv. 50 durante la battaglia.\xf000븁\x0000\xfffeNel Champions Tournament,\xfffel'ammontare dei PL  che otterrai\xf000븁\x0000\xfffesi basa sul numero di Pokémon\xfffeche ti saranno rimasti alla sua fine.\xf000븁\x0000\xfffePunta ad una vittoria perfetta!!\xfffe!!\xf000븁\x0000
+Nel Download Tournament\xfffepuoi partecipare ad una\xf000븀\x0000\xfffevarietà di tornei\xf000븁\x0000\xfffedownloaded utilizzando il PC nero\xfffeaccanto a me.\xf000븁\x0000\xfffeLe regole dipendono\xfffedal torneo specifico.\xf000븁\x0000\xfffePotrai vedere i dettagli\xfffeaccedendo, quindi non\xf000븀\x0000\xfffedimenticare di controllare!\xf000븁\x0000\xfffeLa vittoria ti farà ottenere\xfffeun po' più PL del solito,\xf000븀\x0000\xfffequindi fai del tuo meglio!\xf000븁\x0000
+Il Driftveil Tournament is\xfffean anything-goes tournament!\xf000븁\x0000\xfffeTutti i Pokémon e\xfffetutti gli strumenti sono\xf000븀\x0000\xfffeammessi.\xf000븁\x0000\xfffeTuttavia tutti i Pokémon\xfffe partecipanti verranno portati\xf000븀\x0000\xfffeal liv. 25 durante la battaglia.\xf000븁\x0000\xfffeLa vittoria ti farà ottenere\xfffeun po' più PL del solito,\xf000븀\x0000\xfffequindi fai del tuo meglio!\xf000븁\x0000
+Il Unova Leaders Tournament\xfffeè un torneo con i\xf000븀\x0000\xfffeCapopalestra  di Unova.\xf000븁\x0000\xfffeTutti i Pokémon\xfffee gli strumenti\xf000븀\x0000\xfffepossono essere utilizzati.\xf000븁\x0000\xfffeTuttavia tutti i Pokémon\xfffe partecipanti verranno portati\xf000븀\x0000\xfffeal liv. 50 durante la battaglia.\xf000븁\x0000\xfffeLa vittoria ti farà ottenere\xfffeun po' più PL del solito,\xf000븀\x0000\xfffequindi fai del tuo meglio!\xf000븁\x0000
+Il Kanto Leaders Tournament\xfffeè un torneo con i\xf000븀\x0000\xfffeCapipalestra di Kanto.\xf000븁\x0000\xfffeSi prega di scegliere\xfffePokémon differenti\xf000븀\x0000\xfffeper questo torneo.\xf000븁\x0000\xfffeTutti gli strumenti\xfffedevono essere diffenti.\xf000븁\x0000\xfffeInoltre, lo strumento Soul Dew\xfffee la mossa Free Fall\xf000븀\x0000\xfffesono proibiti.\xf000븁\x0000\xfffeI Pokémon leggendari\xfffenon posso esere utilizzati.\xf000븁\x0000\xfffeInfine, tutti i Pokémon\xfffepartecipanti verranno portati\xf000븀\x0000\xfffeal liv. 50 durante la battaglia.\xf000븁\x0000\xfffeLa vittoria ti farà ottenere\xfffeun po' più PL del solito,\xf000븀\x0000\xfffequindi fai del tuo meglio!\xf000븁\x0000
+Il Johto Leaders Tournament\xfffeè un torneo con i\xf000븀\x0000\xfffeCapipalestra di Johto.\xf000븁\x0000\xfffeSi prega di scegliere\xfffePokémon differenti\xf000븀\x0000\xfffeper questo torneo.\xf000븁\x0000\xfffeTutti gli strumenti\xfffedevono essere diffenti.\xf000븁\x0000\xfffeInoltre, lo strumento Soul Dew\xfffee la mossa Free Fall\xf000븀\x0000\xfffesono proibiti.\xf000븁\x0000\xfffeI Pokémon leggendari\xfffenon posso esere utilizzati.\xf000븁\x0000\xfffeInfine, tutti i Pokémon\xfffepartecipanti verranno portati\xf000븀\x0000\xfffeal liv. 50 durante la battaglia.\xf000븁\x0000\xfffeLa vittoria ti farà ottenere\xfffeun po' più PL del solito,\xf000븀\x0000\xfffequindi fai del tuo meglio!\xf000븁\x0000
+Il Hoenn Leaders Tournament\xfffeè un torneo con i\xf000븀\x0000\xfffeCapipalestra di Hoenn.\xf000븁\x0000\xfffeSi prega di scegliere\xfffePokémon differenti\xf000븀\x0000\xfffeper questo torneo.\xf000븁\x0000\xfffeTutti gli strumenti\xfffedevono essere diffenti.\xf000븁\x0000\xfffeInoltre, lo strumento Soul Dew\xfffee la mossa Free Fall\xf000븀\x0000\xfffesono proibiti.\xf000븁\x0000\xfffeI Pokémon leggendari\xfffenon posso esere utilizzati.\xf000븁\x0000\xfffeInfine, tutti i Pokémon\xfffepartecipanti verranno portati\xf000븀\x0000\xfffeal liv. 50 durante la battaglia.\xf000븁\x0000\xfffeLa vittoria ti farà ottenere\xfffeun po' più PL del solito,\xf000븀\x0000\xfffequindi fai del tuo meglio!\xf000븁\x0000
+Il Sinnoh Leaders Tournament\xfffeè un torneo con i\xf000븀\x0000\xfffeCapipalestra di Sinnoh.\xf000븁\x0000\xfffeSi prega di scegliere\xfffePokémon differenti\xf000븀\x0000\xfffeper questo torneo.\xf000븁\x0000\xfffeTutti gli strumenti\xfffedevono essere diffenti.\xf000븁\x0000\xfffeInoltre, lo strumento Soul Dew\xfffee la mossa Free Fall\xf000븀\x0000\xfffesono proibiti.\xf000븁\x0000\xfffeI Pokémon leggendari\xfffenon posso esere utilizzati.\xf000븁\x0000\xfffeInfine, tutti i Pokémon\xfffepartecipanti verranno portati\xf000븀\x0000\xfffeal liv. 50 durante la battaglia.\xf000븁\x0000\xfffeLa vittoria ti farà ottenere\xfffeun po' più PL del solito,\xf000븀\x0000\xfffequindi fai del tuo meglio!\xf000븁\x0000
+Il World Leaders Tournament\xfffeè un torneo con i\xf000븀\x0000\xfffeCapipalestra di tutte le regioni.\xf000븁\x0000\xfffeSi prega di scegliere\xfffePokémon differenti\xf000븀\x0000\xfffeper questo torneo.\xf000븁\x0000\xfffeTutti gli strumenti\xfffedevono essere diffenti.\xf000븁\x0000\xfffeInoltre, lo strumento Soul Dew\xfffee la mossa Free Fall\xf000븀\x0000\xfffesono proibiti.\xf000븁\x0000\xfffeI Pokémon leggendari\xfffenon posso esere utilizzati.\xf000븁\x0000\xfffeInfine, tutti i Pokémon\xfffepartecipanti verranno portati\xf000븀\x0000\xfffeal liv. 50 durante la battaglia.\xf000븁\x0000\xfffeNel World Leaders Tournament,\xfffel'ammontare dei PL  che otterrai\xf000븁\x0000\xfffesi basa sul numero di Pokémon\xfffeche ti saranno rimasti alla sua fine.\xf000븁\x0000\xfffePunta ad una vittoria perfetta!!victory!!\xfffe!!\xf000븁\x0000
+Il Rental Tournament è\xfffeun torneo speciale in cui\xf000븀\x0000\xfffecombatti utilizzando i Pokémon \xf000븀\x0000\xfffeda noi preparati.\xf000븁\x0000\xfffeRental Pokémon vengono \xfffeassegnati mediante un sorteggio,\xf000븀\x0000\xfffe, pertanto anche la fortuna è importante.\xf000븁\x0000\xfffeLa vittoria ti farà ottenere\xfffe PS, \xf000븀\x0000\xfffequindi fai del tuo meglio!\xf000븁\x0000
+il Mix Tournament is\xfffeè uno speciale torneo in\xf000븀\x0000\xfffecui tu e il tuo avversario\xf000븀\x0000\xfffevi scambiate i Pokémon e combattete.\xf000븁\x0000\xfffeNormalmente un solo Pokémon viene scambiato,\xfffema nella modalità Battaglia tripla\xf000븀\x0000\xfffene vengono scambiati 2.\xf000븁\x0000\xfffeNon ti preoccupare,\xfffei Pokémon vengono\xffferestuititi ai loro proprietari\xf000븁\x0000\xfffedopo la battaglia.\xf000븁\x0000\xfffeInoltre, tutti i Pokémon\xfffepartecipanti verranno portati\xf000븀\x0000\xfffeal liv.50 durante la battaglia.\xf000븁\x0000\xfffeLa vittoria ti farà\xfffeottenere PL,\xf000븀\x0000\xfffequindi fai del tuo meglio!\xf000븁\x0000
+Il Rental Master Tournament è\xfffun torneo speciale in cui\xf000븀\x0000\xfffecombatti utilizzando i Pokémon \xf000븀\x0000\xfffeda noi preparati.\xf000븁\x0000\xfffeI Pokémon sono più\xffferari di quelli del Rental\xf000븀\x0000\xfffeTournament.\xf000븁\x0000\xfffeI Capopalestra di tutte le\xffferegioni vi partecipano\xf000븀\x0000\xfffecosì da dar vita ad una\xf000븀\x0000\xfffebattaglia più emozionante.\xf000븁\x0000\xfffeLa vittoria ti farà\xfffeottenere PL,\xf000븀\x0000\xfffequindi fai del tuo meglio!\xf000븁\x0000
+Il Mix Master Tournament\xfffeè uno speciale torneo in\xf000븀\x0000\xfffecui tu e il tuo avversario\xf000븀\x0000\xfffevi scambiate i Pokémon e combattete.\xf000븁\x0000\xfffeNormalmente un solo Pokémon viene scambiato,\xfffema nella modalità Battaglia tripla\xf000븀\x0000\xfffene vengono scambiati 2.\xf000븁\x0000\xfffeNon ti preoccupare,\xfffei Pokémon vengono\xffferestuititi ai loro proprietari\xf000븁\x0000\xfffedopo la battaglia.\xf000븁\x0000\xfffeInoltre, tutti i Pokémon\xfffepartecipanti verranno portati\xf000븀\x0000\xfffeal liv.50 durante la battaglia.\xf000븁\x0000\xfffeI Capipalestra di Unova partecipano\xfffeal Mix Master Tournament\xf000븀\x0000\xfffe, quindi potrai scambiare\xf000븀\x0000\xfffePokémon più rari\xf000븀\x0000\xfffeper le tue battaglie!\xf000븁\x0000\xfffeLa vittoria ti farà ottenere\xfffeun po' più PL del solito.\xf000븀\x0000\xfffeFai del tuo meglio!\xf000븁\x0000
+Il Tournament Battle Rules\xfffeè disputabile in Singolo, Doppio,\xf000븀\x0000\xfffeTriplo o Rotazione:\xf000븁\x0000\xfffeNella battaglia singola si\xfffeusano 3 Pokémon per team;\xf000븁\x0000\xfffeNella battaglia doppia 4;\xf000븁\x0000\xfffeNella battaglia tripla 6;\xf000븁\x0000\xfffeE nella battaglia a\xffferotazione 4\xf000븀\x0000\xfffeQueste sono le quattro\xfffemodalità.\xf000븁\x0000\xfffeInoltre, scegliendo la battaglia\xfffeTripla o a Rotazione,\xf000븁\x0000\xfffel'ammontare di Pl che riceverai\xfffein caso di vittoria sarà maggiore\xf000븀\x0000\xfffequindi realizza il tuo\xfffemiglior combattimento!\xf000븁\x0000
+A quale torneo\xfffevuoi partecipare?
 Champions
 Type Expert
 Download
@@ -35,80 +35,80 @@ Rental
 Mix
 Rental Master
 Mix Master
-About Battle Rules
-Back
-...OH! You can now\xfffeparticipate in many regions'\xf000븀\x0000\xfffeLeaders Tournaments!\xf000븁\x0000\xfffeThe Leaders Tournaments\xfffehave different rules from\xf000븀\x0000\xfffeprevious tournaments!\xf000븁\x0000\xfffeThe trainers that pBurghciapte\xfffein these tournaments are\xf000븀\x0000\xfffeall famous Gym Leaders.\xf000븁\x0000\xfffeThey'll be much tougher\xfffeopponents than you faced before\xf000븀\x0000\xfffeso do your best!\xf000븁\x0000
-Which tournament would\xfffeyou like to join?
-Which Battle Rules\xfffewould you like?
-These are the tournaments\xfffeyou are able to join.
-Hmmm...?\xf000븁\x0000\xfffeIt seems there aren't any\xfffetournaments you are able to join.\xf000븁\x0000
-Single Battle
-Double Battle
-Triple Battle
-Rotation Battle
-You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe3 or more Pokémon.\xf000븁\x0000
-You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe4 or more Pokémon.\xf000븁\x0000
-You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe6 Pokémon.\xf000븁\x0000
-You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe4 or more Pokémon.\xf000븁\x0000
-You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe4 or more different Pokémon\xf000븁\x0000\xfffeand have all hold items\xfffebe different.\xf000븁\x0000
-You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe4 or more different Pokémon\xf000븁\x0000\xfffeand have all hold items\xfffebe different.\xf000븁\x0000
-You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe6 different Pokémon\xf000븁\x0000\xfffeand have all hold items\xfffebe different.\xf000븁\x0000
-You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe4 or more different Pokémon\xf000븁\x0000\xfffeand have all hold items\xfffebe different.\xf000븁\x0000
-You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe3 or more different Pokémon\xf000븁\x0000\xfffeand have all hold items\xfffebe different.\xf000븁\x0000
-You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe4 or more different Pokémon\xf000븁\x0000\xfffeand have all hold items\xfffebe different.\xf000븁\x0000
-You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe6 different Pokémon\xf000븁\x0000\xfffeand have all hold items\xfffebe different.\xf000븁\x0000
-You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeTo participate, please prepare\xfffe4 or more different Pokémon\xf000븁\x0000\xfffeand have all hold items\xfffebe different.\xf000븁\x0000
-You don't meet the conditions\xfffeto participate!\xf000븁\x0000\xfffeUpon participating, you can\xfffesee the detailed conditions,\xf000븁\x0000\xfffeso please confirm the \xfffeDownload Tournament rules.\xf000븁\x0000
-Eggs cannot\xfffebattle!!\xf000븁\x0000
-Okay, please choose\xfffeyour Pokémon!\xf000븁\x0000
-To participate in the tournament,\xfffe\xf000Ȁ\x0001\x0000 Pokémon are required.
-...OK!\xfffeRegistration is complete!\xf000븀\x0000\xfffePlease come this way!\xf000븁\x0000
-Hm...?\xf000븁\x0000\xfffeIt seems there's a problem\xfffewith your participating Pokémon.
-Please draw to see which\xfffePokémon will join you in battle!
-Okay, it is time to\xfffesee the results!\xf000븁\x0000\xfffeHmmm...\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffeTa-da! Here it is!\xf000븁\x0000\xfffeYour Rental Pokémon\xfffewill be this one!\xf000븁\x0000
-We are now preparing the\xfffeSpecial Tournament.\xf000븁\x0000\xfffeIt will take a lot time,\xfffeso please be patient!
-Oh, you lost...\xf000븁\x0000\xfffeBut don't give up!\xfffeDo your best!\xf000븁\x0000
-One more round to the final...\xf000븁\x0000\xfffeIt's okay! Next time\xfffeyou'll rise even higher!\xf000븁\x0000
-...It was only a bit further...\xfffeYou'll win for sure next time!\xf000븁\x0000
-\xf000Ļ\x0001\x0000\xfffeCongratulations on your victory!\xf000븁\x0000\xfffe
-\xf000Ļ\x0001\x0000\xfffe is now open!\xf000븁\x0000\xfffe
-...Ah! Yes!\xf000븁\x0000\xfffeOnly \xf000Ȁ\x0001\x0000 more\xfffevictories in the World Tournament\xf000븀\x0000\xfffeand then you can\xf000븁\x0000\xfffeparticipate in the\xfffeChampions Tournament!\xf000븁\x0000\xfffeKeep going!\xf000븁\x0000
-We'd like to reward\xfffe\xf000Ā\x0001\x0000 some Battle Points\xf000븀\x0000\xfffefor an exemplary tournament!\xf000븁\x0000
-\xf000Ā\x0001\x0000 received\xfffe\xf000ȁ\x0001\x0001BP!
-Great job! This is to \xfffecommemorate your participation!\xf000븁\x0000
-If you win the Unova Leaders\xfffeTournament, you can participate\xf000븁\x0000\xfffein each region's Leaders\xfffeTournament!\xf000븀\x0000\xfffeGo for it!\xf000븁\x0000
-...Ah! Before the match,\xfffethere is an announcement!\xf000븁\x0000\xfffeIf you are victorious in each\xffferegion's Leaders Tournament,\xf000븀\x0000\xfffeyou will be able to participate\xf000븁\x0000\xfffein the World Leaders Tournament\xfffeand the Type Expert\xf000븀\x0000\xfffeTournament!\xf000븁\x0000
-If you win the World Leaders Tournament\xfffeonce more, you will be able\xf000븁\x0000\xfffeto participate in the Champions\xfffeTournament!\xf000븀\x0000\xfffeDo your best!\xf000븁\x0000
-If you are victorious in\xfffeeach region's Leaders Tournament\xf000븁\x0000\xfffeand the Rental Tournament,\xfffeyou will be able to participate\xf000븁\x0000\xfffein the Rental Master\xfffeTournament!\xf000븁\x0000
-If you are victorious in\xfffeeach region's Leaders Tournament\xf000븁\x0000\xfffeand the Mix Tournament,\xfffeyou will be able to participate\xf000븁\x0000\xfffein the Mix Master\xfffeTournament!\xf000븁\x0000
-Normal
-Fire
-Water
-Grass
-Electric
-Ice
-Fighting
-Poison
-Ground
-Flying
-Psychic
-Bug
-Rock
-Ghost
-Dragon
-Dark
-Steel
-Victory Record
+Battle Rules
+Indietro
+...OH! Adesso puoi partecipare\xfffeai Leaders Tournament!\xf000븁\x0000\xfffeI Leaders Tournaments\xfffehanno regole differenti\xf000븀\x0000\xffferispetto ai tornei\\xfffe precedenti:\xf000븁\x0000\xfffeGli allenatori che partecipano\xfffea questi tornei sono\xf000븀\x0000\xfffetutti famosi Capipalestra!\xf000븁\x0000\xfffeSono molto più forti\xfffedegli avversari che hai\xf000븀\x0000\xfffeincontrato fin ora.\xf000븀\x0000\xfffeQuindi fai del tuo meglio!\xf000븁\x0000
+A quale torneo\xfffevuoi partecipare?
+Quale modalità di\xfffebattaglia preferisci?
+Questi sono i tornei\xfffe a cui puoi partecipare:
+Hmmm...?\xf000븁\x0000\xfffeSembrerebbe che non\xfffeci siano tornei a cui\xf000븀\x0000\xfffe puoi partecipare .\xf000븁\x0000
+Battaglia Singola
+Battaglia Doppia
+Battaglia Tripla
+Battaglia a Rotazione
+Non sei in condizioni\xfffedi poter partecipare!\xf000븁\x0000\xfffePer farlo si prega di\xfffepreparare 3 o più Pokémon.\xf000븁\x0000
+Non sei in condizioni\xfffedi poter partecipare!\xf000븁\x0000\xfffePer farlo si prega di\xfffepreparare 4 o più Pokémon.\xf000븁\x0000
+Non sei in condizioni\xfffedi poter partecipare!\xf000븁\x0000\xfffePer farlo si prega di\xfffepreparare 6 Pokémon.\xf000븁\x0000
+Non sei in condizioni\xfffedi poter partecipare!\xf000븁\x0000\xfffePer farlo si prega di\xfffepreparare 4 o più Pokémon.\xf000븁\x0000
+Non sei in condizioni\xfffedi poter partecipare!\xf000븁\x0000\xfffePer farlo si prega di preparare\xfffe4 o più Pokémon differenti\xf000븁\x0000xfffee di avere anche tutti\xfffegli strumenti diversi.\xf000븁\x0000
+Non sei in condizioni\xfffedi poter partecipare!\xf000븁\x0000\xfffePer farlo si prega di preparare\xfffe4 o più Pokémon differenti\xf000븁\x0000xfffee di fargli tenere  strumenti\xfffe diversi fra loro.\xf000븁\x0000
+Non sei in condizioni\xfffedi poter partecipare!\xf000븁\x0000\xfffePer farlo si prega di preparare\xfffe6 o più Pokémon differenti\xf000븁\x0000xfffee di fargli tenere  strumenti\xfffe diversi fra loro.\xf000븁\x0000
+Non sei in condizioni\xfffedi poter partecipare!\xf000븁\x0000\xfffePer farlo si prega di preparare\xfffe4 o più Pokémon differenti\xf000븁\x0000xfffee di fargli tenere  strumenti\xfffe diversi fra loro.\xf000븁\x0000
+Non sei in condizioni\xfffedi poter partecipare!\xf000븁\x0000\xfffePer farlo si prega di preparare\xfffe3 o più Pokémon differenti\xf000븁\x0000xfffee di fargli tenere  strumenti\xfffe diversi fra loro.\xf000븁\x0000
+Non sei in condizioni\xfffedi poter partecipare!\xf000븁\x0000\xfffePer farlo si prega di preparare\xfffe4 o più Pokémon differenti\xf000븁\x0000xfffee di fargli tenere  strumenti\xfffe diversi fra loro.\xf000븁\x0000
+Non sei in condizioni\xfffedi poter partecipare!\xf000븁\x0000\xfffePer farlo si prega di preparare\xfffe6 o più Pokémon differenti\xf000븁\x0000xfffee di fargli tenere  strumenti\xfffe diversi fra loro.\xf000븁\x0000
+Non sei in condizioni\xfffedi poter partecipare!\xf000븁\x0000\xfffePer farlo si prega di preparare\xfffe4 o più Pokémon differenti\xf000븁\x0000xfffee di fargli tenere  strumenti\xfffe diversi fra loro.\xf000븁\x0000
+Non sei in condizioni di\xfffepoter participare!\xf000븁\x0000\xfffeUpon participating, you can\xfffesee the detailed conditions,\xf000븁\x0000\xfffeso please confirm the \xfffeDownload Tournament rules.\xf000븁\x0000
+Le Uova non possono\xfffecombattere!!\xf000븁\x0000
+Okay, scegli il \xfffetuo Pokémon!\xf000븁\x0000
+Per partecipare al torneo \xfffe\xf000Ȁ\x0001\x0000 sono richiesti dei Pokémon.
+...OK!\xfffela registrazione è completa!\xf000븀\x0000\xfffePrego, da questa parte.\xf000븁\x0000
+Hm...?\xf000븁\x0000\xfffeSembra esserci un problema\xfffecon i tuoi Pokémon.
+Prego, estrai per vedere quale\xfffePokémon si unira conte nella battaglia!
+Bene, è il momento di\xfffevedere i risultati!\xf000븁\x0000\xfffeHmmm...\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffeTa-da! Eccolo\xf000븁\x0000\xfffeIl tuo Pokémon in\xfffesarà questo!\xf000븁\x0000
+In questo momento stiamo\xfffeallestendo lo Special Tournament.\xf000븁\x0000\xfffCi vorrà molto tempo,\xfffeti preghiamo di avere pazienza!
+Oh, hai perso...\xf000븁\x0000\xfffeMa non arrenderti!\xfffeFai del tuo meglio!\xf000븁\x0000
+Un altro round per\xfffearrivare in finale...\xf000븁\x0000\xfffeVa bene! La prossima volta\xfffepotrai salire ancora più in alto!\xf000븁\x0000
+...E' stalo solo un po' più...\xfffeLa prossima volta vincerai sicuramente!\xf000븁\x0000
+\xf000Ļ\x0001\x0000\xfffeCongratulazioni per la tua vittoria!\xf000븁\x0000\xfffe
+\xf000Ļ\x0001\x0000\xfffeAdesso è aperto!\xf000븁\x0000\xfffe
+...Ah! Si!\xf000븁\x0000\xfffeSolamente \xf000Ȁ\x0001\x0000 qualche altra\xfffevittoria nel World Tournament\xf000븀\x0000\xfffee potrai\xf000븁\x0000\xfffeparticipare al \xfffeChampions Tournament!\xf000븁\x0000\xfffeProsegui!\xf000븁\x0000
+Vorremmo premiarti con\xfffe\xf000Ā\x0001\x0000 alcuni PL\xf000븀\x0000\xfffeper l'esemplare torneo!\xf000븁\x0000
+\xf000Ā\x0001\x0000Ricevi\xfffe\xf000ȁ\x0001\x0001PL!
+Ottimo lavoro! Questo è per ricordare\xfffe la tua partecipazione!\xf000븁\x0000
+Se vincessi l'Unova Leaders\xfffeTournament, potresti partecipare\xf000븁\x0000\xfffe ad ogni Leaders\xfffeTournament regionale!\xf000븀\x0000\xfffeChe cosa aspetti? Puoi farcela!\xf000븁\x0000
+...Ah! Prima del match,\xfffec'è un annuncio da fare:\xf000븁\x0000\xfffeSe vincerai tutti i\xfffeLeaders Tournament regionali,\xf000븀\x0000\xfffepotrai partecipare\xf000븁\x0000\xfffeal World Leaders Tournament\xfffeed al Type Expert\xf000븀\x0000\xfffeTournament!\xf000븁\x0000
+Se vincerai World Leaders Tournament\xfffeancora una volta, you potrai\xf000븁\x0000\xfffepartecipare al Champions\xfffeTournament!\xf000븀\x0000\Fai del tuo meglio!\xf000븁\x0000
+Se vincerai\xfffeciascun Leaders Tournament regionale\xf000븁\x0000\xfffee il Rental Tournament,\xfffepotrai partecipare\xf000븁\x0000\xfffeal Rental Master\xfffeTournament!\xf000븁\x0000
+Se vincerai\xfffeciascun Leaders Tournament regionale\xf000븁\x0000\xfffee il Mix Tournament,\xfffepotrai partecipare\xf000븁\x0000\xfffeal Mix Master\xfffeTournament!\xf000븁\x0000
+Normale
+Fuoco
+Acqua
+Erba
+Elettro
+Ghiaccio
+Lotta
+Veleno
+Terra
+Volante
+Psico
+Insetto
+Roccia
+Spettro
+Drago
+Buio
+Acciaio
+Registro Vittorie
 Tournament Download
-Quit
-You can view your\xfffenumber of victories
-You can download a tournament\xfffevia Wi-Fi Connection.
-Power Off
+Esci
+Puoi visionare il\xfffenumero delle tue vittorie
+Puoi scaricare un torneo\xfffemediante connessione Wi-Fi .
+Spegni
 
 Brought up the Tournament\xfffeVictory record!\xf000븁\x0000
 Brought up the Tournament\xfffeDownload system!\xf000븁\x0000
-Right
-Center
-Left
-We are now preparing\xfffea Special Tournament.\xf000븀\x0000\xfffePlease wait a while longer!
-This time, the Driftveil\xfffeTournament is Anything Goes!\xf000븁\x0000\xfffeAll Pokémon and\xfffeall hold items\xf000븀\x0000\xfffeare allowed!\xf000븁\x0000\xfffeVictory will get you\xfffesome Battle Points, so\xf000븀\x0000\xfffedo your best!\xf000븁\x0000
+Destra
+Centro
+Sinistra
+In questo momento stiamo\xfffepreparando lo Special Tournament.\xf000븀\x0000\xfffeTi preghiamo di avere\xfffeancora un po' di pazienza!
+Questa volta il Driftveil\xfffeTournament is Anything Goes!\xf000븁\x0000\xfffeTutti i Pokémon e\xfffegli strumenti\xf000븀\x0000\xfffesono ammessi!\xf000븁\x0000\xfffeLa vittoria ti farà\xfffeottenere alcuni PL,\xf000븀\x0000\xfffequindi fai del tuo meglio!\xf000븁\x0000
