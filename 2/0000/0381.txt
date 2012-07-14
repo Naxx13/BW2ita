@@ -325,7 +325,7 @@ Voglio che tu mi dica qualcosa!\xf000븁\x0000
 Mi hai mostrato la tua forza!
 そうだ！　きみなら\xfffeこれも　つかいこなせるでしょ！\xf000븁\x0000
 バトルサブウェイで\xfffeいまから　しごと　なんだけど\xf000븀\x0000\xfffeどこに　あるんだろうか？
-Voglio giocare a tennis \xfffecome un atleta professionista\xf000븁\x0000
+Voglio giocare a tennis \xfffecome un atleta professionista!\xf000븁\x0000
 ヒロ『つよい　キミに\xfffeラブゲーム……\xf000븁\x0000\xfffeシン『まったく　かてない\xfffeラブゲーム……
 Voglio diventare tanto bravo come ciclista \xfffequanto tu sei forte come allenatore...
 ポケモン　１ぴき？\xfffeそれでは　おあいて　できませんよ
@@ -665,25 +665,25 @@ Sia i Pokémon che i bambini, ogni\xfffegiorno mi fanno scoprire belle cose!
 Ah!\xfffeSono o non sono il migliore...
 Tu che mi hai interrotto,\xfffemi hai sconfitto!\xf000븁\x0000
 Mi hai battuto!\xfffeE' stato uno shock!
-わはは！　おまえら　いいな！\xfffeどんなときでも　ブッとばしていけ！
-ギターを　ひいているとき\xfffeポケモンを　たいけつ　させるとき\xf000븀\x0000\xfffeあたし　まっすぐで　いられるの！\xf000븁\x0000
-もー！　ごきげんな　じかんは\xfffeすぐ　おわっちゃうんだから！
-ポケモンと　いっしょに　いるから\xfffeごきげんに　ギターを　かなでられるし\xf000븁\x0000\xfffeギターを　ひくから　ポケモンも\xfffeつよくなるのよ！　わかる？
-これが……\xfffeげんじつ　って　やつ？
-ぼくは　まけても　いいけど\xfffeなんだか　ポケモンが　かわいそう……
-そういえば　ポケモンしょうぶ　とか\xfffeすごい　ひさしぶり　だな
-もちろん　おあいて　するわ\xfffeおきにいりの　コロモリでね！！\xf000븁\x0000
-わーお！\xfffeモーレツ！
-あたしの　おきにいりの　ばしょ\xfffeそれが　ここ　なんだ
-よーし！　ポケモンしょうぶ！\xfffeレッツ　スタート！\xf000븁\x0000
-かあ！\xfffeおまえ　つよすぎ！
-いろの　こい　くさむらで\xfffeポケモンの　とっくん　だ！
-オレ　つよくなって\xfffeホミカちゃんに　いいとこ　みせるんだ！\xf000븁\x0000
-あはは……\xfffeウソでしょ……
-オレ　つよくなって\xfffeホミカちゃんに　いいとこ　みせたいよ
-ようこそ！　ライモンジムへ\xfffeポケモンと　トレーナーが　おりなす\xf000븁\x0000\xfffeかれいな　ポケモンしょうぶと\xfffeファッションショーの　はじまり！\xf000븁\x0000
-ショーは　これから……\xf000븁\x0000\xfffe……って　あれ？\xfffeもう　おわり？
-あなたのポケモンと　あなた\xfffeとっても　シャイニングでしたわ！
+Uaaa! Siete forti!\xfffePassa pure quando vuoi!
+Suonando la chitarra e facendo\xfffelottare i miei Pokémon,\xf000븀\x0000\xffferiesco ad andare avanti!\xf000븁\x0000
+Di già! Quando ci si diverte, il\xfffetempo vola, eh!
+Posso suonare piacevolmente la chitarra\xfffegrazie ai Pokémon! E,\xf000븁\x0000\xfffesuonando la chitarra, anche i Pokémon\xfffepossono rinforzarsi! Capisci?
+Questa persona è...\xfffereale?
+Non importa che io abbia perso, però\xfffepoooveri i miei Pokémon...!
+L'aver perso mi ha ricordato che\xfffeera da tanto tempo che non lottavo...
+Ovviamente, come mio compagno\xfffeho il mio caro Woobat!!\xf000븁\x0000
+Uooooaaa!\xfffeHo perso!!
+Il posto del mio Woobat\xfffeè questo qui!
+Duuuunque! Lotte Pokémon!\xfffeIniziamo!!!\xf000븁\x0000
+Aargh!\xfffeSei troppo forte!
+Alleno intensamente i miei Pokémon\xfffenell'erba scura!
+Sono diventato forte e\xfffemostrerò la mia forza a Velia!\xf000븁\x0000
+Ah ah ah... No...\xfffeE' impossibile...
+Sono diventato forte e\xfffemostrerò la mia forza a Velia!
+Benvenuto alla Palestra di\xfffeSciroccopoli! Qui, gli allenatori si\xf000븁\x0000\xfffeuniscono ai Pokémon! Iniziamo una\xfffelotta e una scintillante sfilata di moda!\xf000븁\x0000
+Da adesso, la sfilata è...\xf000븁\x0000\xfffe... Cosa?!\xfffeE' già finita?
+Con i tuoi Pokémon, sei stato\xfffesplendente!
 うつくしいでは　ダメ！\xfffeトレーナーとして　つよくなければ！\xf000븁\x0000\xfffeわたしたちの　ビューティな\xfffeたたかいぶりに　みとれないでよ！\xf000븁\x0000
 ……つよくて　ビューティ！\xfffeわたしが　みとれちゃったわ
 うつくしさ　っていうのは\xfffeルックス　だけじゃないの\xf000븁\x0000\xfffeあなたも　カミツレさまも\xfffeつよさが　うつくしさの　いちぶね
