@@ -2,7 +2,7 @@
 Salvataggio in corso...\xfffeNon rimuovere l'alimentazione.
 Salvataggio...\xfffeon rimuovere l'alimentazione.
 Congratulazioni!Hai raggiunto\xfffesette vittorie di fila!\xf000븁\x0000\xfffeSiccome le hai vinte di fila,\xfffeTi sei aggiudicato questi Punti Lotta!\xf000븁\x0000
-Congratulazioni!\xf000븁\x0000\xfffeHai vinto ben sette volte di fila\xfffee hai brillantemente battuto il Boss Metro,\xf000븀\x0000\xfffeperciò ti sei aggiudicato questi\xf000븀\x0000\xfffePunti Lotta.\xf000븁\x0000
+Congratulazioni!\xf000븁\x0000\xfffeHai vinto ben sette volte di fila\xfffee hai brillantemente battuto il Capometro,\xf000븀\x0000\xfffeperciò ti sei aggiudicato questi\xf000븀\x0000\xfffePunti Lotta.\xf000븁\x0000
 E, \xf000Ā\x0001\x0000,ora hai ottenuto\xfffeil diritto di lottare\xf000븀\x0000\xfffenel Super Treno in Singolo!\xf000븁\x0000
 E, \xf000Ā\x0001\x0000,ora hai ottenuto \xfffeil diritto di lottare\xf000븀\x0000\xfffenel Super Treno in Doppio!\xf000븁\x0000
 E, \xf000Ā\x0001\x0000,ora hai ottenuto \xfffeil diritto di lottare\xf000븀\x0000\xfffenel Super Treno in lotta multipla!\xf000븁\x0000
@@ -44,76 +44,76 @@ Gli allenatori sono davvero tosti\xfffefin dall'inzio.
 La mia 42esima vittoria...\xfffeNon male, eh?
 Non posso crederci,ho vinto 84 volte di fila...\xfffeè un sogno o allucinazioni?
 Hai vinto 14 volte di fila!\xfffeMolto bene! Non male!
-Ho sentito che il SuperTreno è infinito!\xf000븁\x0000\xfffeIn altre parole,se contnui a vincere,puoi/xfffe continuare,ad andare avanti fino alla tua destinazione!
-Posso andara ancora più lontano!\xfffeposso vincere ancora di più!
+Ho sentito che il SuperTreno è infinito!\xf000븁\x0000\xfffeIn altre parole,se continui a vincere,puoi/xfffe continuare,ad andare avanti fino alla tua destinazione!
+Posso andare ancora più lontano!\xfffeposso vincere ancora di più!
 Gli occhi degli allenatori sono molto\xfffedeterminati, o potrei dire quasi scintillanti.
 E' questo il meglio che un Agente può fare...?\xf000븁\x0000\xfffeLa luce che viene da treni sembra\xfffetroppo luminosa.
-Il boss Metrò è un tipo strano,\xfffee sospetto.\xf000븁\x0000\xfffeNon posso ancora crederci che stava dando\xfffetutto se stesso.
+Il Capometrò è un tipo strano,\xfffee sospetto.\xf000븁\x0000\xfffeNon posso ancora crederci che stava dando\xfffetutto se stesso.
 Sfidare persone fa anche parte\xfffedell'allenamento della polzia.
 Posso fare tutto cio che voglio!\xfffeQuesto posto! E' come il paradiso, vero?
 Il mio viaggio è appena iniziato!\xfffeNessuno puo permettersi di perdere!
 Stare da solo sulla piattaforma della stazione\xfffequalche volta mi rende un pò tirste.\xf000븁\x0000\xfffeLe persone abbandonano il loro viaggio qui,e\xfffemi fa venire in mente tanti ricordi.
-E'stato facile battere il Boss Metro!\xf000븁\x0000\xfffeForse dovrei fare del mio meglio\xfffenel Super Treno la prossima volta!
+E'stato facile battere il Capoetro!\xf000븁\x0000\xfffeForse dovrei fare del mio meglio\xfffenel SuperTreno la prossima volta!
 Gli allenatori sono diventati sicuramente forti.\xfffeQuesto mi fa senite un pò inquieto...
-It looks like my Pokémon skill has\xfffereached its peak power.\xf000븁\x0000\xfffeI couldn't let go of my dreams...\xfffeI'll hang them on you, stranger,\xf000븀\x0000\xfffeyoung Trainer.\xf000븁\x0000\xfffeAnd this is proof.\xfffePlease accept this, youngster...\xf000븁\x0000
-I'm going to return to my home and\xfffequietly cheer myself up with art!
-Oh ho ho ho...\xf000븁\x0000\xfffeI've already done better than I did\xfffeduring my last challenge!
-Battle between two excellent Trainers is\xfffevery artistic.
-For being called a Subway Boss,\xfffethat Trainer sure wasn't as strong\xf000븀\x0000\xfffeas “Boss" suggests.\xf000븁\x0000\xfffeIt was almost as if...\xf000븁\x0000\xfffeAs if they are simply gauging\xfffehow strong we really are.
-Well then!\xf000븁\x0000\xfffeIt's about time to get on\xfffethe train!
-Now just wait a minute, little Pokémon!\xfffeI'll let you battle lots and lots soon!
+sembra che la mia abilità con i Pokèmon\xfffeabbia raggiunto il suo massimo.\xf000븁\x0000\xfffeNon potevo lasciar andare i miei sogni...\xfffeLi attaccherei su di te, straniero,\xf000븀\x0000\xfffegiovane Allenatore.\xf000븁\x0000\xfffeE questa è la prova.\xfffeTi prego accettalo, giovanotto...\xf000븁\x0000
+Ho intenzione di tornare a casa e\xffferallegrarmi tranquillamente con l'arte!
+Oh ho ho ho...\xf000븁\x0000\xfffeHo già fatto meglio di quello che ho fatto\xfffedurante la mia ultima sfida!
+Una battaglia tra due Allenatori eccellenti è\xfffemolto artistica.
+Per essere chiamato Capometrò,\xfffequell'Allenatore certamente non era forte\xf000븀\x0000\xfffecome "Capo" suggerisce.\xf000븁\x0000\xfffeEra quasi come se...\xf000븁\x0000\xfffeCome se stavano semplicemente isurando\xfffequanto forti fossero veramente.
+Bene!\xf000븁\x0000\xfffeE' tempo di salire\xfffesul treno!
+Adesso aspetta solo un minuto, piccolo Pokémon!\xfffeTi lascerò combattere ancora e ancora!
 Urk!\xf000븁\x0000\xfffeI got motion sickness on the train...
-You beat our boss, right?\xfffeNot half bad, hey!\xf000븁\x0000\xfffeAnd now, super Trainer, you've\xfffeearned the qualification to take on the\xf000븀\x0000\xfffeSuper Train!\xf000븁\x0000\xfffeThe Trainers on the Super Train are\xfffereally tough.\xf000븁\x0000\xfffeIf you want to know the essence of the\xfffeBattle Subway, you should give it a try!
-I'd rather have an exciting battle than\xfffeslowly drive the train.
-Where did you come from?\xfffeAnd where are you going?
-We Depot Agents are the protectors of\xfffepeace and order in the station.\xf000븁\x0000\xfffeWe are verrry opposed to littering on\xfffethe platform, shouting or playing\xf000븀\x0000\xfffeinstruments, loitering, or any activities\xf000븀\x0000\xfffethat bother other people!
+Hai sconfitto il nostro capo, non è vero?\xfffeNon è poi così male, hey!\xf000븁\x0000\xfffeE ora, super Allenatore, hai\xfffeguadagnato la qualificazione per prendere\xf000븀\x0000\xfffeil SuperTreno!\xf000븁\x0000\xfffeGli Allenatori sul SuperTreno sono\xfffeveramente forti.\xf000븁\x0000\xfffeIf you want to know the essence of the\xfffeBattle Subway, you should give it a try!
+Preferisco avere una battaglia emozionante a\xfffeguidare piano il treno.
+Da dove vieni?\xfffeE dove stai andando?
+Noi Ferroviari siamo i protettori della\xfffepace e dell'ordine nella stazione.\xf000븁\x0000\xfffeCi opponiamo molto al disordine sulla\xfffepiattaforma, alle grida o al suono\xf000븀\x0000\xfffedi strumenti, al vagabondaggio, o ad altre attività\xf000븀\x0000\xfffeche disturbano le altre persone!
 Just like how a machine needs fine-tuning,\xfffePokémon need maintenance, too.\xf000븁\x0000\xfffeIt's a necessity.\xf000븁\x0000\xfffeFor example, rethinking the moves that a\xfffePokémon knows.
-No clumsy gimmicks...\xfffeNo unnecessary items...\xf000븁\x0000\xfffeThe only thing you can rely on is the\xfffestrength of you and your Pokémon.\xf000븁\x0000\xfffeThis place is wonderful, isn't it?
-Over 100 straight victories...\xf000븁\x0000\xfffeIf this is all due to your strength,\xfffeyou're even a match for the Champion.
-The strength of the Trainers on\xfffethe Super Train is beyond imagination!
-I had a taste of it...\xfffeThe rush of battle...\xf000븁\x0000\xfffeI shouldn't...\xfffeIt's too wild...\xf000븁\x0000\xfffeBut at this rate, I'm going to\xfffeend up on the path of battlers...
-Howdy! I'm a genius Pilot!\xfffeUnova's finest!\xf000븁\x0000\xfffeAnd I'm comin' in first here, too!
-I've seen elite Trainers like me\xfffeall over the place, but...\xf000븁\x0000\xfffeSeems like the battles will be tough\xfffefrom here on.
-Even for an elite Trainer such as myself,\xfffeit's starting to get hard.
+No clumsy gimmicks...\xfffeNo ad oggetti non necessari...\xf000븁\x0000\xfffeL'unica cosa di cui ti puoi fidare è la\xfffetua forza e quella dei tuoi Pokémon.\xf000븁\x0000\xfffeQuesto posto è meraviglioso, non è vero?
+Oltre 100 vittorie di fila...\xf000븁\x0000\xfffeSe questo è tutto dovuto alla tua forza,\xfffeyou're even a match for the Champion.
+La forza degli Allenatori sul\xfffeSuperTreno è oltre ogni immaginazione!
+Ne ho avuto un assaggio...\xfffeThe furia della battaglia...\xf000븁\x0000\xfffeNon dovrei...\xfffeE' troppo selvaggio...\xf000븁\x0000\xfffeBut at this rate, I'm going to\xfffeend up on the path of battlers...
+Howdy! Sono un Pilota molto intelligente!\xfffeIl migliore di Unima!\xf000븁\x0000\xfffeEd anche il primo ad arrivare qui!
+Ho visto buoni Allenatori come me\xfffein tutti i luoghi, ma...\xf000븁\x0000\xfffeSembra che la battaglia sarà dura\xfffeda qui in poi.
+Persino per un buon Allenatore come ne,\xfffesta diventando dura.
 Hey, come va?\xfffeIo sto ancora andando alla grande!
-I've a-done it--77 straight wins!\xfffeThat number has a lucky sound!
+Ce l'ho fatta--77 vittorie di fila!\xfffeQuesto numero suona fortunato!
 Abbiamo sconfitto oltre 300 allenatori...
-My my, what a weak-looking Trainer...\xf000븁\x0000\xfffeI think I would just get bored if I\xfffebattled you...\xf000븁\x0000\xfffeI'll give you this, so just get a little\xfffetougher, OK?\xf000븁\x0000
-I'm only interested in strong\xfffeopponents...\xf000븁\x0000\xfffeIf you get tougher, I wouldn't\xfffemind battling you.
-Not many people left on the platform...\xf000븁\x0000\xfffeGuess that shows how hard it is\xfffeto keep winning on the Battle Subway.
-...\xf000븁\x0000\xfffeHuh? What? What do you want?\xf000븁\x0000\xfffeI'm busy planning my tactics for my\xfffenext battle.\xf000븁\x0000\xfffeI don't mean to be rude, but I really\xfffeneed to concentrate. Would you mind\xf000븀\x0000\xfffenot talking to me right now?
-91 straight victories is nothing more\xfffethan a natural result for me.\xf000븁\x0000\xfffeMy glorious record will just keep\xfffegoing up!
-You...\xfffeYou have the same eyes as me.\xf000븁\x0000\xfffeYou love battling so much...\xfffeNo, it's not just that...\xf000븁\x0000\xfffeBattling is your reason for living.\xfffeYou and I are the same type, aren't we?\xf000븁\x0000\xfffeSo...I'll give you this.\xf000븁\x0000
-You're continuing your battle, right?\xf000븁\x0000\xfffeThat's because we are that type of\xfffeperson, aren't we...
-I'm going to leave a rockin' record and\xfffeturn into a big star!
+My my, what a weak-looking Trainer...\xf000븁\x0000\xfffePenso che mi annoierei solamente se\xfffeti sfido...\xf000븁\x0000\xfffeTi darò questo, quindi diventa poco più\xfffeforte, OK?\xf000븁\x0000
+Non sono solo interessato ad avversari\xfffeforti...\xf000븁\x0000\xfffeSe diventi più forte, non mi dispiacerebbe\xfffecombattere con te.
+Non molte persone hanno lasciato la piattaforma...\xf000븁\x0000\xfffeScommetto che mostra quanto è duro\xfffecontinuare a vincere sul Metrò Lotta.
+...\xf000븁\x0000\xfffeHuh? Cosa? Cosa vuoi?\xf000븁\x0000\xfffeI'm busy planning my tactics for my\xfffenext battle.\xf000븁\x0000\xfffeI don't mean to be rude, but I really\xfffeneed to concentrate. Would you mind\xf000븀\x0000\xfffenot talking to me right now?
+91 vittorie di fila non è che più\xfffedi un normale risultato per me.\xf000븁\x0000\xfffeIl mio glorioso record continuerà\xfffea salire!
+Tu...\xfffeTu hai i miei stessi occhi.\xf000븁\x0000\xfffeAmi combattere così tanto...\xfffeNo, non è solo quello...\xf000븁\x0000\xfffeCombattere è la tua ragione di vitag.\xfffeNoi due siamo dello stesso tipo, non è vero?\xf000븁\x0000\xfffeQuindi...Ti darò questo.\xf000븁\x0000
+Stai continuando la tua battaglia, giusto?\xf000븁\x0000\xfffeQuesto perchè siamo quel tipo di\xfffepersona, non è vero...
+Ho intenzione di lasciare un record rockeggiante e\xfffetrasformarmi in una grande star!
 Hey, come va?\xfffeIo sto ancora andando alla grande!
-There's more to Pokémon than it seems.\xf000븁\x0000\xfffeThe world of Pokémon battling really gets\xfffedeeper and deeper.
-I found this when I was cleaning.\xfffeYou can have it if you'd like.\xf000븁\x0000
-Oh, no need to thank me!\xfffeAfter all, I just found it in the trash.\xf000븁\x0000\xfffeI don't understand it. Recently, many\xfffefolks have just been throwing away\xf000븀\x0000\xfffeperfectly good things.
-I may be a Janitor, but I have a lot\xfffeof confidence in my abilities!
-All right! Bring out your Poké Balls!\xfffeNow is the time for a battle!
-You like battles, too!
-I can't believe a Veteran like me\xfffewould get into trouble like that.\xf000븁\x0000\xfffeWhere in the world are the Trainers\xfffehere training?
-How are you doing, Trainer?\xfffeAre you starting to get tired yet?
-Mumble, mumble, mumble...\xf000븁\x0000\xfffeIn order to bring good fortune, I always\xfffethink about my family before a battle.
-I've been watching you battle.\xf000븁\x0000\xfffeNice technique and judgment... Not\xfffesurprising, after a win streak like yours.
-Not many people around.\xf000븁\x0000\xfffeBut each person who is still here has\xfffeshown true strength.
-Even a Veteran can lose to a Preschooler\xfffeif they get careless.\xf000븁\x0000\xfffePokémon battling requires that you\xfffealways be on guard.
-Just a little more to 50 straight wins!\xfffeSuddenly, I'm all pumped up!
-You have the face of someone who\xfffeabsolutely loves Pokémon battling.\xf000븁\x0000\xfffeEven now, you're still completely hooked\xfffeon battling. Amazing.\xf000븁\x0000\xfffeHee hee...\xfffeYou have a promising future!
-You and I both have 91 straight wins!\xf000븁\x0000\xfffeWhich of us will reach a 100-win\xfffestreak first?
-Dawn and dusk behind my battles...\xf000븁\x0000\xfffeThe rocking train softly rattles...\xf000븁\x0000\xfffeHow many hours have now passed\xfffesince we left Nimbasa in the past?
-This is the end of the line...\xf000븁\x0000\xfffeThe trip sure ended quickly.\xfffeI don't want to go home yet.
-If you've made it this far, that means\xfffeyou've won 14 in a row.\xf000븁\x0000\xfffeWhat a fluke! Fourteen is how old I am!\xf000븁\x0000\xfffeHa ha ha...
+C'è di più sui Pokèmon di quello che sembri.\xf000븁\x0000\xfffeIl mondo delle sfide Pokèmon sta diventando\xfffesempre più profondo.
+L'ho trovato mentre stavo pulendo.\xfffePuoi averlo se vuoi.\xf000븁\x0000
+Oh, non devi ringraziarmi!\xfffeDopo tutto, l'ho appena trovato nella spazzatura.\xf000븁\x0000\xfffeNon lo capisco. Recentemente, many\xfffefolks have just been throwing away\xf000븀\x0000\xfffeperfectly good things.
+Sarò anche un Netturbino, ma ho molto\xfffeof confidence in my abilities!
+Bene! Tira fuori le tue Poké Ball!\xfffeE' tempo per una sfida!
+Ti piacciono anche le sfide!
+Non posso credere che un Veterano come me\xfffefinisse in guai come questi.\xf000븁\x0000\xfffeWhere in the world are the Trainers\xfffehere training?
+Cosa stai facendo, Allenatore?\xfffeStai già cominciando ad essere stanco?
+Mumble, mumble, mumble...\xf000븁\x0000\xfffePer portare fortuna, penso sempre\xfffealla mia famiglia prima di una sfida.
+Ho visto la tua sfida.\xf000븁\x0000\xfffeBuona tecnica e giudizio... Non mi\xfffesorprende, dopo una serie di vittorie come la tua.
+Non molte persone intorno.\xf000븁\x0000\xfffeMa ogni persona che è ancora qui\xfffemostra la sua vera forza.
+Persino un Veterano può perdere con un Bimbo\xfffese non sta attento.\xf000븁\x0000\xfffeLe sfide Pokèmon richiedono che tu stia\xfffesempre in guardia.
+Ancora un poco per 50 vittorie di fila!\xfffeImprovvisamente sono tutti più forti!
+Hai la faccia di qualcuno che\xfffeassolutamente ama le sfide Pokèmon.\xf000븁\x0000\xfffePersino adesso, sei completamente agganciato\xfffealla battaglia. Stupefacente.\xf000븁\x0000\xfffeHee hee...\xfffeHai un futuro promettente!
+Entrambi abbiamo 91 vittorie di fila!\xf000븁\x0000\xfffeChi di noi raggiungerà per primo\xfffeuna serie di 100 vittorie di fila?
+Dawn and dusk behind my battles...\xf000븁\x0000\xfffeThe rocking train softly rattles...\xf000븁\x0000\xfffeQuante ore sono passate\xfffeda quando abbiamo lasciato Sciroccopoli?
+Questa è la fine della linea...\xf000븁\x0000\xfffeIl viaggio certamente è finito velocemente.\xfffeNon voglio andare già a casa.
+If you've made it this far, that means\xfffeyou've won 14 in a row.\xf000븁\x0000\xfffeChe coincidenza! Ho quattordici anni!\xf000븁\x0000\xfffeHa ha ha...
 I'm going to let people know I'm still\xfffeas active as ever!
-It's the end of the line already...\xf000븁\x0000\xfffeI guess that means my Pokémon\xfffebattle journey is over for now.
+E' già la fine della linea...\xf000븁\x0000\xfffeScommetto che significa che il mio viaggio di sfide\xfffePokèmon è finito per ora.
 Phew...\xf000븁\x0000\xfffeThis long journey is hard on this\xfffeold body.
-Hmm. You've got 28 straight wins, huh?\xf000븁\x0000\xfffeThis time, I want to keep going\xfffewith this momentum.
-You also beat the Subway Boss, right?\xfffeSomeday I want to battle you, too!
-When my favorite Poké Ball begins\xfffeto shake, I tremble with excitement!\xf000븁\x0000\xfffeYou're no ordinary Trainer, are you?\xfffePerhaps you are the Champion somewhere?
-Winning battles feels good, but I've\xfffetraveled quite far...I wonder if I can\xf000븀\x0000\xfffeget back in time for work tomorrow...
-I finally have a 49-battle win streak.\xf000븁\x0000\xfffeIf I can do this well at work, I wonder\xfffeif I can get promoted...
-Both you and I have won more than\xfffe100 straight battles!\xf000븁\x0000\xfffeI may have too much time on my hands,\xfffebut so do you.\xf000븁\x0000\xfffeTake this to commemorate our meeting of\xfffetwo similar people!\xf000븁\x0000
-It's a really precious Berry, but I don't\xfffeknow how to use it other than to eat it\xf000븀\x0000\xfffeas a snack...
-It's a subway map of the Unova region.\xf000븁\x0000
-Communicating. Please stand by...
+Hmm. Hai 28 vittorie di fila, huh?\xf000븁\x0000\xfffeOra, voglio andare avanti\xfffecon questo impulso.
+Tu anche sconfitto il CapoMetrò, giusto?\xfffeUn giorno voglio anche sfidarti!
+Quando la mia PokèBall preferita inizia\xfffead agitarsi, tremo con entusiasmo!\xf000븁\x0000\xfffeNon sei un Allenatore ordinario, non è vero?\xfffeForse sei il campione da qualche parte?
+Vincere le sfide ti fa sentire bene, ma ho\xfffeviaggiato abbastanza lontano...mi meraviglio se riesco\xf000븀\x0000\xfffea tornare in tempo per il lavoro domani...
+Alla fine ho una serie di 49 vittorie di fila.\xf000븁\x0000\xfffeSe riuscissi a fare questo bene al lavoro, mi meraviglio\xfffese vengo promosso..
+Entrambi abbiamo vinto più di\xfffe100 sfide di fila!\xf000븁\x0000\xfffePosso avere troppo tempo nelle mia mani,\xfffema anche te.\xf000븁\x0000\xfffePrendi questo come ricordo del nostro incontro tra\xfffedue persone simili!\xf000븁\x0000
+E' una bacca veramente preziosa, ma non\xfffeso come usarla oltra a mangiarla\xf000븀\x0000\xfffecome snack...
+E' una mappa metropolitana della regione di Unima.\xf000븁\x0000
+Comunicazione in corso. Si prega di attendere...
