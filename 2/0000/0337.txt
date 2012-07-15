@@ -1,42 +1,42 @@
-きゃくほん
-カット　０１
-カット　０２
-カット　０３
-カット　０４
-カット　０５
-カット　０６
-カット　０７
-カット　０８
-カット　０９
-カット　１０
-カット　１１
-カット　１２
-カット　１３
-カット　１４
-カット　１５
-カット　１６
-カット　１７
-カット　１８
-カット　１９
-カット　２０
-てんこうを　りようしろ！
-あいての　こうげきに　そなえろ！
-あいての　こうげきに　そなえろ！\xfffeセリフの　せんたくが　じゅうよう！
-あいての　こうげきに　そなえろ！
-あいての　じゃくてんを　つけ！\xfffeセリフの　せんたくが　じゅうよう！
-てんこうを　りようしろ！
-あいての　じゃくてんを　つけ！
-あいての　じゃくてんを　つけ！
-あいての　じゃくてんを　つけ！
-あいての　じゃくてんを　つけ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！\xfffeセリフの　せんたくが　じゅうよう！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-なし
+Sceneggiatura
+Scena 01
+Scena 02
+Scena 03
+Scena 04
+Scena 05
+Scena 06
+Scena 07
+Scena 08
+Scena 09
+Scena 10
+Scena 11
+Scena 12
+Scena 13
+Scena 14
+Scena 15
+Scena 16
+Scena 17
+Scena 18
+Scena 19
+Scena 20
+Make use of the weather!
+Prepare for the foe's attack!
+Prepare for the foe's attack!\xfffeChoose your lines wisely!
+Prepare for the foe's attack!
+Exploit the foe's weakness!\xfffeChoose your lines wisely!
+Make use of the weather!
+Exploit the foe's weakness!
+Exploit the foe's weakness!
+Exploit the foe's weakness!
+Exploit the foe's weakness!
+Finish it immediately!
+Finish it immediately!
+Finish it immediately!\xfffeChoose your lines wisely!
+Finish it immediately!
+Finish it immediately!
+Finish it immediately!
+Finish it immediately!
+Finish it immediately!
+Finish it immediately!
+Finish it immediately!
+No
