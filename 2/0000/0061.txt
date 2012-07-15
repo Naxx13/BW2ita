@@ -3,8 +3,8 @@ Controllo completo. Creata una Connessione\xfffea Infrarossi con altri Allenator
 Controllo in corso...\xfffePer favore mantieni la Connessione a Infrarossi.
 Hai avviato la connesione a infrarossi!
 La connessione è stata interrotta.\xfffePer favore ricollega il Gioco di Carte a Infrarossi.
-もどる
-タッチ　スタート
+Indietro
+Toccare Avvio
 CONTROLLO RITMO
 no data
 no data
