@@ -1,42 +1,42 @@
-きゃくほん
-カット　０１
-カット　０２
-カット　０３
-カット　０４
-カット　０５
-カット　０６
-カット　０７
-カット　０８
-カット　０９
-カット　１０
-カット　１１
-カット　１２
-カット　１３
-カット　１４
-カット　１５
-カット　１６
-カット　１７
-カット　１８
-カット　１９
-カット　２０
-あいての　ようすを　うかがえ！\xfffeセリフのせんたくが　じゅうよう！
-あいての　ようすを　うかがえ！\xfffeセリフのせんたくが　じゅうよう！
-あいての　のうりょくを　さげろ！\xfffeあいてのわざに　ちゅうもく！
-あいての　わざに　ちゅうもく！
-いっきに　まけろ！
-いっきに　まけろ！
-いっきに　まけろ！
-いっきに　まけろ！
-いっきに　まけろ！
-いっきに　まけろ！
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
+Sceneggiatura
+Scena 01
+Scena 02
+Scena 03
+Scena 04
+Scena 05
+Scena 06
+Scena 07
+Scena 08
+Scena 09
+Scena 10
+Scena 11
+Scena 12
+Scena 13
+Scena 14
+Scena 15
+Scena 16
+Scena 17
+Scena 18
+Scena 19
+Scena 20
+Examine the foe's situation!\xfffeChoose your lines wisely!
+Examine the foe's situation!\xfffeChoose your lines wisely!
+Grant strength to the foe!\xfffePay attention to the foe's moves!
+Pay attention to the foe's moves!
+Lose instantly!
+Lose instantly!
+Lose instantly!
+Lose instantly!
+Lose instantly!
+Lose instantly!
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
