@@ -4,7 +4,7 @@ Wireless
 GameSync
 Scambio
 Battaglia
-CodiceAmico
+Codice Amico
 Carta
 C-GEAR>IR
 C-GEAR>IR>BATTAGLIA
