@@ -48,8 +48,7 @@ Quale mossa vuoi\xfffefar dimenticare?
 \xf000Ă\x0001\x0000 guarisce dalla paralisi.
 \xf000Ă\x0001\x0000 guarisce dalla scottatura.
 \xf000Ă\x0001\x0000 è stato scongelato.
-PP ripristinati!　
-I PP sono stati ricaricati.
+PP ripristinati!
 \xf000Ă\x0001\x0000 non è più esausto!
 \xf000Ă\x0001\x0000 è di nuovo in forma.
 I PP di \xf000ć\x0001\x0000 aumentano.
