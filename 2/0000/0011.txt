@@ -9,8 +9,8 @@ Non hai abbastanza Pass Orbs\xfffeper usare questo Passapotere.\xfffe\xf000Ȃ\x0
 Using \xf000đ\x0001\x0001.\xfffeSecondi rimasti: \xf000ȁ\x0001\x0005.
 Using \xf000đ\x0001\x0001.\xfffeTempo rimasto: \xf000Ȃ\x0001\x0004 min., \xf000ȁ\x0001\x0005 sec.
 disse“\xf000Ĝ\x0001\x0000!"
-じぶんのスコア
-ごうけい
+Suo Punteggio
+Totale
 \xf000Ȅ\x0001\x0000
 のこりじかん
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
@@ -38,29 +38,29 @@ Hiya!
 \xf000Ā\x0001\x0000 \xf000Ă\x0001\x0002's\xfffesale di livello!
 \xf000Ā\x0001\x0000 \xfffe\xf000Ă\x0001\x0002 evelve\xfffein \xf000ā\x0001\x0001!
 Dummy Message
-\xf000Ā\x0001\x0000 found\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ā\x0001\x0000 trovato\xfffe\xf000ĉ\x0001\x0001!
 \xf000Ā\x0001\x0000's playing time has\xfffeexceeded \xf000Ȃ\x0001\x0001 hours!
 \xf000Ā\x0001\x0000 completato il\xfffePokédex!
-\xf000Ā\x0001\x0000 has been thanked\xfffemore than \xf000Ȃ\x0001\x0001 times!
-\xf000Ā\x0001\x0000 e`nella reception\xfffearea della Union Room.
+\xf000Ā\x0001\x0000 è stato ringraziato\xfffeoltre \xf000Ȃ\x0001\x0001 volte!
+\xf000Ā\x0001\x0000 e`nella reception\xfffedella Sala Unione.
 \xf000Ā\x0001\x0000 grazie!
-\xf000ā\x0001\x0001 e` stato\xfffebeing distribuito!
-The \xf000ĉ\x0001\x0001 e` stato\xfffedistribuito!
+\xf000ā\x0001\x0001 e` stato\xfffedistribuito!
+Il \xf000ĉ\x0001\x0001 e` stato\xfffedistribuito!
 Un misterioso regalo e` stato\xfffebeing distribuito!
 \xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002attacca\xfffeera un colpo critico!
 \xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 tocca\xfffea colpo critico!
-\xf000Ā\x0001\x0000 escaped\xfffedalla battaglia!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffehas molti pochi HP!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffehas Molti pochi PP!
+\xf000Ā\x0001\x0000 fugge\xfffedalla battaglia!
+\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffeha pochissimi PS!
+\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffeha pochissimi PP!
 \xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffee` svenuto
 \xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffeha condizioni di stato!
 \xf000Ā\x0001\x0000 usa\xfffe\xf000ĉ\x0001\x0001!
 \xf000Ā\x0001\x0000 usa\xfffe\xf000ć\x0001\x0001!
 \xf000Ā\x0001\x0000 ricevuto\xfffeun Uovo!
-\xf000ā\x0001\x0001 hatched from\xfffe\xf000Ā\x0001\x0000's Egg!\xfffe
-\xf000Ā\x0001\x0000 is\xfffeshopping.
-\xf000Ā\x0001\x0000 e` in una\xfffeBattle Subway challenge.
-\xf000Ā\x0001\x0000 ha\xfffe\xf000Ȁ\x0001\x0001 vinto\xfffein la battaglia!
+\xf000ā\x0001\x0001 schiuso dall\xfffe\xf000Ā\x0001\x0000's Uovo!
+\xf000Ā\x0001\x0000 stà\xfffeacquistando.
+\xf000Ā\x0001\x0000 e` in una\xfffeBattaglia Subway challenge.
+\xf000Ā\x0001\x0000 ha\xfffe\xf000Ȁ\x0001\x0001 vinto\xfffela battaglia!
 \xf000Ā\x0001\x0000 vince\xfffeun trofeo nella battaglia!
 \xf000Ā\x0001\x0000 challenged\xfffethe Battle Institute.
 \xf000Ā\x0001\x0000 e` cerificato\xfffe\xf000Ɓ\x0001\x0001 nell`\xfffeIstituto della Battaglia!
