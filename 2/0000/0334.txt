@@ -1,42 +1,42 @@
-Scenario
-Taglio　０１
-Taglio　０２
-Taglio　０３
-Taglio　０４
-Taglio　０５
-Taglio　０６
-Taglio　０７
-Taglio  ０８
-Taglio　０９
-Taglio　１０
-Taglio　１１
-Taglio　１２
-Taglio　１３
-Taglio　１４
-Taglio　１５
-Taglio　１６
-Taglio　１７
-Taglio　１８
-Taglio　１９
-Taglio　２０
-あいてを　こうげきしろ！\xfffeセリフのせんたくが　じゅうよう！
-あいてを　こうげきしろ！\xfffeセリフのせんたくが　じゅうよう！
-あいての　のうりょくを　りようしろ！\xfffeセリフのせんたくが　じゅうよう！
-あいてを　こうげきしろ！
-いっきに　きめろ！
-いっきに　きめろ！
-Nessuno 
-nessuno 
-nessuno 
-nessuno 
-nessuno 
-nessuno 
-nessuno 
-nessuno 
-nessuno 
-nessuno 
-nessuno 
-nessuno 
-nessuno 
-nessuno 
-nessuno
+Sceneggiatura
+Scena 01
+Scena 02
+Scena 03
+Scena 04
+Scena 05
+Scena 06
+Scena 07
+Scena 08
+Scena 09
+Scena 10
+Scena 11
+Scena 12
+Scena 13
+Scena 14
+Scena 15
+Scena 16
+Scena 17
+Scena 18
+Scena 19
+Scena 20
+Attack the foe!\xfffeChoose your lines wisely!
+Attack the foe!\xfffeChoose your lines wisely!
+Use the foe's strength!\xfffeChoose your lines wisely!
+Attack the foe!
+Finish it immediately!
+Finish it immediately!
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
