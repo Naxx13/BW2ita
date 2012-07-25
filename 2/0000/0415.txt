@@ -4,7 +4,7 @@ Benvenuto alla GTS!
 \xf000Ă\x0001\x0000 sembra aver\xfffeabbandonato...\xf000븁\x0000
 Vuoi cercare o offrire un Pokémon?
 Do what with this \xf000Ă\x0001\x0000?
-Will you take this \xf000Ă\x0001\x0000?
+Prederai questo. \xf000Ă\x0001\x0000?
 Vuoi disconnetterti dalla\xfffeNintendo Wi-Fi Connection?
 Che tipo di Pokémon stai cercando?
 Scegli il Pokémon che vuoi.
@@ -14,10 +14,10 @@ Scegli il Pokémon che vuoi!
 Cercando il Pokémon che vuoi...
 Nessun risultato!
 Smetti di cercare?
-Trade Pokémon with the Trainer?
-Choose the Pokémon you are trading.
+Vuoi scambire il pokemon con l'allenatore?
+Scegli il pokemon che sti scambiando.
 Do what with this \xf000Ă\x0001\x0000?
-You seem to have already traded it...
+Sembra che tu lo abbia già scambiato...
 していのポケモンと ちがいますよ！
 Scegli il Pokémon che vuoi offrire.
 Offri \xf000Ă\x0001\x0000?
@@ -33,21 +33,21 @@ That Pokémon may not be offered\xfffefor trade (13270)!\xf000븁\x0000
 That Pokémon may not be offered\xfffefor trade (13271)!\xf000븁\x0000
 Un uovo non può essere scelto\xfffeper uno scambio!\xf000븁\x0000
 てもちが　いっぱいで　ポケモンを\xfffeうけとることが　できません！\xf000븁\x0000
-Your Storage Boxes are full.\xfffeYou can't receive a Pokémon!\xf000븁\x0000
-A trade partner has been found!
+Your Storage Boxes are full.\xfffenon puoi ricevere un Pokémon!\xf000븁\x0000
+E' stato trovato un partner per lo scambio!
 Ｗｉ－Ｆｉコネクションに　せつぞく
-Tocca 『SELECT』 to set trade partner.
+Tocca 『SELECT』 per scegliere un partner di scambio.
 Please change your conditions.
-Please wait a while.
-Your party is full. You can't receive\xfffea Pokémon that is holding Mail.\xf000븁\x0000
-There is no room in your party.
-It has a special Ribbon.\xfffeIt can't be offered for a trade.\xf000븁\x0000
+Aspetta un secondo.
+Il tuo gruppo è pieno. Non puoi ricevere\xfffea Pokémon that is holding Mail.\xf000븁\x0000
+Non ci sono stanze nel tuo party.
+It has a special Ribbon.\xfffeNon può essere offerto in uno scambio.\xf000븁\x0000
 GTS check failed.
 \xf000봂\x0000GLOBAL TRADE SYSTEM
 \xf000봂\x0000SUMMARY
-\xf000봂\x0000DEPOSIT POKÉMON
-\xf000봂\x0000SEEK POKÉMON
-\xf000봂\x0000QUIT
+\xf000봂\x0000DEPOSITA POKÉMON
+\xf000봂\x0000RITIRA POKÉMON
+\xf000봂\x0000CHIUDI
 \xf000Ă\x0001\x0000
 \xf000ā\x0001\x0001
 Ｌｖ．\xf000Ȃ\x0001\x0002
@@ -154,22 +154,22 @@ Lv. 100
 Unfortunately, it was traded to\xfffeanother Trainer.\xf000븁\x0000
 Saving...\xfffeDon't turn off the power.
 ただいま　ＧＴＳと　つうしんを\xfffeおこなっています……
-The GTS is currently\xfffeundergoing maintenance.\xf000븁\x0000\xfffePlease try again later.\xf000븁\x0000
-The GTS is very crowded now.\xfffePlease try again later (13261).\xf000븁\x0000
-The search failed...
-Communication error.\xfffeFor help, visit support.nintendo.com.
-Communication error.\xfffeFor help, visit support.nintendo.com.\xf000븀\x0000\xfffeError code: 13272\xf000븁\x0000
-Communication error.\xfffeFor help, visit support.nintendo.com.\xf000븀\x0000\xfffeError code: 13275\xf000븁\x0000
-Communication error.\xfffeFor help, visit support.nintendo.com.\xf000븀\x0000\xfffeError code: 13263\xf000븁\x0000
-Communication error.\xfffeFor help, visit support.nintendo.com.\xf000븀\x0000\xfffeError code: 13265\xf000븁\x0000
-Communication error.\xfffeFor help, visit support.nintendo.com.\xf000븀\x0000\xfffeError code: 13264\xf000븁\x0000
-Communication error.\xfffeFor help, visit support.nintendo.com.\xf000븀\x0000\xfffeError code: 13273\xf000븁\x0000
-Communication error.\xfffeFor help, visit support.nintendo.com.\xf000븀\x0000\xfffeError code: 13281\xf000븁\x0000
-Communication error.\xfffeFor help, visit support.nintendo.com.\xf000븀\x0000\xfffeError code: 13282\xf000븁\x0000
-Unable to connect to the GTS.\xf000븁\x0000
-You were disconnected from the GTS.\xfffeError code: 13262\xf000븁\x0000
-You were disconnected from the GTS.\xfffeError code: 13274\xf000븁\x0000
-The connection has been lost.
+Il GTS è attualmente\xfffein manutenzione.\xf000븁\x0000\xfffeRiprova più tardi.\xf000븁\x0000
+The GTS is very crowded now.\xfffeRiprova più tardi. (13261).\xf000븁\x0000
+La ricerca è fallita
+Errore di comunicazione.\xfffePer avere supporto visitaPer avere supporto visitaPer avere supporto visitaPer avere supporto visitaPer avere supporto visitaPer avere supporto visitaPer avere supporto visitaPer avere supporto visita support.nintendo.com.
+Errore di comunicazione\xfffePer avere supporto visitaPer avere supporto visitaPer avere supporto visitaPer avere supporto visitaPer avere supporto visitaPer avere supporto visitaPer avere supporto visitaPer avere supporto visita support.nintendo.com.\xf000븀\x0000\xfffeCodice di erroreCodice di erroreCodice di erroreCodice di erroreCodice di erroreCodice di erroreCodice di errore: 13272\xf000븁\x0000
+Errore di comunicazione\xfffePer avere supporto visitaPer avere supporto visitaPer avere supporto visitaPer avere supporto visitaPer avere supporto visitaPer avere supporto visitaPer avere supporto visita support.nintendo.com.\xf000븀\x0000\xfffeCodice di erroreCodice di erroreCodice di erroreCodice di erroreCodice di erroreCodice di erroreCodice di errore: 13275\xf000븁\x0000
+Errore di comunicazione\xfffePer avere supporto visitaPer avere supporto visitaPer avere supporto visitaPer avere supporto visitaPer avere supporto visitaPer avere supporto visita support.nintendo.com.\xf000븀\x0000\xfffeCodice di erroreCodice di erroreCodice di erroreCodice di erroreCodice di erroreCodice di errore: 13263\xf000븁\x0000
+Errore di comunicazione\xfffePer avere supporto visitaPer avere supporto visitaPer avere supporto visitaPer avere supporto visitaPer avere supporto visita support.nintendo.com.\xf000븀\x0000\xfffeCodice di erroreCodice di erroreCodice di erroreCodice di erroreCodice di errore: 13265\xf000븁\x0000
+Errore di comunicazione\xfffePer avere supporto visitaPer avere supporto visitaPer avere supporto visitaPer avere supporto visita support.nintendo.com.\xf000븀\x0000\xfffeCodice di erroreCodice di erroreCodice di erroreCodice di errore: 13264\xf000븁\x0000
+Errore di comunicazione\xfffePer avere supporto visitaPer avere supporto visitaPer avere supporto visita support.nintendo.com.\xf000븀\x0000\xfffeCodice di erroreCodice di erroreCodice di errore: 13273\xf000븁\x0000
+Errore di comunicazione\xfffePer avere supporto visitaPer avere supporto visita support.nintendo.com.\xf000븀\x0000\xfffeCodice di erroreCodice di errore: 13281\xf000븁\x0000
+Errore di comunicazione.\xfffePer avere supporto visita support.nintendo.com.\xf000븀\x0000\xfffeCodice di errore: 13282\xf000븁\x0000
+Impossibile connettersi al GTS.\xf000븁\x0000
+sei stato disconnesso dal GTS.\xfffeCodice di errore: 13262\xf000븁\x0000
+sei stato disconnesso dal GTS.\xfffeCodice di errore: 13274\xf000븁\x0000
+La connessione è stata persa.
 Returning to the reception counter.
 ANY
 Lv. 1 to 10
@@ -191,15 +191,15 @@ ANY
 Please choose a Pokémon location.
 This Pokémon cannot be traded in this\xfffeForme!\xf000븁\x0000
 Spiky-eared PICHU cannot be offered\xfffein trade. \xf000ȇ\x0000
-This Pokémon cannot be traded while\xfffeholding that item!\xf000븁\x0000
+Questo Pokémon non può essere scambiato while\xfffecon quest'oggetto!\xf000븁\x0000
 O.T.
 There was an error while attempting to\xfffesend an authentication E-Mail.\xf000븁\x0000
 There was a communication error.\xf000븁\x0000
 The data was corrupted.\xfffeIt could not be sent.\xf000븁\x0000
-The server is undergoing maintenance.\xfffePlease connect again later.\xf000븁\x0000
+Il server è in manutenzione.\xfffeRiprova più tardi.\xf000븁\x0000
 There was a E-Mail\xfffeauthentication error.\xf000븁\x0000
-Disconnecting from Nintendo Wi-Fi\xfffeConnection... Please wait a moment.
-You have disconnected from Nintendo\xfffeWi-Fi Connection.
+Disconnettendo da  Nintendo Wi-Fi\xfffeConnessione... Aspetta un momento.
+Sei stato disconnesso dal Nintendo\xfffeWi-Fi Connection.
 A
 B
 C
@@ -244,8 +244,8 @@ Z
 ＧＴＳ
 ＧＴＳ\xfffeポケモンを　こうかんする
 ＧＴＳ\xfffeようすを　みる
-GTS\xfffeDEPOSIT POKÉMON
-GTS\xfffeSEEK POKÉMON
+GTS\xfffeDEPOSITA POKÉMON
+GTS\xfffeRITIRAPOKÉMON
 CANCEL
 \xf000Ȁ\x0001\x0000
 /
