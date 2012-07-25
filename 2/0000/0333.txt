@@ -1,24 +1,24 @@
 Sceneggiatura
-Scena ０１
-Scena ０２
-Scena ０３
-Scena ０４
-Scena ０５
-Scena ０６
-Scena ０７
-Scena ０８
-Scena ０９
-Scena １０
-Scena １１
-Scena １２
-Scena １３
-Scena １４
-Scena １５
-Scena １６
-Scena １７
-Scena １８
-Scena １９
-Scena ２０
+Scena 01
+Scena 02
+Scena 03
+Scena 04
+Scena 05
+Scena 06
+Scena 07
+Scena 08
+Scena 09
+Scena 10
+Scena 11
+Scena 12
+Scena 13
+Scena 14
+Scena 15
+Scena 16
+Scena 17
+Scena 18
+Scena 19
+Scena 20
 Non attaccare il tuo avversario！\xfffeScegli bene le parole！
 Lasciate che il vostro avversario vinca!
 Lasciate che il vostro avversario vinca!
