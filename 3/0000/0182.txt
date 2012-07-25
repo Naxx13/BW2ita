@@ -1,12 +1,12 @@
-The music is too loud.\xfffe\xf000Ā\x0001\x0000's voice can't be heard!
-Let's go! You're the reason\xfffethe music stopped!!\xf000븁\x0000
-Oh\xfffeI'm not supposed to lose!\xf000븁\x0000\xfffeOr rather,\xfffedoes this mean that you are strong?\xf000븁\x0000\xfffeIt's just frustrating\xfffebecause I was being lazy.\xf000븀\x0000\xfffeIt was refreshing to suffer a defeat!\xf000븁\x0000\xfffeHere!\xfffeYou won this token of our battle!\xf000븁\x0000
-\xf000Ā\x0001\x0000 received\xfffethe Toxic Badge from Roxie!\xf000븁\x0000
-This is your 2nd badge!\xf000븁\x0000\xfffePokémon up to level 30\xfffewill obey you.\xf000븁\x0000\xfffeThey will acknowledge your power..\xfffeand will no longer ignore commands\xf000븁\x0000\xfffeAlso, here!\xfffePut this TM to use!\xf000븁\x0000
-TM09 is Venoshock!\xfffeSpecial venom gets poured on opponent!\xf000븁\x0000\xfffeMoreover.. the damage is doubled if\xfffethe opponent is poisoned!\xf000븀\x0000\xfffeThe punch will be effective! Tee-hee
-Your Pokémon..\xf000븁\x0000\xfffeWon!　I'm overflowing with\xfffeabsurd feelings right now..\xf000븁\x0000\xfffeI can do so much\xffferight about now!
-Are you going\xfffeto PokéStar Studios?!\xf000븁\x0000\xfffeAh! I remember\xfffemy dad!!\xf000븀\x0000\xfffeHe can't do a captain's job!\xf000븁\x0000
-Your favorite Pokémon and\xfffemusic are persistant to be\xf000븀\x0000\xffferather Roxie-ish\xf000븁\x0000\xfffeYou are achieving what you really\xfffelike.. isn't that great!\xf000븁\x0000\xfffe...Making trouble to someone is\xfffeabsolutely unlikely from you!
-That's Roxie for you!　Extraordinarily\xfffebringing out the Pokémon's Charm\xf000븁\x0000\xfffeNevertheless..　Her actions\xfffehere are always dazzling.
-Hey you!\xf000븁\x0000\xfffeFighting with Gym Leader Roxie\xfffeI really felt the sparkle\xf000븁\x0000\xfffePlease go and visit PokéStar Studios\xf000븁\x0000
-I'm P.A!\xf000븁\x0000\xfffeThe sounds from this Venue are\xfffebalanced and easy to listen to!\xf000븁\x0000\xfffeAre you a trainer?\xf000븁\x0000\xfffeIf that's the case, do\xfffeyou  consider the balance of Pokémon Types?
+La musica è troppo bassa.\xfffeNon si può sentire la voce di \xf000Ā\x0001\x0000!
+Forza! Sei la causa per cui la\xfffemusica si è fermata!!\xf000븁\x0000
+Oh,\xfffenon pensavo che avessi perso!\xf000븁\x0000\xfffeBeh, questo significa che sei\xfffeforte?\xf000븁\x0000\xfffeE' frustante perchè sono stata\xfffepigra.\xf000븀\x0000\xfffeE' stato un bel ripasso aver perso!\xf000븁\x0000\xfffeEccoti!\xfffeHai vinto questa!\xf000븁\x0000
+\xf000Ā\x0001\x0000 riceve\xfffela Medaglia Tossica da Velia!\xf000븁\x0000
+Questa è la tua seconda medaglia!\xf000븁\x0000\xfffeI Pokémon fino al Livello 30\xfffeti obbediranno.\xf000븁\x0000\xfffeRiconosceranno la tua forza...\xfffeE non ignoreranno più ciò che dici.\xf000븁\x0000\xfffeInoltre, eccoti!\xfffePrendi questa MT!\xf000븁\x0000
+MT09 contiene Velenoshock!\xfffeUn veleno speciale avvolge il nemico!\xf000븁\x0000\xfffeInoltre... Il danno è doppio se\xfffeil nemico è avvelenato!\xf000븀\x0000\xfffeIl colpo sarà potente! Tee-hee
+I tuoi Pokémon..\xf000븁\x0000\xfffeHanno vinto! Sto traboccando di\xfffeassurde emozioni ora...\xf000븁\x0000\xfffeOrmai so così tanto\xfffesu di te!
+Andrai ai Pokéwood\xfffeStudios?!\xf000븁\x0000\xfffeAh! Ricordi mio\xfffemio padre?!!\xf000븀\x0000\xfffeNon può essere un capitano!\xf000븁\x0000
+I tuoi Pokémon e la musica\xfffesono, insieme, gli ingredienti per\xf000븀\x0000\xfffeessere meglio di Velia!\xf000븁\x0000\xfffeStai collezionando ciò che davvero\xfffeti piace... non è grandioso?!\xf000븁\x0000\xfffe... Dare problemi a qualcuno non è\xfffeassolutamente da te!
+Quella Velia è per te! Straordinario\xfffecome tiri fuori lo Charme dei Pokémon's Charm\xf000븁\x0000\xfffeBeh, non importa...　Le sue gesta qui sono\xfffesempre brillanti.
+Ehi tu!\xf000븁\x0000\xfffeHo percepito una scintilla vedendoti\xfffelottare contro Velia!\xf000븁\x0000\xfffePer favore vai a visitare il Pokéwood.\xf000븁\x0000
+Sono il DJ!\xf000븁\x0000\xfffeIl suono di questi dischi è\xfffebilanciato e facile da sentire!\xf000븁\x0000\xfffeSei un allenatore?\xf000븁\x0000\xfffeIn quel caso, tieni conto della\xfffecorrispondenza dei Tipi?
