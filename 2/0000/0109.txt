@@ -34,7 +34,7 @@ Cantiere dei Sogni
 Bosco Girandola
 Deserto della Quiete
 Castello Sepolto
-Deposito Frigo
+PWT
 Cava Pietrelettrica
 Monte Vite
 Torre Dragospira
