@@ -1,14 +1,14 @@
 Round 1!\xfffe\xf000Ā\x0001\x0000 VS \xf000Ā\x0001\x0001\xf000븁\x0000
 Round 2!!\xfffe\xf000Ā\x0001\x0000 VS \xf000Ā\x0001\x0001\xf000븁\x0000
-Final Round!!\xfffe\xf000Ā\x0001\x0000 VS \xf000Ā\x0001\x0001\xf000븁\x0000
+Round Finale!!\xfffe\xf000Ā\x0001\x0000 VS \xf000Ā\x0001\x0001\xf000븁\x0000
 \xf000Ļ\x0001\x0000\xfffeFinal Round!\xf000븀\x0000\xfffeThe Challenger enters!\xf000븁\x0000
-And the winner is...!\xf000븁\x0000
+E il vincitore è...!\xf000븁\x0000
 At last, raise the curtain!\xfffeDriftveil Tournament!!\xf000븁\x0000\xfffeFirst challenge!\xfffe\xf000Ā\x0001\x0001 Enter!\xf000븁\x0000
-The winner of round 1 is\xfffe\xf000Ā\x0001\x0000 !!\xf000븁\x0000
-The winner of round 2 is\xfffe\xf000Ā\x0001\x0000 !!\xf000븁\x0000
+Il vincitore del round 1 is\xfffe\xf000Ā\x0001\x0000 !!\xf000븁\x0000
+Il vincitore del round 2 is\xfffe\xf000Ā\x0001\x0000 !!\xf000븁\x0000
 But how about the\xfffeother matches?\xf000븁\x0000\xfffeOkay, everyone!\xfffeCheck the screen!\xf000븁\x0000
 \xf000Ā\x0001\x0000 !!
-\xf000Ļ\x0001\x0000!\xfffeAnd that's the end!!\xf000븀\x0000\xfffeJoin us again next time!\xf000븁\x0000
+\xf000Ļ\x0001\x0000!\xfffeE questa è la fine!!\xf000븀\x0000\xfffeJoin us again next time!\xf000븁\x0000
 Yeeeah!
 Go for it!
 \xf000Ā\x0001\x0000!
@@ -29,7 +29,7 @@ Yeah!!
 Yeah!!
 Wooo!!
 Yayy!!
-If you win this match,\xfffeit'll be your first\xf000븀\x0000\xfffePWT victory!!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000 is the winner!!\xf000븁\x0000
+Se vinci il match,\xfffesarà la tua prima\xf000븀\x0000\xfffePWT victory!!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000 è il vincitore!!\xf000븁\x0000
 ト-ナメントに さんかする\xfffeTrainerを わけるもの... それは\xf000븀\x0000\xfffeゆうしょうを しっているか いないか\xf000븁\x0000\xfffeその ゆうしょうを しっている\xfffe\xf000Ā\x0001\x0000 にゅうじょうッ!!\xf000븁\x0000
 ちからの かぎり たたかえッ!\xf000븁\x0000\xfffeそして のぞむ しょうりを\xfffeてにいれろ! \xf000Ā\x0001\x0000!!\xf000븁\x0000
 ゆうしょうを くりかえし\xfffeさいきん ホドモエあたりで\xf000븀\x0000\xfffeウワサの ポケモンTrainer!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000が きた-ッ!!\xf000븁\x0000
