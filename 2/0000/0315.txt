@@ -20,10 +20,10 @@ Scena 18
 Scena 19
 Scena 20
 Choose your lines wisely!
-Defend against your foe!
-Defend against your foe!\xfffeChoose your lines wisely!
-Defend against your foe!
-Defend against your foe!
+Difenditi dal tuo nemico!
+Difenditi dal tuo nemico!\xfffeChoose your lines wisely!
+Difenditi dal tuo nemico!
+Difenditi dal tuo nemico!
 No
 No
 No
