@@ -1,9 +1,9 @@
-デオキシスが　いんせきに\xfffeはんのう　している……\xf000븁\x0000\xfffeつれている　デオキシスを\xfffeいんせきに　ちかづけますか？
-どの　デオキシスを\xfffeいんせきに　ちかづけますか？\xf000븁\x0000
-その　ポケモンは\xfffeいんせきに　はんのう　していません
-タマゴは\xfffeいんせきに　はんのう　していません
-\xf000Ă\x0001\x0000は　バランスの　とれた\xfffeじょうたいに　へんか　した！
-\xf000Ă\x0001\x0000は　こうげきが　すぐれた\xfffeじょうたいに　へんか　した！
-\xf000Ă\x0001\x0000は　ぼうぎょが　すぐれた\xfffeじょうたいに　へんか　した！
-\xf000Ă\x0001\x0000は　すばやさが　ました\xfffeじょうたいに　へんか　した！
-うちゅうから　ふってきた\xfffeふしぎな　いんせきが　ある……
+Deoxys sta\xfffereagendo al meteorite...\xf000븁\x0000\xfffeVuoi portare Deoxys presente nella\xfffetua squadra vicino al meteorite？
+Quale Deoxys vuoi portare\xfffevicino al meteorite?\xf000븁\x0000
+Il Pokémon non sta reagendo\xfffeal meteorite.
+L'uovo non sta reagendo\xfffeal meteorite.
+\xf000Ă\x0001\x0000 è cambiato dato che possiede\xfffestatistiche equilibrate!
+\xf000Ă\x0001\x0000 è cambiato dato che possiede\xfffemaggiori statistiche di attacco!
+\xf000Ă\x0001\x0000 è cambiato dato che possiede\xfffemaggiori statistiche di difesa!
+\xf000Ă\x0001\x0000 è cambiato dato che possiede\xfffemaggiore Velocità!
+C'è un meteorite caduto dalla spazio...
