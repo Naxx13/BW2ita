@@ -1,24 +1,24 @@
-うつくしい　せんりつは\xfffeみんなを　しあわせに　する\xf000븁\x0000\xfffeかなしい　せんりつだと\xfffeみんなが　おちこんでしまう……\xf000븁\x0000\xfffeそれが　メロディの　もつ　ちから……
-キミの　はこんだ　かぜの　においが\xfffeセピアいろの　きおくの　ふちから\xf000븀\x0000\xfffeこんな　メロディを　おもいださせたよ\xf000븁\x0000\xfffeそれは　ははが　すきだった　うた……\xfffeいにしえの　ノスタルジー……\xf000븀\x0000\xfffeきいてくれるかい……\xf000븁\x0000
-ボクの　ははが　はなしてくれた……\xf000븁\x0000\xfffeメロディを　かなでる　ポケモンは\xfffeかろやかな　ステップで\xf000븀\x0000\xfffeひとの　こころを　みたしてくれたと……\xf000븁\x0000\xfffeところが　おおきな　かなしみが\xfffeせかいを　おおってしまったとき\xf000븀\x0000\xfffeポケモンは　メロディを　うしなった……\xf000븁\x0000\xfffeどうじに　あかいくつも\xfffeどこかへ　いっちゃった　とね……\xf000븁\x0000
-キミが　とびらから　はいってきたとき\xfffeボクは　メロディを　おもいだし\xf000븁\x0000\xfffeポケモンは　なくした　ステップを\xfffeかろやかに　ふんだ……\xf000븁\x0000\xfffeきっかけを　はこんできたのは　キミ……\xfffeふしぎな　こどもだね……
-いにしえのうた　を　うたわせてごらん\xf000븁\x0000\xfffeボイスフォルムは　ステップフォルムに\xfffeステップフォルムは　ボイスフォルムに\xf000븀\x0000\xfffeすがたを　かえるのさ……
-\xf000Ă\x0001\x0000は\xfffeいにしえのうた　を　おもいだした！\xf000븁\x0000
-\xf000Ă\x0001\x0000は\xfffeすでに　わざを　４つ　おぼえている！\xf000븁\x0000\xfffeわざを　わすれさせますか？\xf000븁\x0000
-それでは　いにしえのうたを\xfffeおもいだすのを　あきらめますか？
-\xf000Ă\x0001\x0000は　いにしえのうた　を\xfffeおもいださなかった！\xf000븁\x0000
-\xf000ć\x0001\x0001を\xfffeわすれさせて　よろしいですね？
-１\xf000븂\x0001\x0014　２の\xf000븂\x0001\x0014…\xf000븂\x0001\x0014…\xf000븂\x0001\x0014　ポカン！\xf000븅\x0001\x0003\xf000븆\x0001\x0002\xf000븇\x0000\xf000븄\x0000\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeつかいかたを　きれいにわすれた！\xf000븁\x0000\xfffeそして……！\xf000븁\x0000
-この　カフェは\xfffeはじめて　ですよね\xf000븁\x0000\xfffeこれを……\xf000븁\x0000
-いとしの　ポケモンに　どうぞ
-せっかく　いらしたのです\xfffeごゆっくり……
-わたし……　ずっと　この　おみせで\xfffeつかれた　ハートを　いやしています
-ヤツの　ギターを　きいてさぁ\xfffeとびだした　いえに　もどったのさ\xf000븁\x0000\xfffeまた　おふくろに　なかれてよ……\xfffeおふくろは　いつまでも　おふくろさ
+Una bella melodia rende le persone felici.\xfffeUna melodia triste rende le persone tristi...\xf000븀\x0000\xfffeQuesto è il potere delle melodie...
+The scent you brought me reminded me of\xfffea long-ago melody from the fringes of my\xf000븀\x0000\xfffesepia-toned memories.\xf000븁\x0000\xfffeEra una canzone che mia madre amava...\xfffeMi rende così nostalgico...\xf000븁\x0000\xfffeVuoi ascoltare la melodia?\xf000븁\x0000
+Mia madre una volta mi ha raccontato di un Pokèmon che\xfffesuonava e ballava una melodia così lievemente\xf000븀\x0000\xfffeche riempiva il cuore delle persone di gioia.\xf000븁\x0000\xfffePoi il dolore oscurò l'intero mondo,\xfffee il Pokèmon perse la melodia...\xf000븁\x0000\xfffeAnche, in questo momento, alcune scarpe rosse\xfffesono smarrite da qualche parte...\xf000븁\x0000
+Quando sei entrato dalla porta,\xfffemi sono ricordato la melodia!\xf000븁\x0000\xfffeE il Pokèmon che aveva dimenticato come\xfffedanzare cominciò a ballare di nuovo lievemente!\xf000븁\x0000\xfffeTu sei l'ispirazione.\xfffeTu sei un ragazzo misterioso...
+Lasciale cantare il Cantoantico.\xf000븁\x0000\xfffeLa forma Canto diverrà la forma Danza e,\xfffeviceversa.
+\xf000Ă\x0001\x0000 si è ricordato\xfffeil Cantoantico che aveva dimenticato!\xf000븁\x0000
+\xf000Ă\x0001\x0000 \xfffeconosce già quattro mosse!\xf000븁\x0000\xfffeVuoi fargli dimenticare una mossa?\xf000븁\x0000
+Vuoi insegnargli\xfffeCantoantico?
+\xf000Ă\x0001\x0000 non ha imparato\xfffeCantoantico!\xf000븁\x0000
+Vuoi che scordi questa\xfffemossa \xf000ć\x0001\x0001?
+1,\xf000븂\x0001\x0014 2,\xf000븂\x0001\x0014 e...\xf000븂\x0001\x0014...\xf000븂\x0001\x0014 ...Poof!\xf000븅\x0001\x0003\xf000븆\x0001\x0002\xf000븇\x0000\xf000븄\x0000\xf000븁\x0000\xf000Ă\x0001\x0000 dimentica come\xfffeusare \xf000ć\x0001\x0001.\xf000븁\x0000e...\xf000븁\x0000
+Questa è la tua prima visita a questo café.\xfffeNon è vero?\xf000븁\x0000\xfffePer favore...\xf000븁\x0000
+Dai questo al tuo caro Pokémon.
+Sei venuto fin qui.\xfffeDivertiti...
+Dopo uno stressante giorno di lavoro, questo cafè è un\xfffeluogo perfetto dove lasciar riposare la mente.
+Quando sento la sua chitarra, mi ricorda\xfffequando ho lasciato casa per la prima volta, and\xf000븀\x0000\xfffethe tears of farewell my mother cried...
 かぞくは　かえられない\xfffeだから　つきあいかたを　かえるの\xf000븁\x0000\xfffeそう　いわれても　なかなか……
 ……メロエッタと\xfffeあんたの　おかげだよ\xf000븁\x0000\xfffeうまれこきょう……\xfffeおさないころ……\xf000븁\x0000\xfffeきのみあつめを　おえて\xfffeみんなで　うたっていた\xf000븀\x0000\xfffeきおく　よみがえって……\xf000븁\x0000
 ハイリンクに　フェスミッションの\xfffe『\xf000ŀ\x0001\x0000』が\xf000븀\x0000\xfffeついか　されました！
 いなかで　くらす　みんなと\xfffeヒウンシティで　であった　ポケモンで\xf000븀\x0000\xfffeたのしく　きのみあつめ！\xf000븁\x0000\xfffeもちろん　メロエッタの\xfffeうたを　くちずさみながらね！
-ヒュー！
-ワー！
+Fffweee!
+Waa！
 いいぞ！
 ボールの　なかの\xfffe\xf000Ă\x0001\x0000が　とびだした！\xf000븁\x0000
