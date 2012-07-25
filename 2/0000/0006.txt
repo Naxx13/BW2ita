@@ -139,14 +139,14 @@ I tuoi strumenti sono stati\xfffeorganizzati!
 \xf000Ē\x0001\x0000
 \xfffeOrganizzati per tipo!
 \xfffeOrganizzati per nome!
-おおいじゅんに\xfffeもちものを　せいり　しました！
+\xfffeOrganizzati in ordine discendente!
 \xfffeOrganizzali in ordine ascendente!
-ぜんぶ
+Totale
 SPOSTA
 SPOSTA
 Per favore seleziona gli\xfffeche stai guardando!
-\xf000Ē\x0001\x0000に　いれる　もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
-\xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　いどう　しました！
+\xf000Ē\x0001\x0000に　いれる　もちものが\xfffe\xf000Ȃ\x0001\x0001è stato trovato！
+\xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000è stato spostato！
 \xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　もどしました！
 In che modo vuoi organizzarli?
 PER TIPO
@@ -154,7 +154,7 @@ PER NOME
 PER QUANTITA'
 CRESCENTE
 NUMERICO
-もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
+ORDINE NUMERICO
 \xfffeOrganizzati per nome!
 Non trovato
 Metti via
