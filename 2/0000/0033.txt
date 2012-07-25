@@ -1,7 +1,7 @@
 \xf000Ā\x0001\x0000
 ID \xf000Ȅ\x0001\x0000
 \xf000Ȁ\x0001\x0000 necessiti di più.
-Up to \xf000Ȁ\x0001\x0000 di più permesse.
+Fino a \xf000Ȁ\x0001\x0000 di più permesse.
 Cercando partecipanti per la Battaglia Multipla!
 Cercando partecipanti per il Musical!
 Cercando partecipanti per il Metro Lotta!
@@ -17,7 +17,7 @@ Se l'organizzatore esce, il gruppo\xfffesi dispenderà. OK?
 La Battaglia Multipla verrà\xfffecancellata.
 Il Musical verrà\xfffecancellato.
 Il Metro Lotta sarà\xfffecancellato.
-つごうの　わるくなってしまった\xfffeメンバーが　います
+C'è un problema con\xfffequesto gruppo.
 Non ci sono membri.\xfffeLa Battaglia Multipla verrà cancellata.
 Attendere prego.\xfffeBottone B: Cancella
 Attendere prego.
