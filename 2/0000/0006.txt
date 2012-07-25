@@ -57,6 +57,7 @@ Vuoi buttare \xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000?
 Sembra quasi di sentire l'eco delle\xfffeparole della Prof.ssa Aralia:\xf000븀\x0000\xfffe“\xf000Ā\x0001\x0000! C'è un luogo e un tempo\xf000븀\x0000\xfffeper ogni cosa. Non è il momento, ora!"
 Non puoi scendere dalla bici ora!
 Sembra quasi di sentire l'eco delle\xfffeparole della Prof.ssa Aralia:\xf000븀\x0000\xfffe“\xf000Ā\x0001\x0000! C'è un luogo e un tempo\xf000븀\x0000\xfffeper ogni cosa. Non è il momento, ora!"
+Gettoni: \xf000\x0204\x0001\x0000
 Hai attivato una Macchina Tecnica.
 Hai attivato una Macchina Nascosta.
 Contiene la mossa \xf000ć\x0001\x0000! Desideri\xfffeinsegnarla a un Pokémon?
@@ -68,7 +69,7 @@ Il box è pieno!
 Polveri:　\xf000ȃ\x0001\x0000
 \xf000봂\x0000Ｎｏ．\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Ｎｏ\xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
-\xf000봂\x0000ひでん\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
+\xf000봂\x0000MN \xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Polvere di bacca
 Hai suonato il Pokéflauto!\xfffeWow! Che bel suono!
 Hai suonato il Pokéflauto!
