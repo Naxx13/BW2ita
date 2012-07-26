@@ -1,13 +1,13 @@
-By taking a Feeling Check, you can get\xfffea Sweet Heart. That's a good item, right?
-I am the Feeling Reader.\xf000븁\x0000\xfffeI've heard a lot of people take\xfffeFeeling Checks using the C-Gear.
-I am the Feeling Reader.\xf000븁\x0000\xfffeFrom the results of your Feeling Checks,\xfffeI'll tell you your lucky person\xf000븀\x0000\xfffefor today!\xf000븁\x0000\xfffeAre you interested?\xfffeDo you want to know your lucky person?
-The person who can make your day\xfffeexceptionally happy...\xf000븁\x0000\xfffeIt's \xf000Ā\x0001\x0000!
-Oh, you don't have to hesitate.\xfffeI will read it for free!
-The person who can make your day\xfffeexceptionally happy is...\xf000븁\x0000\xfffeOh dear. You've taken a Feeling Check\xfffeonly with \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeI suggest that you take Feeling Checks\xfffewith a lot of people!
+Se utilizzi il Controllo Affinità, puoi ottenere\xfffeun Dolcecuore. E' uno strumento utile, vero?
+Sono il controllore di Affinità.\xf000븁\x0000\xfffeMolte persone hanno usato\xfffeil Controllo Affinità tramite il C-Gear.
+Sono il controllore di Affinità.\xf000븁\x0000\xfffeDai risultati del Controllo Affinità,\xfffeTi dirò la tua persona speciale\xf000븀\x0000\xfffedi oggi!\xf000븁\x0000\xfffeSei interessato?\xfffeVuoi conoscere la persone fortunata?
+La persona che rende le tue giornate\xfffespeciali felici...\xf000븁\x0000\xfffeE' \xf000Ā\x0001\x0000!
+Oh, non esitare.\xfffeTe lo leggerò gratuitamente!
+La persona che rende le tua giornate\xfffespeciali è...\xf000븁\x0000\xfffeOh caro. Hai ottenuto il Controllo Affinità \xfffesolo con \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeTi consiglio di usare il Controllo Affinità\xfffecon molte atre persone!
 こんにちは!\xf000븁\x0000\xfffeよろしければ　あなたの　ポケモンに\xfffeマッサージ　しましょうか?
-Oh, I see.\xfffePlease see me if you change your mind.
-All right! Let me get started.\xf000븁\x0000
-Massage the Egg?\xfffeIt may be a bit too early for that.
+Oh, capisco.\xfffeDimmi quando cambi idea.
+Bene! Fammi prepare un'attimo.\xf000븁\x0000
+Massaggiare l'Uovo?\xfffeE' ancora troppo presto per farlo.
 はい　おつかれさま!!\xf000븁\x0000\xfffeいまの　マッサージで\xfffeあなたに　とても　なついたみたい!
 はい　おつかれさまでした!\xf000븁\x0000\xfffeいまの　マッサージで\xfffeあなたに　なついたみたいね!
 はい　おつかれさまでした\xf000븁\x0000\xfffeいまの　マッサージで\xfffeあなたに　すこし　なついたみたいね!
