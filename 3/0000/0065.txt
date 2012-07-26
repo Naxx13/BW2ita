@@ -4,13 +4,13 @@ Sono il controllore di Affinità.\xf000븁\x0000\xfffeDai risultati del Controll
 La persona che rende le tue giornate\xfffespeciali felici...\xf000븁\x0000\xfffeE' \xf000Ā\x0001\x0000!
 Oh, non esitare.\xfffeTe lo leggerò gratuitamente!
 La persona che rende le tua giornate\xfffespeciali è...\xf000븁\x0000\xfffeOh caro. Hai ottenuto il Controllo Affinità \xfffesolo con \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeTi consiglio di usare il Controllo Affinità\xfffecon molte atre persone!
-こんにちは!\xf000븁\x0000\xfffeよろしければ　あなたの　ポケモンに\xfffeマッサージ　しましょうか?
+Ciao!\xf000븁\x0000\xfffeVuoi che faccia un bel massaggio\xfffead un tuo Pokémon?
 Oh, capisco.\xfffeDimmi quando cambi idea.
 Bene! Fammi prepare un'attimo.\xf000븁\x0000
 Massaggiare l'Uovo?\xfffeE' ancora troppo presto per farlo.
-はい　おつかれさま!!\xf000븁\x0000\xfffeいまの　マッサージで\xfffeあなたに　とても　なついたみたい!
-はい　おつかれさまでした!\xf000븁\x0000\xfffeいまの　マッサージで\xfffeあなたに　なついたみたいね!
-はい　おつかれさまでした\xf000븁\x0000\xfffeいまの　マッサージで\xfffeあなたに　すこし　なついたみたいね!
-ごめんなさい!　さっきの\xfffeマッサージで　あたし　クタクタ...\xf000븀\x0000\xfffeまた　あした　きてみてね!
-ひとから　もらった\xfffeポケモンの　なまえは　かえられない\xf000븁\x0000\xfffeなんたって　なまえを　つけた　ひとの\xfffeおもいが　こめられているからな!
-みきり『ふふん!!
+Grazie mille!!\xf000븁\x0000\xfffeGrazie al massaggio ora sembra\xfffepiù in forma!
+Grazie mille!!\xf000븁\x0000\xfffeGrazie al massaggio ora sembra\xfffemolto più in forma!
+Grazie mille!!\xf000븁\x0000\xfffeGrazie al massaggio ora sembra\xfffeun po' più in forma!
+Mi dispiace! Il massaggio di prima\xfffemi ha distrutta...\xf000븀\x0000\xfffeTorna domani!
+Non puoi cambiare il soprannome\xfffedei Pokémon scambiati!\xf000븁\x0000\xfffeQuesto perchè il nome dato contiene\xfffedei ricordi preziosi!
+Fufuun!!
