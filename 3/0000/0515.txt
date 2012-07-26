@@ -1,14 +1,14 @@
-Good morning, You must be \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeI've received a Mystery Gift for you.\xfffeHere you go!\xf000븁\x0000
-Good day, You must be \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeI've received a Mystery Gift for you.\xfffeHere you go!\xf000븁\x0000
-Good evening, You must be \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeI've received a Mystery Gift for you.\xfffeHere you go!\xf000븁\x0000
-I haven't received any other gifts\xfffefor you.\xf000븁\x0000\xfffeWe look forward to your next visit.
-We look forward to your next visit.
-\xf000Ā\x0001\x0000 received\xfffe\xf000ā\x0001\x0001!
-Your party is full. Please make room\xfffeto receive the gift.
-\xf000Ā\x0001\x0000 obtained\xfffethe \xf000\xff00\x0001\x0002\xf000ĉ\x0001\x0001\xf000\xff00\x0001\x0000!
-Another \xf000ĉ\x0001\x0000? You already\xfffehave too many to accept any more.
-\xf000Ā\x0001\x0000 received\xfffe\xf000Đ\x0001\x0001!
-\xf000Ā\x0001\x0000 already\xfffeknows \xf000Đ\x0001\x0001.
-\xf000Ā\x0001\x0000 obtained\xfffea Pokémon Egg!
-『\xf000ŀ\x0001\x0001』\xfffehas been added to FES Missions!
-『\xf000ŀ\x0001\x0001』\xfffehas already been added!
+Buongiorno! Tu devi essere \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeHo ricevuto un Dono Segreto per te.\xfffeEccolo!\xf000븁\x0000
+Salve! Tu devi essere \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeHo ricevuto un Dono Segreto per te.\xfffeEccolo!\xf000븁\x0000
+Buonasera! Tu devi essere \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeHo ricevuto un Dono Segreto per te.\xfffeEccolo!\xf000븁\x0000
+Non ho ricevuto nessun dono per te.\xf000븁\x0000\xfffeTorna a trovarci!
+Alla prossima!
+\xf000Ā\x0001\x0000 riceve \xf000ā\x0001\x0001!
+La tua squadra è al completo.\xfffeAl momento non puoi riceverlo.
+\xf000Ā\x0001\x0000 ottiene \xf000\xff00\x0001\x0002\xf000ĉ\x0001\x0001\xf000\xff00\x0001\x0000!
+\xf000ĉ\x0001\x0000? Ancora uno strumento? Ne\xfffehai già troppi per accettarne altri.
+\xf000Ā\x0001\x0000 ha ottenuto il fantastico\xfffe\xf000Đ\x0001\x0001!
+\xf000Ā\x0001\x0000 ha già ottenuto\xfffe\xf000Đ\x0001\x0001!
+Hai ottenuto un Uovo di Pokémon!
+"\xf000ŀ\x0001\x0001"\xfffeè stata aggiunta alle Missioni Fes!
+"\xf000ŀ\x0001\x0001"\xfffeè già stata aggiunta!
