@@ -1,16 +1,16 @@
-Pokémon Trading helps you connect with\xfffethe world!\xf000븀\x0000\xfffeThe world will be bigger!\xf000븁\x0000\xfffeIf you trade Pokémon with many people,\xfffeyou will be happy!\xf000븁\x0000\xfffeBecause I will give you something good!\xf000븁\x0000\xfffeSo, Trainer, have you traded Pokémon\xfffewith many people?
-Hello, Trainer!\xf000븁\x0000\xfffeHave you traded Pokémon with\xfffemany people?
-Oh, wonderful.\xf000븁\x0000\xfffeThen, let me check how many people you\xfffehave traded Pokémon with.\xf000븁\x0000
+Scambiare i Pokémon ci aiuta a stare in contatto\xfffecon il resto del mondo!\xf000븀\x0000\xfffeIl mondo così non avrà orizzonti!\xf000븁\x0000\xfffeSe scambi i tuoi Pokémon con molte persone,\xfffesarai molto più felice!\xf000븁\x0000\xfffeAnchè perchè ti darò qualcosa di utile!\xf000븁\x0000\xfffeAllora, Allenatore, ha scambiato i tuoi Pokémon\xfffecon molte persone?
+Ehila, Allenatore!\xf000븁\x0000\xfffeHai scambiato i tuoi Pokémon\xfffecon molte persone?
+Oh, fantastico.\xf000븁\x0000\xfffeAllora, fammi controllare con quante persone\xfffehai scambiato i tuoi Pokémon.\xf000븁\x0000
 ...　...　...\xfffe...　...　...\xf000븁\x0000
-Please trade Pokémon with lots of people!\xf000븁\x0000\xfffeI will give you a present if you do.\xfffeBesides, it's fun!
-You've traded Pokémon with \xf000Ȁ\x0001\x0000?\xfffeThe world is bigger than that!\xf000븁\x0000\xfffePlease trade with your friends or use\xfffethe GTS!
-Zero? You haven't traded with anybody?!\xfffeBut the world is so big!\xf000븁\x0000\xfffePlease trade with your friends or use\xfffethe GTS!
-Wow!\xfffeYou have traded with \xf000Ȁ\x0001\x0000 people!\xf000븁\x0000
-Wow! Great!\xfffeYou have traded with \xf000ȁ\x0001\x0000 people!\xf000븁\x0000
-Wow! Impressive!\xfffeYou have traded with \xf000ȁ\x0001\x0000 people!\xf000븁\x0000
-Wow! Ecstatic!\xfffeYou have traded with \xf000ȁ\x0001\x0000 people!\xf000븁\x0000
-Wow! Surprising!\xfffeYou have traded with \xf000ȁ\x0001\x0000 people!\xf000븁\x0000
-Wow! Wonderful!\xfffeYou have traded with at least \xf000ȁ\x0001\x0000 people!\xf000븁\x0000
-Great!\xfffeI will give this to you!\xf000븁\x0000
-You are really great!\xfffeI'm happy, so I will give this to you, too!\xf000븁\x0000
-What are the Pokémon that I traded\xfffedoing now?\xf000븁\x0000\xfffeWhat are the people who traded with me\xfffethinking about now?\xf000븁\x0000\xfffeThinking about those things\xfffemakes me happy!
+Perfavore scambia i tuoi Pokémon con molte persone!\xf000븁\x0000\xfffeSe lo farai ci sarà un regalo per te.\xfffeInoltre, è divertente!
+Hai scambiato i tuoi Pokémon con \xf000Ȁ\x0001\x0000?\xfffeIl mondo è molto più grande di quanto sembri!\xf000븁\x0000\xfffeFai degli scambi con i tuoi amici o usufruisci\xfffedel GTS!
+Niente? Non hai ancora scambiato con nessuno?!\xfffeMa il mondo è cosi vasto!\xf000븁\x0000\xfffeFai degli scambi con i tuoi amici o usufruisci\xfffedel GTS!
+Wow!\xfffeHai fatto degli scambi con \xf000Ȁ\x0001\x0000 persona!\xf000븁\x0000
+Wow! Fantastico!\xfffeHai fatto degli scambi con \xf000ȁ\x0001\x0000 persone!\xf000븁\x0000
+Wow! Impressionante!\xfffeHai fatto degli scambi con\xf000ȁ\x0001\x0000 persone!\xf000븁\x0000
+Wow! Enutsiasmante!\xfffeHai fatto degli scambi con\xf000ȁ\x0001\x0000 persone!\xf000븁\x0000
+Wow! Sorprendente!\xfffeHai fatto degli scambi con\xf000ȁ\x0001\x0000 persone!\xf000븁\x0000
+Wow! Mitico!\xfffeHai fatto degli scambi con almeno \xf000ȁ\x0001\x0000 persone!\xf000븁\x0000
+Molto bene!\xfffeTi darò questo!\xf000븁\x0000
+Sei davvero fantastico!\xfffeSono cosi contento che voglio donarti questo!\xf000븁\x0000
+Chissà cosa fanno i Pokémon che\xfffeho appena scambiato..\xf000븁\x0000\xfffeOra a cosa stanno pensando le persone con cui\xfffeho fatto degli scambi?\xf000븁\x0000\xfffeSolo a pensarci\xfffemi rende felice!
