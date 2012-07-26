@@ -1,11 +1,11 @@
 Attualmente, stiamo mettendo in esposizione opere a tema\xffferiguardanti i Leggendari della regione di Unima.
 Se vuoi dare un occhiata  ai dipinti di Artemisio,\xffferecati alla sua palestra!
-Titolo 「ドラゴン　しろと　くろと」
-Titolo 「つみかさね　つみとかね」
-Titolo 「むごたらしい　しんじつ」
-Titolo 「きえた　えいゆう」
-Titolo 「はるかな　りそう」
-Titolo 「であうべくして　であった\xfffeいっぴきと　ひとり」
+Titolo "Drago, Bianco o Nero"
+Titolo "Accumulare è sbagliato"
+Titolo "Mondo crudele"
+Titolo "Eroe scomparso"
+Titolo "Lontano ideale"
+Titolo "Incontro inaspettato di\xfffeun piccolo animale"
 Non sono bravo come artista rispetto ad Artemisio,\xfffema ho un debole per la pittura.\xf000븁\x0000\xfffeFammi pensare. Oggi, Vorrei dipingere un Pokémon di tipo \xfffe\xf000ă\x0001\x0000!\xf000븁\x0000\xfffeMi mostreresti i tipi di Pokémon\xfffeche hai?
 Mostrami un Pokémon di tipo \xfffe\xf000ă\x0001\x0000!\xf000븁\x0000
 Oh! Hai quel tipo lì!\xfffeMi sento ispirato!\xf000븁\x0000\xfffeGrazie! Come segno della mia gratitudine,\xfffescegli la bacca che preferisci...
@@ -20,6 +20,6 @@ Fin quando un artista si diverte nel creare\xfffeun'opera,non importa se il\xf00
 Se catturi un Pokémon di tipo\xfffe\xf000ă\x0001\x0000,mostramelo!\xf000븀\x0000\xfffeTi regalerò qualcosa.
 Il Pokémon che hai scelto non è quello\xfffeche cercavo.\xf000븁\x0000\xfffeVorrei dipingere un Pokémon che sia di tipo \xfffe\xf000ă\x0001\x0000!
 Oh!\xfffeLa forma di quest'Uovo...\xf000븁\x0000\xfffeSuperba! Mi da i brividi!\xfffeE' elettrizzante! Sono tutto un tremolìo!\xf000븁\x0000\xfffePurtroppo, non posso dirti di che tipo di Uovo\xfffesi tratta!!
-Titolo 「うけとるもの」
-Titolo 「いどうする　ポケモン」
-Titolo 「おくるもの」
+Titolo "Regalo ricevuto"
+Titolo "Sposta Pokémon"
+Titolo "Regalo spedito"
