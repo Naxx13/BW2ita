@@ -2,7 +2,7 @@ Puoi prendere il Metrò Lotta dalla\xfffeStazione Ruotadentata!
 Il Metrò Lotta!\xf000븁\x0000\xfffeCome il nome suggerisce è un metrò\xfffedove gli allenatori possono intraprendere battaglie.
 Il Metrò Lotta ha sette linee\xfffein totale!\xf000븁\x0000\xfffeMa ho sentito che le uniche linee che puoi\xfffeprendere all'inizio sono i Treni lotta in Singolo,\xf000븁\x0000\xfffein Doppio o Multipla!
 Il Metrò Lotta ha sette linee\xfffein totale!\xf000븁\x0000\xfffeMa non puoi prendere i treni chiamati\xfffe“Super" a meno che tu faccia un grande sforzo.
-Hi, hi!\xf000븁\x0000\xfffePer favore raccontami come ti presenti\xfffeprima di una battaglia e come ti senti quando\xf000븀\x0000\xfffevinci o perdi.
+Ciao, Ciao!\xf000븁\x0000\xfffePer favore raccontami come ti presenti\xfffeprima di una battaglia e come ti senti quando\xf000븀\x0000\xfffevinci o perdi.
 Per favore raccontami come ti presenti\xfffeprima di una battaglia.\x0000xf000븁\x0000x0000
 Per favore raccontami come ti senti quando\xfffesi perde una battaglia.\x0000xf000븁\x0000x0000
 Per favore raccontami come ti senti quando\xfffesi vince una battaglia!\x0000xf000븁\x0000x0000
@@ -18,12 +18,12 @@ QUANDO SI DIVENTA IL NUMERO 1
 NON LO DICE
 Piattaforma per i Treni Lotta in Singolo
 Piattaforma per i Treni Lotta in Doppio
-Piattaforma  per i Treni Lotta Multipla
-Piattaforma  per i Treni Lotta Wi-Fi
-Piattaforma  per i Supertreni Lotta in Singolo
+Piattaforma per i Treni Lotta Multipla
+Piattaforma per i Treni Lotta Wi-Fi
+Piattaforma per i Supertreni Lotta in Singolo
 Piattaforma per i Supertreni Lotta in Doppio
 Piattaforma per i Supertreni Lotta Multipla
-Piattaforma  per treni per Roteolia
+Piattaforma per treni per Roteolia
 Lavori in corso
 no data
 no data
