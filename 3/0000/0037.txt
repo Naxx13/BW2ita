@@ -1,15 +1,15 @@
-？？？『さきほどの　あなたっ！\xf000븁\x0000
-さしつかえなければ　あなたの\xfffeポケモンを　みせてもらいたいのです\xf000븁\x0000
-？？？『かんしゃ　します！\xf000븁\x0000
-？？？『なるほど！\xfffeですが　けんきゅう　ですから！\xf000븁\x0000
-ほーう！\xf000븁\x0000\xfffeなんとまあ！\xf000븁\x0000\xfffeあなたの　\xf000ā\x0001\x0000は\xfffeおなじ　しゅるいの　ポケモンよりも\xf000븀\x0000\xfffeじしんに　あふれていますね！\xf000븁\x0000\xfffeだが　あなたは　まだ\xfffeバッジが　３コの　トレーナー……！\xf000븁\x0000
-グレートですっ！\xf000븁\x0000\xfffeりゆうは　ふめい　ですが\xfffeあなたは　パートナーである\xf000븀\x0000\xfffeポケモンの　ちからを　ひきだしている\xf000븁\x0000
-いや　しっけい！　わたくしは\xfffeアクロマ　という　かがくしゃ　です\xf000븁\x0000\xfffeけんきゅうテーマは\xfffe「ポケモンの　ちからは\xf000븀\x0000\xfffe　なにに　よって　ひきだされるか？」\xf000븁\x0000
-ポケモンの　ちからを　ひきだすのは！\xfffeそれも　さいだいげんに　ひきだすのは\xf000븁\x0000\xfffeトレーナーとの　きずな　なのか\xfffeそれとも　べつの　しゅだん　なのか？\xf000븁\x0000
-それを　あなたと\xfffeたたかうことで　たしかめます……！\xf000븀\x0000\xfffeよろしいですね？\xf000븁\x0000
-では　このさき\xfffe４ばんどうろで　あいましょう！\xf000븁\x0000
-おぬしに　アドバイスじゃ！\xf000븁\x0000\xfffeつよく　なりたければ\xfffeたくさんの　トレーナーと　たたかい\xf000븁\x0000\xfffeおぬしの　ポケモンを\xfffeりかい　するのじゃー！\xf000븁\x0000
-ハイリンクに　フェスミッションの\xfffe『\xf000ŀ\x0001\x0000』が\xf000븀\x0000\xfffeついか　されました！
-ずっと　たたかいつづけていれば\xfffeいつしか　つよく　なっているだろ！
+???: Ehi, tu! Ti ho visto, prima!\xf000븁\x0000
+Se non disturbo, potrei vedere\xfffei tuoi Pokémon?\xf000븁\x0000
+???: Ti ringrazio!\xf000븁\x0000
+???: Ah, è così!\xfffePerò, sai, è per una ricerca!\xf000븁\x0000
+Ooh!\xf000븁\x0000\xfffeUoooh!!\xf000븁\x0000\xfffeCredo che il tuo　\xf000ā\x0001\x0000\xfffesia proprio di quel tipo!\xf000븀\x0000\xfffeSi, si, è così, senza dubbio!\xf000븁\x0000\xfffePerò non hai ancora\xfffetre medaglie...!\xf000븁\x0000
+Ottimo!!\xf000븁\x0000\xfffePer qualche ragione che non conosco,\xfffeil tuo Pokémon compagno sprizza\xf000븀\x0000\xfffeforza da tutti i pori!\xf000븁\x0000
+Modestamente, io sono lo scienziato\xfffeAcromio!\xf000븁\x0000\xfffeIl tema delle mie ricerche è\xfffeda dove i Pokémon traggono\xf000븀\x0000\xfffela loro forza!\xf000븁\x0000
+Trarre forza dai Pokémon!\xfffeE' grazie ai legami con gli Allenatori\xf000븀\x0000\xfffeche i Pokémon danno il massimo?\xf000븁\x0000\xfffeO è in qualche altro strano modo?\xf000븁\x0000
+Allora lo proverò lottando\xfffecontro di te...!\xf000븀\x0000\xfffeCi stai?\xf000븁\x0000
+Beh, ordunque, incontriamoci\xfffeal Percorso 4!\xf000븁\x0000
+Devo avvisarti!\xf000븁\x0000\xfffeDiventerai forte, e lotterai\xfffecon molti allenatori!\xf000븁\x0000\xfffeCosì facendo, potrai capire meglio\xfffei tuoi Pokémon!\xf000븁\x0000
+Nell'intramondo è stata\xfffeaggiunta la nuova Missione Fes\xf000븀\x0000\xfffe"\xf000ŀ\x0001\x0000"!
+Sicuramente, se continuerai a lottare,\xfffediventerai forte in men che non si dica!
 Austropoli, Piazza Centrale\xfffeAvanti: Percorso 4
 Avanti: Strada della Moda\xfffeAustroghiaccio e AustroStudio
