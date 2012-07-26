@@ -1,24 +1,24 @@
-La gente lavora in questo edificio\xfffenon litigare per le loro opinioni,\xf000븀\x0000solo Pokémon!\xf000븁\x0000You look decently strong, but\xfffeif you're going to the upper floor,\xf000븀\x0000be as careful as you need to be!\xf000븁\x0000
-おっと!　よければ\xfffeこれを　ポケモンに!\xf000븁\x0000
-それは　がくしゅうそうち!\xf000븁\x0000\xfffeがくしゅうそうちを　もたせた\xfffeポケモンは　たたかわなくても\xf000븀\x0000\xfffeけいけんちを　わけてもらえるよ!\xf000븁\x0000\xfffeまだ　よわい　ポケモンを\xfffeそだてるのに　やくだつかもね!\xf000븁\x0000
-わたしは　おそうじおじさん♪\xfffeきれい　きれいに　したいのよ♪\xf000븁\x0000
-Benvenuto!\xf000븁\x0000\xfffeIf you use the elevator, please use the\xfffebuttons on the door or next to the door.
-Ogni mattina, my Pokémon wakes me\xfffewith Wake-Up Slap, so I always look like\xf000븀\x0000\xfffea wreck.\xf000븁\x0000\xfffeBut I appreciate its good intentions, so\xfffeI'll work my hardest to provide for it\xf000븀\x0000\xfffetoday, as always.
-Questo è un Pokédex\xfffeyou have there, isn't it?!\xf000븁\x0000Ohhh! Awesome!\xfffeYou're a Pokémon collector!\xf000븁\x0000I gotcha!\xfffeI'll help you out!\xf000븁\x0000Hey, so, what Pokémon\xfffedid you pick first?
-Snivy!\xfffeWell, take this!\xf000븁\x0000It raises the power of grass moves\xfffefor any Pokémon that holds it!\xf000븁\x0000
-Oshawott!\xfffeWell, take this!\xf000븁\x0000It raises the power of water moves\xfffefor any Pokémon that holds it!\xf000븁\x0000
-Tepig!\xfffeWell, take this!\xf000븁\x0000It raises the power of fire moves\xfffefor any Pokémon that holds it!\xf000븁\x0000
-There are lots of items that\xfffetake effect when Pokémon hold them,\xf000븀\x0000so search 'em out!\xf000븁\x0000Well, good luck in\xfffegetting those Pokédex pages filled!
+La gente che lavora in questo edificio\xfffenon litiga per le loro opinioni,\xf000븀\x0000solo per Pokémon!\xf000븁\x0000Sembri abbastanza forte, ma se\xfffevai al piano superiore,\xf000븀\x0000sii prudente!!\xf000븁\x0000
+Ah, ops! Se vuoi, dai questo\xfffeai tuoi Pokémon!\xf000븁\x0000
+Quello è il Condividi Esp.!\xf000븁\x0000\xfffeIl Pokémon che lo tiene, anche se\xfffeon lottera, riceverà lo stesso\xf000븀\x0000\xfffedei Punti Esperienza!\xf000븁\x0000\xfffeE' molto utile per allenare\xfffePokémon deboli!\xf000븁\x0000
+Io sono il netturbino!♪\xfffePulisco, pulisco, voglio pulire!♪\xf000븁\x0000
+Benvenuto!\xf000븁\x0000\xfffeSe usi l'ascensore, per favore usa\xfffei pulsanti vicino alla porta.
+Ogni mattina, i miei Pokémon mi svegliano\xfffecon Svegliopacca, così sembro sempre\xf000븀\x0000\xfffemalandato.\xf000븁\x0000\xfffeMa apprezzo le loro buone intenzioni,\xfffeperciò oggi lavorerò a più non posso\xf000븀\x0000\xfffeper loro, come sempre.
+E' un Pokédex\xfffequello che hai lì, no?!\xf000븁\x0000Ohhh! Fantastico!\xfffeCollezioni Pokémon!\xf000븁\x0000Capito!\xfffeTi aiuterò!\xf000븁\x0000Ehi, allora, che Pokémon hai scelto\xfffeall'inizio della tua avventura?
+Snivy!\xfffeAllora prendi questo!\xf000븁\x0000Aumenta la forza delle mosse d'erba\xfffeal Pokémon che lo tiene!\xf000븁\x0000
+Oshawott!\xfffeAllora prendi questo!\xf000븁\x0000Aumenta la forza delle mosse d'acqua\xfffeal Pokémon che lo tiene!\xf000븁\x0000
+Tepig!\xfffeAllora prendi questo!\xf000븁\x0000Aumenta la forza delle mosse di fuoco\xfffeal Pokémon che lo tiene!\xf000븁\x0000
+Ci sono molti strumenti che\xfffehanno effetto quando un Pokémon li tiene,\xf000븀\x0000trovali tutti!\xf000븁\x0000Beh, buona fortuna nel riempire\xfffeil tuo Pokédex!
 Snivy
 Oshawott
 Tepig
 Indietro
-Vuoi Snivy？
-Vuoi Oshawott？
-Vuoi Tepig？
+Snivy?
+Oshawott?
+Tepig?
 Allora, quale Pokémon hai scelto\xfffeper iniziare l'avventura？
-If you want to tell me, please speak\xfffeto me!
-レッツ　トライ　ヒウンラリー!\xfffeバトルカンパニー　オーケー!!
-バトルカンパニーは　ポケモンと\xfffeトレーナーのための　どうぐを\xf000븀\x0000\xfffeいろいろ　かいはつ　してるー!
-This is Battle Company.\xfffeResearch and Development of Items!
-Burgh's signature is scrawled in the\xfffecorner of the painting.
+Se vuoi dirmelo, parlami senza\xfffetimore!
+Corsa di Austropoli!\xfffeCompagnia di Lotta, ok!!
+La Compagnia di Lotta sviluppa molti\xfffestrumenti per i Pokémon\xf000븀\x0000\xfffedegli Allenatori!
+Questa è la Compagnia di Lotta.\xfffeRicerca e Sviluppo di Strumenti!
+La firma di Artemisio è scarabocchiata\xfffein un angolo del dipinto.
