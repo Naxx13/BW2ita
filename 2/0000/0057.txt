@@ -1,4 +1,4 @@
-Premi il tasto A per iniziare\xfffela connessione infrarossi\xf000\xbe01\x0000\xfffetcon il tuo avversario.
+Premi il tasto A per iniziare\xfffela connessione infrarossi\xf000븀\x0000\xfffecon il tuo avversario.
 Ogni giocatore ha scelto\xfffeun diverso torneo.
 Il tuo avversario è stato trovato!
 Per iniziare a giocare\xfffepremi il tasto A.
@@ -8,5 +8,5 @@ Hai pareggiato
 Collegamento in corso.
 Partecipa in Wi-Fi
 Partecipa all'evento del torneo
-View digital player award
+Mostra premi
 Indietro
