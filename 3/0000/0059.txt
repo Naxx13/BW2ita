@@ -5,16 +5,16 @@
 あたしの　ポケモン...\xfffeどこに　きえたのかしら...?
 あたしの　ポケモン!\xfffeズルッグが　もどってきたの...!\xf000븁\x0000\xfffeプラズマだんに\xfffeつかまって　いたのか...\xf000븁\x0000\xfffeはぐれていたのが\xfffeじりきで　もどってきたのか...\xf000븀\x0000\xfffeわからないけど　とにかく　サイコー!
 グッルッズウ!
-My name is Mr. Lock.\xf000븁\x0000\xfffeI'm a magical clown who can\xfffeopen anything.\xf000븁\x0000\xfffeYour name is \xf000Ā\x0001\x0000.\xfffeI'll see you again, I'm sure.
-You have a Lock Capsule in your Bag...\xf000븁\x0000\xfffeI am the only one in the whole world\xfffewho can open the capsule.\xf000븁\x0000\xfffeI can open it in the blink of an eye!\xf000븁\x0000
-Look! As you can see, I opened it swiftly\xfffeand with precision!\xf000븁\x0000\xfffeInside the capsule...\xfffeWhat your heart most desires...\xf000븀\x0000\xfffea Technical Machine!\xf000븁\x0000
-Hm. There's a letter with the\xfffeTechnical Machine...\xf000븁\x0000
-“I entrust the Technical Machine in the\xfffeLock Capsule to a trustworthy Trainer in\xf000븀\x0000\xfffethe Unova region.\xf000븁\x0000\xfffeDon't allow it to fall into the hands of\xfffevillains like Team Rocket..."\xf000븁\x0000
-More is written here...\xf000븁\x0000\xfffe“TM95 is Snarl.\xfffeIt's a Dark-type Special Attack, and\xf000븀\x0000\xfffeit lowers the opponents' Sp. Atk stat."\xf000븁\x0000\xfffeSo that's what it is...a move that tests\xfffethe sense of the user!
-Even though I opened the Lock Capsule,\xfffeI can't unlock a closed heart.\xf000븁\x0000\xfffeI am a sad clown, indeed...
-I secretly invented a special machine.\xf000븁\x0000\xfffeOnly people who know the secret\xfffepassword can use it.\xf000븁\x0000
-There's more!\xf000븁\x0000
-This is the password that will enable you\xfffeto use the Relocator I invented!\xf000븁\x0000\xfffeIt's a superb machine that will swiftly\xfffefetch a special Pokémon or item\xf000븀\x0000\xfffeby connecting to a special network.
-I added a button on the main menu.\xf000븁\x0000\xfffePlease save the game, then go back to\xfffethe title screen!
-Unfortunately, it seems that you don't\xffferemember the password...
-Did you find my Relocator useful?
+Io mi chiamo Mister Grimaldello e sono\xfffeun pagliaccio con il potere di aprire\xf000븀\x0000\xfffequalunque cosa...\xf000븁\x0000\xfffeIl tuo nome è \xf000Ā\x0001\x0000, giusto?\xfffeSpero di rivederti ancora!
+Nella tua Borsa hai una Capsula Scrigno.\xf000븁\x0000\xfffeL'unica persona al mondo che possa\xfffeaprirla sono io.\xf000븁\x0000\xfffeGuarda! Te la apro in un baleno!\xf000븁\x0000
+Ecco, come vedi, l'ho aperta senza\xfffeproblemi.\xf000븁\x0000\xfffeE dentro c'è qualcosa che ti farà molto\xfffepiacere: una MT!\xf000븁\x0000
+Oh, guarda guarda... assieme alla MT c'è\xfffeanche una lettera.\xf000븁\x0000
+“Affido la Macchina Tecnica racchiusa\xfffenella Capsula Scrigno a un rispettabile\xf000븀\x0000\xfffeAllenatore di Unima.\xf000븁\x0000\xfffeFa' in modo che non cada nelle mani del\xfffeTeam Rocket o di altri malvagi."\xf000븁\x0000
+Oh! La lettera continua:\xf000븁\x0000\xfffe“La MT95 è Urlorabbia, una mossa\xfffespeciale di tipo Buio che diminuisce\xf000븀\x0000\xfffel'Attacco Speciale dei nemici."\xf000븁\x0000\xfffeCome puoi ben immaginare, è una mossa\xfffeche va usata al momento giusto!
+Neppure io che ho aperto la Capsula\xfffeScrigno conosco il segreto per aprire\xf000븀\x0000\xfffeil cuore degli esseri umani.\xf000븁\x0000\xfffeSono un pagliaccio alquanto triste...
+Ho costruito di nascosto un congegno\xfffespeciale.\xf000븁\x0000\xfffeSolo chi conosce la password può usarlo.\xf000븁\x0000
+Non ho finito!\xf000븁\x0000
+La password è giusta!\xf000븁\x0000\xfffeTi affido il mio Trasferitore!\xf000븁\x0000\xfffeCollegandosi a una data rete, potrà\xfffeprocurarti Pokémon e strumenti speciali.\xf000븀\x0000\xfffeÈ un congegno strabiliante!
+Aggiungerò al menu di avvio una nuova\xfffevoce da selezionare!\xf000븁\x0000\xfffeSalva i tuoi progressi di gioco e vai a\xfffedarci un'occhiata appena puoi!
+Peccato, non hai inserito correttamente\xfffela password!
+Allora, il mio Trasferitore ti è utile?
