@@ -1,14 +1,14 @@
 Le medaglie della regione di Unima!\xfffeVuoi informazioni?
-Okey, se vuoi sapere \xfffeinformazioni, per favore torna indietro
-Con la Medaglia Base, fino al livello 20 \xfffei Pokèmon obbediranno senza problemi.\xf000븀\x0000
-Con la Medaglia Tossica, fino al livello 30 \xfffei Pokèmon obbediranno senza problemi.\xf000븀\x0000
-Con la Medaglia Scarabeo fino al livello 40 \xfffei Pokèmon obbediranno senza problemi.\xf000븀\x0000
-Con la Medaglia Volt, fino al livello 50 \xfffei Pokèmon obbediranno senza problemi.\xf000븀\x0000
-Con la Medaglia Sisma, fino al livello 60 \xfffei Pokèmon obbediranno senza problemi.\xf000븀\x0000
-Con la Medaglia Jet, fino al livello 70 \xfffei Pokèmon obbediranno senza problemi.\xf000븀\x0000
-Con la Medaglia Leggenda, fino al livello 80 \xfffei Pokèmon obbediranno senza problemi.\xf000븀\x0000
-Con la Medaglia Onda, i Pokèmon di tutti i livelli \xfffeobbediranno senza problemi.\xf000븀\x0000
-Su Quale medaglia \xfffevuoi delle informazioni?  
+Ok, se vuoi informazioni\xfffetorna a trovarmi!
+Con la Medaglia Base, fino al livello 20 \xfffei Pokèmon obbediranno senza problemi.\xf000븁\x0000
+Con la Medaglia Tossica, fino al livello 30 \xfffei Pokèmon obbediranno senza problemi.\xf000븁\x0000
+Con la Medaglia Scarabeo fino al livello 40 \xfffei Pokèmon obbediranno senza problemi.\xf000븁\x0000
+Con la Medaglia Volt, fino al livello 50 \xfffei Pokèmon obbediranno senza problemi.\xf000븁\x0000
+Con la Medaglia Sisma, fino al livello 60 \xfffei Pokèmon obbediranno senza problemi.\xf000븁\x0000
+Con la Medaglia Jet, fino al livello 70 \xfffei Pokèmon obbediranno senza problemi.\xf000븁\x0000
+Con la Medaglia Leggenda, fino al livello 80 \xfffei Pokèmon obbediranno senza problemi.\xf000븁\x0000
+Con la Medaglia Onda, i Pokèmon di tutti i livelli \xfffeobbediranno senza problemi.\xf000븁\x0000
+Su Quale medaglia\xfffevuoi delle informazioni?  
 Medaglia Base
 Medaglia Tossica  
 Medaglia Scarabeo
@@ -18,5 +18,5 @@ Medaglia Jet
 Medaglia Leggenda
 Medaglia Onda
 Indietro
-Quando guardo giù \xfffedall' edificio, tremo...\xf000븁\x0000\xfffenon mi piace \xfffestare così in alto...
+Quando guardo giù dall'edificio,\xfffemi vengono le vertigini...\xf000븁\x0000\xfffeNon mi piace essere così in\xfffein alto...
 Groaf groaf ！
