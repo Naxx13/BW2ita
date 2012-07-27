@@ -1,12 +1,12 @@
-たいせんする　あいてと\xfffeせきがいせん　つうしん　します\xf000븁\x0000\xfffeあいてに　せきがいせんを　あわせて\xfffeＡボタンを　おしてください
-おたがいの　えらんでいる\xfffeたいかいが　ちがいます
+Premi il tasto A per iniziare\xfffela connessione infrarossi\xf000\xbe01\x0000\xfffetcon il tuo avversario.
+Ogni giocatore ha scelto\xfffeun diverso torneo.
 Il tuo avversario è stato trovato!
 Per iniziare a giocare\xfffepremi il tasto A.
 Hai vinto
 Hai perso
-E 'un pareggio
-つうしん　たいきちゅう
-Ｗｉ－Ｆｉたいかいに　さんか
+Hai pareggiato
+Collegamento in corso.
+Partecipa in Wi-Fi
 Partecipa all'evento del torneo
-デジタルせんしゅしょうを　みる
-Back
+View digital player award
+Indietro
