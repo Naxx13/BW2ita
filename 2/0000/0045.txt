@@ -9,17 +9,17 @@ Qualsiasi livello
 Fresco
 Carino
 Pauroso
-Non è strano
-Qualsiasi cosa
-Ricerca diplomatica
-Stai cercando \xfffeil tuo avversario potrebbe metterci a lungo ......
-Annullato
+Strano
+Qualsiasi tipo
+Cerca scambi
+Ricerca della persona\xfffecon cui fare lo scambio ......
+CANCELLA
 Abbiamo ottenuto le informazioni dell'avversario
 Il Partner di scambio è stato trovato!
 Cerca
 Si prega di selezionare \xfffela persona che si desidera scambiare
 Si prega di premere il tasto di ricerca \xfffeper decidere l' opzione desiderata
-Scambio con l' amico
+Scambio con l'amico
 Scegliere il Pokèmon da sostituire
 Vuoi questo Pokèmon?
 Vuoi dare questo Pokèmon?
@@ -27,22 +27,22 @@ Si
 No
 Appuntamento
 \xf000Ā\x0001\x0000 \xf000봃\x0001\x0001ＩＤ：\xf000Ȅ\x0001\x0001\xfffe\xf000Ĥ\x0001\x0002
-Qui puoi incontrare persone.\.xfffenon è ancora pronto
+Qui puoi incontrare persone.\xfffenon è ancora pronto
 Incontro patner
 Vuoi incontrare degli allenatori?
-Scegliere \xfffeil patner
-Vuoi settere?
+Scegliere\xfffeil patner
+Chiudi
 \xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
 saluto
-\xf000봃\x0001\x0001\xf000Ȅ\x0001\x0000avete
+\xf000봃\x0001\x0001\xf000Ȅ\x0001\x0000
 \xf000봂\x0000\xf000Ā\x0001\x0000
-Vuoi abbandonare?
-Premi per avviare lo scambio!
-\xf000봃\x0001\x0001Funzionalità
-Dove vivi?
+Fermare la ricerca?
+Lo scambio verrà avviato!
+\xf000봃\x0001\x0001No. di contratti
+Posizione
 Vuoi scollegarti\xfffedalla wi-fi connection?
 Pokemon a disposizione \xfffeper il trasferimento 
 Incontro con tutti
 Connessione con la persona fallita\xfffevuoi cambiare dei Pokèmon?
-Rimuovere la 
+Elimina 
 Aggiungere il 99
