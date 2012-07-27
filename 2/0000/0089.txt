@@ -27,8 +27,8 @@ Saleziona una delle\xfffesei missioni.
 Seleziona la missione.
 Non puoi accettare questa missione\xfffequando tre mondi sono conessi.
 Non puoi accettare questa missione quando\xfffehai ospiti nel tuo Entralink.
-ミッションを　えらぶことで\xfffeあいてを　たすけることが　できます\xf000븁\x0000\xfffeまず　はじめに　このなかから\xfffe『サポート　ミッション』を　えらび\xf000븀\x0000\xfffeミッションを　かいしして　ください
-べつの　ミッションを\xfffeえらんで　います\xf000븁\x0000\xfffeまずは　『サポート　ミッション』を\xfffeえらんで　かいしして　ください
+Selezionando una missione\xfffepuoi aiutare gli altri.\xf000븁\x0000\xfffeSi prega di selezionare “MISSIONE DI\xfffeSUPPORTO" e iniziare una missione.
+E' stata selezionata una missione errata.\xf000븁\x0000\xfffeSi prega di selezionare\xfffe“MISSIONE DI SUPPORTO" per iniziare.
 \xf000ȃ\x0001\x0000こ
 SI
 NO
