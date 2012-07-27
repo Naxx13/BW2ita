@@ -1,16 +1,16 @@
 Ho scelto la parola！
-たいせんまえの　ことばを　かんがえよう
-かったときの　きめゼリフを　かんがえよう
-まけたときの　いいわけを　かんがえよう
-はやっている　ものは？
-ユニオンあいさつを　かんがえよう
-これで　いいですか？
-なにか　ことばを　いれてください！
-なにも　しないで　やめますか？
+Think up a pre-battle intro!
+Think up a cool winning line!
+Think up a losing excuse!
+Cos'è trendy?
+Think up a Union greeting!
+Va bene?
+Put in a word!
+Stop entering?
 Si
 No
-グループ\xfffeモード
-あいうえお\xfffeモード
+Modalità\xfffeGruppo
+Modalità\xfffeABC
 USA
 CONFERMA
 ESCI
