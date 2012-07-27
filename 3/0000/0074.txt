@@ -2,11 +2,11 @@
 きらり きらきら まばゆい\xfffeファッションショー!
 ピエロの メイクには\xfffeなみだマークが ついているんですって
 ジェットコースターに かんらんしゃ!\xfffeどっちから たのしもうかなー!
-The Xtransceiver has been picked up!
-\xf000\x0100\x0001\x0000 picked up the Xtransceiver.\xf000\xbe01\x0000
-The Xtransceiver has been picked up!
-\xf000\x0100\x0001\x0000 picked up the Xtransceiver.\xf000\xbe01\x0000
-Nimbasa City Pokémon Gym\xfffeLeader: Elesa\xf000\xbe00\x0000\xfffeThe Shining Beauty
+Il ricetrasmettitore X è stato raccolto!
+\xf000\x0100\x0001\x0000Raccogli il ricetrasmettitore X.\xf000\xbe01\x0000
+Il ricetrasmettitore X è stato raccolto!
+\xf000\x0100\x0001\x0000Raccogli il ricetrasmettitore X..\xf000\xbe01\x0000
+Palestra di Sciroccopoli\xfffeCapopalestra:Camelia\xf000\xbe00\x0000\xfffeUna beltà splendente
 あー あーああっあー♪\xf000\xbe01\x0000\xfffeはっ はじめての デートで\xfffeなにを はなせば...
 かれったら ゆうえんち でも\xfffeギターを ならしてばかり...\xf000\xbe01\x0000\xfffeステキ! こころから\xfffeおんがくを あいしているのね!
 た! たぶんね!!
@@ -14,4 +14,4 @@ Nimbasa City Pokémon Gym\xfffeLeader: Elesa\xf000\xbe00\x0000\xfffeThe Shining 
 てゅう♪
 ぐほっお!!
 ジェットコースターの いいところ\xfffeそれは こころから さけべるところね
-シャイニング ジェットコースター\xfffe...もとNimbasa Pokémon Gym
+シャイニング ジェットコースター\xfffe...もとPalestra di Sciroccopoli
