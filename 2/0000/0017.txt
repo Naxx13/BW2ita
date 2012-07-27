@@ -198,24 +198,24 @@ Ma non è il luogo dove questo strumento \xfffepuò essere usato!
 Cadutalibera non lascia andare \xf000Č\x0001\x0000!
 L' incontro è stato perduto.
 (\xf000Ȁ\x0001\x0000) Metronomo \xf000Ȃ\x0001\x0001:\xf000ć\x0001\x0002
-あっ！　やせい？の\xfffe\xf000ā\x0001\x0000が　あらわれた！
-Scena ０１
-Scena ０２
-Scena ０３
-Scena ０４
-Scena ０５
-Scena ０６
-Scena ０７
-Scena ０８
-Scena ０９
-Scena １０
-Scena １１
-Scena １２
-Scena １３
-Scena １４
-Scena １５
-Scena １６
-Scena １７
-Scena １８
-Scena １９
-Scena ２０
+Oh！Un selvatico\xfffe\xf000ā\x0001\x0000è apparso！
+Scena 01
+Scena 02
+Scena 03
+Scena 04
+Scena 05
+Scena 06
+Scena 07
+Scena 08
+Scena 09
+Scena 10
+Scena 11
+Scena 12
+Scena 13
+Scena 14
+Scena 15
+Scena 16
+Scena 17
+Scena 18
+Scena 19
+Scena 20
