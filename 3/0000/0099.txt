@@ -1,5 +1,5 @@
-A sports game, like baseball or football,\xfffestarts at a certain time every day.\xf000븁\x0000\xfffeThat's in Big Stadium!
-In the Small Court, you can find games of\xfffebasketball and tennis.
-Oh...?\xf000븁\x0000\xfffeOh, my!\xf000븁\x0000\xfffeYour \xf000ā\x0001\x0000 seems to like you!\xf000븁\x0000\xfffeThat's so nice to see. Makes me want\xfffeto give you this!\xf000븁\x0000
-If a Pokémon holds a Soothe Bell, it will\xfffebecome more friendly to you.
-Oh...?\xf000븁\x0000\xfffeOh, my!\xf000븁\x0000\xfffeYour \xf000ā\x0001\x0000's feelings\xfffetoward you seem to be neutral.\xf000븁\x0000\xfffeIf you can win its friendship,\xfffeI will give you something nice!わ
+Partite di baseball o football,\xfffeiniziano a una certa ora ogni giorno.\xf000븁\x0000\xfffeQuesto nello Stadio Stellare!
+Nel campo da gioco piccolo, puoi trovare il\xfffebasket e il tennis. 
+Oh...?\xf000븁\x0000\xfffeOh, guarda!\xf000븁\x0000\xfffeIl tuo Pokémon\xf000ā\x0001\x0000 è molto affezionato a te!\xf000븁\x0000\xfffeMi fa piacere. Mi fa venir voglia\xfffedi darti questo!\xf000븁\x0000
+Il Pokemon che tiene Calmanella si\xfffeaffeziona molto all'Allenatore.
+Oh...?\xf000븁\x0000\xfffeOh, guarda!\xf000븁\x0000\xfffeIl tuo Pokémon \xf000ā\x0001\x0000sembra comportarsi\xfffein modo neutrale nei tuoi confronti.\xf000븁\x0000\xfffeSe riesci a farlo affezionare a te,\xfffeti darò qualcosa di bello!わ
