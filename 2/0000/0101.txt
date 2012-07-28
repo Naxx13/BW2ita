@@ -1,5 +1,5 @@
-Tuo nome?
-\xf000ā\x0001\x0000nickname?
+Il tuo nome?
+Il soprannome di \xf000ā\x0001\x0000?
 Nome box?
 Il nome del tuo rivale?
 Il nome del tuo amico?
