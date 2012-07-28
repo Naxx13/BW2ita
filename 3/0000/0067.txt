@@ -1,33 +1,33 @@
-Ehi allenatore!\xfffeアタシは　マコモ\xf000븁\x0000\xfffeトレーナーについての\xfffeけんきゅうを　しています！\xf000븁\x0000
-その　けんきゅうに　かかせないのが\xfffeずばり　\xf000\xff00\x0001\x0002ゲームシンク　\xf000\xff00\x0001\x0000なの！\xf000븁\x0000\xfffeそれでは\xfffeトレーナーの　レポートを　あつめる\xf000븀\x0000\xfffeシステムについて　せつめい　します\xf000븁\x0000
-\xf000\xff00\x0001\x0002ゲームシンク\xf000\xff00\x0001\x0000　というのは\xfffeねむらせた　ポケモンの　きおくを\xf000븀\x0000\xfffeとりだす　システム　なの！\xf000븁\x0000\xfffeつまり！　せかいじゅうの　トレーナーの\xfffeレポートを　あつめられるの！！\xf000븁\x0000
-さらに　\xf000\xff00\x0001\x0002ゲームシンク\xf000\xff00\x0001\x0000で\xfffeねむらせた　ポケモンは\xf000븀\x0000\xfffeねている　あいだに　ゆめをみるの\xf000븁\x0000\xfffeで　\xf000\xff00\x0001\x0002ゲームシンク\xf000\xff00\x0001\x0000で　ねむらせた\xfffeポケモンを　おこすと\xf000븁\x0000\xfffeその　ポケモンが　みた　ゆめは\xfffeイッシュちほうの　ちゅうしんに　ある\xf000븁\x0000\xfffe\xf000\xff00\x0001\x0001ハイリンク\xf000\xff00\x0001\x0000という　くうかんで\xfffeげんじつと　なっているのよ！！\xf000븁\x0000\xfffe\xf000\xff00\x0001\x0002ゲームシンク\xf000\xff00\x0001\x0000って　すごいでしょ！\xfffeアナタも　レポートを　おくってみてね\xf000븁\x0000\xfffeくわしいことは　あたしの\xfffeじょしゅが　まとめているから\xf000븀\x0000\xfffeよければ　はなしかけてみてね！
-Zaina『\xf000\xff00\x0001\x0002 Sincrogioco \xf000\xff00\x0001\x0000って　すごいでしょ！\xfffeアナタも　レポートを　おくってみてね\xf000븁\x0000\xfffeくわしいことは　あたしの\xfffeじょしゅが　まとめているから\xf000븀\x0000\xfffeよければ　はなしかけてみてね！
-Zaina『あら　アナタも\xfffeレポートを　おくってくれたのね\xf000븁\x0000\xfffeトレーナーの　けんきゅうを　していて\xfffeアナタの　レポートが　あったわ！\xf000븁\x0000\xfffeどう？\xfffe\xf000\xff00\x0001\x0002ゲームシンク\xf000\xff00\x0001\x0000って　すごいでしょ！
-あなた　トレーナー？\xf000븁\x0000\xfffeじゃあ　ポケモンセンターの\xfffeパソコン　つかっていますか？\xf000븁\x0000\xfffeあたし　あの　ボックスを\xfffeかんりしています　ショウロです\xf000븁\x0000
-あっ！\xfffeともだちてちょうを　おもちですね！\xf000븁\x0000\xfffeその　ともだちてちょう　に\xfffeとうろくした　おともだちと\xf000븀\x0000\xfffeＷｉ－Ｆｉコネクションを　つかって\xf000븁\x0000\xfffeポケモンたいせん　や\xfffeポケモンこうかん　を\xf000븀\x0000\xfffeたのしむことが　できるのよ\xf000븁\x0000\xfffeとうろくの　しかたを\xfffeくわしく　せつめい　するとね\xf000븁\x0000\xfffeバッグの　たいせつなものの　なかの\xfffeともだちてちょうを　つかって\xf000븀\x0000\xfffeともだちから　おそわった　コードを\xf000븀\x0000\xfffeちょくせつ　にゅうりょくするか\xf000븁\x0000\xfffeＣギアの　ＩＲつうしんを　つかえば\xfffeばっちり　とうろく　できます！\xf000븁\x0000
-Shouro: Vuoi sapere\xfffequalcosa da me?
+Ehi allenatore!\xfffeIo sono Zania!\xf000븁\x0000\xfffeSono una ricercatrice, e le mie ricerche\xfffesono rivolte agli Allenatori!\xf000븁\x0000
+Queste ricerche hanno portato ad un sistema\xfffechiamato \xf000\xff00\x0001\x0002Sincrogioco\xf000\xff00\x0001\x0000!\xf000븁\x0000\xfffeGrazie al Sincrogioco, è possibile raccogliere\xfffei salvataggi di molti Allenatori!\xf000븀\x0000\xfffeOra ti spiego meglio come funziona.\xf000븁\x0000
+Il \xf000\xff00\x0001\x0002Sincrogioco\xf000\xff00\x0001\x0000 permette di estrarre\xfffei ricordi da un Pokémon addormentato!\xf000븁\x0000\xfffeIn altre parole, permette di raccogliere\xfffei salvataggi degli Allenatori sparsi\xf000븀\x0000\xfffeper il mondo!\xf000븁\x0000
+Inoltre, nel \xf000\xff00\x0001\x0002Sincrogioco\xf000\xff00\x0001\x0000, i Pokémon\xfffeaddormentati, mentre riposano, sognano!\xf000븁\x0000\xfffeDi conseguenza, questi sogni diventano\xffferealtà in un luogo posto al centro\xf000븀\x0000\xfffedella regione di Unima, detto\xf000븀\x0000\xfffe\xf000\xff00\x0001\x0001Intramondo\xf000\xff00\x0001\x0000!!\xf000븁\x0000\xfffeNon credi anche tu che il \xf000\xff00\x0001\x0002Sincrogioco\xf000\xff00\x0001\x0000\xfffesia fantastico?! Prova anche te a\xf000븀\x0000\xfffeinviare il tuo salvataggio! Se avessi\xf000븀\x0000\xfffebisogno di maggiori informazioni,\xf000븀\x0000\xffferivolgiti alla mia assistente!
+Zaina: Il \xf000\xff00\x0001\x0002Sincrogioco\xf000\xff00\x0001\x0000 è fantastico!\xfffeProva anche tu ad inviare il\xf000븀\x0000\xfffetuo salvataggio!\xf000븁\x0000\xfffeSe avessi bisogno di maggiori\xfffeinformazioni, rivolgiti alla\xf000븀\x0000\xfffemia assistente!
+Zaina: Ah, prova anche tu a\xfffeinviare il tuo salvataggio!\xf000븁\x0000\xfffePotrai contribuire alle mie\xfffericerche!\xf000븁\x0000\xfffeAllora?\xf000븁\x0000\xfffeNon credi che il \xf000\xff00\x0001\x0002Sincrogioco\xf000\xff00\x0001\x0000 sia\xfffefantastico?!
+Sei un Allenatore?\xf000븁\x0000\xfffeAllora userai il PC che c'è\xfffein ogni Centro Pokémon!\xf000븁\x0000\xfffeIo sono Mico! E mi occupo di gestire\xfffee di controllare quel PC!\xf000븁\x0000
+Ah!\xfffeTieni questo!\xf000븁\x0000\xfffeÈ il tuo nuovo Blocco Amici, nel quale puoi\xffferegistrare i tuoi amici.\xf000븁\x0000\xfffeUna volta registrati, potrai comunicare\xfffecon loro mediante la Nintendo Wi-Fi\xf000븀\x0000\xfffeConnection per scambiare Pokémon,\xf000븀\x0000\xfffelottare e molto altro.\xf000븁\x0000\xfffeTi spiego come registrare i tuoi amici!\xf000븁\x0000\xfffeApri il Blocco Amici che trovi nella\xfffeTasca Strumenti Base della tua Borsa.\xf000븁\x0000\xfffePuoi inserire direttamente il codice amico\xfffeche vuoi registrare, oppure usare il\xf000븀\x0000\xfffecollegamento a infrarossi del C-Gear!\xf000븁\x0000
+Mico: Hai bisogno di qualche\xfffeinformazione?
 Box
 Box Lotta
 Blocco Amici
 Indietro
-１つの　ボックスには　つかまえた\xfffeポケモンを　３０ぴき　あずけられます\xf000븁\x0000\xfffeさいしょは　８こしか　ない\xfffeボックスですが　あずければ\xf000븀\x0000\xfffeどんどん　ふえていきますよ！
-バトルボックスには\xfffeたいせんで　よくつかう　ポケモンを\xf000븀\x0000\xfffe１～６ひき　とうろく　しておけます\xf000븁\x0000\xfffeせきがいせんで　たいせん　するときは\xfffeバトルボックスに　とうろく　した\xf000븀\x0000\xfffeポケモンでも　しょうぶ　できるの！\xf000븁\x0000\xfffeポケモンを　いれかえなくて　べんりよ
-ともだちてちょうに\xfffeともだちを　とうろく　するには\xf000븁\x0000\xfffeバッグの　たいせつなものの　なかの\xfffeともだちてちょうを　つかって\xf000븀\x0000\xfffeともだちから　おそわった　コードを\xf000븀\x0000\xfffeちょくせつ　にゅうりょくするか\xf000븁\x0000\xfffeＣギアの　ＩＲつうしんを　つかえば\xfffeばっちり　とうろく　できます！
+Ogni Box può contenere fino a 30\xfffePokémon!\xf000븁\x0000\xfffeCi sono 8 Box in cui puoi depositare\xfffei Pokémon che catturi, ma se\xf000븀\x0000\xfffete ne servissero di più, essi\xf000븀\x0000\xfffeaumenteranno automaticamente!
+Nel Box Lotta puoi registrare da uno a\xfffesei Pokémon che usi spesso nella lotta.\xf000븁\x0000\xfffeNelle lotte che si svolgono tramite\xfffeil collegamento a infrarossi potrai\xf000븀\x0000\xfffescegliere se usare i Pokémon presenti\xf000븀\x0000\xfffenel Box Lotta o quelli che hai in squadra!\xf000븁\x0000\xfffeComodo, vero?
+Per registrare gli amici nel Blocco Amici,\xfffeapri il Blocco Amici che trovi nella Tasca \xf000븀\x0000\xfffeStrumenti Base della tua Borsa.\xf000븁\x0000\xfffePuoi inserire direttamente il codice\xfffedell'amico che vuoi registrare, o usare\xf000븀\x0000\xfffeil collegamento a infrarossi del C-Gear!
 Io usavo le scatole per catturare\xfffei Pokémon più velocemente!
-Ah! C'è una scatola mai aperta\xfffeche è stata lasciata lì?\xf000븁\x0000\xfffeC'è un Eevee che è stato \xfffeabbandonato qui da molto tempo!\xf000븀\x0000\xfffeCosa fare ora?
-Un tizio dalla regione \xfffedi Kanto ha abbandonato un Eevee!\xf000븁\x0000
+Ah! C'è una scatola mai aperta\xfffeche è stata lasciata lì!\xf000븁\x0000\xfffeContiene un Eevee che è stato \xfffeabbandonato qui da molto tempo!\xf000븀\x0000\xfffeVuoi prenderlo tu?
+Un signore della regione di Kanto ha\xfffeabbandonato qui un Eevee!\xf000븁\x0000
 \xf000Ā\x0001\x0000\xfffeha ricevuto un Eevee!
-Vuoi dare a\xfffeEevee un nickname?
-Ah! つれている\xfffeポケモンが　いっぱい　ですね\xf000븁\x0000\xfffeこんなときは　ボックスに\xfffeあずけて　くださいね！
-ざんねん　です\xf000븁\x0000\xfffeでも　きが　かわったら\xfffeまた　はなしかけてください！
-イーブイは　おおくの\xfffeしんかの　かのうせいを　ひめた\xf000븀\x0000\xfffeすごい　ポケモン　なんです！
-Presto servizio come assistente\xfffedel  Professor Fennel.\xf000븁\x0000
+Vuoi dare a Eevee un\xfffesoprannome?
+Ah! Quando la tua squadra è piena,\xfffericordati di depositare gli altri\xf000븀\x0000\xfffePokémon che catturerai, nei Box del PC\xf000븀\x0000\xfffenei Centri Pokémon, mi raccomando!
+Oh, che peccato!\xf000븁\x0000\xfffeCapisco! Ma se volessi informazioni,\xfffetorna a trovarmi!
+Eevee è un Pokémon che ha moltissime\xfffepossibili evoluzioni differenti!
+Sono l'assistente della Prof.ssa\xfffeZania!\xf000븁\x0000
 Quali esperimenti sui sogni\xfffevorresti ascoltare?
-Game Sync
-Sogno dei Pokemon
+Sincrogioco
+Sogni dei Pokemon
 Indietro
-Il Game Sync è...\xf000븁\x0000\xfffeポケモンを　ねむらせて\xfffeきおくを　とりだすことで\xf000븁\x0000\xfffeWi-Fi Connection を　つうじて\xfffeせかいじゅうの　トレーナーの\xf000븀\x0000\xfffeレポートを　あつめる　システム\xf000븁\x0000\xfffeＣギアの　がめんに　ある\xfffeＷｉ－Ｆｉを　タッチして　あらわれます\xf000븀\x0000\xfffe\xf000\xff00\x0001\x0001Game Sync\xf000\xff00\x0001\x0000という　ボタンで\xf000븁\x0000\xfffeねむらせる　ポケモンを　えらび\xfffeＷｉ－Ｆｉコネクションで\xf000븀\x0000\xfffeレポートを　おくることが　できます\xf000븁\x0000\xfffeねむらせることの　できる\xfffeポケモンは　けんきゅうの　けっか\xf000븀\x0000\xfffeしだいに　ふえていく　よてい　です\xf000븁\x0000
-ポケモンのゆめ　とは……\xf000븁\x0000\xfffeねむらせた　ポケモンは\xfffeねている　あいだに　ゆめをみます\xf000븁\x0000\xfffeゲームシンクで　ねむらせた\xfffeポケモンを　おこすと\xf000븀\x0000\xfffeその　あいだに　みた　ゆめは\xf000븁\x0000\xfffeイッシュちほうの　ちゅうしんに　ある\xfffe\xf000\xff00\x0001\x0001Hi-Link\xf000\xff00\x0001\x0000という　くうかんで\xf000븀\x0000\xfffeげんじつと　なっている　ようです\xf000븁\x0000
-Manuale del C-Gear\xf000븁\x0000\xfffeそうさに　こまったら\xfffeがめんの　？を　タッチ！
-ポケモン　あずかり　システムとは？\xf000븁\x0000\xfffeパソコンつうしん　の\xfffeポケモン　あずかり　システムを\xf000븀\x0000\xfffeかいはつ　したのは\xf000븀\x0000\xfffeカントーちほうの　マサキである
+Il Sincrogioco è un sistema per raccogliere\xfffei salvataggi di allenatori di tutto\xf000븀\x0000\xfffeil mondo attraverso la Nintendo Wi-Fi\xf000븀\x0000\xfffeConnection.\xf000븁\x0000\xfffeTale raccolta avviene estraendo i ricordi\xfffedei Pokémon messi a dormire.\xf000븁\x0000\xfffePuoi spedire il tuo salvataggio tramite la\xfffeNintendo Wi-Fi Connection. A tale scopo,\xf000븀\x0000\xfffetocca \xf000\xff00\x0001\x0001Sincrogioco\xf000\xff00\x0001\x0000 nella schermata che\xf000븀\x0000\xfffeappare quando selezioni una delle icone\xf000븀\x0000\xfffedel gruppo riportante la scritta ONLINE\xf000븀\x0000\xfffesul C-Gear. Quindi scegli il Pokémon da far\xf000븀\x0000\xfffeaddormentare.\xf000븁\x0000\xfffeI Pokémon che si possono addormentare\xfffeaumentano con l'avanzare delle ricerche.\xf000븁\x0000
+I Pokémon messi a dormire sognano.\xf000븁\x0000\xfffeQuando un Pokémon che si è addormentato\xfffetramite il Sincrogioco si sveglia, il suo\xf000븀\x0000\xfffesogno si materializza nell'\xf000\xff00\x0001\x0001Intramondo\xf000\xff00\x0001\x0000,\xf000븀\x0000\xfffeun luogo al centro di Unima.\xf000븁\x0000
+Manuale "Aiuto" del C-Gear!\xf000븁\x0000\xfffeSe ti trovassi in difficoltà,\xfffepremi il Tasto "?"!
+Il Sistema Memoria Pokémon è stato\xfffeinventato nella regione di Kanto\xf000븀\x0000\xfffeda un ragazzo di nome Bill!
