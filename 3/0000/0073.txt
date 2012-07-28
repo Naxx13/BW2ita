@@ -1,12 +1,12 @@
-ようこそ\xfffeこの　ステージへ\xf000븁\x0000\xfffeわたしの　いとしの　ポケモンたちと\xfffeあなたの　ポケモン...!\xf000븁\x0000\xfffeどちらの　かがやきが　ほんものか\xfffeここで　くらべましょう!!\xf000븁\x0000
-もう...\xf000븁\x0000\xfffeあなたってば　よそういじょうに\xfffeステキな　トレーナー\xf000븁\x0000\xfffeホレボレしちゃう　ファイトスタイルに\xfffeなんだか　かんげき　したわ...\xf000븀\x0000\xfffeこれを...!\xf000븁\x0000
-\xf000Ā\x0001\x0000 received the\xfffeBolt Badge from Elesa!\xf000븁\x0000
-ボルトバッジを　ふくめ\xfffe４つの　バッジが　あれば\xf000븁\x0000\xfffeひとと　こうかん　した\xfffeポケモンでも　レベル５０までなら\xf000븀\x0000\xfffeあなたに　すなおに　なります\xf000븁\x0000\xfffeそれと　これは\xfffeわたしの　すきな　わざ...\xf000븀\x0000\xfffeよければ　あなたも　つかって\xf000븁\x0000
-その「ボルトチェンジ」はね\xf000븁\x0000\xfffeあいてに　こうげき　したあと\xfffeほかの　ポケモンと　いれかわるの\xf000븁\x0000\xfffeもっとも\xfffeほかの　ポケモンが　いないときは\xf000븀\x0000\xfffeそのまま　だけど...
-たいようと　つき　ではなく\xf000븁\x0000\xfffeたいようと　たいよう　なら\xfffeその　まぶしさは　むげんだい!\xf000븁\x0000\xfffeわたしは　ポケモンと\xfffeそんな　かんけいに　なりたいわ
-ポケモンの　したいこと\xfffeじぶんの　したいこと\xf000븀\x0000\xfffeこの　ふたつが　おなじとき\xf000븁\x0000\xfffeかがやく　エネルギーは\xfffe２ばいいじょうに　なるの!
-まって!\xf000븁\x0000\xfffeぜひ　わたしたちと\xf000븁\x0000
-トレーナーとしての　かがやき...!\xf000븁\x0000\xfffeそれを　そなえている　あなたなら\xfffeすべての　ジムバッジを　あつめ\xf000븀\x0000\xfffeポケモンリーグに　いけるはず!\xf000븁\x0000\xfffeそのとき　あなたと　ポケモンは\xfffeさらに　まぶしく　かがやく...!
+Benvenuto su questo palco!\xf000븁\x0000\xfffeI miei Pokémon contro i tuoi\xfffePokémon...!\xf000븁\x0000\xfffeQui... Proveremo quali dei due\xfffesono più radiosi! Fatti sotto!!\xf000븁\x0000
+Tu...\xf000븁\x0000\xfffeSei più adorabile di quanto\xfffepensassi!\xf000븁\x0000\xfffeIl tuo meraviglioso stile di lotta\xfffemi ha profondamente emozionato...\xf000븀\x0000\xfffeTieni...!\xf000븁\x0000
+\xf000Ā\x0001\x0000 ha ricevuto\xfffela Medaglia Fulmine da Camelia!\xf000븁\x0000
+Ora, con la Medaglia Fulmine, hai\xfffe4 Medaglie!\xf000븁\x0000\xfffeCiò significa che i Pokémon\xfffescambiati fino al Livello 50,\xf000븀\x0000\xfffeti obbediranno!\xf000븁\x0000\xfffeEcco, questa è la mossa\xfffeche preferisco...\xf000븀\x0000\xfffeTienila, così potrai usarla anche tu!\xf000븁\x0000
+Quella mossa è Invertivolt!\xf000븁\x0000\xfffeDopo aver colpito l'avversario,\xfffefa sì che il Pokémon venga sostituito!\xf000븁\x0000\xfffeMa, se non ci sono altri Pokémon,\xfffenon si potrà sostituire...
+Tra il sole e la luna, il sole è\xfffequello che ti deve accompagnare!\xf000븁\x0000\xfffeInsieme ai miei Pokémon, vorrei\xfffebrillare come esso!
+Quando i miei desideri coincidono\xfffecon quelli dei miei Pokémon,\xf000븀\x0000\xfffela forza splendente è raddoppiata!
+Balla!\xf000븁\x0000\xfffeBalla con noi!\xf000븁\x0000
+Sei un Allenatore scintillante...!\xf000븁\x0000\xfffeMi aspetto che, con una luce\xfffesplendente del genere, tu riesca a\xf000븀\x0000\xfffecollezionare tutte le medaglie e\xf000븀\x0000\xfffead entrare nella Lega Pokémon!\xf000븁\x0000\xfffeE, allora, la tua beltà sarà\xfffepiù splendente che mai...!
 Elesa: モデルは　どんなときも\xfffeじぶんを　みうしなわずに\xf000븀\x0000\xfffeだれかの　きぼうを　かなえる...\xf000븁\x0000\xfffeこれって　どんな　じょうきょうでも\xfffeポケモンの　かちたい　きもちを\xf000븀\x0000\xfffeみたすため　ぜんりょくを　つくす\xf000븀\x0000\xfffeポケモントレーナーと　おなじ\xf000븁\x0000\xfffeそれに　きづいて　よりいっそう\xfffeモデルを　たのしめるように　なったの
 ようこそ!　ライモンジムへ\xfffeポケモンと　トレーナーがつくる\xf000븁\x0000\xfffeかれいな　ポケモンしょうぶと\xfffeファッションショーの　はじまりよ!\xf000븁\x0000
 ライトアップされた　ジムって\xfffeとっても　ビューティフルでしょ!\xf000븁\x0000\xfffeライトアップで　てらされる\xfffeポケモンたちも　ビューティフル!!
@@ -22,10 +22,10 @@ Elesa: モデルは　どんなときも\xfffeじぶんを　みうしなわず�
 カミツレさんの　まぶしく\xfffeかれいな　でんきこうげき!\xf000븁\x0000\xfffeそれを　うわまわった　あんたと\xfffeポケモンとの　コンビネーション!\xf000븁\x0000\xfffeまさに　まさに\xfffeスーパーモデル 　っすよ!\xf000븁\x0000\xfffeじゃなかった!　とびっきりの\xfffeポケモンと　ポケモントレーナー　っすね!
 Palestra Pokèmon di Sciroccopoli\xf000븁\x0000\xfffeCapopalestra: Camelia\xfffeAllenatori Certificati:
 Palestra Pokèmon di Sciroccopoli\xf000븁\x0000\xfffeCapopalestra: Camelia\xfffeAllenatori Certificati:\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
-ライモン　ポケモンジム\xf000븁\x0000\xfffeジムリーダー　カミツレ\xfffeにんてい　トレーナー!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000　\xf000Ā\x0001\x0001
+Palestra Pokèmon di Sciroccopoli\xf000븁\x0000\xfffeCapopalestra: Camelia\xfffeAllenatori Certificati:\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000　\xf000Ā\x0001\x0001
 \xf000Ā\x0001\x0000!!
-かっこいい...!
-シビれるー!
-ブラボー!
-\xf000Ā\x0001\x0000さーん!
-ステキ...!
+Forte...!
+Forzaa!
+Bravoo!
+\xf000Ā\x0001\x0000!!!
+Adorabile!
