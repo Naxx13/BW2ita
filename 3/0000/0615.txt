@@ -1,56 +1,56 @@
-アイリス『ねえねえ！\xf000븁\x0000\xfffeドラゴンタイプ　さいきょうの　わざ\xfffeあたしが　おしえてあげる！！\xf000븁\x0000\xfffeどうする？　ポケモンに\xfffeわざを　おぼえさせてあげる？
+Iris: Guess what!!\xf000\xbe01\x0000\xfffeI can teach you the strongest\xfffeDragon-type move!\xf000\xbe01\x0000\xfffeFun, huh? Want me to\xfffeteach your Pokémon this move?
 OK! Bene, torna pure se dovessi,\xfffecambiare idea, OK?
-どれどれ……\xf000븁\x0000\xfffeその　ポケモンは\xfffeわざを　おぼえることは　できるけど\xf000븀\x0000\xfffeまだまだ　なついてないよ\xf000븁\x0000\xfffeそれだと　この　わざを\xfffeおぼえさせるのは　むずかしいな
-えーっと\xfffeえーっと\xf000븁\x0000\xfffeわざを　おぼえられる\xfffeポケモンは　いないみたい……
-OK, bene! Quale Pokémon deve\xfffeimparare questa mossa?\xf000븁\x0000
-うーん　ごめんね……\xf000븁\x0000\xfffeその　ポケモンでは\xfffeこの　わざ　おぼえられないよ……
-エーッ！\xf000븁\x0000\xfffeタマゴに　わざを　おぼえさせるの？\xfffeじゃあ　アイリス　がんばってみるね\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……\xf000븁\x0000\xfffeごめん……\xfffeちょっと　ムリみたい……
-どれどれ？\xf000븁\x0000\xfffeその　ポケモン　すでに\xfffe\xf000ć\x0001\x0000を　おぼえているよ？
-アイリス『りゅうせいぐんの　いりょくは\xfffeものすごーく　すごいんだけど！\xf000븁\x0000\xfffeつかったあとは　じぶんの\xfffeとくしゅこうげきも　さがっちゃうんだ
-\xf000ć\x0001\x0000に　わざを\xfffeおぼえさせるのを　あきらめますか？
-\xf000Ă\x0001\x0000 ha imparato\xfffe\xf000ć\x0001\x0001!
-\xf000Ă\x0001\x0000 sta cercando di\xfffeimparare \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeMa \xf000Ă\x0001\x0000 non può conoscere\xfffepiù di 4 mosse.\xf000븁\x0000\xfffeVuoi eliminare una mossa \xfffeper fare posto a \xf000ć\x0001\x0001?
-Vuoi annullare l'apprendimento\xfffedella mossa \xf000ć\x0001\x0000?
-\xf000Ă\x0001\x0000 non ha imparato \xf000ć\x0001\x0001!
-Vuoi davvero dimenticare \xfffela mossa \xf000ć\x0001\x0000?
-１\xf000븂\x0001\x0014　２の\xf000븂\x0001\x0014　…\xf000븂\x0001\x0014…\xf000븂\x0001\x0014　ポカン！\xf000븅\x0001\x0003\xf000븅\x0001\x0006\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeつかいかたを　きれいに　わすれた！\xf000븁\x0000\xfffeそして……！\xf000븁\x0000\xfffe
-\xf000Ă\x0001\x0000 ha imparato \xf000ć\x0001\x0002!
-シャガ『きみが　のぞむなら\xfffeきみの　ポケモンに\xf000븀\x0000\xfffeドラゴンタイプ　さいきょうの\xf000븀\x0000\xfffeわざを　おしえても　よい\xf000븁\x0000\xfffeさて　ポケモンに\xfffeわざを　おぼえさせるかね？
+OK, great!\xfffeOh, but...\xf000\xbe01\x0000\xfffeYou don't seem to have a\xfffePokémon that can learn this move.
+OK, great! Which Pokémon should\xfffelearn this move?\xf000\xbe01\x0000
+OK, bene! Quale Pokémon deve\xfffeimparare questa mossa?\xf000U+BE01\x0000
+What?\xf000\xbe01\x0000\xfffeYou want me to teach the move to an Egg?\xfffeOK, I'll do my best!\xf000\xbe01\x0000\xfffe...\xfffe...\xf000\xbe01\x0000\xfffeSorry!\xfffeI think it's impossible!
+This one?\xf000\xbe01\x0000\xfffeUm, but...it looks like this Pokémon\xfffealready knows \xf000\x0107\x0001\x0000.
+Iris: Draco Meteor's power is\xfffereally amazing!\xf000\xbe01\x0000\xfffeBut after you use it, your Sp. Atk stat\xfffegoes down.
+Give up on teaching a move\xfffeto \xf000\x0102\x0001\x0000?
+\xf000\x0102\x0001\x0000 learned\xfffe\xf000\x0107\x0001\x0001!
+\xf000\x0102\x0001\x0000 is trying to\xfffelearn \xf000\x0107\x0001\x0001!\xf000\xbe01\x0000\xfffeBut \xf000\x0102\x0001\x0000 can't learn more than\xfffefour moves.\xf000\xbe01\x0000\xfffeDelete a move to make room\xfffefor \xf000\x0107\x0001\x0001?
+Give up on learning the\xfffemove \xf000\x0107\x0001\x0000?
+Vuoi annullare l'apprendimento\xfffedella mossa \xf000U+0107\x0001\x0000?
+\xf000U+0102\x0001\x0000 non ha imparato \xf000U+0107\x0001\x0001!
+Vuoi davvero dimenticare \xfffela mossa \xf000U+0107\x0001\x0000?
+\xf000\x0102\x0001\x0000 learned \xf000\x0107\x0001\x0002!
+Drayden: If you wish, I can teach your\xfffePokémon the strongest\xf000\xbe00\x0000\xfffeDragon-type move.\xf000\xbe01\x0000\xfffeWould you like your Pokémon to learn\xfffethat move?
+Understood.\xfffeCome again if you change your mind.
 Ho capito.\xfffeTorna di nuovo se dovessi cambiare idea.
-フム……\xf000븁\x0000\xfffeきみが　つれている　ポケモンは\xfffeわざを　おぼえることは　できる\xf000븁\x0000\xfffeだが　その　ポケモンは　まだ\xfffeきみに　かんぜんに　なついていない\xf000븁\x0000\xfffeそれでは　この　わざを\xfffeおぼえさせる　わけには　いかない
-なるほど……\xf000븁\x0000\xfffeだが　きみが　つれている　なかに\xfffeわざを　おぼえられる\xf000븀\x0000\xfffeポケモンは　いないようだね
-Quale Pokémon deve\xfffeimparare questa mossa?\xf000븁\x0000
-もうしわけないのだが……\xf000븁\x0000\xfffeその　ポケモンでは\xfffeこの　わざは　おぼえられない
-フム……\xf000븁\x0000\xfffeタマゴに　わざを　おぼえさせるのは\xfffeわたしにも　むずかしいな
-Hmm... Sembra che questo Pokémon\xfffeconosca già \xf000ć\x0001\x0000.
-シャガ『りゅうせいぐんの　いりょくは\xfffeすさまじいが　つかうと　じぶんの\xf000븀\x0000\xfffeとくしゅこうげきも　さげてしまうぞ
-つよさを　もとめて\xfffeこんなところまで　きおったか\xf000븁\x0000\xfffe……よろしい\xf000븁\x0000\xfffeその　ねついに　こたえて\xfffeこれぞ！　という　わざを　おしえよう\xf000븁\x0000\xfffeきゅうきょくの　わざ！\xfffeおぬしの　ポケモンに　おしえるのか？
-きゅうきょくの　わざ！\xfffeおぬしの　ポケモンに　おしえるのか？
-おぬしの　つれている\xfffeポケモンでは　おぼえられんぞ！\xf000븁\x0000\xfffeばあさんに　きくのじゃ！　カッ！！
+I see...\xf000\xbe01\x0000\xfffeBut there are no Pokémon with\xfffeyou right now that can learn this move.
+Which Pokémon should\xfffelearn this move?\xf000\xbe01\x0000
+Quale Pokémon deve\xfffeimparare questa mossa?\xf000U+BE01\x0000
+That's an interesting request, but...\xfffeNot even I can teach a move to an Egg.
+Hmm... It looks like this Pokémon\xfffealready knows \xf000\x0107\x0001\x0000.
+Hmm... Sembra che questo Pokémon\xfffeconosca già \xf000U+0107\x0001\x0000.
+Your quest for power has brought\xfffeyou here...\xf000\xbe01\x0000\xfffeVery well.\xf000\xbe01\x0000\xfffeLet me reward your passion with some\xfffeabsolutely astounding moves.\xf000\xbe01\x0000\xfffeThey're the ultimate moves!\xf000\xbe01\x0000\xfffeShall I teach them to\xfffeyour Pokémon?
+The ultimate moves!\xfffeWhich Pokémon shall I teach?
+The Pokémon with you can't\xfffelearn these moves!\xf000\xbe01\x0000\xfffeGo talk to my wife! Keh!!
+Hmm... Well, that is fine, as well.\xfffeVisit if you have a change of heart.
 Hmm... Va bene lo stesso.\xfffeTorna a trovarci se cambi idea.
-Bene, Quale Pokémon devo istruire?\xf000븁\x0000
+Bene, Quale Pokémon devo istruire?\xf000U+BE01\x0000
 Quel Pokémon non può imparare alcuna mossa!\xfffeVai a parlare con mia moglie! Keh!
 Insegnare una mossa ad un Uovo?\xfffeImpossibile anche per me! Keh!
 Il legame col tuo Pokémon\xfffenon è abbastanza forte! Keh!
 Quel Pokémon conosce già\xfffequella mossa! Keh!
-Devo insegnare \xf000ć\x0001\x0001 a\xfffe\xf000ā\x0001\x0000, giusto? Keh!
-ここに　しるした　ポケモンに\xfffeきゅうきょくの　わざを　おしえる！\xf000븁\x0000\xfffeもえる　ほのおの　ポケモン\xfffe　リザードン　バクフーン\xf000븀\x0000\xfffe　バシャーモ　ゴウカザル\xf000븀\x0000\xfffe　エンブオー\xf000븁\x0000\xfffeたゆたう　みずの　ポケモン\xfffe　カメックス　オーダイル\xf000븀\x0000\xfffe　ラグラージ　エンペルト\xf000븀\x0000\xfffe　ダイケンキ\xf000븁\x0000\xfffeしずかな　くさの　ポケモン\xfffe　フシギバナ　メガニウム\xf000븀\x0000\xfffe　ジュカイン　ドダイトス\xf000븀\x0000\xfffe　ジャローダ
-きみ　きみ！\xf000븁\x0000\xfffeはかせから　もらった\xfffeポケモン　つれているか？\xf000븁\x0000\xfffeはかせから　もらった　ポケモンなら\xfffeどの　しんかけい　でも\xf000븀\x0000\xfffeきみに　なついとったら\xf000븁\x0000\xfffeとくべつな　わざ……\xfffeがったいわざを　おしえてあげるで？
+Devo insegnare \xf000U+0107\x0001\x0001 a\xfffe\xf000U+0101\x0001\x0000, giusto? Keh!
+Heya!\xf000\xbe01\x0000\xfffeThe professor gave you a Pokémon to\xfffestart your journey, right?\xf000\xbe01\x0000\xfffeIf that Pokémon is still with you, and if\xfffeyou two have a strong bond, there's a\xf000\xbe00\x0000\xfffespecial move it can learn...\xf000\xbe01\x0000\xfffeWant me to teach it a battle combo move?
+A special move...\xfffeShould I teach it a battle-combo move?
 Una mossa speciale...\xfffeShould I teach it a battle-combo move?
 Non posso insegnare a questi Pokémon.
 Is that so...\xfffeWell, come on back now, y'hear?
-Quale Pokémon deve imparare la mossa?\xf000븁\x0000
-その　ポケモンは\xfffeとくべつな　わざを　おぼえへんよ\xf000븁\x0000\xfffeとくべつな　わざを　おぼえるのは\xfffeポケモンはかせ　から\xf000븀\x0000\xfffeもらえる　ポケモン　ぜんぶ　なんや！
+Quale Pokémon deve imparare la mossa?\xf000U+BE01\x0000
+Teach a move to an Egg?\xfffeWhat kinda crazy talk is that?!
 Insegnare una mossa ad un Uovo?\xfffeChe diavolerie vai dicendo?!
 Questo Pokémon... Beh, non sembra molto\xfffea suo agio con te, ancora.
 Non posso insegnarla due volte. Questo Pokémon\xfffeconosce già la mossa speciale!
-Vuoi che insegni \xf000ć\x0001\x0001\xfffea \xf000ā\x0001\x0000?
+Vuoi che insegni \xf000U+0107\x0001\x0001\xfffea \xf000U+0101\x0001\x0000?
 わいの　おきにいり　ポケモン\xf000븁\x0000\xfffeポケモンはかせ　から\xfffeもらえる　ポケモン　ぜんぶ　なんや！\xf000븁\x0000\xfffeこいつらに　とくべつな　わざ……\xfffeがったいわざを　おしえる……！\xf000븀\x0000\xfffeそれが　わいの　ちかい　や！
 わしは　わざおしえ　しょくにん\xf000븁\x0000\xfffeそして　むるいの\xfffe\xf000ĉ\x0001\x0000　マニア！\xf000븁\x0000\xfffe\xf000ĉ\x0001\x0000を　くれたら　おれいに\xfffeおまえさんの　ポケモンに\xf000븀\x0000\xfffeわざを　おしえて　あげるよ\xf000븁\x0000
 わしは　わざおしえ　しょくにん！\xf000븁\x0000
-ポケモンに\xfffeわざを　おしえるかい？
+This Pokémon\xfffeわざを　おしえるかい？
 ほい　きた！\xf000븁\x0000\xfffeじゃあ　おしえる\xfffeわざを　えらんどくれ\xf000븁\x0000
 \xf000ĉ\x0001\x0000が　あつまったら\xfffeまた　いつでも　おいで
 \xf000Ā\x0001\x0000は　おれいに\xfffe\xf000ĉ\x0001\x0001を　\xf000ȁ\x0001\x0002コ　わたした
-その　ポケモンは\xfffeこの　わざを　おぼえられないよ！
-その　ポケモンは　すでに\xfffeおなじ　わざを　おぼえてるよ！
+That Pokémon\xfffeこの　わざを　おぼえられないよ！
+That Pokémon\xfffeおなじ　わざを　おぼえてるよ！
