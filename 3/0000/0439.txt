@@ -1,22 +1,22 @@
-わたし　ここで　ポケモンの\xfffeカセキの　けんきゅうを　しています\xf000븁\x0000
-あなた　カセキ　もっていますね\xfffeポケモンに　もどしますか？
-どの　カセキを\xfffeポケモンに　ふくげん　しますか？
-わかりました！\xf000븁\x0000\xfffeその　\xf000ĉ\x0001\x0000を\xfffeポケモンに　もどしますね！\xf000븁\x0000
-カセキを　ふくげん　しないのですね\xfffeわかりました！
-いま　カセキを\xfffeポケモンに　ふくげん　しています！
-あなたから　おあずかりした　カセキは\xfffeポケモンに　もどりました！！\xf000븁\x0000\xfffeこれが　\xf000ā\x0001\x0000ですよ！\xfffeだいじに　してあげて　ください\xf000븁\x0000
-\xf000Ā\x0001\x0000は\xfffe\xf000ā\x0001\x0001を　てにいれた！
-てにいれた　\xf000ā\x0001\x0000に\xfffeニックネームを　つけますか？
-と　おもいましたが\xfffeポケモンが　いっぱい　ですね\xf000븁\x0000\xfffeたいせつに　あずかっておくので\xfffeまた　とりに　きてくださいね！
-カセキを　もっていたら\xfffeここに　きてくださいね！
-\xf000ĉ\x0001\x0000
-\xf000ĉ\x0001\x0001
-ねっこのカセキ
-ツメのカセキ
-かいのカセキ
-こうらのカセキ
-ひみつのコハク
-たてのカセキ
-ずがいのカセキ
-やめる
-カ……　カセキの\xfffeふくげんは　おまちください……
+Sto ricercando Fossili di Pokémon.\xf000\xbe01\x0000
+Hai un Fossile, non è vero?\xfffeDevo trasformarlo in un Pokémon?
+Quale Fossile devo trasformare\xfffein un Pokémon?
+Va bene!\xf000\xbe01\x0000\xfffeTrasformerò il \xf000\x0109\x0001\x0000 \xfffein un Pokémon!\xf000\xbe01\x0000
+Oh, desideri tenerlo come un Fossile? Ok!
+Sono nel mezzo della ricostruzione\xfffedel Pokémon dal fossile!
+Il Fossile che mi hai dato è ritornato \xfffeun Pokémon!\xf000\xbe01\x0000\xfffeQuesto è \xf000\x0101\x0001\x0000!\xfffePer piacere prenditi cura di lui.\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0000 received\xfffe\xf000\x0101\x0001\x0001!
+Vuoi dare un soprannome a\xfffe \xf000\x0101\x0001\x0000?
+Oh, mi dispiace. La tua lista party è piena.\xf000\xbe01\x0000\xfffeLo terrò con tanta prudenza, per piacere\xffferitorna a prenderlo quando puoi!
+Se hai un Fossile, portalo a me!
+\xf000\x0109\x0001\x0000
+\xf000\x0109\x0001\x0001
+Root Fossil
+Claw Fossil
+Helix Fossil
+Dome Fossil
+Old Amber
+Armor Fossil
+Skull Fossil
+Indietro
+Mi-Mi dispiace. Sono spiacente ma dovrai\xfffetornare più tardi.
