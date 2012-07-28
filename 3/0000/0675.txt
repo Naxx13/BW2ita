@@ -1,101 +1,101 @@
-Benvenuti al Centro Globale!\xf000븁\x0000
-Vuoi usare la\xfffeNintendo Wi-Fi Connection?
-Grazie, torna a trovarci.
-Connetti alla Nintendo Wi-Fi Connection?
-Guarda qui！\xf000븁\x0000
-Nel Centro Globale, puoi lottare o\xfffescambiare Pokémon con Pokémon fans da\xf000븁\x0000\xfffetutto il mondo connettendoti alla\xfffeNintendo Wi-Fi Connection.\xf000븁\x0000\xfffePer ulteriori dettagli, ascolta la\xfffespiegazione ad ogni impianto.
-Quest'area è in costruzione.\xfffeTorna più tardi.
-Non hai\xfffePokémon
-Si è verificato un errore di comunicazione.
-Random Matchup
-Scambio Globale
-Foto Musical
-Video Battaglie
-Info
-Annulla
-Vuoi fare uno Scambio Globale?
-Dovresti scambiare Pokémon con altri \xfffePokémon fan di tutto il mondo tramite Global Trade.\xf000븁\x0000\xfffeGlobal Trade ha due funzioni: GTS e\xfffeGTS Negotiations.\xf000븁\x0000\xfffePlease be careful, because each has a\xfffedifferent way of trading.
+Ti do il benvenuto al Centro Globale!\xf000븁\x0000
+Da qui puoi collegarti alla Nintendo Wi-Fi\xfffeConnection. Che cosa vuoi fare?
+Torna a trovarci.
+Vuoi avviare la Nintendo WFC?
+Prego, da questa parte!\xf000븁\x0000
+Nel Centro Globale puoi collegarti alla\xfffeNintendo Wi-Fi Connection per lottare\xf000븀\x0000\xfffee fare scambi con giocatori da tutto il\xf000븀\x0000\xfffemondo.\xf000븁\x0000\xfffePer informazioni più dettagliate, vedi le\xfffesingole opzioni.\xf000븁\x0000
+Il servizio non è attivo al momento.\xfffeRipassa più tardi.
+Hai almeno un Pokémon che non può essere\xfffeusato.
+Errore di comunicazione.
+Abbinamento a Caso
 GTS
-GTS Negotiations
-Info
-Indietro
-Vuoi effettuare uno scambio GTS?
-Scambia
-Info
-Indietro
-Si possono scambiare Pokèmon in due modi\xfffe utilizzando GTS.\xf000븁\x0000\xfffeTu puoi offrire dei Pokèmon\xfffeo puoi cercare Pokèmon offerti.
-Dovrei spiegarti le cose\xfffein dettaglio?
-Vi verrà chiesto di mettere i\xfffePokèmon in commercio.\xf000븁\x0000\xfffeIn quel momento,vi verrà chiesto quale\xfffePokémon volete in cambio.\xf000븁\x0000\xfffeL'altro giocatore vi darà il pokemon desiderato\xfffein cambio della tua offerta.\xf000븁\x0000\xfffeI Pokèmon verrano scambiati.\xf000븁\x0000
-Tu puoi cercare altri Pokèmon\xfffeofferti da altri giocatori.\xf000븁\x0000\xfffeMa ti servirà stabilire quale Pokèmon\xfffegli allenatori vogliono in cambio.\xf000븁\x0000\xfffeSi può cercare il Pokèmon che si vuole\xfffema devi dare all'altro giocatore\xf000븁\x0000\xfffeil Pokèmon da lui desiderato.\xf000븁\x0000
-Offri Pokémon?
-Cerchi Pokémon?
-Understood
-Vuoi iniziare\xfffegli scambi della GTS?
-Inizia
-Info
-Indietro
-Nelle Trattative GTS, puoi decidere\xfffele condizioni di scambio in base al\xf000븁\x0000\xfffetipo di Pokémon che vorresti.\xf000븁\x0000\xfffeSe trovi una persona che corrisponde\xfffealle tue condizioni, potresti\xf000븁\x0000\xfffescambiare con quella persona.\xf000븁\x0000\xfffeA seconda dello scambio, devi avere due\xfffeo più Pokémon nella tua squadra.\xf000븁\x0000
-Dovrei descriverlo in modo\xfffepiù dettagliato?
-Negli Scambi a Trattativa, ogni persona\xfffeoffre tre Pokèmon da scambiare.\xf000븁\x0000\xfffePoi, ogni persona sceglierà uno dei\xfffePokémon dell'altro.\xf000븁\x0000
-Puoi impostare tre condizioni in uno\xfffeScambio a Trattativa: il livello del Pokémon\xf000븁\x0000\xfffeda scambiare, il Pokémon che desideri\xf000븁\x0000\xfffericevere, e il Pokémon offerto.\xf000븁\x0000\xfffePotresti scambiare con una persona le cui\xfffecondizioni corrispondono alle tue\xf000븁\x0000\xfffeo scegliere Scambio Appuntamento per provare\xf000븁\x0000\xfffeun altro scambio con un precedente offerente.\xf000븁\x0000
-Scambi a Trattativa?
-Condizioni di Scambio?
-Capito
-Vuoi vedere il video della battaglia?
-バトルビデオでは　おてもちの\xfffeバトルレコーダーを　つかって\xf000븁\x0000\xfffeじぶんで　とった　バトルビデオを\xfffeはっぴょうしたり\xf000븁\x0000\xfffeほかの　トレーナーの　バトルビデオを\xfffeみる　ことが　できます\xf000븁\x0000\xfffeみたい　バトルビデオは\xfffeポケモンや　しせつや\xf000븀\x0000\xfffeにんきランキング　などから\xf000븀\x0000\xfffeけんさく　することが　できます\xf000븁\x0000\xfffeまた　おくった　バトルビデオには\xfffe１２ケタの　ナンバーが　つきます\xf000븁\x0000\xfffeこの　ナンバーを　ともだちに\xfffeおしえる　ことで\xf000븁\x0000\xfffeじぶんの　バトルビデオを\xfffeともだちに　みせることも　できます\xf000븁\x0000
-Vedi
-Info
-Indietro
-ミュージカルショットを　みますか？
-ミュージカルショットでは　おてもちの\xfffeバトルレコーダーを　つかって\xf000븁\x0000\xfffeライモンシティの\xfffeポケモンミュージカルで　とった\xf000븀\x0000\xfffeしゃしんを　はっぴょう　できます\xf000븁\x0000\xfffeみんなが　とった　しゃしんも\xfffeすきな　ポケモンごとに\xf000븀\x0000\xfffeみることが　できます\xf000븁\x0000
-Vedi
-せつめいを　きく
-Indietro
-Vorresti prendere parte\xfffeall'Abbinamento a Caso?
-Partecipa
-Info
-Indietro
-ランダムマッチでは\xfffeとおくにいる　みしらぬひとと\xf000븀\x0000\xfffeつうしんたいせんが　できます\xf000븁\x0000\xfffeランダムマッチには\xfffeシングル　ダブル　トリプル\xf000븀\x0000\xfffeローテーション　シューターの\xf000븀\x0000\xfffe５つの　たいせんルールと\xf000븁\x0000\xfffeフリーと　レーティングの\xfffe２つの　モードが　あります\xf000븁\x0000\xfffeフリーモードは　だれでも\xfffeじゆうに　さんか　できます\xf000븁\x0000\xfffeレーティングモードは\xfffeゲームシンクせっていを　おこない\xf000븁\x0000\xfffeおてもとの　パソコンで\xfffeポケモングローバルリンクの\xf000븀\x0000\xfffeホームページに　アクセスして\xf000븁\x0000\xfffeゲームシンクＩＤコードを\xfffeとうろくすることで　さんか　できます\xf000븁\x0000\xfffehttp://www.pokemon-gl.com/\xfffe（ポケモングローバルリンク）\xf000븁\x0000
-Vuoi una descrizione dettagliata?
-フリーモード　について
-Modalità di valutazione
-Alcune regole speciali
-trovato
-フリーモードは\xfffeとおくにいる　みしらぬひとと\xf000븀\x0000\xfffeてがるに　たいせんする　モードです\xf000븁\x0000\xfffeポケモンを　そだてたら\xfffeきがるに　ちょうせん　してください\xf000븁\x0000
-レーティングモードは\xfffeたいせんを　きわめたい　ひとに\xf000븀\x0000\xfffeおすすめの　モードです\xf000븁\x0000\xfffeつうしんを　つなげたとき\xfffeレーティングの　ちかい　ひとと\xf000븀\x0000\xfffeたいせん　しやすく　なります\xf000븁\x0000\xfffeレーティングは\xfffe１５００から　スタートして\xf000븀\x0000\xfffeかつと　あがり　まけると　さがります\xf000븁\x0000\xfffeレーティングが　たかいほど\xfffeつよい　トレーナーと　なるので\xf000븁\x0000\xfffeぜひ　ちょうせんして\xfffeいまの　レベルを　たしかめてください\xf000븁\x0000\xfffeさいごに　さんかちゅうの\xfffeちゅういが　ひとつ　あります\xf000븁\x0000\xfffeレーティングモードの　せいせきは\xfffeＤＳほんたいを　かえて\xf000븁\x0000\xfffeＷｉ－Ｆｉコネクションに\xfffeせつぞく　すると\xf000븁\x0000\xfffeそれまでの　せいせきが\xfffeすべて　きえてしまいます\xf000븁\x0000\xfffeさんかちゅう　ＤＳほんたいを\xfffeかえるときは　ごちゅうい　ください\xf000븁\x0000
-ランダムマッチでは　いくつかの\xfffeとくべつな　ルールが　あります\xf000븁\x0000\xfffeポケモンの　レベルが　５１いじょうの\xfffeばあいは　すべて　５０に　なります\xf000븁\x0000\xfffeポケモンの　なまえは\xfffeニックネームで　よびません\xf000븁\x0000\xfffeまた　たいせんに　さんかさせる\xfffeポケモンを　えらぶとき\xf000븁\x0000\xfffeたいせんちゅう　ポケモンに\xfffeめいれいを　するとき\xf000븁\x0000\xfffeそれぞれに\xfffeせいげん　じかんが　あります\xf000븁\x0000\xfffeせいげん　じかんを　こえると\xfffeポケモンの　わざは\xf000븀\x0000\xfffeじどうで　えらばれることに　なるので\xf000븀\x0000\xfffeごちゅうい　ください\xf000븁\x0000\xfffeなお　たいせんにも\xfffeせいげん　じかんが　あります\xf000븁\x0000\xfffeせいげん　じかんを　こえても\xfffeしょうぶが　つかない　ときは\xf000븁\x0000\xfffeはんていにより　かちまけを\xfffeけってい　します\xf000븁\x0000
-Che tipo di lotta vorresti\xfffescegliere?
-Lotta Singola
-Lotta Doppia
-Lotta Tripla
-Lotta a Rotazione
-Lotta Mirabilanciere
-Indietro
-Vorresti prendere parte\xfffealla Lotta Singola?
-Vorresti prendere parte\xfffealla Lotta in Doppio?
-Vorresti prendere parte\xfffealla Lotta Tripla?
-Vorresti prendere parte\xfffealla Lotta a Rotazione?
-Vorresti prendere parte\xfffealla Lotta Mirabilanciere?
-Conferma
+Dati Musical
+Video Lotta
+Regole
+Esci
+Vuoi scambiare Pokémon usando la GTS?
+Attraverso la GTS puoi scambiare Pokémon\xfffecon giocatori distanti.\xf000븁\x0000\xfffeEsistono due tipi di scambi: GTS e\xfffeTrattativa GTS.\xf000븁\x0000\xfffeHanno regole differenti, quindi fai\xfffeattenzione.\xf000븁\x0000
+GTS
+Trattativa GTS
 Regole
 Indietro
-シングルバトルは　ポケモンが\xfffe３～６ひき　ひつようです\xf000븁\x0000\xfffeたたかうまえに　あいてと\xfffeポケモンの　みせあいを　おこない\xf000븀\x0000\xfffe３ひき　えらんで　たいせんします\xf000븁\x0000\xfffeつれていく　ポケモンは　すべて　ちがう\xfffeポケモンで　なくては　ならず\xf000븁\x0000\xfffeもたせる　どうぐも　すべて　ちがう\xfffeどうぐで　なくては　なりません\xf000븁\x0000\xfffeまた　とくべつな　ポケモンや　タマゴは\xfffeつれていくことは　できません\xf000븁\x0000
-ダブルバトルは　ポケモンが\xfffe４～６ひき　ひつようです\xf000븁\x0000\xfffeたたかうまえに　あいてと\xfffeポケモンの　みせあいを　おこない\xf000븀\x0000\xfffe４ひき　えらんで　たいせんします\xf000븁\x0000\xfffeつれていく　ポケモンは　すべて　ちがう\xfffeポケモンで　なくては　ならず\xf000븁\x0000\xfffeもたせる　どうぐも　すべて　ちがう\xfffeどうぐで　なくては　なりません\xf000븁\x0000\xfffeまた　とくべつな　ポケモンや　タマゴは\xfffeつれていくことは　できません\xf000븁\x0000
-トリプルバトルは　ポケモンが\xfffe６ひき　ひつようです\xf000븁\x0000\xfffeたたかうまえに　あいてと\xfffeポケモンの　みせあいを　おこない\xf000븀\x0000\xfffe６ひき　えらんで　たいせんします\xf000븁\x0000\xfffeつれていく　ポケモンは　すべて　ちがう\xfffeポケモンで　なくては　ならず\xf000븁\x0000\xfffeもたせる　どうぐも　すべて　ちがう\xfffeどうぐで　なくては　なりません\xf000븁\x0000\xfffeまた　とくべつな　ポケモンや　タマゴは\xfffeつれていくことは　できません\xf000븁\x0000
-ローテーションバトルは　ポケモンが\xfffe４～６ひき　ひつようです\xf000븁\x0000\xfffeたたかうまえに　あいてと\xfffeポケモンの　みせあいを　おこない\xf000븀\x0000\xfffe４ひき　えらんで　たいせんします\xf000븁\x0000\xfffeつれていく　ポケモンは　すべて　ちがう\xfffeポケモンで　なくては　ならず\xf000븁\x0000\xfffeもたせる　どうぐも　すべて　ちがう\xfffeどうぐで　なくては　なりません\xf000븁\x0000\xfffeまた　とくべつな　ポケモンや　タマゴは\xfffeつれていくことは　できません\xf000븁\x0000
-シューターバトルは\xfffeミラクルシューターありの\xf000븀\x0000\xfffeトリプルバトルを　おこないます\xf000븀\x0000\xfffeポケモンが　６ひき　ひつようです\xf000븁\x0000\xfffeたたかうまえに　あいてと\xfffeポケモンの　みせあいを　おこない\xf000븀\x0000\xfffe６ひき　えらんで　たいせんします\xf000븁\x0000\xfffeつれていく　ポケモンは　すべて　ちがう\xfffeポケモンで　なくては　ならず\xf000븁\x0000\xfffeもたせる　どうぐも　すべて　ちがう\xfffeどうぐで　なくては　なりません\xf000븁\x0000\xfffeまた　とくべつな　ポケモンや　タマゴは\xfffeつれていくことは　できません\xf000븁\x0000
-てもちか　バトルボックスの\xfffeどちらを　つかうか　えらんでください
-てもち
+Vuoi scambiare Pokémon con persone in\xfffetutto il mondo?
+Scambia
+Regole
+Indietro
+Nella modalità GTS puoi effettuare scambi\xfffein due modi diversi.\xf000븁\x0000\xfffePuoi offrire un Pokémon per lo scambio,\xfffeoppure cercarne uno fra quelli offerti.\xf000븁\x0000
+Vuoi avere maggiori informazioni?
+Per lo scambio ti verrà prima chiesto\xfffedi scegliere uno dei tuoi Pokémon.\xf000븁\x0000\xfffeQuindi, ti verrà domandato quale Pokémon\xfffedesideri ricevere in cambio.\xf000븁\x0000\xfffeSe un altro giocatore offre il Pokémon\xfffeche vuoi in cambio di quello che offri tu,\xf000븀\x0000\xfffelo scambio va in porto.\xf000븁\x0000
+Puoi cercare un Pokémon tra quelli\xfffeofferti.\xf000븁\x0000\xfffeOgnuno di questi indicherà quale\xfffeAllenatore l'ha messo a disposizione e\xf000븀\x0000\xfffeche Pokémon desidera in cambio.\xf000븁\x0000\xfffeSe trovi un Pokémon che vuoi, per averlo\xfffedovrai dare il Pokémon che l'altro\xf000븀\x0000\xfffeAllenatore cerca.\xf000븁\x0000
+Offrire Pokémon?
+Cercare Pokémon?
+Ho capito!
+Vuoi iniziare le trattative per lo scambio\xfffedi Pokémon in tutto il mondo?
+Iniziare le trattative
+Regole
+Indietro
+Nella modalità Trattativa GTS devi\xfffescegliere le condizioni di scambio.\xf000븁\x0000\xfffeSe trovi qualcuno che le soddisfa, puoi\xfffeiniziare le trattative.\xf000븁\x0000\xfffePer fare questo tipo di scambio devi\xfffeavere in squadra almeno due Pokémon.\xf000븁\x0000
+Vuoi informazioni più dettagliate?
+Per fare una Trattativa devi scegliere\xfffetre Pokémon da offrire a un giocatore\xf000븀\x0000\xfffeche, a sua volta, ne propone tre.\xf000븁\x0000\xfffeQuando ognuno ha scelto il Pokémon che\xfffepreferisce fra quelli proposti, ha luogo\xf000븀\x0000\xfffelo scambio.\xf000븁\x0000
+Nelle condizioni di scambio puoi impostare\xfffetre parametri: i Pokémon che cerchi,\xf000븀\x0000\xfffequelli che offri, e il livello desiderato.\xf000븁\x0000\xfffePuoi fare scambio con le persone che\xfffesoddisfano tutte le condizioni.\xf000븁\x0000\xfffeInoltre, potrai organizzare nuovi scambi\xfffecon le persone con cui hai già scambiato.\xf000븁\x0000
+Trattativa
+Condizioni di scambio
+Ho capito!
+Vuoi aprire il Registradati?
+Dopo aver registrato un Video Lotta\xfffedella tua squadra di Pokémon con il\xf000븀\x0000\xfffeRegistradati, puoi inserirlo qui.\xf000븁\x0000\xfffePuoi anche guardare i Video Lotta inseriti\xfffeda altri Allenatori.\xf000븁\x0000\xfffeI video possono essere cercati in base al\xfffePokémon, al luogo in cui si è svolta la\xf000븀\x0000\xfffelotta e così via.\xf000븁\x0000\xfffeA ogni Video Lotta che inserisci viene\xfffeassegnato un codice di 12 cifre.\xf000븁\x0000\xfffePer accedere al video, i tuoi amici devono\xfffeinserire lo stesso numero di 12 cifre.\xf000븁\x0000
+Apri
+Regole
+Indietro
+Vuoi vedere i Dati Musical?
+Nei Dati Musical puoi pubblicare le foto\xfffescattate al Musical di Sciroccopoli\xf000븀\x0000\xfffeusando il Registradati.\xf000븁\x0000\xfffePuoi vedere anche le foto degli altri\xfffegiocatori suddivise per Pokémon.\xf000븁\x0000
+Guarda
+Regole
+Indietro
+Vuoi fare un Abbinamento a Caso?
+Affronta Sfida
+Regole
+Esci
+L'Abbinamento a Caso ti consente di fare\xfffedelle Lotte in Link con giocatori distanti.\xf000븁\x0000\xfffeComprende cinque tipi di lotte: Lotta in\xfffeSingolo, in Doppio, in Triplo, a Rotazione\xf000븀\x0000\xfffee con Lancio.\xf000븀\x0000\xfffeE due modalità: Libera e Punteggio.\xf000븁\x0000\xfffeAlla modalità Libera può partecipare\xfffechiunque senza restrizioni.\xf000븁\x0000\xfffePer la modalità Punteggio, devi regolare\xfffele Impostazioni Sincrogioco,\xf000븀\x0000\xfffeandare sul sito ufficiale Pokémon Global\xf000븀\x0000\xfffeLink usando un computer collegato a\xf000븀\x0000\xfffeInternet e registrare l'ID Sincrogioco.\xf000븁\x0000\xfffehttp://www.pokemon-gl.com\xfffe(Pokémon Global Link)\xf000븁\x0000
+Vuoi informazioni più dettagliate?
+Modalità Libera
+Modalità Punteggio
+Regole speciali
+Ho capito!
+Nella modalità Libera puoi affrontare\xfffeliberamente giocatori distanti.\xf000븁\x0000\xfffeSe hai allenato bene i tuoi Pokémon,\xfffeprova a cimentarti in questa modalità.\xf000븁\x0000
+La modalità Punteggio è consigliata ai\xfffegiocatori che vogliono perfezionare\xf000븀\x0000\xfffela loro abilità nella lotta.\xf000븁\x0000\xfffeUna volta stabilita la connessione,\xfffelotterai con persone dal punteggio\xf000븀\x0000\xfffesimile al tuo.\xf000븁\x0000\xfffeIl punteggio parte da 1500 e si abbassa o\xfffesi alza a seconda che tu perda o vinca.\xf000븁\x0000\xfffePiù alto sarà il punteggio, più forti\xfffesaranno gli Allenatori che affronterai.\xf000븁\x0000\xfffeProva questa modalità e scopri qual è\xfffeil tuo livello!\xf000븁\x0000\xfffeUn ultimo avvertimento: se cambi console\xfffementre partecipi alla modalità Punteggio,\xf000븀\x0000\xfffei risultati ottenuti fino a quel momento\xf000븀\x0000\xfffeverranno azzerati. Fai attenzione!\xf000븁\x0000
+Gli Abbinamenti a Caso seguono alcune\xffferegole speciali.\xf000븁\x0000\xfffeTutti i Pokémon di livello superiore al 50\xfffevengono portati a 50.\xf000븁\x0000\xfffeI Pokémon non vengono chiamati con il\xfffeloro soprannome.\xf000븁\x0000\xfffeC'è un tempo limite entro il quale\xfffescegliere il Pokémon da far lottare e\xf000븀\x0000\xfffedare gli ordini durante la lotta.\xf000븁\x0000\xfffeFai attenzione, perché se non rispetti\xfffei limiti di tempo, la mossa che il Pokémon\xf000븀\x0000\xfffeeseguirà verrà scelta automaticamente.\xf000븁\x0000\xfffeInoltre, c'è anche un tempo limite per\xfffeconcludere le lotte, superato il quale\xf000븀\x0000\xfffela vittoria sarà decisa in base ai punti.\xf000븁\x0000
+Quale lotta scegli?
+Lotta in Singolo
+Lotta in Doppio
+Lotta in Triplo
+Lotta a Rotazione
+Lotta con Lancio
+Indietro
+Vuoi accettare la sfida alla Lotta in\xfffeSingolo?
+Vuoi accettare la sfida alla Lotta in\xfffeDoppio?
+Vuoi accettare la sfida alla Lotta in\xfffeTriplo?
+Vuoi accettare la sfida alla Lotta a\xfffeRotazione?
+Vuoi accettare la sfida alla Lotta con\xfffeLancio?
+Ok
+Regole
+Esci
+Per la Lotta in Singolo sono necessari dai\xfffetre ai sei Pokémon.\xf000븁\x0000\xfffePrima della lotta i giocatori si mostrano\xfffei Pokémon a vicenda e ne scelgono tre\xf000븀\x0000\xfffeper lottare.\xf000븁\x0000\xfffeI Pokémon in squadra e gli strumenti\xfffedevono essere diversi fra loro.\xf000븁\x0000\xfffeInoltre, non si possono avere in squadra\xfffeUova o Pokémon speciali.\xf000븁\x0000
+Per la Lotta in Doppio sono necessari dai\xfffequattro ai sei Pokémon.\xf000븁\x0000\xfffePrima della lotta i giocatori si mostrano i\xfffePokémon a vicenda e ne scelgono quattro\xf000븀\x0000\xfffeper lottare.\xf000븁\x0000\xfffeI Pokémon in squadra e gli strumenti\xfffedevono essere diversi fra loro.\xf000븁\x0000\xfffeInoltre, non si possono avere in squadra\xfffeUova o Pokémon speciali.\xf000븁\x0000
+Per la Lotta in Triplo sono necessari sei\xfffePokémon.\xf000븁\x0000\xfffePrima della lotta i giocatori si mostrano\xfffei Pokémon a vicenda e ne scelgono sei\xf000븀\x0000\xfffeper lottare.\xf000븁\x0000\xfffeI Pokémon in squadra e gli strumenti\xfffedevono essere diversi fra loro.\xf000븁\x0000\xfffeInoltre, non si possono avere in squadra\xfffeUova o Pokémon speciali.\xf000븁\x0000
+Per la Lotta a Rotazione sono necessari\xfffedai quattro ai sei Pokémon.\xf000븁\x0000\xfffePrima della lotta i giocatori si mostrano i\xfffePokémon a vicenda e ne scelgono quattro\xf000븀\x0000\xfffeper lottare.\xf000븁\x0000\xfffeI Pokémon in squadra e gli strumenti\xfffedevono essere diversi fra loro.\xf000븁\x0000\xfffeInoltre, non si possono avere in squadra\xfffeUova o Pokémon speciali.\xf000븁\x0000
+La Lotta con Lancio è come una Lotta in\xfffeTriplo con in più il Mirabilancere.\xf000븁\x0000\xfffePer partecipare servono sei Pokémon.\xf000븁\x0000\xfffePrima della lotta i giocatori si mostrano\xfffei Pokémon a vicenda e ne scelgono sei\xf000븀\x0000\xfffeper lottare.\xf000븁\x0000\xfffeI Pokémon in squadra e gli strumenti\xfffedevono essere diversi fra loro.\xf000븁\x0000\xfffeInoltre, non si possono avere in squadra\xfffeUova o Pokémon speciali.\xf000븁\x0000
+Per favore, scegli se usare i Pokémon\xfffedella tua squadra o del Box Lotta.
+In squadra
 Box Lotta
 Indietro
-てもちか　バトルボックスの\xfffeどちらを　つかうか　えらんでください
-けってい
+Per favore, scegli se usare i Pokémon\xfffedella tua squadra o del Box Lotta.
+Conferma
 Box Lotta
-Indietro
-……あら？\xf000븁\x0000\xfffeおきゃくさま　てもちも　ボックスも\xfffeポケモンで　いっぱい　ですよ\xf000븁\x0000\xfffeＧＴＳを　ごりように　なるには\xfffeてもち　か　ボックス　に\xf000븀\x0000\xfffeあきを　つくって　ください\xf000븁\x0000
-……あら？\xfffeおきゃくさま！\xf000븁\x0000\xfffeポケモンを　てもちに　２ひきいじょう\xfffeおもちで　ないと\xf000븀\x0000\xfffeＧＴＳを　ごりよう　いただけません\xf000븁\x0000
-……あら？\xfffeおきゃくさま！\xf000븁\x0000\xfffeポケモンを　てもちに　２ひきいじょう\xfffeおもちで　ないと\xf000븀\x0000\xfffeＧＴＳネゴシエーションを\xf000븀\x0000\xfffeごりよう　いただけません\xf000븁\x0000
-グローバルターミナルでは\xfffeＷｉ－Ｆｉコネクションに　せつぞくして\xf000븁\x0000\xfffeとおくにいる　みしらぬひとと\xfffeつうしんを　つかって\xf000븀\x0000\xfffeこうかんが　できます\xf000븁\x0000\xfffeくわしくは　それぞれの　しせつの\xfffeせつめいを　おききください\xf000븁\x0000
-ランダムマッチ　または\xfffeＷｉ－Ｆｉたいかいの　さんかちゅうに\xf000븀\x0000\xfffeほんたいの　でんげんが　きれたため\xf000븁\x0000\xfffe１じかん\xfffeランダムマッチや　たいかいで\xf000븀\x0000\xfffeたいせんが　できなくなります\xf000븁\x0000\xfffeじかんが　たちましたら\xfffeおこしください
-でんげんの　せつだんに　ついて
-ランダムマッチ　または\xfffeＷｉ－Ｆｉたいかいの　さんかちゅうに\xf000븀\x0000\xfffeほんたいの　でんげんが　きれると\xf000븁\x0000\xfffe１じかん　ランダムマッチや　たいかいで\xfffeたいせんが　できなくなります\xf000븀\x0000\xfffeごちゅうい　ください\xf000븁\x0000
+Esci
+Oh oh...\xf000븁\x0000\xfffeLa tua squadra è completa e i Box sono\xfffepieni!\xf000븁\x0000\xfffePer usare la GTS, torna dopo aver fatto\xfffespazio nella squadra o nei Box.\xf000븁\x0000
+Oh oh...\xf000븁\x0000\xfffeSe non hai almeno due Pokémon nella tua\xfffesquadra, non puoi usare la GTS.\xf000븁\x0000
+Oh oh...\xf000븁\x0000\xfffeSe non hai almeno due Pokémon nella tua\xfffesquadra, non puoi usare la Trattativa\xf000븀\x0000\xfffeGTS.\xf000븁\x0000
+In the Global Terminal, you can battle or\xfffetrade Pokémon with Pokémon fans from\xf000\xbe00\x0000\xfffearound the world by connecting to\xf000\xbe00\x0000\xfffeNintendo Wi-Fi Connection.\xf000\xbe01\x0000\xfffeFor details, please listen to the\xfffeexplanation at each facility.\xf000\xbe01\x0000
+ランダムマッチ または\xfffeWi-Fiたいかいの さんかちゅうに\xf000\xbe00\x0000\xfffeほんたいの でんげんが きれたため\xf000\xbe01\x0000\xfffe1じかん\xfffeランダムマッチや たいかいで\xf000\xbe00\x0000\xfffeたいせんが できなくなります\xf000\xbe01\x0000\xfffeじかんが たちましたら\xfffeおこしください
+でんげんの せつだんに ついて
+ランダムマッチ または\xfffeWi-Fiたいかいの さんかちゅうに\xf000\xbe00\x0000\xfffeほんたいの でんげんが きれると\xf000\xbe01\x0000\xfffe1じかん ランダムマッチや たいかいで\xfffeたいせんが できなくなります\xf000\xbe00\x0000\xfffeごちゅうい ください\xf000\xbe01\x0000
