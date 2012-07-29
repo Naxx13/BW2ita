@@ -6,24 +6,24 @@ Il nome del tuo amico?
 Come saluti i passanti?
 Come ringrazi i passanti?
 Qual è il tuo messaggio\xfffeai passanti?
-この　まちの　なまえは？\xfffe（トレーナーカードに　のります）
-あなたの　かたがきは？\xfffe（このまち　だけの　よばれかた　です）
-じぶんの　くちぐせは？\xfffe（せかいの　みんなに　つたわります）
-パスワードを　にゅうりょくせよ
-ゲームシンクＩＤコードを\xfffeにゅうりょく　してください
-かんどう　したときの　ことばは？\xfffe（せかいの　みんなに　つたわります）
-さんかしている　トレーナーへ\xfffeつたえたい　メッセージは？
-すれちがった　あいてへの\xfffeよろこびの　メッセージは？
-ポケモンの　なまえは？
+Il nome di questa città?\xfffe(Registralo nella tua Carta Allenatore.)
+Il tuo titolo?\xfffe(Solo il posto riferito di questa città.)
+La tua affermazione?\xfffe(Trasmessa a tutti nel mondo.)
+Inserisci la tua password.
+Per piacere inserisci il tuo\xfffeGame Sync ID Code.
+Quando e come tu parli?\xfffe(Trasmesso a tutti nel mondo.)
+Quando trasmetti un messaggio \xfffeai passanti?
+Qual è il tuo Messaggio ai Passanti?
+Il soprannome del tuo Pokémon?
 Scrivi il tuo nome.
 Numeri possono contenere\xfffesolo fino a quattro cifre.
-ゲームシンクＩＤコードが\xfffeまちがっています
+Il Game Sync ID\xfffeè incorretto.
 　
 　
-Best regards!
+I Migliori Saluti!
 grazie!
 Bianco.
 Nero.
 ♂
 ♀
-Per favore enter
+Per favore metti.
