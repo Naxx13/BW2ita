@@ -1,14 +1,14 @@
-あら? もしかして\xfffeGym Leaderを さがしに きたの\xf000\xbe01\x0000\xfffeざんねんね... ちょうど いれかわりで\xfffeジムに むかっていったわ\xf000\xbe01\x0000\xfffeここまできた きねんに\xfffeこれを もっていきなさいな\xf000\xbe01\x0000
-Gym Leaderね\xfffeジェットコースターの スリルで\xf000\xbe00\x0000\xfffeむじゃきに なるのが すきだって
-ハーイ! ジェットコースターの\xfffeのりごこちは どうだった?\xf000\xbe01\x0000
-コースターで きたえた スピード!\xfffeはやさで きみを あっとうするよ!\xf000\xbe01\x0000
-きみの たたかいかた...\xfffeまさに エレガントで ゴージャスだ\xf000\xbe01\x0000
-When you switch the paths,\xfffethe roller coaster's route changes.\xf000\xbe00\x0000But you knew that, of course.
-この ジェットコースターも\xfffeいよいよ おおづめ よ!\xf000\xbe01\x0000
-あたくしも カミツレさまに\xfffeきたえられた ポケモンTrainer!\xf000\xbe00\x0000\xfffeかんたんに かちは ゆずりません\xf000\xbe01\x0000
-アナタのような ひんがある\xfffeTrainerの おあいてが できて\xf000\xbe00\x0000\xfffeあたくし こうえい ですわ!\xf000\xbe01\x0000
-ジェットコースター\xfffeがいこくでは ローラーコースターね
-\xf000\x0100\x0001\x0000 switched\xfffethe track's course!\xf000\xbe01\x0000\xfffeThe path of the roller coaster\xfffewas altered!
-この ジェットコースターは\xfffeまず コースターに のる!\xf000\xbe01\x0000\xfffeつぎに プラットフォーム...\xfffeあしばですね! そこで\xf000\xbe00\x0000\xfffeポイントを きりかえる\xf000\xbe01\x0000\xfffeときとして たおした あいての\xfffeコースターにも のってすすむ!\xf000\xbe00\x0000\xfffeそうやって おくを めざすっす!
-カミツレさん すごいよな!\xf000\xbe01\x0000\xfffeふつうなら かいぞう するだけなのに\xfffeあたらしい ジムを つくっちゃって\xf000\xbe01\x0000\xfffeカミツレさん めっちゃ すごいよな!
-かそく! かそく!\xfffeどんどん はやくなって ゴキゲン!
+Eh..?\xfffePer caso cerchi la Capopalestra?\xf000\xbe01\x0000\xfffeChe peccato... Questa palestra è stata\xfffesostituita!\xf000\xbe01\x0000\xfffeTi prego di accettare questo dono,\xfffeper essere venuto fino a qui!\xf000\xbe01\x0000
+Ormai, la Capopalestra non prova più il\xfffebrivido per le Montagne Russe!
+Com'è stato salire sulle Montagne Russe?\xf000\xbe01\x0000
+Ti sei allenato alla velocità delle\xfffeMontagne Russe! Mi hai sopraffatto molto\xf000\xbe00\x0000\xfffevelocemente!\xf000\xbe01\x0000
+Il tuo modo di lottare... E' sia elegante\xfffeche semplicemente perfetto!\xf000\xbe01\x0000
+Quando schiacci un tasto, il percorso\xfffedelle Montagne Russe cambia.\xf000\xbe00\x0000Ma lo sapevi, ovviamente.
+Anche queste Montagne Russe sono\xfffeterminate!\xf000\xbe01\x0000
+Anche io sono un Allenatore\xfffeallenato da Camelia!\xf000\xbe00\x0000\xfffeNon ti lascierò vincere facilmente!\xf000\xbe01\x0000
+Sono onorata di aver potuto osservare\xfffela forza dei tuoi Pokémon!\xf000\xbe01\x0000
+Le Montagne Russe nei paesi stranieri,\xfffesono chiamate Roller Coaster!
+\xf000\x0100\x0001\x0000 ha cambiato il percorso\xfffedella pista!\xf000\xbe01\x0000\xfffeIl percorso delle Montagne Russe\xfffeè stato alterato!
+In queste Montagne Russe, per prima cosa\xfffedevi salire sul carrello!\xf000\xbe01\x0000\xfffePoi vai su una piattaforma...\xfffeQui, ci sono dei tasti, che se\xf000\xbe00\x0000\xfffepremuti, a volte fanno comparire\xf000\xbe00\x0000\xfffeil carrello dell'avversario!\xf000\xbe01\x0000\xfffeStai attento!
+Camelia è fantastica!\xf000\xbe01\x0000\xfffeAnche se sarebbe bastata una\xffferistrutturazione, ha fatto addirittura\xf000\xbe00\x0000\xfffecostruire una nuova palestra!!
+Più veloce! Più veloce!\xfffeE' così bello andare sempre più veloci!
