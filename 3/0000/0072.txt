@@ -33,10 +33,10 @@ Con il Registradati, puoi registrare\xfffele lotte insieme ai tuoi amici\xf000�
 Sono il Capometrò Ingo!\xf000븁\x0000\xfffeSono in carica come Capometrò nel\xfffeMetrò Lotta.\xf000븀\x0000\xfffeLotto nei vagoni della Metropolitana.
 E io sono Emmet!\xf000븁\x0000\xfffeSono anch'io un Capometrò!\xf000븁\x0000\xfffeAmo le Lotte in Doppio, come le\xf000븀\x0000\xfffecombinazioni che si possono creare con\xf000븀\x0000\xfffedue Pokémon!
 Ingo: Questo è un posto così strano\xfffeper me per lottare...\xf000븁\x0000\xfffePerò capisco anche che bisogna\xfffesapersi adattare!\xf000븁\x0000\xfffeAllora, Emmet,\xfffese hai qualcosa da dire, prego!\xf000븁\x0000
-Emmet『ルールを　まもって\xfffeあんぜん　うんてん！\xf000븁\x0000\xfffeめざすは　しょうり！\xfffeしゅっぱつ　しんこう！\xf000븁\x0000
-Ingo『ブラボー！！\xf000븁\x0000\xfffeあなたがたと　ポケモンの\xfffeコンビネーション！　すばらしいです\xf000븁\x0000
-Emmet『ぼく　Emmet\xf000븁\x0000\xfffeきみたちに　まけちゃった\xf000븁\x0000\xfffeだけど　おもしろかった！\xfffeまた　あそぼうよ！\xf000븁\x0000
-Ingo『ぜひ！　ぜひ！　つぎは\xfffeちかてつに　ごじょうしゃに　なって\xf000븀\x0000\xfffeしょうぶ　してくださいまし！\xf000븁\x0000\xfffeそれでは　しゅっぱつ　しんこうーッ！！\xf000븁\x0000
+Emmet: Mi raccomando, osserva sempre\xfffele regole in Metrò!\xf000븁\x0000\xfffeBene, vinceremo!!\xfffeForza, partiamo!\xf000븁\x0000
+Ingo: Bravo!!\xf000븁\x0000\xfffeVoi e i vostri Pokémon formate una\xfffesquadra fantastica!\xf000븁\x0000
+Emmet: Io, Emmet...\xf000븁\x0000\xfffeHo perso contro di voi...\xf000븁\x0000\xfffeMa è stato molto interessante!\xfffeSpero di rivedervi, un giorno!\xf000븁\x0000
+Ingo: Sicuramente, la prossima volta,\xfffesaliremo su un treno nel Metrò Lotta\xf000븀\x0000\xfffee lotteremo lì!\xf000븁\x0000\xfffeE allora partiremo!!!\xf000븁\x0000
 えっ！　カナワタウンで\xfffeポケモンを　さがしている\xf000븀\x0000\xfffeトレーナーさんが　いるって！？\xf000븁\x0000
 おまえさん\xfffeずいぶん　とおくから　きたんだなあ\xf000븁\x0000
 わかった！　ぼくが　カナワタウンに\xfffeこのコを　おくっていくよ\xf000븁\x0000\xfffeおしえてくれて　かんしゃ　です！
