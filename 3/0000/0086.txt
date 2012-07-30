@@ -1,6 +1,6 @@
 \xf000Ā\x0001\x0000 ha ricevuto \xf000ȁ\x0001\x0001 PL!
 Salvataggio in corso...\xfffeNon rimuovere l'alimentazione.
-Salvataggio...\xfffeon rimuovere l'alimentazione.
+Salvataggio...\xfffeNon rimuovere l'alimentazione.
 Congratulazioni!Hai raggiunto\xfffesette vittorie di fila!\xf000븁\x0000\xfffeSiccome le hai vinte di fila,\xfffeTi sei aggiudicato questi Punti Lotta!\xf000븁\x0000
 Congratulazioni!\xf000븁\x0000\xfffeHai vinto ben sette volte di fila\xfffee hai brillantemente battuto il Capometro,\xf000븀\x0000\xfffeperciò ti sei aggiudicato questi\xf000븀\x0000\xfffePunti Lotta.\xf000븁\x0000
 E, \xf000Ā\x0001\x0000,ora hai ottenuto\xfffeil diritto di lottare\xf000븀\x0000\xfffenel Super Treno in Singolo!\xf000븁\x0000
@@ -49,13 +49,13 @@ Posso andare ancora più lontano!\xfffeposso vincere ancora di più!
 Gli occhi degli allenatori sono molto\xfffedeterminati, o potrei dire quasi scintillanti.
 E' questo il meglio che un Agente può fare...?\xf000븁\x0000\xfffeLa luce che viene da treni sembra\xfffetroppo luminosa.
 Il Capometrò è un tipo strano,\xfffee sospetto.\xf000븁\x0000\xfffeNon posso ancora crederci che stava dando\xfffetutto se stesso.
-Sfidare persone fa anche parte\xfffedell'allenamento della polzia.
+Sfidare persone fa anche parte\xfffedell'allenamento della polizia.
 Posso fare tutto cio che voglio!\xfffeQuesto posto! E' come il paradiso, vero?
 Il mio viaggio è appena iniziato!\xfffeNessuno puo permettersi di perdere!
 Stare da solo sulla piattaforma della stazione\xfffequalche volta mi rende un pò tirste.\xf000븁\x0000\xfffeLe persone abbandonano il loro viaggio qui,e\xfffemi fa venire in mente tanti ricordi.
-E'stato facile battere il Capoetro!\xf000븁\x0000\xfffeForse dovrei fare del mio meglio\xfffenel SuperTreno la prossima volta!
+E'stato facile battere il Capometrò!\xf000븁\x0000\xfffeForse dovrei fare del mio meglio\xfffenel SuperTreno la prossima volta!
 Gli allenatori sono diventati sicuramente forti.\xfffeQuesto mi fa senite un pò inquieto...
-sembra che la mia abilità con i Pokèmon\xfffeabbia raggiunto il suo massimo.\xf000븁\x0000\xfffeNon potevo lasciar andare i miei sogni...\xfffeLi attaccherei su di te, straniero,\xf000븀\x0000\xfffegiovane Allenatore.\xf000븁\x0000\xfffeE questa è la prova.\xfffeTi prego accettalo, giovanotto...\xf000븁\x0000
+Sembra che la mia abilità con i Pokèmon\xfffeabbia raggiunto il suo massimo.\xf000븁\x0000\xfffeNon potevo lasciar andare i miei sogni...\xfffeLi attaccherei su di te, straniero,\xf000븀\x0000\xfffegiovane Allenatore.\xf000븁\x0000\xfffeE questa è la prova.\xfffeTi prego accettalo, giovanotto...\xf000븁\x0000
 Ho intenzione di tornare a casa e\xffferallegrarmi tranquillamente con l'arte!
 Oh ho ho ho...\xf000븁\x0000\xfffeHo già fatto meglio di quello che ho fatto\xfffedurante la mia ultima sfida!
 Una battaglia tra due Allenatori eccellenti è\xfffemolto artistica.
