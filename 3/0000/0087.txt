@@ -27,13 +27,13 @@ I tuoi Pokémon sono fantastici!\xfffeCerco sempre di starci attento!\xf000\xbe0
 Io ho visto tutti i musical ai quali\xfffehai partecipato!\xf000\xbe01\x0000\xfffeI soldi che spendo per assistervi\xfffesono spesi bene!\xf000\xbe00\x0000\xfffeE' il miglior tipo di intrattenimento\xf000\xbe00\x0000\xfffeche ci sia!
 C'è una Foto del Musical salvata\xfffedall'ultima volta!\xf000\xbe01\x0000
 Puoi rivedere le Foto dei tuoi precedenti\xfffespettacoli qui.
-Lo sapevi? Quando ci sono dei Pokémon carini,\xfffei miei occhi sono presi dal palco!
-In origine, le persone recitavano in questo\xfffeTeatro Musical.\xf000\xbe01\x0000\xfffeUn giorno, un Pokémon è salito sul palco\xfffee ha iniziato ad imitare gli attori.\xf000\xbe01\x0000\xfffeTutti pensarono che fosse sensazionale!\xfffeTa-daaah! Ecco che nacque il Pokémon Musical.
+Lo sapevi? Quando ci sono dei Pokémon\xfffecarini, i miei occhi sono presi dal palco!
+In origine, le persone recitavano in questo\xfffeTeatro Musical.\xf000\xbe01\x0000\xfffeUn giorno, un Pokémon è salito sul palco\xfffee ha iniziato ad imitare gli attori.\xf000\xbe01\x0000\xfffeTutti pensarono che fosse sensazionale!\xfffeTa-daaah! Nacque il Pokémon Musical!
 Se sei attivo nel musical, le persone\xfffediventeranno tue fan e ti regaleranno\xf000\xbe00\x0000\xfffedegli accessori.\xf000\xbe01\x0000\xfffeNon ho nessun accessori, perciò io cambio\xfffeti darò questa!\xf000\xbe01\x0000
 Con la mossa Echeggiavoce, la forza\xfffeè incrementata moltissimo se viene usata\xf000\xbe00\x0000\xfffeper più turni di seguito.\xf000\xbe01\x0000\xfffeUsandola in un gruppo, potrebbe funzionare\xfffemeglio!
-La perseveranza è importante, perciò continua\xfffea partecipare ai musical e a usare\xf000\xbe00\x0000\xfffeEcheggiavoce!\xf000\xbe01\x0000\xfffeAvrai molti più fan nel musical, e\xfffearrecherai più danni con Echeggiavoce!
+La perseveranza è importante, perciò \xfffecontinua a partecipare ai musical e a usare\xf000\xbe00\x0000\xfffeEcheggiavoce!\xf000\xbe01\x0000\xfffeAvrai molti più fan nel musical, e\xfffearrecherai più danni con Echeggiavoce!
 Teatro Musical\xfffeAccessori + Musica = Grande Spettacolo!
-この さきは\xfffeかんきゃくせきに なりますがー\xf000\xbe01\x0000\xfffeあなたには かんきゃくせき よりも\xfffeはなやかな ぶたいの ほうが\xf000\xbe00\x0000\xfffeおにあい ですなー
+In questa sala si tengono delle\xfffeaudizioni.\xf000\xbe01\x0000\xfffeTi prego di provare anche tu a\xfffepartecipare!
 Ciao, piacere di incontrati!\xf000\xbe01\x0000\xfffeSono il proprietario di\xfffequesto musical!\xf000\xbe01\x0000
 Sembri un Allenatore con grande\xfffesensibilità!\xf000\xbe01\x0000\xfffeNon vorresti provare ad\xfffeagghindare i tuoi Pokémon con degli\xf000\xbe00\x0000\xfffeaccessori?\xf000\xbe01\x0000\xfffeBene, allora ti darò in regalo\xfffequesta Scatola Chic!\xf000\xbe01\x0000
 おや あなた どこかで\xfffeおあい したこと･･････\xf000\xbe00\x0000\xfffeいや おもいすごし でした\xf000\xbe01\x0000\xfffeわたしは この ミュージカルの\xfffeオーナーです よろしく!\xf000\xbe01\x0000
@@ -49,11 +49,11 @@ Sembri un Allenatore con grande\xfffesensibilità!\xf000\xbe01\x0000\xfffeNon vo
 あらあら そうですか!\xf000\xbe01\x0000\xfffeでは \xf000\x0100\x0001\x0000さんと\xfffeおそろいの グッズの セットを\xf000\xbe00\x0000\xfffeうけとりたく なったときは わたしに\xf000\xbe00\x0000\xfffeはなしかけて くださいませ!
 ...おやおや?\xf000\xbe01\x0000\xfffeスーパースターの\xfffeつかっていた グッズと\xf000\xbe01\x0000\xfffeおなじグッズを すでに\xfffeすべて おもちの ようですね\xf000\xbe01\x0000\xfffeさすが です!
 むかし ステキな ミュージカルを\xfffeみせてくれる Trainer が いて\xf000\xbe00\x0000\xfffeわたし ずいぶん むちゅうだったの\xf000\xbe01\x0000\xfffeまた あんな スーパースターが\xfffeあらわれない かしら...
-あら! あなた...\xf000\xbe01\x0000\xfffeわたしが むかし だいファンだった\xfffe\xf000\x0100\x0001\x0000さん に\xf000\xbe00\x0000\xfffeなんだか にてる かも...?\xf000\xbe01\x0000\xfffeでもまだ \xf000\x0100\x0001\x0000さん の\xfffeカリスマせい には およんでないわね
-あら!!! あなた...\xf000\xbe01\x0000\xfffeわたしが むかし だいファンだった\xfffe\xf000\x0100\x0001\x0000さんに\xf000\xbe01\x0000\xfffeまけず おとらず ステキな\xfffeミュージカルを する かたね!!\xf000\xbe01\x0000\xfffeすっかり ファンに なっちゃった\xfffeステキな ぶたいを ありがとう
-おっ! きみ!\xfffeその おもかげは...!\xf000\xbe01\x0000
-うーん\xfffeメモリアル...!
-\xf000\x0100\x0001\x0000さんと おそろいの\xfffeグッズの セットを うけとりますか?
+Oh, tu...\xf000\xbe01\x0000\xfffeTempo fa io ero fan di\xfffe\xf000\x0100\x0001\x0000! Non so perchè, ma tu\xf000\xbe00\x0000\xfffeme lo ricordi...\xf000\xbe01\x0000\xfffeMa non hai ancora il carisma\xfffedi \xf000\x0100\x0001\x0000!
+Oh!!! Tu...\xf000\xbe01\x0000\xfffeTempo fa ero una fan di\xfffe\xf000\x0100\x0001\x0000! Tu sei riuscito ad\xf000\xbe00\x0000\xfffeeseguire un magnifico musical!!\xf000\xbe01\x0000\xfffeSono diventata una tua fan!\xfffeGrazie per lo splendido spettacolo!
+Ohh! Tu!\xfffeQuella faccia...!\xf000\xbe01\x0000
+Ehm...\xfffeTestimonianze...!
+Hai ricevuto la stessa Scatola Chic\xfffedi \xf000\x0100\x0001\x0000?
 グッズの セットの うけとりは\xfffe1どしか できませんが よいですか?
 no data
 no data
