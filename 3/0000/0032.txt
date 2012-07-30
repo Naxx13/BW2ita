@@ -1,7 +1,7 @@
-Benvenuto al Café Warehouse,\xfffeun  café alla moda in un area campestre!!
-Benvenuto al Café Warehouse,\xfffeun  café allla moda in un area campestre!!\xf000\xbe01\x0000Mercoledì è il nostro giorno di servizio!\xfffePrendi questa Soda Pop!\xf000\xbe01\x0000Try out our cafe's\xfffemost popular flavors!\xf000\xbe01\x0000
-Try out our cafe's\xfffemost popular flavors!\xf000\xbe01\x0000
-Welcome to Café Warehouse,\xfffea stylish café in a rural area!!\xf000\xbe01\x0000\xfffeSabato è il nostro giorno di servizio!\xfffePrendi questa Limonata!\xf000\xbe01\x0000\xfffeTry out our cafe's\xfffemost popular flavors!\xf000\xbe01\x0000
+Benvenuto al Café Warehouse,\xfffeun café alla moda in un area campestre!!
+Benvenuto al Café Warehouse,\xfffeun café alla moda in un area campestre!!\xf000\xbe01\x0000Mercoledì è il nostro giorno di servizio!\xfffePrendi questa Soda Pop!\xf000\xbe01\x0000Prova il nostro caffè\xfffedai sapori più amati!\xf000\xbe01\x0000
+Prova il nostro caffè\xfffedai sapori più amati!\xf000\xbe01\x0000
+Benvenuto al Café Warehouse,\xfffeun caffè alla moda in una zona rurale!!\xf000\xbe01\x0000\xfffeSabato è il nostro giorno di servizio!\xfffePrendi questa Limonata!\xf000\xbe01\x0000\xfffeProva il nostro caffè\xfffedai sapori più amati!\xf000\xbe01\x0000
 Tutti i Mercoledì e i Sabato sono\xfffei nostri giorni di servizio!
 ハンカチを ひろったけど どうやら\xfffeじょうれんの おきゃくさんの\xf000\xbe00\x0000\xfffeおとしもの みたい...\xf000\xbe01\x0000\xfffeいかりのまえばが つかえる\xfffeちゃいろの ポケモンを つれた\xf000\xbe00\x0000\xfffeおきゃくさん だった きがする...\xf000\xbe01\x0000\xfffeあたし ハンカチとか すぐに\xfffeわすれちゃう ひと だから...\xf000\xbe01\x0000\xfffeあなた よければ\xfffeおとしぬしを さがして くれない?
 Thank you!\xfffeハンカチを あずけて おくわね\xf000\xbe01\x0000\xfffeまいにち いろんな おきゃくさんが\xfffeいれかわりで いらっしゃるから\xf000\xbe00\x0000\xfffeどんどん きくと いいんじゃない!
@@ -9,7 +9,7 @@ Thank you!\xfffeハンカチを あずけて おくわね\xf000\xbe01\x0000\xfff
 ハンカチを おとした ひとは\xfffeいかりのまえばが つかえる\xf000\xbe00\x0000\xfffeちゃいろの ポケモンを つれた\xf000\xbe00\x0000\xfffeおきゃくさん だった きがする...
 えっ! おとしものを した\xfffeおきゃくさんを みつけた!?\xf000\xbe01\x0000\xfffeミネズミが パートナーの\xfffeおきゃくさん だったのねー\xf000\xbe01\x0000\xfffeよかったわ! ほんとうに ありがと!\xfffeこれは みつけてくれた おれいよ\xf000\xbe01\x0000
 おしごと おしごと たのしいな!\xf000\xbe01\x0000\xfffeだって いろんな\xfffeポケモンと おきゃくさんに あえるの
-Monday! いっしゅうかんの\xfffeやるきを だすために のむ\xf000\xbe00\x0000\xfffeいっぱいの モーモーミルク...\xf000\xbe01\x0000\xfffeワルビルと いっしょに こんしゅうも\xfffeがんばるぞ! って おもえるねー
+Lunedì! いっしゅうかんの\xfffeやるきを だすために のむ\xf000\xbe00\x0000\xfffeいっぱいの モーモーミルク...\xf000\xbe01\x0000\xfffeワルビルと いっしょに こんしゅうも\xfffeがんばるぞ! って おもえるねー
 ん? おとしもの?\xfffeぼく じゃないなあ...\xf000\xbe01\x0000\xfffeべつの ひに くる\xfffeおきゃくさん かもよ
 あたくし はくぶつかんで\xfffeうつくしい カセキを みたあと\xf000\xbe01\x0000\xfffeヨーテリーちゃんと こちらで\xfffeくつろぐのが しゅうかん なの\xf000\xbe01\x0000\xfffeちなみに ウチの ヨーテリーちゃん\xfffeとくいわざは ほえる ですわよ
 あら? あたくし は\xfffeおとしものは してなくてよ?\xf000\xbe01\x0000\xfffeあたくしの ヨーテリーちゃん は\xfffeいかりのまえば は つかえないし\xf000\xbe01\x0000\xfffeべつの おきゃくさん かしら?\xfffeきまった ようびだけに くるひとも\xf000\xbe00\x0000\xfffeおおいんでしょ? この カフェって
