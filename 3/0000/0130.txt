@@ -36,7 +36,7 @@ Benvenuto a Ponentopoli, città celeste!\xfffePrendi questo come ricordo!\xf000�
 あら？　あなた\xfffeハートスイーツ　もってるのね！\xf000븁\x0000\xfffeハートスイーツ　１０まいと　わたしの\xfffeハートのウロコを　こうかんしない？
 なんだか　きょうは\xfffeとくべつ　きぶん！\xf000븁\x0000\xfffeあなたの　ハートスイーツ　５まいと\xfffeハートのウロコを　こうかんしない？
 ハートスイーツを\xfffeたくさん　もってきてくれたら\xf000븀\x0000\xfffeいいものと　こうかんしまーす
-Yeeee!\xfffeIHo catturato il tuo cuore!\xf000븁\x0000
+Yeeee!\xfffeHo catturato il tuo cuore!\xf000븁\x0000
 あれれ？　ざんねん\xfffeすっごく　ざんねん！\xf000븁\x0000\xfffeあなたの　ハートのウロコ\xfffeもう　いっぱい　なのね
 OK...\xfffeAww...Che peccato.
 ハートスイーツを　わたして\xfffeかわりに　ハートのウロコを　もらった\xf000븁\x0000
