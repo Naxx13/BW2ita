@@ -11,12 +11,12 @@ Oh, mi dispiace. La tua lista party è piena.\xf000\xbe01\x0000\xfffeLo terrò c
 Se hai un Fossile, portalo a me!
 \xf000\x0109\x0001\x0000
 \xf000\x0109\x0001\x0001
-Root Fossil
-Claw Fossil
-Helix Fossil
-Dome Fossil
-Old Amber
-Armor Fossil
-Skull Fossil
+Radifossile
+Fossilunghia 
+Helixfossile
+Domefossile
+Ambra Antica
+Fossilscudo
+Fossilcranio 
 Indietro
 Mi-Mi dispiace. Sono spiacente ma dovrai\xfffetornare più tardi.
