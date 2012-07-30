@@ -1,6 +1,6 @@
-Sembra che questo albero possa\xfffeessare tagliato? Vuoi tagliarlo?
+Sembra che questo albero possa\xfffeessere tagliato! Vuoi tagliarlo?
 \xf000Ă\x0001\x0000 usa Taglio!\xf000븁\x0000
-Sembra che questo albero possa\xfffeessare tagliato?
+Sembra che questo albero possa\xfffeessere tagliato!
 Un Pokémon potrebbe spaccarla!\xfffeVuoi usare Spaccaroccia?
 Sembra una roccia molto dura...\xfffeChissa se un Pokémon potrebbe romperla.
 \xf000Ă\x0001\x0000 usa Spaccaroccia!\xf000븁\x0000
@@ -9,9 +9,9 @@ E' un masso enorme...\xfffeUn Pokémon potrebbe spostarlo?\xf000븁\x0000\xfffeV
 E' un enorme masso, ma un Pokémon\xfffepotrebbe riuscire a spostarlo.
 Forza ha permesso di\xfffespostare i massi.
 \xf000Ă\x0001\x0000 usa Forza!\xf000븁\x0000
-La forza di  \xf000Ă\x0001\x0000 ha permesso\xfffedi spostare i massi!
+La forza di \xf000Ă\x0001\x0000 ha permesso\xfffedi spostare i massi!
 Il masso\xfffevi è caduto dentro!
-L'acqua è di un blu profondo...\xfffeVuoi usare Surf?
+L'acqua è di un blu intenso...\xfffeVuoi usare Surf?
 \xf000Ă\x0001\x0000 usa Surf!\xf000븁\x0000
 Non puoi usare Surf se\xfffec'è qualcuno con te!
 C'è una nebbia fitta...\xfffeVuoi usare Scacciabruma?
