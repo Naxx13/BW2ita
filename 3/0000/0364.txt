@@ -1,14 +1,14 @@
-Team Plasma: Who are you guys?\xf000\xbe01\x0000
+Team Plasma: E voi chi sareste?\xf000\xbe01\x0000
 \xf000\x0100\x0001\x0001: ...いっておく\xf000\xbe01\x0000\xfffeオレは いまから いかるぜッ!!\xf000\xbe01\x0000
-Team Plasma: Kuh...!\xfffeDon't tell anyone!\xf000\xbe01\x0000
-Team Plasma: Dangerous!\xfffeIt can be penerated by this!\xf000\xbe01\x0000
+Team Plasma: Kuh...!\xfffeoNon dirlo a nessuno!\xf000\xbe01\x0000
+Team Plasma: Pericolo!\xfffePotresti aggirare la barriera in qualche modo!\xf000\xbe01\x0000
 \xf000\x0100\x0001\x0001: ...アイツら Purrlion\xfffeつれていなかったな!\xf000\xbe01\x0000
-Barrier is gone.\xf000\xbe01\x0000
-The device would need\xfffea password...\xf000\xbe01\x0000
+La barriera è stata disattivata.\xf000\xbe01\x0000
+Il dispositivo richiede\xfffeun codice d'accesso...\xf000\xbe01\x0000
 ということはだ\xf000\xbe01\x0000\xfffeパスワードを さがすか ききだして\xfffeバリアを けすしかないか\xf000\xbe01\x0000\xfffe\xf000\x0100\x0001\x0000! Lets go\xfffefind the passwords!\xf000\xbe01\x0000
-That device...\xf000\xbe01\x0000\xfffeIt seems that the\xfffepassword also needs a Card Key.
-That device...\xfffeA password can be inserted.\xf000\xbe01\x0000\xfffeInsert a password?
-The password\xfffewas incorrect.
-The input\xfffepassword worked!
-You can move foward since\xfffethe barriers are down!
-Watch out!\xfffeThe barrier current is down!
+Questo dispositivo...\xf000\xbe01\x0000\xfffeSembra che oltre ad un \xfffecodice serva una carta d'accesso.
+Questo dispositivo...\xfffeSembra che si può inserire una password.\xf000\xbe01\x0000\xfffeIserisci la password...
+La password\xfffenon è quella giusta.
+La password che\xfffehai inserito funziona!
+Puoi procedere finché\xfffela barriera è disattivata!
+Attenzione!\xfffeLa barriera è attualmente disattivata!
