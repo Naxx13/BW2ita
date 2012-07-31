@@ -1,4 +1,3 @@
- 
 SISTEMA CHIAVI
 COMUNICAZIONI CHIAVI
 IMPOS. CHIAVI
@@ -22,9 +21,9 @@ Torna al MENÚ PRINCIPALE.
 Ricerca di una comunicazione\xfffecon un Nintendo DS in corso...
 IMPOS. ATTUALE:\xfffeMODALITÁ AIUTO, la più facile.
 IMPOS. ATTUALE:\xfffeMODALITÁ NORMALE, moderatamente difficile.
-IMPOS. ATTUALE:\xfffeMODALITÁ SFIDA, molto difficile.
-CITTÁ NERA è impos.
-FORESTA BIANCA is set.
+IMPOS. ATTUALE:\xfffeMODALITÁ SFIDA, molto difficile.   
+È impos. CITTÁ NERA
+È impos. FORESTA BIANCA
 Il SISTEMA CHIAVI tornerà MENÚ PRINCIPALE
 Il SISTEMA CHIAVI tornerà MENÚ PRINCIPALE
 Salvataggio dei dati in corso...\xfffeNON SPEGNERE.
@@ -41,7 +40,7 @@ Salvataggio dei dati in corso...\xfffeNON SPEGNERE.
 > Il tuo amico ha inviato la CHIAVE GRATTACIELO.\xf000?\x0001
 > Il tuo amico ha inviato la CHIAVE FERRO.\xf000?\x0001
 > Il tuo amico ha inviato la CHIAVE ICEBERG.\xf000?\x0001
-> Exchanging the keys\xf000?\x0001
+> Scambiare le chiavi\xf000?\x0001
 > \xf000A\x0001\x0000 Hai la CHIAVE AIUTO!\xf000?\x0001
 > \xf000A\x0001\x0000 Hai la CHIAVE SFIDA!\xf000?\x0001
 > \xf000A\x0001\x0000 Hai la CHIAVE FORESTA!\xf000?\x0001
@@ -54,13 +53,13 @@ Salvataggio dei dati in corso...\xfffeNON SPEGNERE.
 > Il tuo amico ha la CHIAVE GRATTACIELO!\xf000?\x0001
 > Il tuo amico ha la CHIAVE FERRO!\xf000?\x0001
 > Il tuo amico ha la CHIAVE ICEBERG!\xf000?\x0001
-> Trasferimento completo.\xf000?\x0000
+> Chiave(i) trasferite!\xf000\xbe02\x0001\x003c
 > Una o più chiavi sono state trasferite con successo!\xf000?\x0000
 > Queste chiavi non possono essere trasferite.\xf000?\x0001
 > Queste chiavi non possono essere ricevute.\xf000?\x0001
 Comunicazione in corso...\xfffeAttendi.
 CHIAVE AIUTO è BLOCCATA.
-CHIAVE CHALLENGE è bloccata.
+CHIAVE SFIDA è bloccata.
 CHIAVE FORESTA è bloccata.
 La CHIAVE è bloccata.
 Si
@@ -105,14 +104,14 @@ CHIAVE ACCIAIO ottenuta! Ora puoi usare la CHIAVE ACCIAIO.
 CHIAVE ICEBERG ottenuta! Ora puoi usare la CHIAVE ICEBERG.
 CHIAVE ACCIAIO
 CHIAVE ICEBERG
-CHIAVE ASSIST ottenuta! Ora puoi usare la CHIAVE ASSIST.
-CHIAVE CHALLENGE ottenuta! Ora puoi usare la CHIAVE CHALLENGE.
+CHIAVE AIUTO ottenuta! Ora puoi usare la CHIAVE AIUTO.
+CHIAVE SFIDA ottenuta! Ora puoi usare la CHIAVE SFIDA.
 CHIAVE ACCIAIO ottenuta! Ora puoi usare la CHIAVE ACCIAIO.
 CHIAVE ICEBERG ottenuta! Ora puoi usare la CHIAVE ICEBERG.
 Non può essere trovato nessuna altro DS.\xfffeRiprovare?
-ASSIST MODE imposta il livello dell'avversario a una difficoltà bassa.
-NORMAL MODE imposta il livello dell'avversario a una difficoltà media.
-CHALLENGE MODE imposta il livello dell'avversario a una difficoltà difficile.
+MOD. AIUTO imposta il livello dell'avversario a una difficoltà bassa.
+MOD. NORMALE imposta il livello dell'avversario a una difficoltà media.
+MOD. SFIDA imposta il livello dell'avversario a una difficoltà difficile.
 CITTÁ NERA impostata.
 FORESTA BIANCA impostata.
 MONTAGNA impostata.
