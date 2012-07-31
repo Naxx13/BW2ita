@@ -4,4 +4,4 @@ Battaglia tripla
 Battaglia di rotazione
 Battaglia multipla
 Battaglia di avvio
-デバッグバトル
+Battaglia debug
