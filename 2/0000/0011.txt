@@ -9,10 +9,10 @@ Non hai abbastanza Pass Orbs\xfffeper usare questo Passapotere.\xfffe\xf000Ȃ\x0
 Using \xf000đ\x0001\x0001.\xfffeSecondi rimasti: \xf000ȁ\x0001\x0005.
 Using \xf000đ\x0001\x0001.\xfffeTempo rimasto: \xf000Ȃ\x0001\x0004 min., \xf000ȁ\x0001\x0005 sec.
 disse“\xf000Ĝ\x0001\x0000!"
-Suo Punteggio
+Punteggio
 Totale
 \xf000Ȅ\x0001\x0000
-のこりじかん
+RIMASTO
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 VERIFICA
 SI
@@ -23,59 +23,59 @@ Hiya!
 \xf000Ā\x0001\x0000 è nelle vicinanze.
 \xf000Ā\x0001\x0000 inizia la lotta\xfffecon un selvatico \xf000ā\x0001\x0001!
 \xf000Ā\x0001\x0000 vinta la lotta\xfffecon un selvatico \xf000ā\x0001\x0001!
-\xf000Ā\x0001\x0000 inizia la lotta\xfffeun Pokémon speciale!
+\xf000Ā\x0001\x0000 inizia la lotta\xfffecon un Pokémon speciale!
 \xf000Ā\x0001\x0000 vinta la lotta\xfffecon il Pokémon speciale!
 \xf000Ā\x0001\x0000 inizia la lotta con\xfffe\xf000Ď\x0001\x0001 \xf000Ā\x0001\x0002!
 \xf000Ā\x0001\x0000 vinta la lotta con\xfffe\xf000Ď\x0001\x0001 \xf000Ā\x0001\x0002!
 \xf000Ā\x0001\x0000 inizia la lotta\xfffecon il Capopalestra!
 \xf000Ā\x0001\x0000 vinta la lotta\xfffecon il Capopalestra!
 \xf000Ā\x0001\x0000 inizia la lotta\xfffecon un allenatore speciale!
-\xf000Ā\x0001\x0000 vinta la lotta\xfffecon un'allenatore speciale!
+\xf000Ā\x0001\x0000 vinta la lotta\xfffecon un allenatore speciale!
 \xf000Ā\x0001\x0000 inizia la lotta\xfffecon un allenatore speciale!
 \xf000Ā\x0001\x0000 vinta la lotta\xfffecon un allenatore speciale!
 \xf000Ā\x0001\x0000 catturato un\xfffeselvatico \xf000ā\x0001\x0001!
 \xf000Ā\x0001\x0000 catturato\xfffeun Pokémon raro!
 \xf000Ā\x0001\x0000 \xf000Ă\x0001\x0002's\xfffesale di livello!
-\xf000Ā\x0001\x0000 \xfffe\xf000Ă\x0001\x0002 evelve\xfffein \xf000ā\x0001\x0001!
+\xf000Ā\x0001\x0000 \xfffe\xf000Ă\x0001\x0002 evolve\xfffein \xf000ā\x0001\x0001!
 Dummy Message
 \xf000Ā\x0001\x0000 trovato\xfffe\xf000ĉ\x0001\x0001!
 \xf000Ā\x0001\x0000's playing time has\xfffeexceeded \xf000Ȃ\x0001\x0001 hours!
 \xf000Ā\x0001\x0000 completato il\xfffePokédex!
 \xf000Ā\x0001\x0000 è stato ringraziato\xfffeoltre \xf000Ȃ\x0001\x0001 volte!
-\xf000Ā\x0001\x0000 e`nella reception\xfffedella Sala Unione.
+\xf000Ā\x0001\x0000 è nella reception\xfffedella Sala Unione.
 \xf000Ā\x0001\x0000 grazie!
-\xf000ā\x0001\x0001 e` stato\xfffedistribuito!
-Il \xf000ĉ\x0001\x0001 e` stato\xfffedistribuito!
-Un misterioso regalo e` stato\xfffebeing distribuito!
+\xf000ā\x0001\x0001 è stato\xfffedistribuito!
+Il \xf000ĉ\x0001\x0001 è stato\xfffedistribuito!
+Un misterioso regalo è stato\xfffebeing distribuito!
 \xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002attacca\xfffeera un colpo critico!
 \xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 tocca\xfffea colpo critico!
 \xf000Ā\x0001\x0000 fugge\xfffedalla battaglia!
 \xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffeha pochissimi PS!
 \xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffeha pochissimi PP!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffee` svenuto
+\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffeè svenuto
 \xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffeha condizioni di stato!
 \xf000Ā\x0001\x0000 usa\xfffe\xf000ĉ\x0001\x0001!
 \xf000Ā\x0001\x0000 usa\xfffe\xf000ć\x0001\x0001!
 \xf000Ā\x0001\x0000 ricevuto\xfffeun Uovo!
 \xf000ā\x0001\x0001 schiuso dall\xfffe\xf000Ā\x0001\x0000's Uovo!
 \xf000Ā\x0001\x0000 stà\xfffeacquistando.
-\xf000Ā\x0001\x0000 e` in una\xfffeBattaglia Subway challenge.
+\xf000Ā\x0001\x0000 è in una\xfffeBattaglia Subway challenge.
 \xf000Ā\x0001\x0000 ha\xfffe\xf000Ȁ\x0001\x0001 vinto\xfffela battaglia!
 \xf000Ā\x0001\x0000 vince\xfffeun trofeo nella battaglia!
 \xf000Ā\x0001\x0000 challenged\xfffethe Battle Institute.
-\xf000Ā\x0001\x0000 e` cerificato\xfffe\xf000Ɓ\x0001\x0001 nell`\xfffeIstituto della Battaglia!
+\xf000Ā\x0001\x0000 è cerificato\xfffe\xf000Ɓ\x0001\x0001 nell`\xfffeIstituto della Battaglia!
 \xf000Ā\x0001\x0000 got on\xfffethe Ferris wheel.
 \xf000Ā\x0001\x0000 entered\xfffethe Poké Transfer.
 \xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 is currently\xfffeparticipating in the Musical contest.
 \xf000Ā\x0001\x0000 usa the received\xfffe\xf000đ\x0001\x0001!
 \xf000Ā\x0001\x0000 dice\xfffe“\xf000Ĝ\x0001\x0001."
 dummy message
-\xf000Ā\x0001\x0000さんは\xfffe\xf000Ŀ\x0001\x0001\xfffeを　ポケウッドで　さつえいちゅうです
-\xf000Ā\x0001\x0000さんは\xfffe\xf000Ŀ\x0001\x0001\xfffeを　ポケウッドで　かんしょうちゅうです
-\xf000Ā\x0001\x0000さんは\xfffe\xf000Ļ\x0001\x0001に\xfffeちょうせんちゅうです
-\xf000Ā\x0001\x0000さんは\xfffe\xf000Ļ\x0001\x0001で\xfffe\xf000Ȁ\x0001\x0002かいせんを　とっぱしました
-\xf000Ā\x0001\x0000さんは\xfffe\xf000Ļ\x0001\x0001で\xfffe\xf000Ȁ\x0001\x0002かいせんで　はいたいしました
-\xf000Ā\x0001\x0000さんは\xfffe\xf000Ļ\x0001\x0001で\xfffeゆうしょう　しました！
-\xf000Ā\x0001\x0000さんは\xfffeジョインアベニューで\xfffeかいものを　しています
-\xf000Ā\x0001\x0000さんは\xfffe\xf000ą\x0001\x0001の　エリア\xf000ȁ\x0001\x0002に\xfffeちょうせんちゅうです
-\xf000Ā\x0001\x0000さんは\xfffe\xf000ą\x0001\x0001の　エリア\xf000ȁ\x0001\x0002を\xfffeクリアしました！
+\xf000\x0100\x0001\x0000 is filming\xfffe\xf000\x013f\x0001\x0001 on PokéStar
+\xf000\x0100\x0001\x0000 is watching\xfffe\xf000\x013f\x0001\x0001 on PokéStar
+\xf000\x0100\x0001\x0000 is challenging\xfffe\xf000\x013f\x0001\x0001
+\xf000\x0100\x0001\x0000 won the\xfffe\xfffe\xf000\x0200\x0001\x0002 match on\xfffethe \xf000\x013b\x0001\x0001
+\xf000\x0100\x0001\x0000 lost the\xfffe\xfffe\xf000\x0200\x0001\x0002 match on\xfffethe \xf000\x013b\x0001\x0001
+\xf000\x0100\x0001\x0000 has defeated\xfffethe \xf000\x013b\x0001\x0001
+\xf000\x0100\x0001\x0000 is shopping\xfffeon Join Avenue
+\xf000\x0100\x0001\x0000 is challenging\xfffe\xf000\x0105\x0001\x0001's \xf000\x0201\x0001\x0002 area
+\xf000\x0100\x0001\x0000 has defeated\xfffe\xf000\x0105\x0001\x0001's \xf000\x0201\x0001\x0002 area
