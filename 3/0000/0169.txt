@@ -13,11 +13,11 @@ Comunque, \xf000븁\x0000\xfffeSto per ricevere un Pokemon!\xfffeSono così cont
 Quando riceverò il Pokemon, \xfffeinizierò a viaggiare!\xf000븁\x0000\xfffeE allora, \xfffeavrò il tuo aiuto!
 Presto, \xfffetroveremo Belle.
 Possiamo andare dopo al Centro Pokémon.
-Alla Scuola per Allenatori, \xfffequalcuno ha detto che \xf000븁\x0000\xfffebisogna sconfiggere gli altri allena-\xfffetori prima del capopalestra, \xf000븀\x0000\xfffeche è un allenatore molto forte!\xf000븁\x0000
+Alla Scuola per Allenatori, \xfffequalcuno ha detto che \xf000븁\x0000\xfffebisogna sconfiggere gli altri allena-\xfffetori prima del Capopalestra, \xf000븀\x0000\xfffeche è un allenatore molto forte!\xf000븁\x0000
 Andrò nel Percorso 19 per\xfffeallenarmi dopo averlo ricevuto, \xf000븁\x0000\xfffese mi cerchi. \xfffeCi vedremo più tardi!\xf000븁\x0000\xfffeSarà difficile rimanere\xfffebuoni amici, perchè diventeremo\xffferivali a causa dei Pokemon.\xf000븁\x0000
 Guarda!\xf000븁\x0000\xfffeLa persona sull'osservatorio\xfffedi Alisopoli...\xf000븁\x0000\xfffeDeve essere Belle!\xfffeC'è anche un bel panorama!\xf000븁\x0000\xfffeSbrigati!\xfffeVoglio ricevere un Pokémon!\xf000븁\x0000
-The reading of me there's\xfffeNo doubt about it!
-The reading of me there's\xfffeNo doubt about it!\xf000븁\x0000
+La lettura di me c'è\xfffeNessun dubbio riguardo questo!
+La lettura di me c'è\xfffeNessun dubbio riguardo questo!\xf000븁\x0000
 ???: Ehi, so che sono bella...\xf000븁\x0000
 Ehi, \xfffeanche tu pensi che sia bella?\xf000븁\x0000
 Oh scusate, stavo...\xfffeComunque, sono Belle!\xf000븁\x0000\xfffeSono l'assistente della Prof.ssa Aralia!\xf000븁\x0000\xfffeStavo cercando qualcuno che\xfffevoleva un Pokemon!\xf000븁\x0000\xfffeAspetta! Sei tu \xf000Ā\x0001\x0000?
@@ -78,7 +78,7 @@ Buona giornata!\xfffePiù persone, più Pokémon!
 Imparerò come \xfffeallenare Pokemon!
 Belle: Ehhhii!\xf000븁\x0000
 Belle: Dunquee!\xf000븁\x0000
-Com'è andata?\xfffePer la lotta con il capopalestra, intendo!\xf000븁\x0000\xfffeEhi! Quella è\xfffela Medaglia Base!\xf000븁\x0000\xfffeSplendido, Spleeeendido!\xfffeAnche se hai appena iniziato l'avventura!\xf000븁\x0000\xfffeSei assolutamente un alle-\xfffenatore di talento!!\xf000븁\x0000\xfffeBeh, in segno di "gratitudine"\xfffeeccoti questa MT!\xf000븁\x0000
+Com'è andata?\xfffePer la lotta con il Capopalestra, intendo!\xf000븁\x0000\xfffeEhi! Quella è\xfffela Medaglia Base!\xf000븁\x0000\xfffeSplendido, Spleeeendido!\xfffeAnche se hai appena iniziato l'avventura!\xf000븁\x0000\xfffeSei assolutamente un alle-\xfffenatore di talento!!\xf000븁\x0000\xfffeBeh, in segno di "gratitudine"\xfffeeccoti questa MT!\xf000븁\x0000
 Con questa MT, più i\xfffePokémon ti sono affezionati, più la\xf000븀\x0000\xfffepotenza della mossa sarà maggiore!\xf000븁\x0000
 Comunque, se Komor...\xf000븁\x0000
 Komor: Belle! E' da due\xf000븁\x0000\xfffeanni che non ci si vede!\xf000븁\x0000
@@ -103,7 +103,7 @@ Vuoi accendere il C-Gear e iniziare\xfffela comunicazione?
 SI
 NO
 Alcune funzione del C-Gear\xfffesaranno impedite. Va bene?
-ほんたいの　せっていにより\xfffeむせんつうしんが　つかえません\xf000븁\x0000\xfffeむせんつうしんを　つかうには\xfffeほんたいせっていの　むせんつうしんを\xf000븀\x0000\xfffeオンにしてください　（５０６９９）\xf000븁\x0000
+Le comunicazioni wirless sono OFF.\xfffeMetti le comunicazioni wirless su ON\xf000\xbe00\x0000\xfffenelle Impostazioni di Sistema.\xf000\xbe00\x0000\xfffeCodice Errore: 50699
 Guarda!　E' apparsa l'icona\xfffedi accensione del C-Gear!\xf000븁\x0000\xfffeAh, vedi quell'icona in basso\xfffea destra? Tocca ? se vuoi ricevere\xf000븀\x0000\xfffepiù informazioni sul C-Gear.\xf000븁\x0000\xfffeDunque, cosa farai?\xf000븁\x0000\xfffeSe vai oltre la Città di Sangi,\xfffec'è Zondopoli.\xf000븀\x0000\xfffeNon c'è un'altra Palestra?
 Se vuoi accendere il C-Gear\xfffedevi toccare l'icona di accensione\xf000븀\x0000\xfffein basso a destra!\xf000븁\x0000\xfffePoi, una volta acceso,\xfffedevi toccare il pulsante ?\xf000븀\x0000\xfffese vuoi ricevere più informazioni\xf000븀\x0000\xfffesul funzionamento del C-Gear!\xf000븁\x0000\xfffeDunque, cosa farai?\xf000븁\x0000\xfffeDopo la Città di Sangi,\xfffec'è Zondopoli.\xf000븀\x0000\xfffeNon c'è un'altra Palestra?
 \xf000Ā\x0001\x0001: Ehi!\xfffeTi vuole parlare mia sorella!\xf000븁\x0000
@@ -113,7 +113,7 @@ Sorella di \xf000Ā\x0001\x0001: Ecco...\xfffe\xf000Ā\x0001\x0000,\xf000븁\x00
 \xf000Ā\x0001\x0001: Non capisco bene, però\xfffesentendo la storia,\xf000븁\x0000\xfffemi pare che quel Zoroark\xfffesia sulla Via Vittoria.\xf000븁\x0000\xfffeDovresti cercarlo, ecco,\xfffesolo questo!\xf000븁\x0000
 Ah, dimenticavo!\xf000븁\x0000\xfffeComplimenti, nuovo campione!\xf000븁\x0000\xfffeオレの　いったとおりだったな\xfffeオマエには　センスが　あるってッ！\xf000븁\x0000
 Sono gli allenatori che fanno\xfffelottare i propri Pokèmon compagni!\xf000븁\x0000\xfffeTra di essi, il capopalestra\xfffeè quello più forte di tutti!
-Komoer è il capopalestra, vero?\xf000븁\x0000\xfffeSembra che molti anni fa, coi suoi\xfffePokémon abbia girato tutta Unima!
+Komor è il capopalestra, vero?\xf000븁\x0000\xfffeSembra che molti anni fa, coi suoi\xfffePokémon abbia girato tutta Unima!
 Voglio entrare presto\xfffealla scuola per allenatori!!\xf000븁\x0000\xfffeVoglio imparare molte cose\xfffesui Pokémon!
 Ora sono esperto dei Pokémon!\xf000븁\x0000\xfffeGrazie agli studi della\xfffevicina Scuola per Allenatori!
 Una vista dall'osservatorio...\xfffePuoi vedere il lago\xf000븀\x0000\xfffedel Percorso 19 di fronte Alisopoli.
