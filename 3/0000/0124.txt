@@ -1,23 +1,23 @@
 Ci sono erbe medicinale che rendono\xfffei Pokémon sani.\xf000븁\x0000
-がいこくから　とりよせた\xfffeかんぽうやくは　ききめ　バッチリ！\xf000븁\x0000\xfffeだけど　ちょっぴり　にがいから\xfffeポケモン　いやがっちゃうみたいなの
+The medicinal herbs imported from\xfffeanother region work very well!\xf000\xbe01\x0000\xfffeBut Pokémon don't seem to like them,\xfffebecause they taste a little bitter.
 Benvenuto! Questo arriva dritto dalla fattoria!\xf000븁\x0000\xfffeLatte Mumu--una bottiglia per $500.\xfffeNe vuoi qualcuna per il tuo viaggio?
 Ecco qui! Il tuo Latte Mumu!\xf000븁\x0000
 Oh!\xfffeIl tuo Zaino è pieno!
 Oh!\xfffeNon hai abbastanza soldi!
-また　こんど\xfffeかってくださいね！\xf000븁\x0000\xfffeちなみに　うちの　モーモーミルクは\xfffeさんち　ちょくそう\xf000븀\x0000\xfffeしぼりたて　しんせん　なんですよ！
+Compralo la prossima volta!\xf000\xbe01\x0000\xfffeJust so you know, our Moomoo Milk\xfffeis straight from the farm.\xf000\xbe01\x0000\xfffeIt's super fresh!
 Una dozzina! È da 12 bottiglie.\xfffeEcco qui, il tuo Latte Mumu!\xf000븁\x0000
 Una bottiglia
 Una dozzina
 No grazie!
-……ごめんね\xf000븁\x0000\xfffeチャールズって　ヤツが\xfffeぜーんぶ　かってっちゃったの
+Oh, Scusami. Ho venduto tutto.\xf000\xbe01\x0000\xfffeQuel ragazzo Carlo ha\xfffecomprato tutto quanto.
 Tu! Contento vieni!\xfffeVuoi qualcosa di buono?
 Dopo, mostrami un Pokémon al Lv. 30 o superiore!\xf000븁\x0000
-おー！　もーれつ！\xf000븁\x0000\xfffeあなた　すごいねー！\xf000븁\x0000\xfffeこれ　もってけー！\xf000븁\x0000
-おー！　まだまだ　これからー！\xf000븁\x0000\xfffeポケモン　きたえたら\xfffeまた　ここに　くると　いいー！
+Oh! Forte!\xf000\xbe01\x0000\xfffeTu, grande!\xfffePrendi questo!\xf000\xbe01\x0000
+Oh! You--not so good yet!\xf000\xbe01\x0000\xfffeDopo l'allenamento Pokémon,\xfffetorna di nuovo qui!
 Tu, modesto!\xfffeDovresti solo volere qualcosa di buono!
-あなたー　よくきたー！\xfffeたつじんのおび　つかいこなせー！\xf000븁\x0000\xfffeたつじんのおび　もっていると\xfffeこうかバツグンの　ときに\xf000븀\x0000\xfffeちょっと　いりょく　あがるー！
-なんでも　ゆにゅう　して\xfffeいつでも　モノが　そろっている\xf000븀\x0000\xfffeきっと　べんりな　まちが　あるわ
-きせつを　だいじにする\xfffeゆったりとした　まちが　あるの\xf000븁\x0000\xfffeその　まちから　いろいろ\xfffeゆしゅつ　しているんだって！
+You! Glad you came!\xfffeGet good at Expert Belts! \xf000\xbe01\x0000\xfffeIf a Pokémon has an Expert Belt, the\xfffepower of its moves is slightly boosted\xf000\xbe00\x0000\xfffewhen they are super effective!
+There must be a convenient town where\xfffeeverything is imported and everything\xf000\xbe00\x0000\xfffeis available.
+Somewhere, there's a laid-back town\xfffewhere people value the year's seasons.\xf000\xbe01\x0000\xfffeI heard we've imported a lot of goods\xfffefrom that town!
 Vedere le verdure di stagione è divertente.\xf000븁\x0000\xfffePerchè quando le stagioni cambiano,\xfffeLe verdure disponibili cambiano!
 Ogni volta che veniamo al negozio,\xfffele verdure di tutte le stagioni sono disponibili.\xf000븀\x0000\xfffeNon è una meraviglia?
 Le merci trasportate via da Libeciopoli arrivano\xfffein una città da qualche altra parte...\xf000븁\x0000\xfffeYeah. il mondo è connesso.
