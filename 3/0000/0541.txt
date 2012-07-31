@@ -36,12 +36,12 @@ Ah! Ma non hai abbastanza soldi!
 Se ti va, torna domani! Avrò delle altre\xfffebacche da darti!
 Oggi ho trovato 5 \xf000\x0109\x0001\x0000!\xf000\xbe00\x0000\xfffeCostano solo 200$!\xf000\xbe00\x0000\xfffeAllora, le vuoi? Le compri?
 はねばし なんですけど\xfffeふねが とおるときは あげるんです\xf000\xbe01\x0000\xfffeすると はしに とまっていた\xfffeポケモンたちが ぶわーと とぶんだ!
-ひびけっ! おれの メロディー!\xfffeたたかえっ! おれの ポケモン!\xf000\xbe01\x0000\xfffeって おまえ もしかして\xfffeグッズケース もってないのか?\xf000\xbe00\x0000\xfffeじゃ しょうぶ しなーい!
+Risuona la mia melodia!\xfffeLottate, miei Pokémon!\xf000\xbe01\x0000\xfffeUhm, per caso hai una Scatola Chic?\xf000\xbe01\x0000\xfffeOh, non ce l'hai?\xfffeAllora non possiamo lottare!
 Uhmmm, fieramente! La mia canzone di Lotta!\xfffeLottiamo fieramente, miei Pokémon!\xf000\xbe01\x0000
 L'ho imparato dalla lotta...\xf000\xbe01\x0000Ho imparato che sei il MIGLIORE!\xfffePrendi questo con te!\xf000\xbe01\x0000
 Vesti i tuoi Pokémon con quella Chitarra\xfffeElettrica e vai al Pokémon Musical!\xf000\xbe00\x0000Sarai il migliore nei paraggi!
 しょうぶを して わかったよ\xfffeオマエ サイコーだぜ!\xf000\xbe01\x0000\xfffeなんたって グッズの\xfffeエレキギターを もってるもんな!
-そーねー なつの あついときは\xfffeみずポケモンで ひんやり したいわね\xf000\xbe01\x0000\xfffeはんたいに ふゆの さむいときは\xfffeほのおポケモンで ぬくぬく したいわ
+Quando d'estate si muore di caldo,\xfffevorrei tanto essere un Pokémon\xf000\xbe00\x0000\xfffed'Acqua!\xf000\xbe01\x0000\xfffeE al contrario, quando d'inverno si\xfffemuore di freddo, vorrei tanto\xf000\xbe00\x0000\xfffeessere un Pokémon di tipo Fuoco!
 Grazie alle mosse dei miei Pokémon\xfffepreferiti, riesco sempre a vincere!\xf000\xbe01\x0000\xfffeVincendo, a qualsiasi Allenatore gli si\xfffestamperebbe il sorriso sulla faccia!
 Belle: Oh!
 Belle: Ehi, ehi!
@@ -59,13 +59,13 @@ Entriamo!\xf000\xbe01\x0000
 Percorso 5\xfffeArtisti di strada
 Ponte Libecciopoli
 Consigili!\xf000\xbe01\x0000\xfffe\xfffeCi sono diverse Tasche per ogni tipo\xfffedi strumenti.\xf000\xbe01\x0000\xfffeGli strumenti sono automaticamente\xfffeposti nella Tasca corretta in base al tipo.\xf000\xbe01\x0000\xfffeIl nome della Tasca riassume il tipo\xfffedi strumenti che essa contiene..\xf000\xbe01\x0000\xfffeC'è anche una Tasca, chiamata Spazio Libero,\xfffeche può contenere qualsiasi strumento.\xf000\xbe01\x0000\xfffeE' una Tasca che non si riempie\xfffeautomaticamente, ma è compito tuo farlo.
-Cheren: ...きいたよ\xf000\xbe01\x0000\xfffeNという ポケモンTrainerと\xfffeであったんだってね\xf000\xbe01\x0000\xfffeだから というわけでは ないけど\xfffeぼくと たたかってくれないかな?
-Cheren: きみとの しょうぶで\xfffeたしかめたいことが あるんだ\xf000\xbe01\x0000\xfffeぼくと たたかってくれないかな?
-きみと \xf000\x0100\x0001\x0001は\xfffeどこか にているから\xf000\xbe00\x0000\xfffeポケモンしょうぶが たのしみ だよ!\xf000\xbe01\x0000
-そう?\xf000\xbe01\x0000\xfffeじゃあ ここに いるから\xfffeそのきになれば あいてしてほしいな
-むかし ここで\xfffe\xf000\x0100\x0001\x0001と はなしたんだ\xf000\xbe01\x0000\xfffeひとも ポケモンも\xfffeそれぞれの つよさを もっている\xf000\xbe01\x0000\xfffeゆめを かなえる つよさや\xfffeなにかを まもる つよさ... って\xf000\xbe01\x0000
-...Nも おなじ ものを\xfffeみることが できたら いいのにな\xf000\xbe01\x0000\xfffeそう おもっていたけれど\xfffeきみと たたかって わかったよ\xf000\xbe01\x0000\xfffeNも たびをして\xfffeぼくたちと おなじものを みたんだと\xf000\xbe01\x0000\xfffeこの はなしを きいたら\xfffe\xf000\x0100\x0001\x0001も よろこぶだろうね\xf000\xbe01\x0000\xfffeありがとう!\xf000\xbe01\x0000
-きみ すごかったぜ!\xf000\xbe01\x0000\xfffeチャールズも...\xfffeまあ それなりに すごかったな!\xf000\xbe01\x0000
-3びきね!
-ラブだな!
-Good, good!
+Komor: ... Sei venuto.\xf000\xbe01\x0000\xfffeHai incontrato N...\xf000\xbe01\x0000\xfffeUhm, ora che sei così forte, puoi\xfffelottare con me! Ti va?
+Komor: Vorrei testarti attraverso una\xfffelotta Pokémon.\xf000\xbe01\x0000\xfffeVuoi lottare con me?
+Lottare con te, mi ricorda \xf000\x0100\x0001\x0001...\xf000\xbe00\x0000\xfffeE' stato divertente!\xf000\xbe01\x0000
+Oh?\xf000\xbe01\x0000\xfffeAllora, se passassi di qui,\xfffelotta con me, se ti va.
+Tempo fa, qui, parlai con\xfffe\xf000\x0100\x0001\x0001...\xf000\xbe01\x0000\xfffeLui capiva e aveva sia la forza\xfffedei Pokémon che quella delle persone...\xf000\xbe01\x0000\xfffeAveva il sogno di riuscire a\xfffeconquistare la forza per proteggere\xf000\xbe00\x0000\xfffele altre persone e i Pokémon...\xf000\xbe01\x0000
+... E' bello che anche N riesca\xfffea capire questa cosa.\xf000\xbe01\x0000\xfffeUn po' ci ero arrivato, ma tu me lo\xfffehai fatto capire con questa lotta.\xf000\xbe01\x0000\xfffeHo capito finalmente che anche N\xfffeviaggiava e cercava le stesse cose\xf000\xbe00\x0000\xfffeche anche io e Belle, un tempo,\xf000\xbe00\x0000\xfffecercavamo.\xf000\xbe01\x0000\xfffeSono certo che se \xf000\x0100\x0001\x0001\xfffepotesse sentirci, ne sarebbe\xf000\xbe00\x0000\xfffeorgoglioso!\xf000\xbe01\x0000\xfffeGrazie!\xf000\xbe01\x0000
+Sei incredibile!\xf000\xbe01\x0000\xfffeAnche Charles...\xfffeAh, lasciamo perdere...\xf000\xbe01\x0000
+Oh, tre!
+E' un lab.!
+Bene, bene!
