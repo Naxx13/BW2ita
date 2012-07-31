@@ -1,16 +1,16 @@
-ワタシ　かぐデザイナーの\xfffeシタンって　いうの\xf000븁\x0000\xfffeでも　いまは　ダメなの……\xfffeいいデザインが　おもいつかなくて……\xf000븁\x0000\xfffeゆめに　みるくらいの　ステキな\xfffeかぐ　を　かんがえてるんだけど……
-シタン『んん……\xf000븁\x0000\xfffeまだ　あたらしい　デザインの\xfffeかぐを　おもいつかないの\xf000븁\x0000\xfffeまた　きてくれない？
-シタン『また　つぎの　デザインが\xfffeひらめいたとき　つきあってね！
-シタン『あたらしい　デザインの\xfffeかぐを　かんがえたの！　じしんさくよ\xf000븁\x0000\xfffeこのなかで　ゆめに　でてくるくらい\xfffeいちばん　ステキなのは　どれかな？
-それで　ゆめにみるような\xfffeかぐデザイン　を　かんがえたの\xf000븁\x0000\xfffeこのなかで　ゆめに　でてくるくらい\xfffeいちばん　ステキなのは　どれかな？
-シタン『あら　ワタシの　ゆめの\xfffeかぐデザインに　つきあってくれるの？\xf000븁\x0000\xfffeこのなかで　ゆめに　でてくるくらい\xfffeいちばん　ステキなのは　どれかな？
-そう……　また　きがむいたら\xfffeワタシの　ゆめの\xf000븀\x0000\xfffeかぐデザインに　つきあってね
-なるほど……　いいセンス　ね\xfffeアドバイス　ありがとう！\xf000븁\x0000\xfffeきっと　この　デザインなら\xfffeゆめに　でるくらい\xf000븀\x0000\xfffeステキな　かぐに　なるわ\xf000븁\x0000\xfffeまた　つぎの　デザインが\xfffeひらめいたとき　つきあってね！
-アナタ……　いまウワサの\xfffeゆめにみる　かぐって　しってる？
-あっ　とつぜん　ゴメンね\xf000븁\x0000\xfffeワタシ　かぐデザイナーの\xfffeシタンって　いうの\xf000븁\x0000\xfffeかぐデザイナー　の　だれもが\xfffeあこがれる　ゆめに　みるような\xf000븀\x0000\xfffeかぐを　つくることを　めざしているわ\xf000븁\x0000\xfffeそのかぐを　しった　そのよる\xfffeゆめに　みずには　いられない……！\xf000븀\x0000\xfffeそんな　かぐ　よ\xf000븁\x0000
+Il mio nome è Acacia.\xfffeSono una disegnatrice di decorazioni.\xf000븁\x0000\xfffeMa ora sono bloccata... Non riesco proprio a trovare\xfffeun buon progetto.\xf000븁\x0000\xfffeHo pensato così tanto alle\xfffedecorazioni da farle apparire in sogno...
+Acacia: Hmmm... Ancora non riesco a pensare ad una\xfffenuova fantastica decorazione.\xf000븁\x0000\xfffeTornerai ancora?
+Acacia: Quando troverò dei buoni\xfffeprogetti, per favore aiutami ancora!
+Acacia: Ho finalmente trovato dei buoni\xfffeprogetti. Ne sono molto fiera!\xf000븁\x0000\xfffeMa vorrei la tua opinione! Guarda queste\xfffedecorazioni ae dimmi quale si\xf000븀\x0000\xfffedovrebbe sognare!
+Penso di aver finalmente ideato decorazioni\xfffecosì fantastiche che le persone\xf000븀\x0000\xfffele sogneranno!\xf000븁\x0000\xfffeQui! Quale vorresti sognare?
+Acacia: Oh, hai intenzione di aiutarmi\xfffecon la progettazione di decorazioni sogno?\xf000븁\x0000\xfffeGrande! Quale di queste decorazioni vorresti\xfffesognare?
+Beh, se vorrai dirmi la tua opinione\xfffesulle mie decorazioni sogno, per favore ritorna!
+Oh, hai un gusto impeccabile!\xf000븁\x0000\xfffeQuesta è. Questa decorazione è così fantastica\xfffeche le persone la sogneranno!\xf000븁\x0000\xfffeIl tuo consiglio è stato molto utile. La prossima volta\xfffeche verrai con fantastici progetti, mi piacerebbe\xf000븀\x0000\xfffedescriverti le mie idee di nuovo!
+Tutti stanno parlando delle decorazioni\xfffeche hanno sognato. Lo sapevi?
+Ciao! Il mio nome è Acacia, e sono\xfffeauna progettista di decorazioni.\xf000븁\x0000\xfffeSto cercando di disegnare decorazioni che\xfffetutti amano e sognano.\xf000븁\x0000\xfffeTavoli e sedie così fantastici che non potrai\xfffesmettere di pensarci, persino\xf000븀\x0000\xfffedurante il sonno...\xf000븁\x0000\xfffeQuesto è il tipo di decorazioni\xfffedi cui sto parlando.\xf000븁\x0000
 \xf000Ĳ\x0001\x0000
 \xf000Ĳ\x0001\x0001
 \xf000Ĳ\x0001\x0002
 \xf000Ĳ\x0001\x0003
 \xf000Ĳ\x0001\x0004
-やめる
+Indietro
