@@ -1,6 +1,7 @@
-これは　あなたの\xfffeポケモンの　みた　ゆめが\xf000븀\x0000\xfffeげんじつに　なった　カケラ　です\xf000븁\x0000\xfffeおわたし　します\xf000븁\x0000
-こんかいの　ゆめの　カケラは\xfffeすべて　おわたし　しました\xf000븁\x0000\xfffeまた　ポケモンが　ゆめを　みたら\xfffeここに　くると　いいでしょう
-また　ポケモンが　ゆめを　みたら\xfffeここに　くると　いいでしょう
-\xf000Ā\x0001\x0000は\xfffeどうぐを　うけとった！
-……「\xf000ĉ\x0001\x0000」が\xfffeバッグに　いっぱいの　ようですね\xf000븁\x0000\xfffe「\xf000ĉ\x0001\x0000」を　へらしたら\xfffeのこりの　カケラを　わたしましょう\xf000븁\x0000
- ×　\xf000Ȁ\x0001\x0000
+Questo è il resto dei\xfffesogni dei tuoi Pokémon.\xf000\xbe00\x0000\xfffeQui, prendi questo.\xf000\xbe01\x0000
+Ecco tutti i Sogni Rimanenti.\xf000\xbe01\x0000\xfffeQuando ci saranno altri sogni Pokémon,\xfffetorna qui e parlami.
+Quando il tuo Pokémon ha un'altro sogno,\xfffetorna qui e parlami.
+\xf000\x0100\x0001\x0000 ha ricevuto\xfffedegli oggetti!
+Non hai più stanza nellatua Borsa\xfffeper \xf000\x0109\x0001\x0000. Se rimuovi un pò di cose,\xf000\xbe00\x0000\xfffeTi darò il resto.\xf000\xbe01\x0000
+ x \xf000\x0200\x0001\x0000
+
