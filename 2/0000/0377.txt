@@ -64,7 +64,7 @@ Un impianto utilizzato come parco giochi\xfffeper bambini e  Pokémon.
 Puoi anche andare attraverso le cavita\xfffedegli alberi caduti.
 Luogo molto popolare per i turisti,\xfffema dal clima ostile per essere un resort.
 Antiche rovine con una storia leggendaria,\xfffeseoplta nella sabbia col passare del tempo.
-Molti prodotti raccolti vengono\xfffeconservati a temperatura costante.
+Un luogo dove allenatori provenienti da\xfffetutto il mondo si riuniscono e lottano.
 Una grotta dove pietre caricate\xfffeelettricamente lievitano.
 E' una miniera\xfffedisseminata di pietre preziose.
 La piu antica città nella regione \xfffedi Unima. Nessuno sa la sua storia.
@@ -145,10 +145,10 @@ Antiche rovine con una storia gloriosa,\xfffesepolto dalla sabbia col passare de
 きふくや　だんさが　おおいため\xfffeしぜんのめいろに　なっている
 ぜっぺきに　あっとう　されながら\xfffeすすむしかない　やまあいの　みち
 さいせんたんの　ぎじゅつりょくが\xfffeそそぎこまれている　かいていトンネル
-ポケモン　そだてや
-げんざいの　まちの　ランク
-おきゃくに　であった　かず
-いま　あそびに　きている　ひと
+Pensione Pokémon
+Livello del Viale:
+N. di clienti:
+Persone venute a giocare:
 \xf000Ȃ\x0001\x0000
 \xf000Ȇ\x0001\x0000
 \xf000ȁ\x0001\x0000
