@@ -2,27 +2,27 @@ Iris: Indovina un po'!!\xf000\xbe01\x0000\xfffePosso insegnare la più forte\xff
 OK! Bene, torna pure se dovessi,\xfffecambiare idea, OK?
 OK, grande!\xfffeOh, ma...\xf000\xbe01\x0000\xfffeNon sembra che tu abbia un\xfffePokémon che possa imparare questa mossa.
 OK, grande! Quale Pokèmon dovrebbe\xfffeimparare questa mossa?\xf000\xbe01\x0000
-OK, bene! Quale Pokémon deve\xfffeimparare questa mossa?\xf000U+BE01\x0000
+OK, bene! Quale Pokémon deve\xfffeimparare questa mossa?\xf000\xbe01\x0000
 Cosa?\xf000\xbe01\x0000\xfffeVuoi che insegni una mossa ad un Uovo?\xfffeOK, Farò del mio meglio!\xf000\xbe01\x0000\xfffe...\xfffe...\xf000\xbe01\x0000\xfffeMi dispiace!\xfffePenso sia impossibile!
 Questo?\xf000\xbe01\x0000\xfffeUm, ma...sembra che questo Pokémon\xfffeconosca già \xf000\x0107\x0001\x0000.
 Iris: Il potere di Dragobolide è\xfffeveramente sbalorditivo!\xf000\xbe01\x0000\xfffeMa dopo che l'hai usato, il tuo Attacco Speciale\xfffediminuirà.
-Rinunciare ad insegnare la\xfffemossa \xf000\x0107\x0001\x0000?
+Vuoi insegnare la\xfffemossa \xf000\x0107\x0001\x0000?
 \xf000\x0102\x0001\x0000 ha imparato\xfffe\xf000\x0107\x0001\x0001!
 \xf000\x0102\x0001\x0000 sta cercando di\xfffeimparare \xf000\x0107\x0001\x0001!\xf000\xbe01\x0000\xfffeMa \xf000\x0102\x0001\x0000 non può imparare più di\xfffequattro mosse.\xf000\xbe01\x0000\xfffeElinarne una per fare spazio\xfffea \xf000\x0107\x0001\x0001?
-Rinunciare ad insegnare la\xfffemossa \xf000\x0107\x0001\x0000?
-Vuoi annullare l'apprendimento\xfffedella mossa \xf000U+0107\x0001\x0000?
-\xf000U+0102\x0001\x0000 non ha imparato \xf000U+0107\x0001\x0001!
-Vuoi davvero dimenticare \xfffela mossa \xf000U+0107\x0001\x0000?
+Vuoi insegnare la\xfffemossa \xf000\x0107\x0001\x0000?
+Vuoi annullare l'apprendimento\xfffedella mossa \xf000\x0107\x0001\x0000?
+\xf000\x0102\x0001\x0000 non ha imparato \xf000\x0107\x0001\x0000!
+Vuoi davvero dimenticare\xfffela mossa \xf000\x0107\x0001\x0000?
 \xf000\x0102\x0001\x0000 ha imparato \xf000\x0107\x0001\x0002!
 Aristide: Se lo desideri, posso insegnare al tuo\xfffePokémon la più forte\xf000\xbe00\x0000\xfffemossa di tipo Drago.\xf000\xbe01\x0000\xfffeVuoi insegnare al tuo Pokémon\xfffequesta mossa?
 Capisco.\xfffeTorna se cambi idea.
 Ho capito.\xfffeTorna di nuovo se dovessi cambiare idea.
 Vedo...\xf000\xbe01\x0000\xfffeMa non ci sono Pokémon con\xfffete al momento che possano imparare questa mossa.
 Quale Pokémon dovrebbe\xfffelimparare questa mossa?\xf000\xbe01\x0000
-Quale Pokémon deve\xfffeimparare questa mossa?\xf000U+BE01\x0000
+Quale Pokémon deve\xfffeimparare questa mossa?\xf000\xbe01\x0000
 Questa è una richiesta interessante, ma...\xfffePersino io non posso insegnare una mossa ad un Uovo.
 Hmm... Sembra che questo Pokémon\xfffeconosca già \xf000\x0107\x0001\x0000.
-Hmm... Sembra che questo Pokémon\xfffeconosca già \xf000U+0107\x0001\x0000.
+Hmm... Sembra che questo Pokémon\xfffeconosca già \xf000\x0107\x0001\x0000.
 La tua ricerca di potere ti\xfffeha portato qui...\xf000\xbe01\x0000\xfffeMolto bene.\xf000\xbe01\x0000\xfffeLasciami ricompensare la tua  passione con delle\xfffemosse assolutamente stupefacenti.\xf000\xbe01\x0000\xfffeThey're the ultimate moves!\xf000\xbe01\x0000\xfffeShall I teach them to\xfffeyour Pokémon?
 La mossa definitiva!\xfffeA quale Pokémon devo insegnarla?
 Il Pokémon con te non può\xfffeimparare queste mosse!\xf000\xbe01\x0000\xfffeVai a parlare con mia moglie! Keh!!
@@ -33,18 +33,18 @@ Quel Pokémon non può imparare alcuna mossa!\xfffeVai a parlare con mia moglie!
 Insegnare una mossa ad un Uovo?\xfffeImpossibile anche per me! Keh!
 Il legame col tuo Pokémon\xfffenon è abbastanza forte! Keh!
 Quel Pokémon conosce già\xfffequella mossa! Keh!
-Devo insegnare \xf000U+0107\x0001\x0001 a\xfffe\xf000U+0101\x0001\x0000, giusto? Keh!
+Devo insegnare \xf000\x0107\x0001\x0001 a\xfffe\xf000\x0101\x0001\x0000, giusto? Keh!
 Heya!\xf000\xbe01\x0000\xfffeIl professore ti ha dato un Pokémon per\xfffeiniziare il tuo viaggio, giusto?\xf000\xbe01\x0000\xfffeSe quel Pokémon è ancora con te, e se\xfffevoi due avete un forte legame, c'è una\xf000\xbe00\x0000\xfffmossa speciale che può imparare...\xf000\xbe01\x0000\xfffeVuoi che gli insegni una mossa-combo di battaglia?
 Una mossa speciale...\xfffeDovrei insegnare una mossa-combo di battaglia?
 Una mossa speciale...\xfffeDovrei insegnare una mossa-combo di battaglia?
 Non posso insegnare a questi Pokémon.
 E' così...\xfffeWell, come on back now, y'hear?
-Quale Pokémon deve imparare\xfffela mossa \xf000U+BE01\x0000?
+Quale Pokémon deve imparare\xfffela mossa \xf000\xbe01\x0000?
 Insegnare una mossa ad un Uovo?\xfffeChe diavolerie vai dicendo?!
 Insegnare una mossa ad un Uovo?\xfffeChe diavolerie vai dicendo?!
 Questo Pokémon... Beh, non sembra molto\xfffea suo agio con te, ancora.
 Non posso insegnarla due volte. Questo Pokémon\xfffeconosce già la mossa speciale!
-Vuoi che insegni \xf000U+0107\x0001\x0001\xfffea \xf000U+0101\x0001\x0000?
+Vuoi che insegni \xf000\x0107\x0001\x0001\xfffea \xf000\x0101\x0001\x0000?
 わいの　おきにいり　ポケモン\xf000븁\x0000\xfffeポケモンはかせ　から\xfffeもらえる　ポケモン　ぜんぶ　なんや！\xf000븁\x0000\xfffeこいつらに　とくべつな　わざ……\xfffeがったいわざを　おしえる……！\xf000븀\x0000\xfffeそれが　わいの　ちかい　や！
 わしは　わざおしえ　しょくにん\xf000븁\x0000\xfffeそして　むるいの\xfffe\xf000ĉ\x0001\x0000　マニア！\xf000븁\x0000\xfffe\xf000ĉ\x0001\x0000を　くれたら　おれいに\xfffeおまえさんの　ポケモンに\xf000븀\x0000\xfffeわざを　おしえて　あげるよ\xf000븁\x0000
 わしは　わざおしえ　しょくにん！\xf000븁\x0000
