@@ -1,4 +1,3 @@
-
 \xf000Ā\x0001\x0000『\xf000ķ\x0001\x0002\xf000븁\x0000\xfffeランダムマッチ　で\xfffeたたかったこと　おぼえている？\xf000븁\x0000
 \xf000Ā\x0001\x0000『\xf000ķ\x0001\x0002\xf000븁\x0000\xfffeGTSネゴで　こうかんしたこと\xfffeおぼえている？\xf000븁\x0000
 \xf000Ā\x0001\x0000『\xf000ķ\x0001\x0002\xf000븁\x0000\xfffeユニオンルームでは\xfffeおせわに　なったね\xf000븁\x0000
@@ -671,80 +670,80 @@
 げんきのかけら　２４コ　セット。\xfffeひんしの　ポケモン　１ひきの　ＨＰを\xfffeはんぶんまで　かいふくする。
 げんきのかけら　３６コ　セット。\xfffeひんしの　ポケモン　１ひきの　ＨＰを\xfffeはんぶんまで　かいふくする。
 げんきのかけら　４８コ　セット。\xfffeひんしの　ポケモン　１ひきの　ＨＰを\xfffeはんぶんまで　かいふくする。
-なんでもなおし　１２コ　セット。\xfffeポケモン　１ひきの　じょうたいの\xfffeいじょうを　すべて　かいふくする。
-なんでもなおし　２４コ　セット。\xfffeポケモン　１ひきの　じょうたいの\xfffeいじょうを　すべて　かいふくする。
-なんでもなおし　３６コ　セット。\xfffeポケモン　１ひきの　じょうたいの\xfffeいじょうを　すべて　かいふくする。
-なんでもなおし　４８コ　セット。\xfffeポケモン　１ひきの　じょうたいの\xfffeいじょうを　すべて　かいふくする。
-すごいキズぐすり　１２コ　セット。\xfffeポケモン　１ひきの　ＨＰを\xfffe２００だけ　かいふくする。
-すごいキズぐすり　２４コ　セット。\xfffeポケモン　１ひきの　ＨＰを\xfffe２００だけ　かいふくする。
-すごいキズぐすり　３６コ　セット。\xfffeポケモン　１ひきの　ＨＰを\xfffe２００だけ　かいふくする。
-すごいキズぐすり　４８コ　セット。\xfffeポケモン　１ひきの　ＨＰを\xfffe２００だけ　かいふくする。
-マックアップ　１２コ　セット。\xfffeポケモン　１ひきの　ＨＰの\xfffeきそポイントを　あげる。
-タウリン　１２コ　セット。\xfffeポケモン　１ひきの　こうげきの\xfffeきそポイントを　あげる。
-ブロムヘキシン　１２コ　セット。\xfffeポケモン　１ひきの　ぼうぎょの\xfffeきそポイントを　あげる。
-インドメタシン　１２コ　セット。\xfffeポケモン　１ひきの　すばやさの\xfffeきそポイントを　あげる。
-リゾチウム　１２コ　セット。\xfffeポケモン　１ひきの　とくこうの\xfffeきそポイントを　あげる。
-キトサン　１２コ　セット。\xfffeポケモン　１ひきの　とくぼうの\xfffeきそポイントを　あげる。
-エフェクトガード　１２コ　セット。\xfffeせんとうちゅう　５ターンの　あいだ\xfffeのうりょくを　さげられなくする。
-クリティカット　１２コ　セット。\xfffeきゅうしょりつが　おおきく　あがる。\xfffeいちどしか　つかうことが　できない。
-プラスパワー　１２コ　セット。\xfffeせんとうちゅうの　ポケモンの\xfffeこうげきを　あげる　どうぐ。
-ディフェンダー　１２コ　セット。\xfffeせんとうちゅうの　ポケモンの\xfffeぼうぎょを　あげる　どうぐ。
-スピーダー　１２コ　セット。\xfffeせんとうちゅうの　ポケモンの\xfffeすばやさを　あげる　どうぐ。
-ヨクアタール　１２コ　セット。\xfffeせんとうちゅうの　ポケモンの\xfffeめいちゅうを　あげる　どうぐ。
-スペシャルアップ　１２コ　セット。\xfffeせんとうちゅうの　ポケモンの\xfffeとくこうを　あげる　どうぐ。
-スペシャルガード　１２コ　セット。\xfffeせんとうちゅうの　ポケモンの\xfffeとくぼうを　あげる　どうぐ。
-なかなか　かえない　きちょうひん。\xfffeマニアが　たかく　かってくれる。
-なかなか　かえない　きちょうひん。\xfffeマニアが　たかく　かってくれる。
-なかなか　かえない　きちょうひん。\xfffeマニアが　たかく　かってくれる。
-なかなか　かえない　きちょうひん。\xfffeマニアが　たかく　かってくれる。
-すくすくこやし　２コ　セット。\xfffeなかなか　かえない　きちょうひん。\xfffeマニアが　たかく　かってくれる。
-じめじめこやし　２コ　セット。\xfffeなかなか　かえない　きちょうひん。\xfffeマニアが　たかく　かってくれる。
-ながながこやし　２コ　セット。\xfffeなかなか　かえない　きちょうひん。\xfffeマニアが　たかく　かってくれる。
-ねばねばこやし　２コ　セット。\xfffeなかなか　かえない　きちょうひん。\xfffeマニアが　たかく　かってくれる。
-すくすくこやし　４コ　セット。\xfffeなかなか　かえない　きちょうひん。\xfffeマニアが　たかく　かってくれる。
-じめじめこやし　４コ　セット。\xfffeなかなか　かえない　きちょうひん。\xfffeマニアが　たかく　かってくれる。
-ながながこやし　４コ　セット。\xfffeなかなか　かえない　きちょうひん。\xfffeマニアが　たかく　かってくれる。
-ねばねばこやし　４コ　セット。\xfffeなかなか　かえない　きちょうひん。\xfffeマニアが　たかく　かってくれる。
-ズリのみ　４コ　セット。\xfffeとても　めずらしい　きのみ。\xfffeマニアが　たかく　かってくれる。
-ブリーのみ　４コ　セット。\xfffeとても　めずらしい　きのみ。\xfffeマニアが　たかく　かってくれる。
-クラボのみ　４コ　セット。\xfffeポケモンに　もたせると\xfffeまひを　かいふくする。
-カゴのみ　４コ　セット。\xfffeポケモンに　もたせると\xfffeねむりを　かいふくする。
-モモンのみ　４コ　セット。\xfffeポケモンに　もたせると\xfffeどくを　かいふくする。
-チーゴのみ　４コ　セット。\xfffeポケモンに　もたせると\xfffeやけどを　かいふくする。
-ナナシのみ　４コ　セット。\xfffeポケモンに　もたせると\xfffeこおりを　かいふくする。
-ポケモンに　もたせると\xfffeＰＰを　１０だけ　かいふくする。
-ポケモンに　もたせると\xfffeＨＰを　１０だけ　かいふくする。
-キーのみ　４コ　セット。\xfffeポケモンに　もたせると\xfffeこんらんを　かいふくする。
-ラムのみ　４コ　セット。\xfffeすべての　じょうたい　いじょうを\xfffeかいふくする。
-オボンのみ　４コ　セット。\xfffeポケモンに　もたせると\xfffeＨＰを　すこしだけ　かいふくする。
-チイラのみ　４コ　セット。\xfffeポケモンに　もたせると　ピンチのとき\xfffeじぶんの　こうげきが　あがる。
-リュガのみ　４コ　セット。\xfffeポケモンに　もたせると　ピンチのとき\xfffeじぶんの　ぼうぎょが　あがる。
-カムラのみ　４コ　セット。\xfffeポケモンに　もたせると　ピンチのとき\xfffeじぶんの　すばやさが　あがる。
-ヤタピのみ　４コ　セット。\xfffeポケモンに　もたせると　ピンチのとき\xfffeじぶんの　とくこうが　あがる。
-ズアのみ　４コ　セット。\xfffeポケモンに　もたせると　ピンチのとき\xfffeじぶんの　とくぼうが　あがる。
-オッカのみ　４コ　セット。\xfffeこうかばつぐんの　ほのお　わざを\xfffeうけたとき　いりょくが　よわまる。
-イトケのみ　４コ　セット。\xfffeこうかばつぐんの　みず　わざを\xfffeうけたとき　いりょくが　よわまる。
-ソクノのみ　４コ　セット。\xfffeこうかばつぐんの　でんき　わざを\xfffeうけたとき　いりょくが　よわまる。
-リンドのみ　４コ　セット。\xfffeこうかばつぐんの　くさ　わざを\xfffeうけたとき　いりょくが　よわまる。
-ヤチェのみ　４コ　セット。\xfffeこうかばつぐんの　こおり　わざを\xfffeうけたとき　いりょくが　よわまる。
-ヨプのみ　４コ　セット。\xfffeこうかばつぐんの　かくとう　わざを\xfffeうけたとき　いりょくが　よわまる。
-ビアーのみ　４コ　セット。\xfffeこうかばつぐんの　どく　わざを\xfffeうけたとき　いりょくが　よわまる。
-シュカのみ　４コ　セット。\xfffeこうかばつぐんの　じめん　わざを\xfffeうけたとき　いりょくが　よわまる。
-バコウのみ　４コ　セット。\xfffeこうかばつぐんの　ひこう　わざを\xfffeうけたとき　いりょくが　よわまる。
-ウタンのみ　４コ　セット。\xfffeこうかばつぐんの　エスパー　わざを\xfffeうけたとき　いりょくが　よわまる。
-タンガのみ　４コ　セット。\xfffeこうかばつぐんの　むし　わざを\xfffeうけたとき　いりょくが　よわまる。
-ヨロギのみ　４コ　セット。\xfffeこうかばつぐんの　いわ　わざを\xfffeうけたとき　いりょくが　よわまる。
-カシブのみ　４コ　セット。\xfffeこうかばつぐんの　ゴースト　わざを\xfffeうけたとき　いりょくが　よわまる。
-ハバンのみ　４コ　セット。\xfffeこうかばつぐんの　ドラゴン　わざを\xfffeうけたとき　いりょくが　よわまる。
-ナモのみ　４コ　セット。\xfffeこうかばつぐんの　あく　わざを\xfffeうけたとき　いりょくが　よわまる。
-リリバのみ　４コ　セット。\xfffeこうかばつぐんの　はがね　わざを\xfffeうけたとき　いりょくが　よわまる。
-ホズのみ　４コ　セット。\xfffeノーマル　わざを　うけたとき\xfffeいりょくが　よわまる。
-ザロクのみ　４コ　セット。\xfffeとても　なつき　やすくなるが\xfffeＨＰの　きそポイントは　さがる。
-ネコブのみ　４コ　セット。\xfffeとても　なつき　やすくなるが\xfffeこうげきの　きそポイントは　さがる。
-タポルのみ　４コ　セット。\xfffeとても　なつき　やすくなるが\xfffeぼうぎょの　きそポイントは　さがる。
-ロメのみ　４コ　セット。\xfffeとても　なつき　やすくなるが\xfffeとくこうの　きそポイントは　さがる。
-ウブのみ　４コ　セット。\xfffeとても　なつき　やすくなるが\xfffeとくぼうの　きそポイントは　さがる。
-マトマのみ　４コ　セット。\xfffeとても　なつき　やすくなるが\xfffeすばやさの　きそポイントは　さがる。
+Set di 12 Cura Totale.\xfffeRimedio spray.\xfffeRisolve tutti i problemi di stato.
+Set di 24 Cura Totale.\xfffeRimedio spray.\xfffeRisolve tutti i problemi di stato.
+Set di 36 Cura Totale.\xfffeRimedio spray.\xfffeRisolve tutti i problemi di stato.
+Set di 48 Cura Totale.\xfffeRimedio spray.\xfffeRisolve tutti i problemi di stato.
+Set di 12 Iperpozione.\xfffeRimedio spray per le ferite.\xfffeRestituisce 200 PS ad un Pokémon.
+Set di 24 Iperpozione.\xfffeRimedio spray per le ferite.\xfffeRestituisce 200 PS ad un Pokémon.
+Set di 36 Iperpozione.\xfffeRimedio spray per le ferite.\xfffeRestituisce 200 PS ad un Pokémon.
+Set di 48 Iperpozione.\xfffeRimedio spray per le ferite.\xfffeRestituisce 200 PS ad un Pokémon.
+Set di 12 PS-Su.\xfffeBevanda nutriente per Pokémon.\xfffeAumenta i PS di base.
+Set di 12 Proteina.\xfffeBevanda nutriente per Pokémon.\xfffeAumenta l'Attacco di base.
+Set di 12 Ferro.\xfffeBevanda nutriente per Pokémon.\xfffeAumenta la Difesa di base.
+Set di 12 Carburante.\xfffeBevanda nutriente per Pokémon.\xfffeAumenta la Velocità di base.
+Set di 12 Calcio.\xfffeBevanda nutriente per Pokémon.\xfffeAumenta l'Attacco Speciale di base.
+Set di 12 Zinco.\xfffeBevanda nutriente per Pokémon.\xfffeAumenta la Difesa Speciale di base.
+Set di 12 Superguardia.\xfffePer cinque turni dopo l'uso, evita\xfffela riduzione delle statistiche.
+Set di 12 Supercolpo.\xfffeBrutti colpi molto più probabili.\xfffeSi può usare una sola volta.
+Set di 12 Attacco X.\xfffeAumenta l'Attacco di un Pokémon\xfffein una lotta.
+Set di 12 Difesa X.\xfffeAumenta la Difesa di un Pokémon\xfffein una lotta.
+Set di 12 Velocità X.\xfffeAumenta la Velocità di un Pokémon\xfffein una lotta.
+Set di 12 Precisione X.\xfffeAumenta la Precisione di un Pokémon\xfffein una lotta.
+Set di 12 Special X.\xfffeAumenta l'Attacco Speciale di un\xfffePokémon in una lotta.
+Set di 12 Dif. Sp. X.\xfffeAumenta la Difesa Speciale di un\xfffePokémon in una lotta.
+Non ha alcun utilizzo. Si può vendere a\xfffecaro prezzo agli intenditori.
+Non ha alcun utilizzo. Si può vendere a\xfffecaro prezzo agli intenditori.
+Non ha alcun utilizzo. Si può vendere a\xfffecaro prezzo agli intenditori.
+Non ha alcun utilizzo. Si può vendere a\xfffecaro prezzo agli intenditori.
+Set di 2 Fertilrapido.\xfffeNon ha alcun utilizzo. Si può vendere a\xfffecaro prezzo agli intenditori.
+Set di 2 Fertilidro.\xfffeNon ha alcun utilizzo. Si può vendere a\xfffecaro prezzo agli intenditori.
+Set di 2 Fertilsaldo.\xfffeNon ha alcun utilizzo. Si può vendere a\xfffecaro prezzo agli intenditori.
+Set di 2 Fertilcolla.\xfffeNon ha alcun utilizzo. Si può vendere a\xfffecaro prezzo agli intenditori.
+Set di 4 Fertilrapido.\xfffeNon ha alcun utilizzo. Si può vendere a\xfffecaro prezzo agli intenditori.
+Set di 4 Fertilidro.\xfffeNon ha alcun utilizzo. Si può vendere a\xfffecaro prezzo agli intenditori.
+Set di 4 Fertilsaldo.\xfffeNon ha alcun utilizzo. Si può vendere a\xfffecaro prezzo agli intenditori.
+Set di 4 Fertilcolla.\xfffeNon ha alcun utilizzo. Si può vendere a\xfffecaro prezzo agli intenditori.
+Set di 4 Baccalampon.\xfffeBacca molto rara. Si può vendere a\xfffecaro prezzo agli intenditori.
+Set di 4 Baccamora.\xfffeBacca molto rara. Si può vendere a\xfffecaro prezzo agli intenditori.
+Set di 4 Baccaliegia.\xfffeSe tenuta da un Pokémon, lo cura\xfffedalla paralisi.
+Set di 4 Baccastagna.\xfffeSe tenuta da un Pokémon, lo risveglia\xfffedal sonno.
+Set di 4 Baccapesca.\xfffeSe tenuta da un Pokémon, lo guarisce\xfffedall'avvelenamento.
+Set di 4 Baccafrago.\xfffeSe tenuta da un Pokémon, lo guarisce\xfffeda una scottatura.
+Set di 4 Baccaperina.\xfffeSe tenuta da un Pokémon, lo cura\xfffedal congelamento.
+Se tenuta da un Pokémon restituisce\xfffe10 PP a una mossa.
+Se tenuta da un Pokémon gli restituisce\xfffe10 PS.
+Set di 4 Baccaki.\xfffeSe tenuta da un Pokémon, cura\xfffedalla confusione.
+Set di 4 Baccaprugne.\xfffeCura da qualsiasi alterazione di stato.
+Set di 4 Baccacedro.\xfffeSe tenuta da un Pokémon provato,\xffferestituisce un po' di PS.
+Set di 4 Bccalici.\xfffeAumenta l'Attacco, se il Pokémon che\xfffela tiene si trova in difficoltà.
+Set di 4 Baccalongan.\xfffeAumenta la Difesa, se il Pokémon che\xfffela tiene si trova in difficoltà.
+Set di 4 Baccasalak.\xfffeAumenta la Velocità, se il Pokémon che\xfffela tiene si trova in difficoltà.
+Set di 4 Baccapitaya.\xfffeAumenta l'Attacco Speciale, se il Pokémon che\xfffela tiene si trova in difficoltà.
+Set di 4 Baccacocca.\xfffeAumenta la Difesa Speciale, se il Pokémon che\xfffela tiene si trova in difficoltà.
+Set di 4 Baccacao.\xfffeIndebolisce l'attacco superefficace di \xfffetipo Fuoco del nemico.
+Set di 4 Baccapasflo。\xfffeIndebolisce l'attacco superefficace di \xfffetipo Acqua del nemico.
+Set di 4 Baccaparmen.\xfffeIndebolisce l'attacco superefficace di \xfffetipo Elettro del nemico.
+Set di 4 Baccarindo.\xfffeIndebolisce l'attacco superefficace di \xfffetipo Erba del nemico.
+Set di 4 Baccamoya.\xfffeIndebolisce l'attacco superefficace di \xfffetipo Ghiaccio del nemico.
+Set di 4 Baccarosmel.\xfffeIndebolisce l'attacco superefficace di \xfffetipo Lotta del nemico.
+Set di 4 Baccakebia.\xfffeIndebolisce l'attacco superefficace di \xfffetipo Veleno del nemico.
+Set di 4 Baccanaca.\xfffeIndebolisce l'attacco superefficace di \xfffetipo Terra del nemico.
+Set di 4 Baccababa.\xfffeIndebolisce l'attacco superefficace di \xfffetipo Volante del nemico.
+Set di 4 Baccapapaya.\xfffeIndebolisce l'attacco superefficace di \xfffetipo Psico del nemico.
+Set di 4 Baccaitan.\xfffeIndebolisce l'attacco superefficace di \xfffetipo Coleottero del nemico.
+Set di 4 Baccaciofo.\xfffeIndebolisce l'attacco superefficace di \xfffetipo Roccia del nemico.
+Set di 4 Baccacitrus.\xfffeIndebolisce l'attacco superefficace di \xfffetipo Spettro del nemico.
+Set di 4 Baccahaban.\xfffeIndebolisce l'attacco superefficace di \xfffetipo Drago del nemico.
+Set di 4 Baccaxan.\xfffeIndebolisce l'attacco superefficace di \xfffetipo Buio del nemico.
+Set di 4 Baccababiri.\xfffeIndebolisce l'attacco superefficace di \xfffetipo Acciaio del nemico.
+Set di 4 Baccacinlan.\xfffeIndebolisce l'attacco di \xfffetipo Normale del nemico.
+Set di 4 Baccagrana.\xfffeDiminuisce i Punti Base dei PS e\xfffeaumenta la felicità.
+Set di 4 Baccalga.\xfffeDiminuisce i Punti Base dell'Attacco e\xfffeaumenta la felicità.
+Set di 4 Baccaloquat.\xfffeDiminuisce i Punti Base della Difesa e\xfffeaumenta la felicità.
+Set di 4 Baccamelon.\xfffeDiminuisce i Punti Base dell'Att. Sp. e\xfffeaumenta la felicità.
+Set di 4 Baccauva.\xfffeDiminuisce i Punti Base della Dif. Sp. e\xfffeaumenta la felicità.
+Set di 4 Baccamodoro.\xfffeDiminuisce i Punti Base della Velocità\xfffeaumenta la felicità.
 
 
 
@@ -2143,57 +2142,57 @@ GTS
 ありがとう！　こうかんした\xfffeポケモン１を　たいせつに　するよ\xf000븁\x0000
 ありがとう！　こうかんした\xfffeポケモン１を　たいせつに　するね\xf000븁\x0000
 ふむ……\xfffeその　ポケモンは　ちがうようだね\xf000븁\x0000
-ちーがーう！\xf000븁\x0000
-むうう　そうかあ\xfffeその　ポケモンじゃ　ないよ\xf000븁\x0000
-あら？\xfffeちがう　ポケモンみたいね\xf000븁\x0000
-おいおい！　どうした\xfffeその　ポケモンじゃ　ないぞ\xf000븁\x0000
-えっ！　アタシの　ほしい\xfffeポケモンと　ちがいますよ！\xf000븁\x0000
-まいったな\xfffeその　ポケモンでは　ないのだが\xf000븁\x0000
-あっはっは！\xfffeおはん　まちごうとるたい！\xf000븁\x0000
-あれ？\xfffeちがう　ポケモンみたい　だね\xf000븁\x0000
-あれ？\xfffeちがう　ポケモンみたい　だよ\xf000븁\x0000
-あれ？\xfffeちがう　ポケモンみたい　だよ\xf000븁\x0000
-たのしかったよ\xfffeじゃ　サヨナラ！
-あばよ！
-そーだねー\xfffeまた　あえると　いいねー
-バーイ！
-フン！　まっ\xfffeきがむいたら　また　くるとするか
-ありがとう！\xfffeじゃあ　また　こんどですね！
-では　しつれいする！
-おはん　またな！
-またね
-またね
-\xf000ĸ\x0001\x0000　へ\xfffeようこそ！
-\xf000ĸ\x0001\x0000　へ\xfffeようこそ！
-\xf000ĸ\x0001\x0000　へ\xfffeようこそ！
-\xf000ĸ\x0001\x0000　へ\xfffeようこそ！
-\xf000ĸ\x0001\x0000　へ\xfffeようこそ！
-\xf000ĸ\x0001\x0000　へ\xfffeようこそ！
-\xf000ĸ\x0001\x0000　へ\xfffeようこそ！
-\xf000ĸ\x0001\x0000　へ\xfffeようこそ！
-つうしんこうかんを　した　かず
-ニックネームを　つけた　かず
-まちで　おきゃくに　であった　かず
-かいもので　つかった　きんがく
-すれちがった　ひとの　かず
-つうしんたいせんを　した　かず
-ポケモンを　つかまえた　かず
-タマゴを　ふかさせた　かず
-もっている　メダルの　かず
+Sbaaagliaatoo!\xf000븁\x0000
+Oh, è così...\xfffeNon è quel Pokémon!\xf000븁\x0000
+Oh?\xfffeSembra che sia il Pokémon sbagliato!\xf000븁\x0000
+Ahi, ahi, che succede?\xfffeNon è quel Pokémon!\xf000븁\x0000
+E' diverso dal Pokémon che volevo!\xf000븁\x0000
+Ti ho battuto!\xfffeNon è quel Pokémon!\xf000븁\x0000
+Ahahah!\xfffeおはん　まちごうとるたい！\xf000븁\x0000
+Eh?\xfffeSembra che sia il Pokémon sbagliato!\xf000븁\x0000
+Eh?\xfffeSembra che sia il Pokémon sbagliato!\xf000븁\x0000
+Eh?\xfffeSembra che sia il Pokémon sbagliato!\xf000븁\x0000
+E' stato divertente!\xfffeAlla prossima!
+Ciao, ciao!
+Ooh, è così!\xfffeCi rivedremo!
+Ciao!
+Uhm... Beh, se dovesse\xfffeinteressarti, torna pure!
+Grazie!\xfffeAllora, la prossima volta!
+Oh, scusa il disturbo!
+Ciao, alla prossima!
+Alla prossima!
+Alla prossima!
+Benvenuto al \xf000ĸ\x0001\x0000!
+Benvenuto al \xf000ĸ\x0001\x0000!
+Benvenuto al \xf000ĸ\x0001\x0000!
+Benvenuto al \xf000ĸ\x0001\x0000!
+Benvenuto al \xf000ĸ\x0001\x0000!
+Benvenuto al \xf000ĸ\x0001\x0000!
+Benvenuto al \xf000ĸ\x0001\x0000!
+Benvenuto al \xf000ĸ\x0001\x0000!
+N. Scambi in Link
+N. Soprannomi
+N. Visitatori Galleria
+Soldi Spesi
+N. Persone Incontrate
+N. Lotte in Link
+N. Pokémon catturati
+N. Uova Schiuse
+N. Medaglie
 \xf000Ȁ\x0001\x0000．
 \xf000Ā\x0001\x0000　
 ：
 \xf000Ȇ\x0001\x0000
-たてたカメラ
-あんないカメラ
-まちカメラ
-チュートリアルしゅうりょう
-１
-２
-３
-４
-５
-６
-７
-８
-パレードじっこう
+Camera Costruita
+Informa Camera
+Camera Galleria
+Finisci Tutorial
+1
+2
+3
+4
+5
+6
+7
+8
+Fai la parata
