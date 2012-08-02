@@ -287,60 +287,60 @@ Negozio dell'usato
 Café
 Sogno★\xf000Ā\x0001\x0000
 Sogno★\xf000Ā\x0001\x0000
-Fortua★\xf000Ā\x0001\x0000
-ハッピー★\xf000Ā\x0001\x0000
-ビューティー\xf000Ā\x0001\x0000
-バーバー\xf000Ā\x0001\x0000
-サロン\xf000Ā\x0001\x0000
-スタジオ\xf000Ā\x0001\x0000
-\xf000Ā\x0001\x0000マート
-\xf000Ā\x0001\x0000マート
-スーパー\xf000Ā\x0001\x0000
-\xf000Ā\x0001\x0000デパート
-フラワー\xf000Ā\x0001\x0000
-フラワー\xf000Ā\x0001\x0000
-\xf000Ā\x0001\x0000パーク
-\xf000Ā\x0001\x0000ガーデン
-\xf000Ā\x0001\x0000どうじょう
-\xf000Ā\x0001\x0000のキャンプ
-\xf000Ā\x0001\x0000のリング
-\xf000Ā\x0001\x0000コロシアム
-\xf000Ā\x0001\x0000ハウス
-\xf000Ā\x0001\x0000ハウス
-\xf000Ā\x0001\x0000クラブ
-\xf000Ā\x0001\x0000ランド
-\xf000Ā\x0001\x0000コレクション
-\xf000Ā\x0001\x0000コレクション
-\xf000Ā\x0001\x0000セレクション
-\xf000Ā\x0001\x0000ミュージアム
-リストランテ\xf000Ā\x0001\x0000
-バー★\xf000Ā\x0001\x0000さん
-キッチン\xf000Ā\x0001\x0000
-\xf000Ā\x0001\x0000レストラン
-くじをする
-きれいにする
-かう
-かう
-きたえてもらう
-あずける
-かう
-たべる
-１とうは　なんと　マスターボール！\xfffe\xf000ĸ\x0001\x0000へ　ようこそ！
-あなたのポケモンを　よりうつくしく！\xfffe\xf000ĸ\x0001\x0000へ　ようこそ！
-ほしいものが　なんでも　そろう\xfffe\xf000ĸ\x0001\x0000へ　ようこそ！
-しぜんの　めぐみの　きのみはんばい\xfffe\xf000ĸ\x0001\x0000へ　ようこそ！
-ポケモンと　どこまでも　がんばります\xfffe\xf000ĸ\x0001\x0000へ　ようこそ！
-あいじょう　いっぱい　タマゴあずかり\xfffe\xf000ĸ\x0001\x0000へ　ようこそ！
-ひと　それぞれの　ほりだしもの\xfffe\xf000ĸ\x0001\x0000へ　ようこそ！
-みつぼしの　あじを　ていきょう\xfffe\xf000ĸ\x0001\x0000へ　ようこそ！
-１とうは　なんと　マスターボール！\xfffe\xf000ĸ\x0001\x0000へ　ようこそ！
-あなたのポケモンを　よりうつくしく！\xfffe\xf000ĸ\x0001\x0000へ　ようこそ！
-ほしいものが　なんでも　そろう\xfffe\xf000ĸ\x0001\x0000へ　ようこそ！
-しぜんの　めぐみの　きのみはんばい\xfffe\xf000ĸ\x0001\x0000へ　ようこそ！
-ポケモンと　どこまでも　がんばります\xfffe\xf000ĸ\x0001\x0000へ　ようこそ！
-あいじょう　いっぱい　タマゴあずかり\xfffe\xf000ĸ\x0001\x0000へ　ようこそ！
-ひと　それぞれの　ほりだしもの\xfffe\xf000ĸ\x0001\x0000へ　ようこそ！
-みつぼしの　あじを　ていきょう\xfffe\xf000ĸ\x0001\x0000へ　ようこそ！
+Fortuna★\xf000Ā\x0001\x0000
+Felice★\xf000Ā\x0001\x0000
+Bel \xf000Ā\x0001\x0000
+Barbiere \xf000Ā\x0001\x0000
+Salone \xf000Ā\x0001\x0000
+Studio \xf000Ā\x0001\x0000
+Mercato \xf000Ā\x0001\x0000 
+Mercato \xf000Ā\x0001\x0000 
+Supermercato \xf000Ā\x0001\x0000
+Supermercato \xf000Ā\x0001\x0000 
+Fiorista \xf000Ā\x0001\x0000
+Fiorista xf000Ā\x0001\x0000
+Parco \xf000Ā\x0001\x0000
+Giardino \xf000Ā\x0001\x0000
+Simpatico \xf000Ā\x0001\x0000
+Campo di \xf000Ā\x0001\x0000
+Ring di \xf000Ā\x0001\x0000
+\xf000Ā\x0001\x0000
+\xf000Ā\x0001\x0000 House
+\xf000Ā\x0001\x0000 House
+Club \xf000Ā\x0001\x0000
+\xf000Ā\x0001\x0000 Land
+Collezione \xf000Ā\x0001\x0000
+Collezione \xf000Ā\x0001\x0000
+Selezione \xf000Ā\x0001\x0000
+Museo \xf000Ā\x0001\x0000
+Ristorante \xf000Ā\x0001\x0000
+Bar★\xf000Ā\x0001\x0000
+Cucina \xf000Ā\x0001\x0000
+Ristorante \xf000Ā\x0001\x0000
+Pesca
+Abbellisci!
+Compra
+Compra
+Allena
+Lascia
+Compra
+Mangia
+Primo premio, Masterball!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
+I tuoi Pokémon sono i più belli!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
+Abbiamo qualsiasi cosa desideri!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
+Vendiamo qualsiasi tipo di bacche!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
+Alleniamo dappertutto i Pokémon!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
+Ci prendiamo cura delle tue uova!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
+Abbiamo qualsiasi tesoro!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
+Assaggerai ogni sapore!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
+Primo premio, Masterball!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
+I tuoi Pokémon sono i più belli!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
+Abbiamo qualsiasi cosa desideri!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
+Vendiamo qualsiasi tipo di bacche!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
+Alleniamo dappertutto i Pokémon!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
+Ci prendiamo cura delle tue uova!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
+Abbiamo qualsiasi tesoro!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
+Assaggerai ogni sapore!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
 それでは　おだいを　いただきますね\xf000븁\x0000
 それでは　おだいを　いただきますね\xf000븁\x0000
 タマゴは　だめです！\xf000븁\x0000
