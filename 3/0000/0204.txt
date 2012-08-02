@@ -19,7 +19,7 @@ Nel \xf000Ĺ\x0001\x0000 ci sono 8 tipi\xfffedi negozi diversi.\xf000븁\x0000\x
 Desideri sapere qualcosa sui\xfffenegozi?
 Non vedo l'ora che tu renda\xfffequesto posto un luogo splendido!
 Aumentando il numero dei collegamenti,\xfffepotrai chiamare nuovi visitatori.\xf000븁\x0000\xfffeProva a parlare con gli amici con cui\xfffeti sei collegato e che vengono a\xf000븀\x0000\xfffevisitare la tua Galleria!\xf000븁\x0000\xfffeUna volta che ci parli, potrai fare\xfffe3 cose diverse.\xf000븁\x0000\xfffe"Invita a stabilirsi qui",\xfffe"Informa sulla Gallerai" o\xf000븀\x0000\xfffe"Esplora come segretario".\xf000븁\x0000\xfffeSe ti servono maggiori informazioni,\xfffechiedimi pure.\xf000븁\x0000
-「スカウトする」を　えらぶと\xfffeおきゃくさまが　ひしょと　なって\xf000븀\x0000\xfffeまわりの　おせわを　してくれます\xf000븁\x0000\xfffeげんざいの　まちの　ランクが\xfffeあいての　りそう　よりも　たかいと\xf000븀\x0000\xfffeスカウトに　せいこう　しやすくなります\xf000븁\x0000
+Scegliendo "Esplora" potrai far diventare\xfffeuno dei visitatori un tuo nuovo\xf000븀\x0000\xfffesegretario!\xf000븁\x0000\xfffeFacendo salire il Livello della\xfffetua Galleria, trovare un assistente\xf000븀\x0000\xfffesarà molto più facile!\xf000븁\x0000
 Cos'è, qui?
 Cosa si fa?
 Con posto splendido...?
@@ -47,26 +47,26 @@ Forza!\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
 Forza!\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
 Forza!\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
 Forza!\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
-きょうは　きみに\xfffeプレゼントが　あるんだ\xf000븁\x0000\xfffeきみの　しごとを　たすける\xfffeあたらしい　ひしょを　スカウトしたよ\xf000븁\x0000
-きょうは　きみに\xfffeプレゼントが　あるんだ\xf000븁\x0000\xfffeきみの　しごとを　たすける\xfffeあたらしい　ひしょを　スカウトしたよ\xf000븁\x0000
-きょうは　きみに\xfffeおれいが　したいんだ\xf000븁\x0000\xfffeここまで　はってん　させてくれて\xfffeほんとうに　ありがとう！\xf000븁\x0000\xfffeきみこそ　しんの\xfffe\xf000ĺ\x0001\x0001　だ\xf000븁\x0000\xfffeもう　ここは\xfffeきみの　まちと　いっていいだろう！\xf000븁\x0000\xfffeそこでだ！\xf000븁\x0000\xfffeまちに　なまえを　つけてくれないか？\xf000븁\x0000\xfffeきみが　ジョインアベニューに\xfffeもっとも　ふさわしいと　おもう\xf000븀\x0000\xfffeなまえを　つけちゃってくれ\xf000븁\x0000
-すばらしい！！\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0002は　もう\xfffe\xf000ĺ\x0001\x0001　のまちだ！\xf000븀\x0000\xfffeあとのことは　たのんだよ\xf000븁\x0000\xfffeもっと　もっと　ひとを\xfffeたのしませる　まちに　しておくれ\xf000븁\x0000
-きょうは　きみに\xfffeプレゼントが　あるんだ\xf000븁\x0000\xfffeアベニューの　ネオンを\xfffeじゆうに　かえられる　ようにしたよ\xf000븁\x0000\xfffeネオンを　かえれば　まちの\xfffeふんいきも　がらっと　かわるよ\xf000븁\x0000\xfffeネオンで　まちに　きた　ひとを\xfffeもっと　よろこばしちゃってよ\xf000븁\x0000
-きょうは　きみに\xfffeじょげんが　あるんだ\xf000븁\x0000\xfffeきみも　すきなひとを\xfffeひしょに　したいだろう？\xf000븁\x0000\xfffeまちゆく　ひとを\xfffeひしょに　してみないか\xf000븁\x0000\xfffeやりかたは　かんたんだよ\xf000븁\x0000\xfffeはなしかけて　\xfffe「スカウトする」を　えらぶんだ\xf000븁\x0000\xfffeこの　まちの　みりょくが\xfffeあいての　りそうより　たかければ\xf000븀\x0000\xfffeきっと　せいこう　するよ\xf000븁\x0000\xfffeだから　もっと　もっと\xfffeまちを　はってん　させちゃってよ\xf000븁\x0000
-きょうは　きみに\xfffeビッグな　プレゼントが　あるんだ\xf000븁\x0000\xfffeきみの　でんどういりを　きねんして\xfffeおみせも　リニューアルしたぞ\xf000븁\x0000\xfffeあたらしい　サービスや\xfffeしなものが　ふえているから\xf000븀\x0000\xfffeのぞいてみると　いいよ\xf000븁\x0000\xfffeさらに！\xf000븁\x0000\xfffeきみは　ポケモンの　タマゴって\xfffeしっているかい？\xf000븁\x0000\xfffeこんど　まちに　『ほいくじょ』という\xfffeタマゴの　ふかを　たすける　おみせが\xf000븀\x0000\xfffeたてられるように　なったんだ\xf000븁\x0000\xfffeまちへ　あそびに　やってくる\xfffe『ほいくじょ』を　たてたい　ひとを\xf000븀\x0000\xfffeしょうたいして　ためしてみてね\xf000븁\x0000
-きょうは　きみに\xfffeサプライズ　プレゼントが　あるよ\xf000븁\x0000\xfffeきみの　がんばりを　\xfffeまちのみんなが　いわって　くれるよ\xf000븁\x0000\xfffeさあ！　まちの\xfffeみんなに　あいさつしに　いこう\xf000븁\x0000
-きょうは　がんばってる　きみに\xfffeプレゼントが　あるよ\xf000븁\x0000\xfffeちょっとした　ものだけど\xfffeこれを　あげよう\xf000븁\x0000
-じゃ　ひきつづき\xfffeがんばっちゃってよ\xf000븁\x0000
-じゃ　ひきつづき\xfffeがんばっちゃってよ\xf000븁\x0000
-じゃ　ひきつづき\xfffeがんばっちゃってよ\xf000븁\x0000
-じゃ　ひきつづき\xfffeがんばっちゃってよ\xf000븁\x0000
-じゃ　ひきつづき\xfffeがんばっちゃってよ\xf000븁\x0000
-きみには\xfffeもう　なにも　いうことは　ないよ！\xf000븁\x0000\xfffeだから　ひきつづき\xfffeがんばっちゃってよ\xf000븁\x0000
-きみには\xfffeもう　なにも　いうことは　ないよ！\xf000븁\x0000\xfffeだから　ひきつづき\xfffeがんばっちゃってよ\xf000븁\x0000
-きみには\xfffeもう　なにも　いうことは　ないよ！\xf000븁\x0000\xfffeだから　ひきつづき\xfffeがんばっちゃってよ\xf000븁\x0000
-\xf000ķ\x0001\x0001\xfffe\xf000Ā\x0001\x0000です！\xf000븁\x0000\xfffeデータ　せいりなら　\xfffeまかせて　ください\xf000븁\x0000\xfffeパソコンの　ボックスせいり！\xfffeレコードランキング！\xf000븀\x0000\xfffeひしょの　やくわりの　こうたい！\xf000븀\x0000\xfffeおみせの　ならびかえ！\xf000븀\x0000\xfffeなんでも　せいり　しますので\xf000븀\x0000\xfffeわたしに　はなしかけて　くださいね\xf000븁\x0000
-\xf000ķ\x0001\x0001\xfffe\xf000Ā\x0001\x0000です！\xf000븁\x0000\xfffeつかれている　ポケモンを\xfffeやすませることが　できます\xf000븁\x0000\xfffeわたしに　はなしかけて　くださいね\xf000븁\x0000
-\xf000ķ\x0001\x0001\xfffe\xf000Ā\x0001\x0000です！\xf000븁\x0000\xfffeまちの　なまえを　かえるには\xfffeわたしに　はなしかけて　くださいね\xf000븁\x0000
-\xf000ķ\x0001\x0001\xfffe\xf000Ā\x0001\x0000です！\xf000븁\x0000\xfffeまちの　なまえを　かえるには\xfffeわたしに　はなしかけて　くださいね\xf000븁\x0000
-\xf000ķ\x0001\x0001\xfffe\xf000Ā\x0001\x0000です！\xf000븁\x0000\xfffeネオンを　かえるには\xfffeわたしに　はなしかけて　くださいね\xf000븁\x0000
-\xf000ķ\x0001\x0001\xfffe\xf000Ā\x0001\x0000です！\xf000븁\x0000\xfffeネオンを　かえるには\xfffeわたしに　はなしかけて　くださいね\xf000븁\x0000
+Oggi ho un regalo per te!\xf000븁\x0000\xfffeHo trovato un nuovo segretario\xfffeper aiutarti con il lavoro!\xf000븁\x0000
+Oggi ho un regalo per te!\xf000븁\x0000\xfffeHo trovato un nuovo segretario\xfffeper aiutarti con il lavoro!\xf000븁\x0000
+Oggi vorrei ringraziarti.\xf000븁\x0000\xfffeGrazie di cuore per aver lavorato\xfffefino a questo punto!\xf000븁\x0000\xfffeQuest \xf000ĺ\x0001\x0001 è tuo!\xf000븁\x0000\xfffeSi! Hai capito bene! Beh, continua\xfffea lavorare nella tua Galleria, eh!\xf000븁\x0000\xfffePerciò, siamo d'accordo!\xf000븁\x0000\xfffeVuoi dare un nome alla tua Galleria?\xf000븁\x0000\xfffePenso che sarebbe meglio che tu\xfffedia a questa Galleria Solidarietà un\xf000븀\x0000\xfffenuovo nome più appropriato!\xf000븁\x0000
+Fantastico!!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0002 è già la Galleria\xfffedi \xf000ĺ\x0001\x0001!\xf000븀\x0000\xfffeComunque, ricordati quello che ti ho\xf000\xbe00\x0000\xfffedetto! Continua a far venire qui\xf000\xbe00\x0000\xfffetanta nuova gente!\xf000븁\x0000
+Oggi ho un regalo per te!\xf000븁\x0000\xfffeDa oggi puoi cambiare le luci\xfffedella Galleria.\xf000븁\x0000\xfffeCambiando le luci, anche l'atmosfera\xfffedella Galleria cambierà!\xf000븁\x0000\xfffeCon luci più belle, la Galleria\xfffepotrà piacere a più persone!\xf000븁\x0000
+Oggi ho un consiglio per te!\xf000븁\x0000\xfffeVorresti far diventare qualche tuo amico\xfffeche preferisci tuo segretario?\xf000븁\x0000\xfffeDa oggi, ti insegnerò come far\xfffediventare segretari le persone che\xf000\xbe01\x0000\xfffevisitano la tua galleria!\xf000븁\x0000\xfffeDevi scegliere "Scopri" quando parli\xfffecon qualcuno!\xf000븁\x0000\xfffeFai diventare questo posto\xfffepiù bello che mai!\xf000븁\x0000\xfffeContinua a sviluppare la Galleria!\xf000븁\x0000
+Oggi ho un grosso regalo per te!\xf000븁\x0000\xfffePer celebrare l'entrata nella Sala\xfffed'Onore, rinnoverò i negozi!\xf000븁\x0000\xfffeDato che aumenterò i servizi e\xfffegli oggetti acquistabili, vieni a\xf000븀\x0000\xfffedare un'occhiata!\xf000븁\x0000\xfffeInoltre!\xf000븁\x0000\xfffeConosci le Uova di Pokémon?\xf000븁\x0000\xfffeDa oggi, c'è un nuovo tipo di negozio,\xfffedetto "Asilo Pokémon", che si prenderà\xf000븀\x0000\xfffecura delle tue uova!\xf000븁\x0000\xfffeProva a invitare le persone che vogliono\xfffecostruirne uno!\xf000븁\x0000
+Oggi ho un regalo sorprendente\xfffeper te!\xf000븁\x0000\xfffeMi congratulo per la tua perseveranza\xfffenel far venire nuovi visitatori.\xf000븁\x0000\xfffeBene, devo andare a salutare\xfffelo staff della Galleria.\xf000븁\x0000
+Oggi ho un regalo per te che\xfffeti stai impegnando.\xf000븁\x0000\xfffeE' una cosa da niente, ma tieni!\xf000븁\x0000
+Allora continua a dare il massimo!\xf000븁\x0000
+Allora continua a dare il massimo!\xf000븁\x0000
+Allora continua a dare il massimo!\xf000븁\x0000
+Allora continua a dare il massimo!\xf000븁\x0000
+Allora continua a dare il massimo!\xf000븁\x0000
+Non ho niente da dirti!\xf000븁\x0000\xfffeContinua a dare il massimo!\xf000븁\x0000
+Non ho niente da dirti!\xf000븁\x0000\xfffeContinua a dare il massimo!\xf000븁\x0000
+Non ho niente da dirti!\xf000븁\x0000\xfffeContinua a dare il massimo!\xf000븁\x0000
+\xf000ķ\x0001\x0001\xfffeSei \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeIo mi impegnerò a gestire i tuoi\xfffedati!\xf000븁\x0000\xfffeI dati del Box!\xfffeQuelli del registrati!\xf000븀\x0000\xfffeIl cambio del ruolo dei segretari!\xf000븀\x0000\xfffeL'ordine dei negozi!\xf000븀\x0000\xfffeSe vuoi cambiare qualche dato,\xf000븀\x0000\xfffenon esitare a chiedermi!\xf000븁\x0000
+\xf000ķ\x0001\x0001\xfffeSei \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffePosso far riposare i Pokémon stanchi!\xf000븁\x0000\xfffeSe lo vorrai, parlami senza timore!\xf000븁\x0000
+\xf000ķ\x0001\x0001\xfffeSei \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeSe vuoi cambiare il nome della\xfffetua Galleria, parla con me!\xf000븁\x0000
+\xf000ķ\x0001\x0001\xfffeSei \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeSe vuoi cambiare il nome della\xfffetua Galleria, parla con me!\xf000븁\x0000
+\xf000ķ\x0001\x0001\xfffeSei \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeSe vuoi cambiare le luci,\xfffeparla con me!\xf000븁\x0000
+\xf000ķ\x0001\x0001\xfffeSei \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeSe vuoi cambiare le luci,\xfffeparla con me!\xf000븁\x0000
