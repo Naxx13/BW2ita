@@ -554,96 +554,87 @@
 ミルクセット２
 ミルクセット３
 ミルクセット４
-おみやげセット
-おみやげセット
+Set Regalo
+Set Regalo
 
-おみやげセット
-げんきのかたまり
-ピーピーエイド
-ポイントアップ
-ミツのつめあわせ
-スプレーセット１
-スプレーセット２
-スプレーセット３
-スプレーセット４
-かけらセット１
-かけらセット２
-かけらセット３
-かけらセット４
-なんでもセット１
-なんでもセット２
-なんでもセット３
-なんでもセット４
-くすりセット１
-くすりセット２
-くすりセット３
-くすりセット４
-たいりょくセット
-こうげきセット
-ぼうぎょセット
-すばやさセット
-とくこうセット
-とくぼうセット
-バトルセットＡ
-バトルセットＢ
-バトルセットＣ
-バトルセットＤ
-バトルセットＥ
-バトルセットＦ
-バトルセットＧ
-バトルセットＨ
-すくすくこやし
-じめじめこやし
-ながながこやし
-ねばねばこやし
-こやし×２
-こやし×２
-こやし×２
-こやし×２
-こやし×４
-こやし×４
-こやし×４
-こやし×４
-ズリのみ×４
-ブリーのみ×４
-クラボのみ×４
-カゴのみ×４
-モモンのみ×４
-チーゴのみ×４
-ナナシのみ×４
-ヒメリのみ
-オレンのみ×４
-キーのみ×４
-ラムのみ×４
-オボンのみ×４
-チイラのみ×４
-リュガのみ×４
-カムラのみ×４
-ヤタピのみ×４
-ズアのみ×４
-オッカのみ×４
-イトケのみ×４
-ソクノのみ×４
-リンドのみ×４
-ヤチェのみ×４
-ヨプのみ×４
-ビアーのみ×４
-シュカのみ×４
-バコウのみ×４
-ウタンのみ×４
-タンガのみ×４
-ヨロギのみ×４
-カシブのみ×４
-ハバンのみ×４
-ナモのみ×４
-リリバのみ×４
-ホズのみ×４
-ザロクのみ×４
-ネコブのみ×４
-タポルのみ×４
-ロメのみ×４
-ウブのみ×４
-マトマのみ×４
+Set Regalo
+Set Revitaliz. Max.
+Set PP
+Set PP Max.
+Set Miele
+Set Repell. 1
+Set Repell. 2
+Set Repell. 3
+Set Repell. 4
+Set Revitaliz. 1
+Set Revitaliz. 2
+Set Revitaliz. 3
+Set Revitaliz. 4
+Set Cura Totale 1
+Set Cura Totale 2
+Set Cura Totale 3
+Set Cura Totale 4
+Set Pozione 1
+Set Pozione 2
+Set Pozione 3
+Set Pozione 4
+Set PS
+Set Attacco
+Set Difesa
+Set Velocità
+Set Att. Sp.
+Set Dif. Sp.
+Set Lotta A
+Set Lotta B
+Set Lotta C
+Set Lotta D
+Set Lotta E
+Set Lotta F
+Set Lotta G
+Set Lotta H
+Fertilrapido
+Fertilidro
+Fertilsaldo
+Fertilcolla
+Fert. x2
+Fert. x2
+Fert. x2
+Fert. x2
+Fert. x4
+Fert. x4
+Fert. x4
+Fert. x4
+Baccaki x4
+Baccaprugne x4 
+Baccacedro x4
+Bccalici x4
+Baccalongan x4
+Baccasalak x4
+Baccapitaya x4
+Baccacocca x4
+Baccacao x4
+Baccapasflo x4
+Baccaparmen x4
+Baccarindo x4
+Baccamoya x4
+Baccarosmel x4
+Baccakebia x4
+Baccanaca x4
+Baccababa x4
+Baccapapaya x4
+Baccaitan x4
+Baccaciofo x4
+Baccacitrus x4
+Baccahaban x4
+Baccaxan x4
+Baccababiri x4
+Baccacinlan x4
+Baccagrana x4
+Baccalga x4
+Baccaloquat x4
+Baccamelon x4
+Baccauva x4
+Baccamodoro x4
 
 
 Set di 12 Acqua Fresca.\xfffeAcqua ricca di sostanze minerali.\xfffeRestituisce 50 PS ad un Pokémon.
@@ -722,7 +713,7 @@ Set di 4 Baccasalak.\xfffeAumenta la Velocità, se il Pokémon che\xfffela tiene
 Set di 4 Baccapitaya.\xfffeAumenta l'Attacco Speciale, se il Pokémon che\xfffela tiene si trova in difficoltà.
 Set di 4 Baccacocca.\xfffeAumenta la Difesa Speciale, se il Pokémon che\xfffela tiene si trova in difficoltà.
 Set di 4 Baccacao.\xfffeIndebolisce l'attacco superefficace di \xfffetipo Fuoco del nemico.
-Set di 4 Baccapasflo。\xfffeIndebolisce l'attacco superefficace di \xfffetipo Acqua del nemico.
+Set di 4 Baccapasflo.\xfffeIndebolisce l'attacco superefficace di \xfffetipo Acqua del nemico.
 Set di 4 Baccaparmen.\xfffeIndebolisce l'attacco superefficace di \xfffetipo Elettro del nemico.
 Set di 4 Baccarindo.\xfffeIndebolisce l'attacco superefficace di \xfffetipo Erba del nemico.
 Set di 4 Baccamoya.\xfffeIndebolisce l'attacco superefficace di \xfffetipo Ghiaccio del nemico.
