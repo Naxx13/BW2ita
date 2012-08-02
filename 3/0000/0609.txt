@@ -396,29 +396,29 @@
 うまれるまで　まだまだ\xfffeじかんが　かかりそう　です！\xf000븁\x0000
 うまれるまで　かなり\xfffeじかんが　かかりそう　です！\xf000븁\x0000
 　
-ブラッシング
-シャンプー
-スマイルカット
-ビューティカット
-ロイヤルカット
-ほっそりメイク
-おだやかメイク
-ゆるやかメイク
-ほんわかメイク
-なごやかメイク
-ゆったりメイク
-ほっそりメイク２
-おだやかメイク２
-ゆるやかメイク２
-ほんわかメイク２
-なごやかメイク２
-ゆったりメイク２
-ほっそりメイク３
-おだやかメイク３
-ゆるやかメイク３
-ほんわかメイク３
-なごやかメイク３
-ゆったりメイク３
+Messa in piega
+Shampoo
+Taglio Sorriso
+Taglio Beltà
+Taglo Reale
+Crema Snellente
+Crema Rilassante
+Crema Lenitiva
+Crema Ammorbidente
+Crema Armoniosa
+Crema Morbida
+Crema Snellente 2
+Crema Rilassante 2
+Crema Lenitiva 2
+Crema Ammorbidente 2
+Crema Armoniosa 2
+Crema Morbida 2
+Crema Snellente 3
+Crema Rilassante 3
+Crema Lenitiva 3
+Crema Ammorbidente 3
+Crema Armoniosa 3
+Crema Morbida 3
 
 
 
@@ -444,29 +444,29 @@
 
 
 
-ポケモンの　けなみや　はだを\xfffeおていれして　なついてもらいます。
-ポケモンの　けなみや　はだを\xfffeあらって　きれいに　することで\xfffeかなり　なついてもらいます。
-ポケモンの　けなみや　はだを\xfffeきれいに　ととのえる　ことで\xfffeすごく　なついてもらいます。
-ポケモンの　けなみや　はだを\xfffeうつくしく　ととのえることで\xfffeものすごく　なついてもらいます。
-ポケモンの　けなみや　はだを\xfffeじょうひんに　ととのえることで\xfffeものすごく　なついてもらいます。
-メイクで　なついてもらいます。\xfffeＨＰの　きそポイントが\xfffeものすごく　さがります。
-メイクで　なついてもらいます。\xfffeこうげきの　きそポイントが\xfffeものすごく　さがります。
-メイクで　なついてもらいます。\xfffeぼうぎょの　きそポイントが\xfffeものすごく　さがります。
-メイクで　なついてもらいます。\xfffeとくこうの　きそポイントが\xfffeものすごく　さがります。
-メイクで　なついてもらいます。\xfffeとくぼうの　きそポイントが\xfffeものすごく　さがります。
-メイクで　なついてもらいます。\xfffeすばやさの　きそポイントが\xfffeものすごく　さがります。
-メイクで　なついてもらいます。\xfffeＨＰの　きそポイントが\xfffeとてつもなく　さがります。
-メイクで　なついてもらいます。\xfffeこうげきの　きそポイントが\xfffeとてつもなく　さがります。
-メイクで　なついてもらいます。\xfffeぼうぎょの　きそポイントが\xfffeとてつもなく　さがります。
-メイクで　なついてもらいます。\xfffeとくこうの　きそポイントが\xfffeとてつもなく　さがります。
-メイクで　なついてもらいます。\xfffeとくぼうの　きそポイントが\xfffeとてつもなく　さがります。
-メイクで　なついてもらいます。\xfffeすばやさの　きそポイントが\xfffeとてつもなく　さがります。
-メイクで　なついてもらいます。\xfffeＨＰの　きそポイントが\xfffeなくなります。
-メイクで　なついてもらいます。\xfffeこうげきの　きそポイントが\xfffeなくなります。
-メイクで　なついてもらいます。\xfffeぼうぎょの　きそポイントが\xfffeなくなります。
-メイクで　なついてもらいます。\xfffeとくこうの　きそポイントが\xfffeなくなります。
-メイクで　なついてもらいます。\xfffeとくぼうの　きそポイントが\xfffeなくなります。
-メイクで　なついてもらいます。\xfffeすばやさの　きそポイントが\xfffeなくなります。
+Cura il pelo e la cute dei Pokémon e\xfffeli fa affezionare.
+Lava il pelo e la cute dei Pokémon e\xfffeli fa affezionare un po'.
+Pettina il pelo e la cute dei Pokémon e\xfffeli fa affezionare molto.
+Pettina con una bella pettinatura i\xfffePokémon e li fa affezionare moltissimo.
+Pettina con una pettinatura elegante i\xfffePokémon e li fa affezionare moltissimo.
+Trattamento per far affezionare\xfffei Pokémon e abbassarne molto\xfffei PS base.
+Trattamento per far affezionare\xfffei Pokémon e abbassarne molto\xfffel'Attacco base.
+Trattamento per far affezionare\xfffei Pokémon e abbassarne molto\xfffela Difesa base.
+Trattamento per far affezionare\xfffei Pokémon e abbassarne molto\xfffel'Att. Sp. base.
+Trattamento per far affezionare\xfffei Pokémon e abbassarne molto\xfffela Dif. Sp. base.
+Trattamento per far affezionare\xfffei Pokémon e abbassarne molto\xfffela Velocità base.
+Trattamento per far affezionare\xfffei Pokémon e abbassarne moltissimo\xfffei PS base.
+Trattamento per far affezionare\xfffei Pokémon e abbassarne moltissimo\xfffel'Attacco base.
+Trattamento per far affezionare\xfffei Pokémon e abbassarne moltissimo\xfffela Difesa base.
+Trattamento per far affezionare\xfffei Pokémon e abbassarne moltissimo\xfffel'Att. Sp. base.
+Trattamento per far affezionare\xfffei Pokémon e abbassarne moltissimo\xfffela Dif. Sp. base.
+Trattamento per far affezionare\xfffei Pokémon e abbassarne moltissimo\xfffela Velocità base.
+Trattamento per far affezionare\xfffei Pokémon e abbassarne molto\xfffei PS base.
+Trattamento per far affezionare\xfffei Pokémon e abbassarne \xfffel'Attacco base.
+Trattamento per far affezionare\xfffei Pokémon e abbassarne \xfffela Difesa base.
+Trattamento per far affezionare\xfffei Pokémon e abbassarne \xfffel'Att. Sp. base.
+Trattamento per far affezionare\xfffei Pokémon e abbassarne \xfffela Dif. Sp. base.
+Trattamento per far affezionare\xfffei Pokémon e abbassarne \xfffela Velocità base.
 
 
 
@@ -492,18 +492,18 @@
 
 
 
-しゅぎょうＬＶ１
-しゅぎょうＬＶ２
-しゅぎょうＬＶ３
-しゅぎょうＬＶ４
-しゅぎょうＬＶ５
-しゅぎょうＬＶ１０
-しゅぎょうＬＶ２０
-あたためるＬＶ１
-あたためるＬＶ２
-あたためるＬＶ３
-あたためるＬＶ４
-あたためるＬＶ５
+Allenamento L. 1
+Allenamento L. 2
+Allenamento L. 3
+Allenamento L. 4
+Allenamento L. 5
+Allenamento L. 10
+Allenamento L. 20
+Calore L. 1
+Calore L. 2
+Calore L. 3
+Calore L. 4
+Calore L. 5
 PS L. 4
 PS L. 8
 PS L. 12
@@ -742,84 +742,84 @@ Set di 4 Baccamodoro.\xfffeDiminuisce i Punti Base della Velocità\xfffeaumenta 
 
 
 
-ポケモンと　ちょっぴり　ひみつの\xfffeとっくんを　する。\xfffeレベルが　１つ　あがる。
-ポケモンと　ちょっぴり　ひみつの\xfffeとっくんを　する。\xfffeレベルが　２つ　あがる。
-ポケモンと　ちょっぴり　ひみつの\xfffeとっくんを　する。\xfffeレベルが　３つ　あがる。
-ポケモンと　ちょっぴり　ひみつの\xfffeとっくんを　する。\xfffeレベルが　４つ　あがる。
-ポケモンと　ちょっぴり　ひみつの\xfffeとっくんを　する。\xfffeレベルが　５つ　あがる。
-ポケモンと　ちょっぴり　ひみつの\xfffeとっくんを　する。\xfffeレベルが　６つ　あがる。
-ポケモンと　ちょっぴり　ひみつの\xfffeとっくんを　する。\xfffeレベルが　７つ　あがる。
-タマゴを　ゆっくり　だいじに\xfffeあたためる。\xfffeちょぴり　ふか　しやすくする。
-タマゴを　ゆっくり　だいじに\xfffeあたためる。\xfffeすこし　ふか　しやすくする。
-タマゴを　ゆっくり　だいじに\xfffeあたためる。\xfffeかなり　ふか　しやすくする。
-タマゴを　ゆっくり　だいじに\xfffeあたためる。　ほとんどの　タマゴを\xfffeふかさせることが　できる。
-タマゴを　ゆっくり　だいじに\xfffeあたためる。\xfffeかならず　ふか　させる。
-ポケモンの　たいりょくを　きたえて\xfffeちょっぴり　つよくする。\xfffeＨＰの　きそポイントが　あがる。
-ポケモンの　たいりょくを　きたえて\xfffeすこし　つよくする。\xfffeＨＰの　きそポイントが　あがる。
-ポケモンの　たいりょくを　きたえて\xfffeつよくする。\xfffeＨＰの　きそポイントが　あがる。
-ポケモンの　たいりょくを　きたえて\xfffeかなり　つよくする。\xfffeＨＰの　きそポイントが　あがる。
-ポケモンの　たいりょくを　きたえて\xfffeすごく　つよくする。\xfffeＨＰの　きそポイントが　あがる。
-ポケモンの　たいりょくを　きたえて\xfffeものすごく　つよくする。\xfffeＨＰの　きそポイントが　あがる。
-ポケモンの　たいりょくを　きたえて\xfffeとてつもなく　つよくする。\xfffeＨＰの　きそポイントが　あがる。
-ポケモンの　こうげきを　きたえて\xfffeちょっぴり　つよくする。\xfffeこうげきの　きそポイントが　あがる。
-ポケモンの　こうげきを　きたえて\xfffeすこし　つよくする。\xfffeこうげきの　きそポイントが　あがる。
-ポケモンの　こうげきを　きたえて\xfffeつよくする。\xfffeこうげきの　きそポイントが　あがる。
-ポケモンの　こうげきを　きたえて\xfffeかなり　つよくする。\xfffeこうげきの　きそポイントが　あがる。
-ポケモンの　こうげきを　きたえて\xfffeすごく　つよくする。\xfffeこうげきの　きそポイントが　あがる。
-ポケモンの　こうげきを　きたえて\xfffeものすごく　つよくする。\xfffeこうげきの　きそポイントが　あがる。
-ポケモンの　こうげきを　きたえて\xfffeとてつもなく　つよくする。\xfffeこうげきの　きそポイントが　あがる。
-ポケモンの　ぼうぎょを　きたえて\xfffeちょっぴり　つよくする。\xfffeぼうぎょの　きそポイントが　あがる。
-ポケモンの　ぼうぎょを　きたえて\xfffeすこし　つよくする。\xfffeぼうぎょの　きそポイントが　あがる。
-ポケモンの　ぼうぎょを　きたえて\xfffeつよくする。\xfffeぼうぎょの　きそポイントが　あがる。
-ポケモンの　ぼうぎょを　きたえて\xfffeかなり　つよくする。\xfffeぼうぎょの　きそポイントが　あがる。
-ポケモンの　ぼうぎょを　きたえて\xfffeすごく　つよくする。\xfffeぼうぎょの　きそポイントが　あがる。
-ポケモンの　ぼうぎょを　きたえて\xfffeものすごく　つよくする。\xfffeぼうぎょの　きそポイントが　あがる。
-ポケモンの　ぼうぎょを　きたえて\xfffeとてつもなく　つよくする。\xfffeぼうぎょの　きそポイントが　あがる。
-ポケモンの　とくこうを　きたえて\xfffeちょっぴり　つよくする。\xfffeとくこうの　きそポイントが　あがる。
-ポケモンの　とくこうを　きたえて\xfffeすこし　つよくする。\xfffeとくこうの　きそポイントが　あがる。
-ポケモンの　とくこうを　きたえて\xfffeつよくする。\xfffeとくこうの　きそポイントが　あがる。
-ポケモンの　とくこうを　きたえて\xfffeかなり　つよくする。\xfffeとくこうの　きそポイントが　あがる。
-ポケモンの　とくこうを　きたえて\xfffeすごく　つよくする。\xfffeとくこうの　きそポイントが　あがる。
-ポケモンの　とくこうを　きたえて\xfffeものすごく　つよくする。\xfffeとくこうの　きそポイントが　あがる。
-ポケモンの　とくこうを　きたえて\xfffeとてつもなく　つよくする。\xfffeとくこうの　きそポイントが　あがる。
-ポケモンの　とくぼうを　きたえて\xfffeちょっぴり　つよくする。\xfffeとくぼうの　きそポイントが　あがる。
-ポケモンの　とくぼうを　きたえて\xfffeすこし　つよくする。\xfffeとくぼうの　きそポイントが　あがる。
-ポケモンの　とくぼうを　きたえて\xfffeつよくする。\xfffeとくぼうの　きそポイントが　あがる。
-ポケモンの　とくぼうを　きたえて\xfffeかなり　つよくする。\xfffeとくぼうの　きそポイントが　あがる。
-ポケモンの　とくぼうを　きたえて\xfffeすごく　つよくする。\xfffeとくぼうの　きそポイントが　あがる。
-ポケモンの　とくぼうを　きたえて\xfffeものすごく　つよくする。\xfffeとくぼうの　きそポイントが　あがる。
-ポケモンの　とくぼうを　きたえて\xfffeとてつもなく　つよくする。\xfffeとくぼうの　きそポイントが　あがる。
-ポケモンの　すばやさを　きたえて\xfffeちょっぴり　つよくする。\xfffeすばやさの　きそポイントが　あがる。
-ポケモンの　すばやさを　きたえて\xfffeすこし　つよくする。\xfffeすばやさの　きそポイントが　あがる。
-ポケモンの　すばやさを　きたえて\xfffeつよくする。\xfffeすばやさの　きそポイントが　あがる。
-ポケモンの　すばやさを　きたえて\xfffeかなり　つよくする。\xfffeすばやさの　きそポイントが　あがる。
-ポケモンの　すばやさを　きたえて\xfffeすごく　つよくする。\xfffeすばやさの　きそポイントが　あがる。
-ポケモンの　すばやさを　きたえて\xfffeものすごく　つよくする。\xfffeすばやさの　きそポイントが　あがる。
-ポケモンの　すばやさを　きたえて\xfffeとてつもなく　つよくする。\xfffeすばやさの　きそポイントが　あがる。
+Piccolo allenamento dei Pokémon.\xfffeFa salire di 1 Livello.
+Piccolo allenamento dei Pokémon.\xfffeFa salire di 2 Livello.
+Piccolo allenamento dei Pokémon.\xfffeFa salire di 3 Livello.
+Piccolo allenamento dei Pokémon.\xfffeFa salire di 4 Livello.
+Piccolo allenamento dei Pokémon.\xfffeFa salire di 5 Livello.
+Piccolo allenamento dei Pokémon.\xfffeFa salire di 6 Livello.
+Piccolo allenamento dei Pokémon.\xfffeFa salire di 7 Livello.
+Tiene le Uova in caldo.\xfffePoco probabilmente fa schiudere\xfffele uova.
+Tiene le Uova in caldo.\xfffeA volte fa schiudere\xfffele uova.
+Tiene le Uova in caldo.\xfffeProbabilmente fa schiudere\xfffele uova.
+Tiene le Uova in caldo.\xfffeQuasi sempre fa schiudere\xfffele uova.
+Tiene le Uova in caldo.\xfffeFa sempre schiudere\xfffele uova.
+Aumenta di pochissimo i PS base\xfffedi un Pokémon.
+Aumenta di poco i PS base\xfffedi un Pokémon.
+Aumenta di un po' i PS base\xfffedi un Pokémon.
+Aumenta i PS base\xfffedi un Pokémon.
+Aumenta di molto i PS base\xfffedi un Pokémon.
+Aumenta di moltissimo i PS base\xfffedi un Pokémon.
+Aumenta al massimo i PS base\xfffedi un Pokémon.
+Aumenta di pochissimo l'Attacco base\xfffedi un Pokémon.
+Aumenta di poco l'Attacco base\xfffedi un Pokémon.
+Aumenta di un po' l'Attacco base\xfffedi un Pokémon.
+Aumenta l'Attacco base\xfffedi un Pokémon.
+Aumenta di molto l'Attacco base\xfffedi un Pokémon.
+Aumenta di moltissimo l'Attacco base\xfffedi un Pokémon.
+Aumenta al massimo l'Attacco base\xfffedi un Pokémon.
+Aumenta di pochissimo la Difesa base\xfffedi un Pokémon.
+Aumenta di poco la Difesa base\xfffedi un Pokémon.
+Aumenta di un po' la Difesa base\xfffedi un Pokémon.
+Aumenta la Difesa base\xfffedi un Pokémon.
+Aumenta di molto la Difesa base\xfffedi un Pokémon.
+Aumenta di moltissimo la Difesa base\xfffedi un Pokémon.
+Aumenta al massimo la Difesa base\xfffedi un Pokémon.
+Aumenta di pochissimo l'Att. Sp. base\xfffedi un Pokémon.
+Aumenta di poco l'Att. Sp. base\xfffedi un Pokémon.
+Aumenta di un po' l'Att. Sp. base\xfffedi un Pokémon.
+Aumenta l'Att. Sp. base\xfffedi un Pokémon.
+Aumenta di molto l'Att. Sp. base\xfffedi un Pokémon.
+Aumenta di moltissimo l'Att. Sp. base\xfffedi un Pokémon.
+Aumenta al massimo l'Att. Sp. base\xfffedi un Pokémon.
+Aumenta di pochissimo la Dif. Sp. base\xfffedi un Pokémon.
+Aumenta di poco la Dif. Sp. base\xfffedi un Pokémon.
+Aumenta di un po' la Dif. Sp. base\xfffedi un Pokémon.
+Aumenta la Dif. Sp. base\xfffedi un Pokémon.
+Aumenta di molto la Dif. Sp. base\xfffedi un Pokémon.
+Aumenta di moltissimo la Dif. Sp. base\xfffedi un Pokémon.
+Aumenta al massimo la Dif. Sp. base\xfffedi un Pokémon.
+Aumenta di pochissimo la Velocità base\xfffedi un Pokémon.
+Aumenta di poco la Velocità base\xfffedi un Pokémon.
+Aumenta di un po' la Velocità base\xfffedi un Pokémon.
+Aumenta la Velocità base\xfffedi un Pokémon.
+Aumenta di molto la Velocità base\xfffedi un Pokémon.
+Aumenta di moltissimo la Velocità base\xfffedi un Pokémon.
+Aumenta al massimo la Velocità base\xfffedi un Pokémon.
 
 
 
 
-ふしぎなランチ
-なつきドリンク
-なつきランチ
-なつきコンボ
-ふしぎブランチ
-ふしぎディナー
-ふしぎデザート
-がんばれＡランチ
-がんばれＢランチ
-がんばれＣランチ
-がんばれＤランチ
-がんばれＥランチ
-がんばれＦランチ
-まかないメニュー
-うらメニューＡ
-うらメニューＢ
-うらメニューＣ
-うらメニューＤ
-うらメニューＥ
-うらメニューＦ
+Pranzo Misterioso
+Bevanda Amicizia
+Pranzo Amicizia
+Mix Amicizia
+Branch Misterioso
+Cena Misteriosa
+Dolce Misterioso
+Pranzo Calorico A
+Pranzo Calorico B
+Pranzo Calorico C
+Pranzo Calorico D
+Pranzo Calorico E
+Pranzo Calorico F
+Menu Catering
+Menu Finale A
+Menu Finale B
+Menu Finale C
+Menu Finale D
+Menu Finale E
+Menu Finale F
 
 
 
@@ -848,26 +848,26 @@ Set di 4 Baccamodoro.\xfffeDiminuisce i Punti Base della Velocità\xfffeaumenta 
 
 
 
-おいしい　ごはんに　のみものが\xfffeついた　おとくな　セット。\xfffeポケモンの　レベルが　１つ　あがる。
-とっても　おいしい　のみもの。\xfffeのんだ　ポケモンが\xfffeちょっぴり　なつく。
-おいしい　ごはんに　のみものが\xfffeついた　おとくな　ランチ。\xfffeたべた　ポケモンが　なつく。
-ごはんに　サイドメニューが　ついた\xfffeボリューム　たっぷりの　メニュー。\xfffeポケモンが　かなり　なつく。
-ちょっぴり　ごうかな　ごはんに\xfffeデザートが　ついた　メニュー。\xfffeポケモンの　レベルが　１つ　あがる。
-たべたら　きっと　しあわせに　なれる　\xfffeごうかな　スペシャル　フルコース。\xfffeポケモンの　レベルが　８つ　あがる。
-プルプル　シコシコ　した　はざわりの\xfffeふしぎな　デザート。\xfffeポケモンの　レベルが　３つ　あがる。
-たべた　ポケモンの\xfffeたいりょくの　きそポイントが\xfffeかなり　あがる。
-たべた　ポケモンの\xfffeこうげきの　きそポイントが\xfffeかなり　あがる。
-たべた　ポケモンの\xfffeぼうぎょの　きそポイントが\xfffeかなり　あがる。
-たべた　ポケモンの\xfffeとくこう　きそポイントが\xfffeかなり　あがる。
-たべた　ポケモンの\xfffeとくぼうの　きそポイントが\xfffeかなり　あがる。
-たべた　ポケモンの\xfffeすばやさの　きそポイントが\xfffeかなり　あがる。
-じょうれんに　ならないと\xfffeたべられない　おとくな　メニュー。\xfffeポケモンの　レベルが　１つ　あがる。
-たべた　ポケモンの　ＨＰの\xfffeきそポイントが　ものすごく　あがる。
-たべた　ポケモンの　こうげきの\xfffeきそポイントが　ものすごく　あがる。
-たべた　ポケモンの　ぼうぎょの\xfffeきそポイントが　ものすごく　あがる。
-たべた　ポケモンの　とくこう\xfffeきそポイントが　ものすごく　あがる。
-たべた　ポケモンの　とくぼうの\xfffeきそポイントが　ものすごく　あがる。
-たべた　ポケモンの　すばやさの\xfffeきそポイントが　ものすごく　あがる。
+Set economico composto da\xfffeun pasto e una bevanda.\xfffeFa salire i Pokémon di 1 Livello.
+Bevanda buonissima.\xfffeIl Pokémon che la beve si\xfffeaffeziona un poco.
+Pranzo economico composto da\xfffeun pasto e una bevanda. Fa\xfffeaffezionare i Pokémon.
+Menu molto abbondante.\xfffeFa affezionare i Pokémon\xfffedi un po'.
+Un piccolo e delizioso pasto\xfffecon dessert.\xfffeFa salire i Pokémon di 1 Livello.
+Cena deliziosa completa.\xfffeRende felice chi la mangia.\xfffeFa salire i Pokémon di 8 Livelli.
+Dessert misterioso, gommoso e\xfffedi colore porpora.\xfffeFa salire i Pokémon di 3 Livelli.
+Aumenta di poco i PS base\xfffedei Pokémon che lo mangiano.
+Aumenta di poco l'Attacco base\xfffedei Pokémon che lo mangiano.
+Aumenta di poco la Difesa base\xfffedei Pokémon che lo mangiano.
+Aumenta di poco l'Att. Sp. base\xfffedei Pokémon che lo mangiano.
+Aumenta di poco la Dif. Sp. base\xfffedei Pokémon che lo mangiano.
+Aumenta di poco la Velocità base\xfffedei Pokémon che lo mangiano.
+Menu economico che chi non è\xfffeabituato a mangiare non tollera.\xfffeFa salire i Pokémon di 1 Livello.
+Aumenta moltissimo i PS base\xfffedei Pokémon che lo mangiano.
+Aumenta moltissimo l'Attacco base\xfffedei Pokémon che lo mangiano.
+Aumenta moltissimo la Difesa base\xfffedei Pokémon che lo mangiano.
+Aumenta moltissimo l'Att. Sp. base\xfffedei Pokémon che lo mangiano.
+Aumenta moltissimo la Dif. Sp. base\xfffedei Pokémon che lo mangiano.
+Aumenta moltissimo la Velocità base\xfffedei Pokémon che lo mangiano.
 
 
 
@@ -896,22 +896,22 @@ Set di 4 Baccamodoro.\xfffeDiminuisce i Punti Base della Velocità\xfffeaumenta 
 
 
 
-かたまりＣランク
-かたまりＢランク
-かたまりＡランク
-かたまりＳランク
-よごれたいし
-まっくろないし
-くろずんだいし
-くすんだいし
-とげとげのいわ
-ごつごつのいわ
-ざらざらのいわ
-すべすべのいわ
-とくだいのはこ
-おおきなはこ
-ふつうのはこ
-ちいさなはこ
+Livello Massa C
+Livello Massa B
+Livello Massa A
+Livello Massa S
+Gioiello Marrone
+Gioiello Nero
+Gioiello Grigio
+Gioiello Opaco
+Roccia Spinosa
+Roccia Dura
+Roccia Ruvida
+Rocci Liscia
+Scatola extralarge
+Scatola grande
+Scatola normale
+Scatola piccola
 
 
 
@@ -944,22 +944,22 @@ Set di 4 Baccamodoro.\xfffeDiminuisce i Punti Base della Velocità\xfffeaumenta 
 
 
 
-すなで　おおわれた　かたまり。\xfffeまれに　おたからが　みつかる。\xfffeかんてい　すると　なかみが　わかる。
-すなで　おおわれた　かたまり。\xfffeときどき　おたからが　みつかる。\xfffeかんてい　すると　なかみが　わかる。
-すなで　おおわれた　かたまり。\xfffeよく　おたからが　みつかる。\xfffeかんてい　すると　なかみが　わかる。
-すなで　おおわれた　かたまり。\xfffeおたからが　みつかることが　おおい。\xfffeかんてい　すると　なかみが　わかる。
-かなり　よごれている　いし。\xfffeなにか　ふしぎな　ふんいきが……？\xfffeかんてい　すると　なかみが　わかる。
-よごれている　いし。\xfffeなにか　ふしぎな　ふんいきが……？\xfffeかんてい　すると　なかみが　わかる。
-すこし　よごれている　いし。\xfffeなにか　ふしぎな　ふんいきが……？\xfffeかんてい　すると　なかみが　わかる。
-ちょっぴり　よごれた　いし。\xfffeなにか　ふしぎな　ふんいきが……？\xfffeかんてい　すると　なかみが　わかる。
-とげとげした　いわ。\xfffeなにかの　カセキに　にている……？\xfffeかんてい　すると　なかみが　わかる。
-ごつごつした　いわ。\xfffeなにかの　カセキに　にている……？\xfffeかんてい　すると　なかみが　わかる。
-ざらざらした　いわ。\xfffeなにかの　カセキに　にている……？\xfffeかんてい　すると　なかみが　わかる。
-すべすべした　いわ。\xfffeなにかの　カセキに　にている……？\xfffeかんてい　すると　なかみが　わかる。
-なにかが　はいった　いれもの。\xfffeずしりと　おもたい。\xfffeかんてい　すると　なかみが　わかる。
-なにかが　はいった　いれもの。\xfffeちょっぴり　おもたい。\xfffeかんてい　すると　なかみが　わかる。
-なにかが　はいった　いれもの。\xfffeとても　かるい。\xfffeかんてい　すると　なかみが　わかる。
-なにかが　はいった　いれもの。\xfffeゆらすと　かたかた　おとが　する。\xfffeかんてい　すると　なかみが　わかる。
+Oggetto ricoperto di sabbia.\xfffeRaramente prezioso. Si capisce cosa\xfffesia facendolo esaminare.
+Oggetto ricoperto di sabbia.\xfffeA volte prezioso. Si capisce cosa\xfffesia facendolo esaminare.
+Oggetto ricoperto di sabbia.\xfffeSpesso prezioso. Si capisce cosa\xfffesia facendolo esaminare.
+Oggetto ricoperto di sabbia.\xfffeQuasi sempre prezioso. Si capisce cosa\xfffesia facendolo esaminare.
+Gioiello quasi sporco.\xfffeHa un'aria misteriosa. Si capisce cosa\xfffesia facendolo esaminare.
+Gioiello sporco.\xfffeHa un'aria misteriosa. Si capisce cosa\xfffesia facendolo esaminare.
+Gioiello un po' sporco.\xfffeHa un'aria misteriosa. Si capisce cosa\xfffesia facendolo esaminare.
+Gioiello appena impolverato.\xfffeHa un'aria misteriosa. Si capisce cosa\xfffesia facendolo esaminare.
+Roccia Spinosa.\xfffePare contenga un fossile. Si capisce cosa\xfffesia facendola esaminare.
+Roccia Dura.\xfffePare contenga un fossile. Si capisce cosa\xfffesia facendola esaminare.
+Roccia Ruvida.\xfffePare contenga un fossile. Si capisce cosa\xfffesia facendola esaminare.。
+Roccia Liscia.\xfffePare contenga un fossile. Si capisce cosa\xfffesia facendola esaminare.
+Scatola che contiene qualcosa.\xfffeGrande e pesante. Si capisce cosa\xfffecontenga facendola esaminare.
+Scatola che contiene qualcosa.\xfffeUn po' pesante. Si capisce cosa\xfffecontenga facendola esaminare.
+Scatola che contiene qualcosa.\xfffeMolto leggera. Si capisce cosa\xfffecontenga facendola esaminare.
+Scatola che contiene qualcosa.\xfffeSi sposta con un soffio. Si capisce cosa\xfffecontenga facendola esaminare.
 
 
 
