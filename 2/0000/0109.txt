@@ -34,7 +34,7 @@ Cantiere dei Sogni
 Bosco Girandola
 Deserto della Quiete
 Castello Sepolto
-PWT
+Pokémon World Tournament
 Cava Pietrelettrica
 Monte Vite
 Torre Dragospira
@@ -119,7 +119,7 @@ Alisopoli
 Zondopoli
 Città di Seigaiha
 Pokewood
-Via Unione
+Galleria Solidarietà
 Città di Sangi
 Città di Yamaji
 Percorso 19
