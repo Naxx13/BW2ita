@@ -1,44 +1,44 @@
 \xf000ĺ\x0001\x0000!\xfffeHai delle domande?
-Questa è il primo, nuovo centro\xfffecommerciale "\xf000Ĺ\x0001\x0001" della\xf000븀\x0000\xffferegione di Unima!\xf000븁\x0000\xfffeQui, verranno in segno di gratitudine\xfffele persone con cui hai scambiato\xf000븀\x0000\xfffealmeno una volta!\xf000븁\x0000\xfffePer questo motivo, è sempre in\xfffevia di sviluppo!\xf000븁\x0000
+Questa è la prima, nuova Galleria\xfffeSolidarietà "\xf000Ĺ\x0001\x0001" della\xf000븀\x0000\xffferegione di Unima!\xf000븁\x0000\xfffeQui, verranno in segno di gratitudine\xfffele persone con cui ti sei connesso\xf000븀\x0000\xfffealmeno una volta!\xf000븁\x0000\xfffePer questo motivo, è sempre in\xfffevia di sviluppo!\xf000븁\x0000
 Dato che il proprietario di questa\xfffese ne è andato, tu sei il nuovo\xf000븀\x0000\xffferesponsabile di questo\xf000븀\x0000\xfffe"\xf000ĺ\x0001\x0000"\xf000븁\x0000\xfffeIl tuo obiettivo è solo uno, quello\xfffedi rendere questo "\xf000ĺ\x0001\x0000" un\xf000븀\x0000\xfffeposto splendido.\xf000븁\x0000\xfffeLe persone che vengono qui possono\xfffeaprire dei negozi!\xf000븁\x0000\xfffeSiccome qui non si accettano\xfffesegretarie in aiuto, informati\xf000븀\x0000\xfffemolto bene.\xf000븁\x0000
 Più collegamenti effettuerai, più\xfffeverranno visitatori.\xf000븁\x0000\xfffeProva a parlare con gli amici\xfffecon cui ti sei collegato\xf000븀\x0000\xfffeche vengono a visitare il tuo Viale!\xf000븁\x0000\xfffeUna volta che ci parli, dovrai scegliere\xfffefra due opzioni, che sono\xf000븀\x0000\xfffe"Invita al Viale" e "Informa sul Viale",\xf000븀\x0000\xfffele quali ti spiegherò poi\xf000븀\x0000\xfffein seguito.\xf000븁\x0000
 Chiami un cliente qualsiasi volta tu\xfffeti comunichi.\xf000븁\x0000\xfffeChe tu incontri degli amici grazie\xfffeal C-Gear, oppure che tu\xf000븀\x0000\xfffeli incontri con la Sala Contatto o\xf000븀\x0000\xfffetramite infrarossi, Abbinamento a Caso o\xf000븀\x0000\xfffetramite GTS, tu chiami degli amici.\xf000븁\x0000\xfffeE verranno dei clienti anche\xfffesenza collegarti, ma semplicemente\xf000븀\x0000\xfffescambiando con certe persone qui ad Unima.\xf000븁\x0000\xfffePuoi verificare quante persone ci sono\xfffequi grazie alla Mappa Città.\xf000븁\x0000\xfffeMentre giochi, prova a darci un'occhiata.\xf000븁\x0000
-Scegliendo "Invita", puoi far sì che\xfffei visitatori si trasferiscano\xf000븀\x0000\xfffeel tuo Viale e costruiscano\xf000븀\x0000\xfffeun negozio.\xf000븁\x0000\xfffeSiccome ogni persona vende cose\xf000븀\x0000\xfffediverse, quando inviti qualcuno a\xf000븀\x0000\xfffetrasferirsi qui, fai molta attenzione\xf000븀\x0000\xfffeper favore!\xf000븁\x0000
-Prova a "Informare" le persone che\xfffevengono a visitare il tuo Viale!\xf000븁\x0000\xfffeSe questo soddisfa il cliente,\xfffeil suo negozio potrebbe aumentare\xf000븀\x0000\xfffela popolarità del tuo Viale!\xf000븁\x0000\xfffeQuando la popolarità cresce, il Livello\xfffedel tuo Viale aumenta!\xf000븁\x0000\xfffeAumentando il Livello del Viale,\xfffegli oggetti e i servizi acquistabili\xf000븀\x0000\xfffeaumenteranno!\xf000븁\x0000\xfffeInoltre, crescendo di Livello, gli\xfffeoggetti messi in vendita nei negozi\xf000븀\x0000\xfffecaleranno leggermente di prezzo.\xf000븁\x0000\xfffeBene, aumenta la popolarità informando\xfffebene i visitatori!\xf000븁\x0000
-ここは　\xf000ĺ\x0001\x0000の\xfffeオフィス　です\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0001の　ために\xfffeひしょや　わたしたちが\xf000븀\x0000\xfffeおしごとを　サポート　します\xf000븁\x0000\xfffeまちが　はってん　していくと\xfffeいろいろな　ひとが　やってきます\xf000븁\x0000\xfffeたのしい　はなしが　きけるので\xfffeときどき　のぞいて　みてください\xf000븁\x0000
-マーケットでは\xfffeぼうけんに　やくだつ　しなものを\xf000븀\x0000\xfffeやすく　かうことが　できます\xf000븁\x0000\xfffeなかには　フレンドリィショップでは\xfffeてにはいらない　どうぐを\xf000븀\x0000\xfffeしいれて　くるなんてことも……？\xf000븁\x0000
-くじびきや　では　くじを　ひくことで\xfffeごうか　けいひんが　もらえます\xf000븁\x0000\xfffe１とうは　なんと！\xfffeマスターボールが　あたります\xf000븁\x0000
-はなや　では\xfffeきのみを　かうことが　できます\xf000븁\x0000\xfffeおみせに　よって　きのみの\xfffeしゅるいは　かわることが　あります\xf000븁\x0000
-ほいくじょでは\xfffeポケモンの　タマゴを　あたためて\xf000븁\x0000\xfffeふだん　より　はやく\xfffeふか　させることが　できます\xf000븁\x0000
-どうじょうでは\xfffeポケモンを　きたえて　つよくします\xf000븁\x0000\xfffeポケモンの　レベルや\xfffeポケモンの　つよさの　きそポイントを\xf000븀\x0000\xfffeあげることが　できます\xf000븁\x0000\xfffeポケモンの　レベルを　あげたとき\xfffeしんかや　わざを　おぼえることは\xf000븀\x0000\xfffeできないので　ごちゅうい　ください\xf000븁\x0000
-ふるどうぐや　では\xfffeほりだしものを　うっています\xf000븁\x0000\xfffeほりだしものを　かんていすると\xfffeめずらしい　どうぐが\xf000븀\x0000\xfffeみつかる　なんてことも……？\xf000븁\x0000
-カフェ　では\xfffeポケモンと　しょくじが　できます\xf000븁\x0000\xfffeしょくじを　した　ポケモンが\xfffeよろこんで　なつきやすく　なります\xf000븁\x0000\xfffeまた　しょくじの　こうかに　より\xfffeレベルや　つよさの　きそポイントを\xf000븀\x0000\xfffeあげることが　できます\xf000븁\x0000\xfffeポケモンの　レベルを　あげたとき\xfffeしんかや　わざを　おぼえることは\xf000븀\x0000\xfffeできないので　ごちゅうい　ください\xf000븁\x0000
-びようしつ　では\xfffeポケモンを　きれいに　します\xf000븁\x0000\xfffeカットや　メイクを　することで\xfffeポケモンは　よろこび\xf000븀\x0000\xfffeなつきやすく　なります\xf000븁\x0000
-\xf000Ĺ\x0001\x0000で　たてられる\xfffeおみせは　７つの　しゅるいが　あります\xf000븁\x0000\xfffeまちに　しょうたいした　とき\xfffeじゅうにんが　やりたい　しゅるいの\xf000븀\x0000\xfffeおみせが　たてられます\xf000븁\x0000\xfffeおみせに　ひとを　あんないして\xfffeにんきを　あげると　ランクアップして\xf000븀\x0000\xfffeおみせは　おおきく　なります\xf000븁\x0000\xfffeまた　だい２ひしょに　はなしかけると\xfffeはってん　しやすい　おみせを\xf000븀\x0000\xfffeアドバイスして　くれますよ\xf000븁\x0000
-\xf000Ĺ\x0001\x0000で　たてられる\xfffeおみせは　８つの　しゅるいが　あります\xf000븁\x0000\xfffeまちに　しょうたいした　とき\xfffeじゅうにんが　やりたい　しゅるいの\xf000븀\x0000\xfffeおみせが　たてられます\xf000븁\x0000\xfffeおみせに　ひとを　あんないして\xfffeにんきを　あげると　ランクアップして\xf000븀\x0000\xfffeおみせは　おおきく　なります\xf000븁\x0000\xfffeまた　だい２ひしょに　はなしかけると\xfffeはってん　しやすい　おみせを\xf000븀\x0000\xfffeアドバイスして　くれますよ\xf000븁\x0000
-おみせに　ついて\xfffeしりたいこと　ありますか？
-すてきな　まちに　なること\xfffeたのしみに　しています
-さまざまな　つうしんを　して\xfffeまちに　おきゃくさまを　よびましょう\xf000븁\x0000\xfffeつうしんした　あいては\xfffeアベニューに　やってくるので\xf000븀\x0000\xfffeはなしかけて　みましょう\xf000븁\x0000\xfffeはなしかけて　できることは\xfffeつぎの　３つ　です\xf000븁\x0000\xfffe「まちに　しょうたい」　すること\xfffe「まちを　あんない」　すること\xf000븀\x0000\xfffe「ひしょとして　スカウト」　すること\xf000븁\x0000\xfffeくわしくは　それぞれの\xfffeせつめいを　おききください\xf000븁\x0000
+Scegliendo "Invita a stabilirsi qui", puoi far sì che\xfffei visitatori si trasferiscano\xf000븀\x0000\xfffeel tuo Viale e costruiscano\xf000븀\x0000\xfffeun negozio.\xf000븁\x0000\xfffeSiccome ogni persona vende cose\xf000븀\x0000\xfffediverse, quando inviti qualcuno a\xf000븀\x0000\xfffetrasferirsi qui, fai molta attenzione\xf000븀\x0000\xfffeper favore!\xf000븁\x0000
+Prova "Informa" per informare le persone che\xfffevengono a visitare la tua\xf000\xbe00\x0000\xfffeGalleria Solidarietà!\xf000븁\x0000\xfffeSe questo soddisfa il cliente,\xfffeil suo negozio potrebbe aumentare\xf000븀\x0000\xfffela popolarità della tua Galleria!\xf000븁\x0000\xfffeQuando la popolarità cresce, il Livello\xfffedella tua Galleria aumenta!\xf000븁\x0000\xfffeAumentando il Livello della tua\xfffeGalleria, gli oggetti e i servizi \xf000븀\x0000\xfffeacquistabili aumenteranno!\xf000븁\x0000\xfffeInoltre, crescendo di Livello, gli\xfffeoggetti messi in vendita nei negozi\xf000븀\x0000\xfffecaleranno leggermente di prezzo.\xf000븁\x0000\xfffeBene, aumenta la popolarità informando\xfffebene i visitatori!\xf000븁\x0000
+Questo è l'ufficio di　\xf000ĺ\x0001\x0000.\xf000븁\x0000\xfffeNoi e le segretarie di \xf000Ĺ\x0001\x0001 lo\xfffeaiutiamo nel suo lavoro qui\xf000\xbe00\x0000\xfffealla Galleria Solidarietà.\xf000븁\x0000\xfffeQuesto perchè, essendo una Galleria\xfffein via di sviluppo, molte persone\xf000\xbe00\x0000\xfffevengono a farci visita per provare\xf000\xbe00\x0000\xfffequesta novità in anteprima.\xf000븁\x0000\xfffeQuando informi un visitatore, prova ad\xfffeessere convincente!\xf000븁\x0000
+Nei negozietti qui alla Galleria Solidarietà,\xfffesi possono acquistare degli strumenti\xf000븀\x0000\xfffeutili alla propria avventura a poco\xf000\xbe00\x0000prezzo.\xf000븁\x0000\xfffeAlcuni venderanno certi oggetti solo\xfffese diventerai un loro cliente\xf000븀\x0000\xfffeabituale.\xf000븁\x0000
+Pescando un numero alla "Lotteria",\xfffepuoi vincere fantastici premi!\xf000븁\x0000\xfffeIl primo premio è una Masterball!!\xf000\xbe00\x0000
+Dal "Fiorista" puoi comprare delle bacche.\xf000븁\x0000\xfffeA seconda del fiorista, i tipi di bacche\xfffepossono cambiare.\xf000븁\x0000
+Nell'"Asilo Pokémon" puoi far tenere\xfffein caldo le tue uova.\xf000븁\x0000\xfffeSe le lascerai in caldo per un po'\xfffedi tempo, si schiuderanno!\xf000븁\x0000
+Al negozio "Sport" puoi comprare degli\xfffestrumenti per rinforzare i tuoi Pokémon.\xf000븁\x0000\xfffePotrai aumentare il loro Livello, oppure\xfffei Punti Base delle loro statistiche.\xf000븁\x0000\xfffeSe farai salire di Livello un\xfffePokémon con questo metodo, non\xfffepotranno evolversi né imparare nuove mosse\xf000븀\x0000\xfffefinchè non saliranno di livello\xf000\xbe00\x0000\xfffenormalmente.\xf000븁\x0000
+Al "Negozio dell'usato" potrai vendere\xfffei tuoi strumenti.\xf000븁\x0000\xfffeChissà se, valutandoli, riceverai\xfffein cambio strumenti rari...\xf000븁\x0000
+Al "Caffé" potrai far mangiare\xfffei tuoi Pokémon.\xf000븁\x0000\xfffeI Pokémon che mangeranno, diventeranno\xfffetuoi amici più velocemente.\xf000븁\x0000\xfffeInoltre, certe volte potranno anche\xfffesalire di Livello, oppure i Punti Base\xf000븀\x0000\xfffedelle loro Statistiche potrebbero\xf000\xbe00\x0000\xfffeaumentare.\xf000븁\x0000\xfffeSe farai salire di Livello un\xfffePokémon con questo metodo, non\xfffepotranno evolversi né imparare nuove mosse\xf000븀\x0000\xfffefinchè non saliranno di livello\xf000\xbe00\x0000\xfffenormalmente.\xf000븁\x0000
+Dal "Parrucchiere" potrai abbellire\xfffei tuoi Pokémon.\xf000븁\x0000\xfffeSarà più facile per i tuoi Pokémn\xfffeesserti amici dopo aver fatto un taglio\xf000븀\x0000\xfffeo un trucco alla moda!\xf000븁\x0000
+Nel \xf000Ĺ\x0001\x0000 ci sono 7 tipi\xfffedi negozi diversi.\xf000븁\x0000\xfffeInvitando a stabilirsi qui i visitatori,\xfffepotrai aumentare i tipi di negozi\xf000븀\x0000\xfffeche sono costruiti qui.\xf000븁\x0000\xfffeInformando i visitatori, potrai aumentare\xfffela popolarità e il Livello della\xf000븀\x0000\xfffetua Galleria Solidarietà.\xf000\xbe01\x000\xfffeIn questo modo, il numero massimo\xfffedi negozi aumenterà.\xf000븁\x0000\xfffeParlando con la stessa persona due\xfffevolte, potrai contribuire allo\xf000\xbe00\x0000\xfffesviluppo della Galleria Solidarietà.\xf000븁\x0000
+Nel \xf000Ĺ\x0001\x0000 ci sono 8 tipi\xfffedi negozi diversi.\xf000븁\x0000\xfffeInvitando a stabilirsi qui i visitatori,\xfffepotrai aumentare i tipi di negozi\xf000븀\x0000\xfffeche sono costruiti qui.\xf000븁\x0000\xfffeInformando i visitatori, potrai aumentare\xfffela popolarità e il Livello della\xf000븀\x0000\xfffetua Galleria Solidarietà.\xf000\xbe01\x000\xfffeIn questo modo, il numero massimo\xfffedi negozi aumenterà.\xf000븁\x0000\xfffeParlando con la stessa persona due\xfffevolte, potrai contribuire allo\xf000\xbe00\x0000\xfffesviluppo della Galleria Solidarietà.\xf000븁\x0000
+Desideri sapere qualcosa sui\xfffenegozi?
+Non vedo l'ora che tu renda\xfffequesto posto un luogo splendido!
+Aumentando il numero dei collegamenti,\xfffepotrai chiamare nuovi visitatori.\xf000븁\x0000\xfffeProva a parlare con gli amici con cui\xfffeti sei collegato e che vengono a\xf000븀\x0000\xfffevisitare la tua Galleria!\xf000븁\x0000\xfffeUna volta che ci parli, potrai fare\xfffe3 cose diverse.\xf000븁\x0000\xfffe"Invita a stabilirsi qui",\xfffe"Informa sulla Gallerai" o\xf000븀\x0000\xfffe"Esplora come segretario".\xf000븁\x0000\xfffeSe ti servono maggiori informazioni,\xfffechiedimi pure.\xf000븁\x0000
 「スカウトする」を　えらぶと\xfffeおきゃくさまが　ひしょと　なって\xf000븀\x0000\xfffeまわりの　おせわを　してくれます\xf000븁\x0000\xfffeげんざいの　まちの　ランクが\xfffeあいての　りそう　よりも　たかいと\xf000븀\x0000\xfffeスカウトに　せいこう　しやすくなります\xf000븁\x0000
 Cos'è, qui?
 Cosa si fa?
 Con posto splendido...?
 Con "Chiamare i clienti"?
-Con "Invita"?
-Con "Informare"?
-おみせ　って？
-この　へやは　なに？
-だいじょうぶ！
-くわしく　きく
-マーケット　って？
-くじびきや　って？
-はなや　って？
-ほいくじょ　って？
-どうじょう　って？
-ふるどうぐや　って？
-カフェ　って？
-びようしつ　って？
-スカウトする　って？
+Con "Invita a stabilirsi qui"?
+Con "Informa"?
+Con "Negozi"?
+Cos'è questa stanza?
+Va bene!
+Spiega nei dettagli
+Con "Negozietti"?
+Con "Lotteria"?
+Con "Fiorista"?
+Con "Asilo Pokémon"?
+Con "Sport"?
+Con "Negozio dell'usato"?
+Con "Caffè"?
+Con "Parrucchiere"?
+Con "Esplora"?
 Forza!\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
 Forza!\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
 Forza!\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
