@@ -42,10 +42,10 @@
 \xf000Ĺ\x0001\x0000が　きになって\xfffeあそびに　きました\xf000븁\x0000
 \xf000Ĺ\x0001\x0000が　きになって\xfffe\xf000Ĥ\x0001\x0001の\xf000븀\x0000\xfffe\xf000ĥ\x0001\x0002から\xf000븀\x0000\xfffeあそびに　きました\xf000븁\x0000
 \xf000Ĺ\x0001\x0000が　きになって\xfffe\xf000Ĥ\x0001\x0001から\xf000븀\x0000\xfffeあそびに　きました\xf000븁\x0000
-\xf000Ā\x0001\x0000『ありがとう！\xfffe\xf000ķ\x0001\x0001！\xf000븁\x0000
-\xf000Ā\x0001\x0000『ありがとう！\xfffe\xf000ķ\x0001\x0001！\xf000븁\x0000
-\xf000ķ\x0001\x0001！
-\xf000ķ\x0001\x0001！
+\xf000Ā\x0001\x0000: Grazie!\xfffe\xf000ķ\x0001\x0001!\xf000븁\x0000
+\xf000Ā\x0001\x0000: Grazie!\xfffe\xf000ķ\x0001\x0001!\xf000븁\x0000
+\xf000ķ\x0001\x0001!
+\xf000ķ\x0001\x0001!
 これ　おみやげ　です\xf000븁\x0000
 これ　おみやげ　です\xf000븁\x0000
 \xf000ķ\x0001\x0000！\xf000븁\x0000\xfffeこんな　すてきな　まちなら\xfffeがんばります\xf000븁\x0000
@@ -171,67 +171,67 @@
 おみせが　１けん　しか　ないので\xfffeならびかえ　できません\xf000븁\x0000
 しちょう
 \xf000Ā\x0001\x0000さんが　やってきました！\xf000븁\x0000
-しょうたいする
-スカウトする
-あんないする
-さいきん　どう？
-じゅうにんにする
-しばらく　まってて
-さようなら
+Invita a stabilirsi qui
+Scopri
+Informa
+Come va?
+Diventa abitante
+Aspetta un attimo
+Ciao
 \xf000ĸ\x0001\x0000
-ちょうしは　どう？
-またね
-\xf000Ā\x0001\x0000さんが　いらっしゃいます\xfffeどうしますか？
-まちの　じょうたいを　きく
-やねの　ネオンを　かえる
-おしえて
-ひとを　さがしたい
+Come va?
+Alla prossima!
+Benvenuto, \xf000Ā\x0001\x0000!\xfffeCosa vuoi fare?
+Chiedi di stabilirsi qui
+Cambia luci soffitto
+Spiega
+Cerca persone
 \xf000Ĺ\x0001\x0000
-イッシュちほう
-ひろばまえ
-だい１ストリートまえ
-だい２ストリートまえ
-だい３ストリートまえ
-ボックスを　せいり
-バトルボックス
-もちもの　せいり
-きろくを　みる
-メールボックス
-ヘルプをみる
-やめる
+Regione di Unima
+Piazza
+Prima Via
+Seconda Via
+Terza Via
+Ordina Box
+Box Lotta
+Ordina strumenti
+Guarda video
+Box Lettere
+Aiuto
+Indietro
 \xf000ĸ\x0001\x0000
-どこへ　いどうしますか？
-まちの　なまえを　かえる
-じぶんの　かたがきを　かえる
-くちぐせの　ことばを　かえる
-じゅうにんにする
-やめる
-てんしょく　させる
-できごとを　きく
-メダルを　みる
-かんどう　したときの　ことばを　かえる
-ひしょの　やくわりを　こうたいする
-おみせを　ならびかえる
-★スター・オレンジ
-◆オーロラ・パープル
-☁クラウド・ライトブルー
-■ストーン・グリーン
-やめる
-みんなの　レコードランキング
-ポケモン　こうかんする
-もどる
-へんこうする
-やめる
-みんなに　あいさつ
-つうしんこうかんを　した　かず
-ニックネームを　つけた　かず
-まちで　おきゃくに　であった　かず
-かいもので　つかった　きんがく
-すれちがった　ひとの　かず
-つうしんたいせんを　した　かず
-ポケモンを　つかまえた　かず
-タマゴを　ふかさせた　かず
-もっている　メダルの　かず
+Dove lo sposti?
+Cambia nome Galleria
+Cambia titolo
+Cambia parola preferita
+Diventa abitante
+Indietro
+Cambia impiego
+Chiedi impiego
+Guarda Medaglie
+Cambia la parola di quando ti emozioni
+Cambia impiego segretari
+Ordina negozi
+★Stella・Arancio
+◆Aurora・Viola
+☁Nuvole・Azzurro
+■Pietra・Verde
+Indietro
+Dati di tutti
+Pokémon scambiati
+Indietro
+Cambia
+Esci
+Saluta tutti
+N. Scambi in Link
+N. Soprannomi
+N. Visitatori Galleria
+Soldi spesi
+N. Persone incontrate
+N. Lotte in Link
+N. Pokémon catturati
+N. Uova schiuse
+N. Medaglie
 アベニューに　しょうたい　します\xfffeゆめの　おみせを　ひらきます
 じぶんの　ひしょとして　スカウトします\xfffeいまいる　ひしょと　いれかわります
 おすすめの　おみせを　おしえて\xfffeあそびに　きてもらいます
@@ -240,54 +240,54 @@
 ゲストルームから　かえらないように　\xfffeしばらく　まってて　もらいます
 さようならを　すると\xfffeゲストルームから　かえっていきます
 \xf000ĸ\x0001\x0000
-こまってない？
-かいわを　おわりに　します
-ポケモン　こうかんをします
-……　……　！！\xf000븁\x0000
-\xf000Ł\x0001\x0000\xfffe『\xf000ĸ\x0001\x0001』が　できた！\xfffe
-『\xf000ĸ\x0001\x0001』を\xfffeのぞいて　みよう！！\xf000븁\x0000
-つうしんこうかんを　したい　ひとが\xfffeコンドミニアムに　あらわれました\xf000븁\x0000
-だれと　いれかえますか？
-\xf000Ā\x0001\x0000は\xfffeちょっぴり　よろこんだ！\xf000븁\x0000
-\xf000Ā\x0001\x0000は\xfffeよろこんだ！\xf000븁\x0000
-\xf000Ā\x0001\x0000は\xfffeとても　よろこんだ！\xf000븁\x0000
-ＢＰを　　\xf000Ȃ\x0001\x0000 もらった！
-\xf000ĸ\x0001\x0000に\xfffeたてかえた！
-\xf000Ā\x0001\x0000『……　……\xfffe……\xf000ĸ\x0001\x0001！？\xf000븀\x0000\xfffeちょっと　ちがう……！！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000は\xfffeかえって　いった……\xf000븁\x0000
-\xf000Ā\x0001\x0000『……　……\xfffe……\xf000ĸ\x0001\x0001！？\xf000븀\x0000\xfffeちょっと　ちがう……！！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000は\xfffeかえって　いった……\xf000븁\x0000
-\xf000Ā\x0001\x0000は　\xfffe\xf000ȅ\x0001\x0001円　しはらった！\xf000븁\x0000
-しせつが　いっぱいで\xfffeこれ　いじょう　たてられません\xf000븁\x0000\xfffeたてかえる　しせつを\xfffeえらんでください\xf000븁\x0000
-しせつが　いっぱいで\xfffeこれ　いじょう　たてられません\xf000븁\x0000\xfffeたてかえる　しせつを\xfffeえらんでください\xf000븁\x0000
-こうたい　する　ひしょを\xfffeえらんでください\xf000븁\x0000
-……！！\xf000븂\x0001<
-\xf000ĸ\x0001\x0001は\xfffeランク　\xf000Ȃ\x0001\x0006　に　あがった！
+Sei in difficoltà?
+Termina conversazione
+Scambia
+... ...!!\xf000븁\x0000
+\xf000Ł\x0001\x0000\xfffe: E' aperto \xf000ĸ\x0001\x0001!\xfffe
+Prova a dare a \xf000ĸ\x0001\x0001\xfffeun'occhiata!!\xf000븁\x0000
+Le persone che scambiano in Link\xfffevivono in condominio!\xf000븁\x0000
+Con chi cambi?
+\xf000Ā\x0001\x0000 è un pochino\xfffecompiaciuto!\xf000븁\x0000
+\xf000Ā\x0001\x0000 è compiaciuto!\xf000븁\x0000
+\xf000Ā\x0001\x0000 è molto\xfffecompiaciuto!\xf000븁\x0000
+Ricevuti \xf000Ȃ\x0001\x0000 PL!
+Ricostruito \xf000ĸ\x0001\x0000!
+\xf000Ā\x0001\x0000: ... ...\xfffe... \xf000ĸ\x0001\x0001?!\xf000븀\x0000\xfffeE' sbagliato...!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 se n'è andato...\xf000븁\x0000
+\xf000Ā\x0001\x0000: ... ...\xfffe... \xf000ĸ\x0001\x0001?!\xf000븀\x0000\xfffeE' sbagliato...!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 se n'è andato...\xf000븁\x0000
+\xf000Ā\x0001\x0000 ha pagato\xfffe\xf000ȅ\x0001\x0001$!\xf000븁\x0000
+Non puoi costruirlo perchè\xfffeè pieno di edifici!\xf000븁\x0000\xfffeScegli un edificio da ricostruire.\xf000븁\x0000
+Non puoi costruirlo perchè\xfffeè pieno di edifici!\xf000븁\x0000\xfffeScegli un edificio da ricostruire.\xf000븁\x0000
+Scegli un segretario da\xfffesostituire.\xf000븁\x0000
+...!!\xf000븂\x0001<
+\xf000ĸ\x0001\x0001 è salito al\xfffeLivello \xf000Ȃ\x0001\x0006!
 
 　
-\xf000ĸ\x0001\x0001に\xfffe\xf000Ā\x0001\x0000が　やってきた！\xf000븁\x0000
-\xf000Ā\x0001\x0002『\xf000ķ\x0001\x0003！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0004！\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……\xf000븁\x0000
-\xf000ĸ\x0001\x0001の　にんきが\xfffe\xf000Ȃ\x0001\x0005　あがった！\xf000븁\x0000
-\xf000Ĺ\x0001\x0000の　にんきが\xfffe\xf000ȃ\x0001\x0007　あがった！\xf000븁\x0000
-……　……　……！！\xf000븂\x0001<
-\xf000Ĺ\x0001\x0000は\xfffeランク　\xf000ȃ\x0001\x0008　に　あがった！
+\xf000Ā\x0001\x0000 è venuto a vedere\xfffe\xf000ĸ\x0001\x0001!\xf000븁\x0000
+\xf000Ā\x0001\x0002: \xf000ķ\x0001\x0003!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0004!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000
+La Popolarità di \xf000ĸ\x0001\x0001\xfffeè salita a \xf000Ȃ\x0001\x0005!\xf000븁\x0000
+La Popolarità di \xf000Ĺ\x0001\x0000\xfffeè salita a \xf000ȃ\x0001\x0007!\xf000븁\x0000
+... ... ...!!\xf000븂\x0001<
+\xf000Ĺ\x0001\x0000 è salito al\xfffeLivello \xf000ȃ\x0001\x0008!
 
-『\xf000ł\x0001\x0002』\xfffeとして　うわさが　ひろまった！！\xf000븁\x0000
-なにを　ききますか？
-\xf000ĸ\x0001\x0001　から\xfffe\xf000ĸ\x0001\x0000　に　なった！
-……！！\xf000븁\x0000\xfffeすばらしい　おみせが\xfffeたくさん　できた　きねんに\xf000븀\x0000\xfffeすべての　おみせが\xf000븀\x0000\xfffeサービスきかんに　はいった！\xf000븁\x0000\xfffeサービスきかんは　７にち！\xfffeおみせを　のぞいて　みよう！
-……おや？\xf000븁\x0000\xfffeオーナーが　やってきた！\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0000の\xfffeオフィスへ　いってみよう！\xf000븁\x0000
-\xf000ĸ\x0001\x0001は\xfffeおみせを　リニューアルした！\xf000븁\x0000
-くじびきや
-びようしつ
-マーケット
-はなや
-どうじょう
-ほいくじょ
-ふるどうぐや
-カフェ
-ドリーム★\xf000Ā\x0001\x0000
-ドリーム★\xf000Ā\x0001\x0000
-ラッキー★\xf000Ā\x0001\x0000
+Le voci su \xf000ł\x0001\x0002\xfffesi sono diffuse!!\xf000븁\x0000
+Cosa ascolti?
+\xf000ĸ\x0001\x0001 è diventato\xfffe\xf000ĸ\x0001\x0000!
+...!!\xf000븁\x0000\xfffePer ricordare i molti fantastici\xfffenegozi, gli orari di apertura\xf000븀\x0000\xfffedi tutti i negozi aumentano!\xf000븁\x0000\xfffeOra sono aperti per 7 giorni!\xfffeVai a vedere i negozi!
+... Eh?\xf000븁\x0000\xfffeE' arrivato il proprietario!\xf000븁\x0000\xfffeVai all'Ufficio di \xfffe\xf000ĺ\x0001\x0000!\xf000븁\x0000
+\xf000ĸ\x0001\x0001 è stato\xffferinnovato!\xf000븁\x0000
+Lotteria
+Parrucchiere
+Negozietto
+Fiorista
+Sport
+Asilo Pokémon
+Negozio dell'usato
+Café
+Sogno★\xf000Ā\x0001\x0000
+Sogno★\xf000Ā\x0001\x0000
+Fortua★\xf000Ā\x0001\x0000
 ハッピー★\xf000Ā\x0001\x0000
 ビューティー\xf000Ā\x0001\x0000
 バーバー\xf000Ā\x0001\x0000
