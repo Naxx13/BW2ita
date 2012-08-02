@@ -286,38 +286,38 @@ Sport
 Asilo Pokémon
 Negozio dell'usato
 Café
-Sogno★\xf000Ā\x0001\x0000
-Sogno★\xf000Ā\x0001\x0000
-Fortuna★\xf000Ā\x0001\x0000
-Felice★\xf000Ā\x0001\x0000
-Bel \xf000Ā\x0001\x0000
-Barbiere \xf000Ā\x0001\x0000
-Salone \xf000Ā\x0001\x0000
-Studio \xf000Ā\x0001\x0000
-Mercato \xf000Ā\x0001\x0000 
-Mercato \xf000Ā\x0001\x0000 
-Supermercato \xf000Ā\x0001\x0000
-Supermercato \xf000Ā\x0001\x0000 
-Fiorista \xf000Ā\x0001\x0000
-Fiorista xf000Ā\x0001\x0000
-Parco \xf000Ā\x0001\x0000
-Giardino \xf000Ā\x0001\x0000
-Simpatico \xf000Ā\x0001\x0000
-Campo di \xf000Ā\x0001\x0000
-Ring di \xf000Ā\x0001\x0000
+alla Lotteria★ "Da \xf000Ā\x0001\x0000"
+alla Lotteria★ "Da \xf000Ā\x0001\x0000"
+alla Lotteria★ "Da \xf000Ā\x0001\x0000"
+alla Lotteria★  "\xf000Ā\x0001\x0000"
+a "Fatti bello di \xf000Ā\x0001\x0000"
+al Parrucchiere "Da \xf000Ā\x0001\x0000"
+al Salone "Da \xf000Ā\x0001\x0000"
+allo Studio "Da \xf000Ā\x0001\x0000"
+al Mercato "Da \xf000Ā\x0001\x0000"
+al Mercato "Da \xf000Ā\x0001\x0000" 
+al Supermercato "Da \xf000Ā\x0001\x0000"
+al Supermercato "Da \xf000Ā\x0001\x0000" 
+al Fiorista "Da \xf000Ā\x0001\x0000"
+al Fiorista "Da \xf000Ā\x0001\x0000"
+al Parco di \xf000Ā\x0001\x0000
+al Giardino di \xf000Ā\x0001\x0000
+al Simpatico di \xf000Ā\x0001\x0000
+al Campo di \xf000Ā\x0001\x0000
+al Ring di \xf000Ā\x0001\x0000
 \xf000Ā\x0001\x0000
 \xf000Ā\x0001\x0000 House
 \xf000Ā\x0001\x0000 House
-Club \xf000Ā\x0001\x0000
+al Club "Da \xf000Ā\x0001\x0000"
 \xf000Ā\x0001\x0000 Land
-Collezione \xf000Ā\x0001\x0000
-Collezione \xf000Ā\x0001\x0000
+all'Antiquariato "Da \xf000Ā\x0001\x0000"
+all'Antiquariato "Da \xf000Ā\x0001\x0000"
 Selezione \xf000Ā\x0001\x0000
-Museo \xf000Ā\x0001\x0000
-Ristorante \xf000Ā\x0001\x0000
-Bar★\xf000Ā\x0001\x0000
-Cucina \xf000Ā\x0001\x0000
-Ristorante \xf000Ā\x0001\x0000
+al Museo "Da \xf000Ā\x0001\x0000"
+al Ristorante "Da \xf000Ā\x0001\x0000"
+al Bar★ "Da \xf000Ā\x0001\x0000"
+alla Cucina "Da \xf000Ā\x0001\x0000"
+al Ristorante "Da \xf000Ā\x0001\x0000"
 Pesca
 Abbellisci!
 Compra
@@ -326,22 +326,22 @@ Allena
 Lascia
 Compra
 Mangia
-Primo premio, Masterball!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
-I tuoi Pokémon sono i più belli!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
-Abbiamo qualsiasi cosa desideri!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
-Vendiamo qualsiasi tipo di bacche!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
-Alleniamo dappertutto i Pokémon!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
-Ci prendiamo cura delle tue uova!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
-Abbiamo qualsiasi tesoro!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
-Assaggerai ogni sapore!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
-Primo premio, Masterball!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
-I tuoi Pokémon sono i più belli!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
-Abbiamo qualsiasi cosa desideri!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
-Vendiamo qualsiasi tipo di bacche!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
-Alleniamo dappertutto i Pokémon!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
-Ci prendiamo cura delle tue uova!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
-Abbiamo qualsiasi tesoro!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
-Assaggerai ogni sapore!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
+Primo premio, Masterball!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
+I tuoi Pokémon sono i più belli!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
+Abbiamo qualsiasi cosa desideri!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
+Vendiamo qualsiasi tipo di bacche!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
+Alleniamo dappertutto i Pokémon!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
+Ci prendiamo cura delle tue uova!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
+Abbiamo qualsiasi tesoro!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
+Assaggerai ogni sapore!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
+Primo premio, Masterball!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
+I tuoi Pokémon sono i più belli!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
+Abbiamo qualsiasi cosa desideri!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
+Vendiamo qualsiasi tipo di bacche!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
+Alleniamo dappertutto i Pokémon!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
+Ci prendiamo cura delle tue uova!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
+Abbiamo qualsiasi tesoro!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
+Assaggerai ogni sapore!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
 Allora mille grazie!\xf000븁\x0000
 Allora mille grazie!\xf000븁\x0000
 Le uova sono vietate!\xf000븁\x0000
@@ -606,6 +606,7 @@ Fert. x4
 Fert. x4
 Fert. x4
 Baccalampon x4
+Baccamora x4
 Baccaliegia x4
 Baccastagna x4
 Baccapesca x4
@@ -1791,7 +1792,7 @@ Ti ringrazio!
 Ah ah oh oh!
 Mi piace!
 Quello...
-Merry, merry, merry!
+Ciao!
 Carino, carino!
 Uff uff
 Sono felice!
@@ -1861,7 +1862,7 @@ Yahoo
 あらまー
 わわー
 きらいじゃ…ない
-むくむくっ
+Forza
 ヒャッホー♪
 へえー！
 ワンダフルです！
