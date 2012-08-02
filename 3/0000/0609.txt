@@ -646,30 +646,30 @@
 マトマのみ×４
 
 
-おいしいみず　１２コ　セット。\xfffeポケモン　１ひきの　ＨＰを\xfffe５０だけ　かいふくする。
-おいしいみず　２４コ　セット。\xfffeポケモン　１ひきの　ＨＰを\xfffe５０だけ　かいふくする。
-おいしいみず　３６コ　セット。\xfffeポケモン　１ひきの　ＨＰを\xfffe５０だけ　かいふくする。
-おいしいみず　４８コ　セット。\xfffeポケモン　１ひきの　ＨＰを\xfffe５０だけ　かいふくする。
-モーモーミルク　１２コ　セット。\xfffeポケモン　１ひきの　ＨＰを\xfffe１００だけ　かいふくする。
-モーモーミルク　２４コ　セット。\xfffeポケモン　１ひきの　ＨＰを\xfffe１００だけ　かいふくする。
-モーモーミルク　３６コ　セット。\xfffeポケモン　１ひきの　ＨＰを\xfffe１００だけ　かいふくする。
-モーモーミルク　４８コ　セット。\xfffeポケモン　１ひきの　ＨＰを\xfffe１００だけ　かいふくする。
-フエンせんべい　２コ　セット。\xfffeポケモン　１ひきの　じょうたいの\xfffeいじょうを　すべて　かいふくする。
-もりのヨウカン　２コ　セット。\xfffeポケモン　１ひきの　じょうたいの\xfffeいじょうを　すべて　かいふくする。
+Set di 12 Acqua Fresca.\xfffeAcqua ricca di sostanze minerali.\xfffeRestituisce 50 PS ad un Pokémon.
+Set di 24 Acqua Fresca.\xfffeAcqua ricca di sostanze minerali.\xfffeRestituisce 50 PS ad un Pokémon.
+Set di 36 Acqua Fresca.\xfffeAcqua ricca di sostanze minerali.\xfffeRestituisce 50 PS ad un Pokémon.
+Set di 48 Acqua Fresca.\xfffeAcqua ricca di sostanze minerali.\xfffeRestituisce 50 PS ad un Pokémon.
+Set di 12 Latte Mu-Mu.\xfffeLatte ricco di sostanze nutrienti.\xfffeRestituisce 100 PS ad un Pokémon.
+Set di 24 Latte Mu-Mu.\xfffeLatte ricco di sostanze nutrienti.\xfffeRestituisce 100 PS ad un Pokémon.
+Set di 36 Latte Mu-Mu.\xfffeLatte ricco di sostanze nutrienti.\xfffeRestituisce 100 PS ad un Pokémon.
+Set di 48 Latte Mu-Mu.\xfffeLatte ricco di sostanze nutrienti.\xfffeRestituisce 100 PS ad un Pokémon.
+Set di 2 Lavottino.\xfffeSpecialità locale di Cuordilava. \xfffeCura tutti i problemi di stato.
+Set di 2 Dolce Gateau.\xfffeSpecialità segreta dell'Antico Chateau.\xfffeCura tutti i problemi di stato.
 
-いかりまんじゅう　２コ　セット。\xfffeポケモン　１ひきの　ＨＰを\xfffe２０だけ　かいふくする。
-なかなか　かえない　きちょうひん。\xfffeひんしに　なった　ポケモンの\xfffeＨＰを　すべて　かいふくする。
-なかなか　かえない　きちょうひん。\xfffeポケモンの　１つの　わざの　ＰＰを\xfffe１０だけ　かいふくする。
-なかなか　かえない　きちょうひん。\xfffeポケモンの　１つの　わざの　ＰＰの\xfffeさいだいちを　すこし　あげる。
-あまいミツ　１２コ　セット。\xfffeつかうと　あまいにおいに　さそわれて\xfffeやせいポケモンが　あらわれる。
-ゴールドスプレー　１２コ　セット。\xfffe２５０ぽの　あいだ　よわい　やせいの\xfffeポケモンが　でて　こなくなる。
-ゴールドスプレー　２４コ　セット。\xfffe２５０ぽの　あいだ　よわい　やせいの\xfffeポケモンが　でて　こなくなる。
-ゴールドスプレー　３６コ　セット。\xfffe２５０ぽの　あいだ　よわい　やせいの\xfffeポケモンが　でて　こなくなる。
-ゴールドスプレー　４８コ　セット。\xfffe２５０ぽの　あいだ　よわい　やせいの\xfffeポケモンが　でて　こなくなる。
-げんきのかけら　１２コ　セット。\xfffeひんしの　ポケモン　１ひきの　ＨＰを\xfffeはんぶんまで　かいふくする。
-げんきのかけら　２４コ　セット。\xfffeひんしの　ポケモン　１ひきの　ＨＰを\xfffeはんぶんまで　かいふくする。
-げんきのかけら　３６コ　セット。\xfffeひんしの　ポケモン　１ひきの　ＨＰを\xfffeはんぶんまで　かいふくする。
-げんきのかけら　４８コ　セット。\xfffeひんしの　ポケモン　１ひきの　ＨＰを\xfffeはんぶんまで　かいふくする。
+Set di 2 Iramelle.\xfffeRestituisce 20 PS a un Pokémon.
+Rimedio che rianima un Pokémon esausto\xffferidandogli tutti i PS.
+Restituisce un massimo di 10 PP\xfffea una mossa a scelta che è stata\xfffeimparata dal Pokémon.
+Restituisce tutti i PP a una mossa\xfffea scelta che è stata imparata\xfffedal Pokémon.
+Set di 12 Miele.\xfffeMiele dolce dall'aroma intenso che\xfffeattrae i Pokémon selvatici.
+Set di 12 Repell. Max.\xfffeRepellente che evita l'incontro con i\xfffePokémon selvatici deboli per 250 passi.
+Set di 12 Repell. Max.\xfffeRepellente che evita l'incontro con i\xfffePokémon selvatici deboli per 250 passi.
+Set di 12 Repell. Max.\xfffeRepellente che evita l'incontro con i\xfffePokémon selvatici deboli per 250 passi.
+Set di 12 Repell. Max.\xfffeRepellente che evita l'incontro con i\xfffePokémon selvatici deboli per 250 passi.
+Set di 12 Revitaliz.\xfffeRimedio che rianima un Pokémon esausto\xfffee gli restituisce metà dei PS.
+Set di 24 Revitaliz.\xfffeRimedio che rianima un Pokémon esausto\xfffee gli restituisce metà dei PS.
+Set di 36 Revitaliz.\xfffeRimedio che rianima un Pokémon esausto\xfffee gli restituisce metà dei PS.
+Set di 48 Revitaliz.\xfffeRimedio che rianima un Pokémon esausto\xfffee gli restituisce metà dei PS.
 Set di 12 Cura Totale.\xfffeRimedio spray.\xfffeRisolve tutti i problemi di stato.
 Set di 24 Cura Totale.\xfffeRimedio spray.\xfffeRisolve tutti i problemi di stato.
 Set di 36 Cura Totale.\xfffeRimedio spray.\xfffeRisolve tutti i problemi di stato.
