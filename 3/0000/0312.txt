@@ -3,8 +3,8 @@ VHYDZPRUIOOD\xfffeGHYDV
 OODURIHSRK\xfffeVLJQLN
 HYROKWLZ\xfffeWFDNQLKW
 GHHUJDIL\xfffeJQRUWVWFD
-ここから　のぼれそうだ！\xf000븁\x0000\xfffeうえの　かいに　すすみますか？
-ここから　おりれそうだ！\xf000븁\x0000\xfffeしたの　かいに　もどりますか？
+Sembra che tu voglia andare più in alto!\xf000\xbe01\x0000Vuoi andare al piano superiore?
+Sembra che tu voglia andare più in basso!\xf000\xbe01\x0000Vuoi ritornare al piano inferiore?
 とゆあるくてろそんえく\xfffeにひゆろさえせにけえふおき
 つとゆむるくめぬとききあめつ\xfffeめりあえるめふおき
 ろうなおちれひなまそ\xfffeれうなおみけひなまそふおき
