@@ -1,19 +1,19 @@
-ヒウンシティに　もどりますか？
-すぐに　しゅっこうしますので\xfffeじょうせんして　おまちください\xf000븁\x0000
-ヒウンシティに　もどりたいときは\xfffeいつでも　こえを　かけてください！
-ここに　くると　なんだか\xfffeパワーが　わいてくるんだよねー！
-おにいちゃん　しってる？\xf000븁\x0000\xfffeここで　おおがねもちが　ポケモンを\xfffeわるいヤツから　まもってたって！
-おねえちゃん　しってる？\xf000븁\x0000\xfffeここで　おおがねもちが　ポケモンを\xfffeわるいヤツから　まもってたって！
-あの　ポケモンは　どんな　きもちで\xfffeあの　へやに　いたのかの……\xf000븀\x0000\xfffeずっと　いっぴきだと　さみしいだろうに
-しょうりポケモン\xfffeビクティニ　か……\xf000븁\x0000\xfffeいまごろは　だれの　ために\xfffeその　ちからを　はっき　してるのかな？
-あ　あんたの　その　ポケモン……\xfffeしょうりポケモン　ビクティニ！？\xf000븁\x0000\xfffeなに　あんた\xfffeかって　かって　かちまくり　なの！？\xf000븀\x0000\xfffeあやかりてえ……
-ポケモンは　トレーナーの\xfffeめいれいに　すなおに　したがう\xf000븁\x0000\xfffeなのに　ポケモンに　わるいことを\xfffeさせようとする　ひとが　いるのよ！
-さいきんは　かんこうきゃくが\xfffeすくなくなったから　たいくつだ……\xf000븁\x0000\xfffeといっても　プラズマだんの　ような\xfffeれんちゅうは　おことわり　だけどな
-……２００ねんまえ\xfffeだいふごうが　しまを　かいとり\xf000븁\x0000\xfffeひとと　ポケモンが\xfffeじゆうに　くらせる\xf000븀\x0000\xfffeせかいを　ねがって\xf000븀\x0000\xfffeリバティガーデンとう　と　なづけました
-だい２　さんばし\xfffeかんこうせん　のりばは\xf000븀\x0000\xfffeだい１　さんばしに　なります
-じゆうの　ひかりを　ともす　とうだい\xf000븁\x0000\xfffeかんけいしゃ　いがいの\xfffeたちいりを　きんし　します
-アララギ『あら？\xfffeビクティニ！\xf000븁\x0000
-アララギ『あら？\xfffeあなたの　ポケモンずかん……\xf000븁\x0000\xfffeビクティニを\xfffeつかまえたのね！！\xf000븁\x0000
-アララギ『あら？\xfffeあなたの　ポケモンずかん……\xf000븁\x0000\xfffeビクティニを\xfffeみたことが　あるのね！！\xf000븁\x0000
-ビクティニの　イッシュずかんの\xfffeばんごうが　「０」なのは\xf000븁\x0000\xfffeこの　ポケモンずかんを　もって\xfffeたびを　する　ポケモントレーナーに\xf000븁\x0000\xfffeビクティニの　しょうりを　もたらす\xfffeパワーが　わけあたえられるように……\xf000븁\x0000\xfffeそんな　ねがいが　こめられていると\xfffeわたしは　きいたことが　あるわ\xf000븁\x0000
-ポケモンと　どう　せっするか……\xf000븁\x0000\xfffeあなたが\xfffeポケモンずかんを　うめていくうちに\xf000븁\x0000\xfffeあなたなりの　こたえが　みつかること\xfffeきたい　しています！\xf000븁\x0000\xfffeそれじゃーね！\xf000븁\x0000
+Vuoi tornare ad Austropoli?
+Noi siamo pronti a aprtire, quindi\xfffesali a bordo e aspetta un momento.\xf000\xbe01\x0000
+Ricordati di parlare con me\xfffese vuoi tornare ad Austropoli!
+ここに くると なんだか\xfffeパワーが わいてくるんだよねー!
+おにいちゃん しってる?\xf000\xbe01\x0000\xfffeここで おおがねもちが ポケモンを\xfffeわるいヤツから まもってたって!
+おねえちゃん しってる?\xf000\xbe01\x0000\xfffeここで おおがねもちが ポケモンを\xfffeわるいヤツから まもってたって!
+あの ポケモンは どんな きもちで\xfffeあの へやに いたのかの...\xf000\xbe00\x0000\xfffeずっと いっぴきだと さみしいだろうに
+しょうりポケモン\xfffeビクティニ か...\xf000\xbe01\x0000\xfffeいまごろは だれの ために\xfffeその ちからを はっき してるのかな?
+あ あんたの その ポケモン...\xfffeしょうりポケモン ビクティニ!?\xf000\xbe01\x0000\xfffeなに あんた\xfffeかって かって かちまくり なの!?\xf000\xbe00\x0000\xfffeあやかりてえ...
+ポケモンは トレーナーの\xfffeめいれいに すなおに したがう\xf000\xbe01\x0000\xfffeなのに ポケモンに わるいことを\xfffeさせようとする ひとが いるのよ!
+さいきんは かんこうきゃくが\xfffeすくなくなったから たいくつだ...\xf000\xbe01\x0000\xfffeといっても プラズマだんの ような\xfffeれんちゅうは おことわり だけどな
+Due secoli fa, una famiglia molto ricca\xfffecomprò quest'isola e la chiamò\xf000\xbe00\x0000\xfffeIsola Libertà.\xf000\xbe01\x0000\xfffeQuesto è un posto dove le persone e i Pokémon\xfffepossono vivere liberamente.
+Dock 2\xfffeTo board the tour boat, go to Dock 1.
+This lighthouse shines with the light\xfffeof freedom.\xf000\xbe01\x0000\xfffePuò entrare solo il personale autorizzato.
+Aralia: Oh?\xfffeVictini!\xf000\xbe01\x0000
+Aralia: Oh?\xfffeIl tuo Pokedex...\xf000\xbe01\x0000\xfffeHai catturato Victini!!\xf000\xbe01\x0000
+Juniper: Oh?\xfffeYour Pokedex...\xf000\xbe01\x0000\xfffeHai visto Victini!!\xf000\xbe01\x0000
+ビクティニの イッシュずかんの\xfffeばんごうが 「0」なのは\xf000\xbe01\x0000\xfffeこの ポケモンずかんを もって\xfffeたびを する ポケモントレーナーに\xf000\xbe01\x0000\xfffeビクティニの しょうりを もたらす\xfffeパワーが わけあたえられるように...\xf000\xbe01\x0000\xfffeそんな ねがいが こめられていると\xfffeわたしは きいたことが あるわ\xf000\xbe01\x0000
+ポケモンと どう せっするか...\xf000\xbe01\x0000\xfffeあなたが\xfffeポケモンずかんを うめていくうちに\xf000\xbe01\x0000\xfffeあなたなりの こたえが みつかること\xfffeきたい しています!\xf000\xbe01\x0000\xfffeそれじゃーね!\xf000\xbe01\x0000
