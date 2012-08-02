@@ -1,9 +1,9 @@
 　
 Si, è fastidioso……\xfffeSono così occupato……\xf000븁\x0000
 Aspetta! Ehi tu!\xf000븁\x0000
-Benvenuto al Viale Unione!\xf000븁\x0000\xfffe... Almeno, questo è quello che\xfffedovrebbe essere se ci fosse\xf000\xbe00\x0000\xfffequalcosa qui...\xf000븀\x0000\xfffeMa è solo una strada...\xf000븁\x0000\xfffeOops! Sono un maleducato.\xfffeDovrei presentarmi.\xf000븁\x0000\xfffeIo sono il proprietario del Viale\xfffeUnione!\xf000븁\x0000\xfffeIl mio sogno è che questo posto sia\xfffepieno di persone provenienti da\xf000븀\x0000\xfffetutto il mondo!\xf000븁\x0000\xfffe... Ma sembra non arrivare\xfffenessuno qui. E' un problema.\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffeAspetta! Ci sono!\xf000븁\x0000\xfffeTu sei un allenatore, questo significa che\xfffetu giri il mondo, giusto?\xf000븁\x0000\xfffeE conosci molte persone...\xfffeHo una richiesta da farti.\xf000븁\x0000\xfffeChe ne dici?\xfffeLo faresti per me?
+Benvenuto alla Galleria Solidarietà!\xf000븁\x0000\xfffe... Almeno, questo è quello che\xfffedovrebbe essere se ci fosse\xf000\xbe00\x0000\xfffequalcosa qui...\xf000븀\x0000\xfffeMa è solo una strada...\xf000븁\x0000\xfffeOops! Sono un maleducato.\xfffeDovrei presentarmi.\xf000븁\x0000\xfffeIo sono il proprietario del Viale\xfffeUnione!\xf000븁\x0000\xfffeIl mio sogno è che questo posto sia\xfffepieno di persone provenienti da\xf000븀\x0000\xfffetutto il mondo!\xf000븁\x0000\xfffe... Ma sembra non arrivare\xfffenessuno qui. E' un problema.\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffeAspetta! Ci sono!\xf000븁\x0000\xfffeTu sei un allenatore, questo significa che\xfffetu giri il mondo, giusto?\xf000븁\x0000\xfffeE conosci molte persone...\xfffeHo una richiesta da farti.\xf000븁\x0000\xfffeChe ne dici?\xfffeLo faresti per me?
 Grazie!\xf000븁\x0000\xfffeQUINDI! Quello di cui ho bisogno è che\xffferacconti alle persone di questo luogo.\xf000븁\x0000\xfffeVoglio conoscere tutte le persone\xfffedel mondo. Qual'è il tuo "Slogan"?\xf000븁\x0000
-Andiamo, Io sono preoccupato e tu arrivi.\xfffeNon vedi?
+Andiamo, io sono preoccupato e tu arrivi.\xfffeNon vedi?
 Capisco!\xf000븁\x0000\xfffeE'questo che intendevi per\xfffe"slogan", vero？\xf000븁\x0000\xfffePerciò, quando incontri qualcuno per la\xfffeprima volta, come ti presenti?\xf000븁\x0000
 \xf000ķ\x0001\x0000\xfffe\xf000ķ\x0001\x0001　\xf000븁\x0000\xfffe... Si!!\xf000븁\x0000\xfffeProprio come pensavo!\xfffeTu sei unico!\xf000븀\x0000\xfffeImpossibile per chiunque, ma non per te!\xf000븁\x0000
 ……Oops.\xfffeQuindi è cosi.\xf000븁\x0000
@@ -31,25 +31,25 @@ Banzai!
 \xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffe\xf000ķ\x0001\x0002\xf000븀\x0000\xfffe\xf000ĺ\x0001\x0003！ Banzai!\xf000븁\x0000
 \xf000Ā\x0001\x0000\xfffeであったひ：20\xf000ȁ\x0001\x0001ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち\xf000븁\x0000
 \xf000ĸ\x0001\x0004\xfffeみせのランク　\xf000ȁ\x0001\x0005
-\xf000ĺ\x0001\x000's Città \xfffe\xf000Ĺ\x0001\x0000　RANGO　\xf000Ȃ\x0001\x0001
+Galleria di \xf000ĺ\x0001\x000 \xfffe\xf000Ĺ\x0001\x0000 Livello　\xf000Ȃ\x0001\x0001
 おみせに　あんないしたひと　\xf000Ȇ\x0001\x0000\xfffeまちに　しょうたいしたひと　\xf000Ȇ\x0001\x0001\xf000븁\x0000\xfffeまちの　ひょうばん\xfffe『\xf000ł\x0001\x0002』\xf000븁\x0000
 だい\xf000Ȁ\x0001\x0004ひしょ　\xf000Ā\x0001\x0000\xfffeであったひ：20\xf000ȁ\x0001\x0001ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち
-Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 era diventato\xfffenoto alla regione Unima!\xf000븁\x0000
-Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 era diventato\xfffenoto alla regione Unima!\xf000븁\x0000
-Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 era diventato\xfffenoto alla regione Unima!\xf000븁\x0000
-Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 era diventato\xfffenoto alla regione Unima!\xf000븁\x0000
-Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 era diventato\xfffenoto alla regione Unima!\xf000븁\x0000
-Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 era diventato\xfffenoto alla regione Unima!\xf000븁\x0000
-Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 era diventato\xfffenoto alla regione Unima!\xf000븁\x0000
-Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 era diventato\xfffenoto alla regione Unima!\xf000븁\x0000
-Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 era diventato\xfffenoto alla regione Unima!\xf000븁\x0000
-Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 era diventato\xfffenoto alla regione Unima!\xf000븁\x0000
-Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 era diventato\xfffenoto alla regione Unima!\xf000븁\x0000
-Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 era diventatoe\xfffenoto alla regione Unima!\xf000븁\x0000
-Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 era diventato\xfffenoto alla regione Unima!\xf000븁\x0000
-Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 era diventato\xfffenoto alla regione Unima!\xf000븁\x0000
+Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 è diventato\xfffenoto alla regione Unima!\xf000븁\x0000
+Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 è diventato\xfffenoto alla regione Unima!\xf000븁\x0000
+Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 è diventato\xfffenoto alla regione Unima!\xf000븁\x0000
+Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 è diventato\xfffenoto alla regione Unima!\xf000븁\x0000
+Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 è diventato\xfffenoto alla regione Unima!\xf000븁\x0000
+Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 è diventato\xfffenoto alla regione Unima!\xf000븁\x0000
+Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 è diventato\xfffenoto alla regione Unima!\xf000븁\x0000
+Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 è diventato\xfffenoto alla regione Unima!\xf000븁\x0000
+Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 è diventato\xfffenoto alla regione Unima!\xf000븁\x0000
+Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 è diventato\xfffenoto alla regione Unima!\xf000븁\x0000
+Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 è diventato\xfffenoto alla regione Unima!\xf000븁\x0000
+Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 è diventato\xfffenoto alla regione Unima!\xf000븁\x0000
+Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 è diventato\xfffenoto alla regione Unima!\xf000븁\x0000
+Congratulazioni!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0000 è diventato\xfffenoto alla regione Unima!\xf000븁\x0000
 Congratulazioni!\xf000븁\x0000\xfffeいだいなる　\xf000Ĺ\x0001\x0000を\xfffeしらないものは　いない！！\xf000븁\x0000
 Congratulazioni!\xf000븁\x0000\xfffeいだいなる　\xf000Ĺ\x0001\x0000を\xfffeしらないものは　いない！！\xf000븁\x0000
 Congratulazioni!\xf000븁\x0000\xfffeいだいなる　\xf000Ĺ\x0001\x0000を\xfffeしらないものは　いない！！\xf000븁\x0000
-\xf000\xff00\x0001\x0002\xf000봂\x0000※Attenzione!\xf000\xff00\x0001\x0000\xf000븁\x0000\xfffeThe words you enter now are sent\xfffeto anyone you communicate with.\xf000븁\x0000\xfffePlease think carefully when\xfffeselecting your words.\xf000븁\x0000
-\xf000\xff00\x0001\x0002\xf000봂\x0000※Attenzione!\xf000\xff00\x0001\x0000\xf000븁\x0000\xfffeThe words you enter now are sent\xfffeto anyone you communicate with.\xf000븁\x0000\xfffePlease think carefully when\xfffeselecting your words.\xf000븁\x0000
+\xf000\xff00\x0001\x0002\xf000봂\x0000※Attenzione!\xf000\xff00\x0001\x0000\xf000븁\x0000\xfffeLe parole che inserisci saranno\xfffeinviate a chiunque si collegherà con te.\xf000븁\x0000\xfffeScegli attentamente le parole che vuoi\xfffeusare.\xf000븁\x0000
+\xf000\xff00\x0001\x0002\xf000봂\x0000※Attenzione!\xf000\xff00\x0001\x0000\xf000븁\x0000\xfffeLe parole che inserisci saranno\xfffeinviate a chiunque si collegherà con te.\xf000븁\x0000\xfffeScegli attentamente le parole che vuoi\xfffeusare.\xf000븁\x0000
