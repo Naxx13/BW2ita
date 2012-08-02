@@ -504,56 +504,56 @@
 あたためるＬＶ３
 あたためるＬＶ４
 あたためるＬＶ５
-たいりょくＬＶ４
-たいりょくＬＶ８
-たいりょくＬＶ１２
-たいりょくＬＶ１６
-たいりょくＬＶ２４
-たいりょくＬＶ３２
-たいりょくＬＶ６４
-こうげきＬＶ４
-こうげきＬＶ８
-こうげきＬＶ１２
-こうげきＬＶ１６
-こうげきＬＶ２４
-こうげきＬＶ３２
-こうげきＬＶ６４
-ぼうぎょＬＶ４
-ぼうぎょＬＶ８
-ぼうぎょＬＶ１２
-ぼうぎょＬＶ１６
-ぼうぎょＬＶ２４
-ぼうぎょＬＶ３２
-ぼうぎょＬＶ６４
-とくこうＬＶ４
-とくこうＬＶ８
-とくこうＬＶ１２
-とくこうＬＶ１６
-とくこうＬＶ２４
-とくこうＬＶ３２
-とくこうＬＶ６４
-とくぼうＬＶ４
-とくぼうＬＶ８
-とくぼうＬＶ１２
-とくぼうＬＶ１６
-とくぼうＬＶ２４
-とくぼうＬＶ３２
-とくぼうＬＶ６４
-すばやさＬＶ４
-すばやさＬＶ８
-すばやさＬＶ１２
-すばやさＬＶ１６
-すばやさＬＶ２４
-すばやさＬＶ３２
-すばやさＬＶ６４
-おみずセット１
-おみずセット２
-おみずセット３
-おみずセット４
-ミルクセット１
-ミルクセット２
-ミルクセット３
-ミルクセット４
+PS L. 4
+PS L. 8
+PS L. 12
+PS L. 16
+PS L. 24
+PS L. 32
+PS L. 64
+Attacco L. 4
+Attacco L. 8
+Attacco L. 12
+Attacco L. 16
+Attacco L. 24
+Attacco L. 32
+Attacco L. 64
+Difesa L. 4
+Difesa L. 8
+Difesa L. 12
+Difesa L. 16
+Difesa L. 24
+Difesa L. 32
+Difesa L. 64
+Att. Sp. L. 4
+Att. Sp. L. 8
+Att. Sp. L. 12
+Att. Sp. L. 16
+Att. Sp. L. 24
+Att. Sp. L. 32
+Att. Sp. L. 64
+Dif. Sp. L. 4
+Dif. Sp. L. 8
+Dif. Sp. L. 12
+Dif. Sp. L. 16
+Dif. Sp. L. 24
+Dif. Sp. L. 32
+Dif. Sp. L. 64
+Velocità L. 4
+Velocità L. 8
+Velocità L. 12
+Velocità L. 16
+Velocità L. 24
+Velocità L. 32
+Velocità L. 64
+Set Acqua 1
+Set Acqua 2
+Set Acqua 3
+Set Acqua 4
+Set Latte 1
+Set Latte 2
+Set Latte 3
+Set Latte 4
 Set Regalo
 Set Regalo
 
