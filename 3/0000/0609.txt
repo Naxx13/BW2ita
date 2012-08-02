@@ -341,60 +341,60 @@ Alleniamo dappertutto i Pokémon!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
 Ci prendiamo cura delle tue uova!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
 Abbiamo qualsiasi tesoro!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
 Assaggerai ogni sapore!\xfffeBenvenuto a "\xf000ĸ\x0001\x0000"!
-それでは　おだいを　いただきますね\xf000븁\x0000
-それでは　おだいを　いただきますね\xf000븁\x0000
-タマゴは　だめです！\xf000븁\x0000
-タマゴは　だめです！\xf000븁\x0000
-タマゴじゃないですよ！\xf000븁\x0000
-タマゴじゃないですよ！\xf000븁\x0000
-すでに　つよい　ようです！\xf000븁\x0000
-すでに　つよい　ようです！\xf000븁\x0000
-すでに　なついています！\xf000븁\x0000
-すでに　なついています！\xf000븁\x0000
-すでに　なついています！\xf000븁\x0000
-すでに　なついています！\xf000븁\x0000
-ＬＶが　さいだいです！\xf000븁\x0000
-ＬＶが　さいだいです！\xf000븁\x0000
-その　ポケモン　げんきが\xfffeないみたいですよ！\xf000븁\x0000\xfffeげんきに　なってから\xfffeごりよう　ください！\xf000븁\x0000
-その　ポケモン　げんきが\xfffeないみたいですよ！\xf000븁\x0000\xfffeげんきに　なってから\xfffeごりよう　ください！\xf000븁\x0000
-ざんねんですが　はずれました……\xf000븁\x0000
-\xf000ȁ\x0001\x0000とう\xfffe\xf000ĉ\x0001\x0001が　あたりました！
-ほんじつの　くじは　\xfffeしゅうりょうです\xf000븁\x0000
-では　はっぴょうします！\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……\xf000븁\x0000
-おめでとうございます！\xf000븁\x0000
-なんと　サービスきかんちゅう　のため\xfffeもう１かい　チャンスが　あります！\xf000븁\x0000
-ざんねんですが　はずれました……\xf000븁\x0000
-\xf000ȁ\x0001\x0000とう\xfffe\xf000ĉ\x0001\x0001が　あたりました！
-ほんじつの　くじは　\xfffeしゅうりょうです\xf000븁\x0000
-では　はっぴょうします！\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……\xf000븁\x0000
-おめでとうございます！\xf000븁\x0000
-なんと　サービスきかんちゅう　のため\xfffeもう１かい　チャンスが　あります！\xf000븁\x0000
-どの　ポケモンに　しますか？\xf000븁\x0000
-はい！\xfffeこれで　このコも　ごきげん　です！\xf000븁\x0000
-どの　ポケモンに　しますか？\xf000븁\x0000
-はい！\xfffeこれで　このコも　ごきげんね！\xf000븁\x0000
-どの　ポケモンが\xfffeめしあがりに　なりますか？\xf000븁\x0000
-はい！　これで\xfffeこのコも　まんぷくに　なりました！\xf000븁\x0000
-どの　ポケモンが\xfffeめしあがりに　なりますか？\xf000븁\x0000
-はい！　これで\xfffeこのコも　まんぷくに　なりました！\xf000븁\x0000
-どの　ポケモンを　きたえますか？\xf000븁\x0000
-はい！　これで\xfffeこのコも　つよくなりました！\xf000븁\x0000
-どの　ポケモンを　きたえますか？\xf000븁\x0000
-はい！　これで\xfffeこのコも　つよくなりました！\xf000븁\x0000
-どの　タマゴを　ふかさせますか？\xf000븁\x0000
-はい！\xfffeぶじ　うまれました！\xf000븁\x0000
-いよいよ　うまれますよ！\xf000븁\x0000
-もう　すぐ　うまれそう　です！\xf000븁\x0000
-うまれるまで　もうちょっと　です！\xf000븁\x0000
-うまれるまで　まだまだ\xfffeじかんが　かかりそう　です！\xf000븁\x0000
-うまれるまで　かなり\xfffeじかんが　かかりそう　です！\xf000븁\x0000
-どの　タマゴを　ふかさせますか？\xf000븁\x0000
-はい！\xfffeぶじ　うまれました！\xf000븁\x0000
-いよいよ　うまれますよ！\xf000븁\x0000
-もう　すぐ　うまれそう　です！\xf000븁\x0000
-うまれるまで　もうちょっと　です！\xf000븁\x0000
-うまれるまで　まだまだ\xfffeじかんが　かかりそう　です！\xf000븁\x0000
-うまれるまで　かなり\xfffeじかんが　かかりそう　です！\xf000븁\x0000
+Allora mille grazie!\xf000븁\x0000
+Allora mille grazie!\xf000븁\x0000
+Le uova sono vietate!\xf000븁\x0000
+Le uova sono vietate!\xf000븁\x0000
+Non è un uovo!\xf000븁\x0000
+Non è un uovo!\xf000븁\x0000
+Sembra già forte!\xf000븁\x0000
+Sembra già forte!\xf000븁\x0000
+Sembra già affezionato!\xf000븁\x0000
+Sembra già affezionato!\xf000븁\x0000
+Sembra già affezionato!\xf000븁\x0000
+Sembra già affezionato!\xf000븁\x0000
+E' al L. Massimo!\xf000븁\x0000
+E' al L. Massimo!\xf000븁\x0000
+Quel Pokémon non sembra in\xfffeperfetta forma!\xf000븁\x0000\xfffeTorna quando sarà più riposato!\xf000븁\x0000
+Quel Pokémon non sembra in\xfffeperfetta forma!\xf000븁\x0000\xfffeTorna quando sarà più riposato!\xf000븁\x0000
+Mi dispiace, ma non è stato possibile...\xf000븁\x0000
+Hai estratto il numero \xf000ȁ\x0001\x0000,\xfffe\xf000ĉ\x0001\x0001!
+Hai già estratto il numero\xfffedi oggi!\xf000븁\x0000
+Allora, ho il piacere di annunciare che...\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000
+Complimenti!\xf000븁\x0000
+Hai ancora un'opportunità per il\xfffeServizio durante l'inverno!\xf000븁\x0000
+Mi dispiace, ma non è stato possibile...\xf000븁\x0000
+Hai estratto il numero \xf000ȁ\x0001\x0000,\xfffe\xf000ĉ\x0001\x0001!
+Hai già estratto il numero\xfffedi oggi!\xf000븁\x0000
+Allora, ho il piacere di annunciare che...\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000
+Complimenti!\xf000븁\x0000
+Hai ancora un'opportunità per il\xfffeServizio durante l'inverno!\xf000븁\x0000
+Quale Pokémon vuoi sottoporre?\xf000븁\x0000
+Perfetto!\xfffeOra il Pokémon ti è più affezionato!\xf000븁\x0000
+Quale Pokémon vuoi sottoporre?\xf000븁\x0000
+Perfetto!\xfffeOra il Pokémon ti è più affezionato!\xf000븁\x0000
+Quale Pokémon deve mangiare?\xf000븁\x0000
+Perfetto!\xfffeOra il Pokémon ha la pancia piena!\xf000븁\x0000
+Quale Pokémon deve mangiare?\xf000븁\x0000
+Perfetto!\xfffeOra il Pokémon ha la pancia piena!\xf000븁\x0000
+Quale Pokémon alleni?\xf000븁\x0000
+Perfetto!\xfffeOra il Pokémon è più forte!\xf000븁\x0000
+Quale Pokémon alleni?\xf000븁\x0000
+Perfetto!\xfffeOra il Pokémon è più forte!\xf000븁\x0000
+Quale Uovo devo tenere?\xf000븁\x0000
+Perfetto!\xfffeE' nato tranquillamente!\xf000븁\x0000
+E' finalmente nato!\xf000븁\x0000
+Sembra che stia per nascere!\xf000븁\x0000
+Ancora un po' e nascerà!\xf000븁\x0000
+Ha le ore contate! Nascerà presto!\xf000븁\x0000
+Ha le ore contate! Nascerà tra un poco!\xf000븁\x0000
+Quale Uovo devo tenere?\xf000븁\x0000
+Perfetto!\xfffeE' nato tranquillamente!\xf000븁\x0000
+E' finalmente nato!\xf000븁\x0000
+Sembra che stia per nascere!\xf000븁\x0000
+Ancora un po' e nascerà!\xf000븁\x0000
+Ha le ore contate! Nascerà presto!\xf000븁\x0000
+Ha le ore contate! Nascerà tra un poco!\xf000븁\x0000
 　
 Messa in piega
 Shampoo
@@ -1026,14 +1026,14 @@ Scatola che contiene qualcosa.\xfffeSi sposta con un soffio. Si capisce cosa\xff
 \xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffeさあ　めしあがれ\xf000븁\x0000\xfffeゴクゴク　ゴックン\xfffeゴクゴク　ゴックン\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002は\xfffeおいしく　のんだ！！\xf000븁\x0000
 \xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffeさあ　めしあがれ\xf000븁\x0000\xfffeパクパク　ゴックン\xfffeゴクゴク　ゴックン\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002は\xfffeおいしく　たべて　のんだ！！\xf000븁\x0000
 \xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffeさあ　めしあがれ\xf000븁\x0000\xfffeパクパク　ゴックン\xfffeゴクゴク　ゴックン\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002は\xfffeおいしく　たべて　のんだ！！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffeさあ　きれいに　なりましょうね\xf000븁\x0000\xfffeチョキ　チョキ　チョッキン！\xfffeチョキ　チョキ　チョッキン！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002は\xfffeきれい　さっぱりした！！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffeさあ　きれいに　なりましょうね\xf000븁\x0000\xfffeチョキ　チョキ　チョッキン！\xfffeチョキ　チョキ　チョッキン！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002は\xfffeきれい　さっぱりした！！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffeさあ　きれいに　なりましょうね\xf000븁\x0000\xfffeゴシッ　ゴシッ　サブッ　サブッ\xfffeゴシッ　ゴシッ　サブッ　サブッ\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002は\xfffeきれい　さっぱりした！！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffeさあ　きれいに　なりましょうね\xf000븁\x0000\xfffeゴシッ　ゴシッ　サブッ　サブッ\xfffeゴシッ　ゴシッ　サブッ　サブッ\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002は\xfffeきれい　さっぱりした！！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffeさあ　きれいに　なりましょうね\xf000븁\x0000\xfffeパタッ　パタッ　パタッ　パタッ　\xfffeパタッ　パタッ　パタッ　パタッ\xf000븁\x0000\xfffeサラ　サラ　キュ　キュ\xfffeサラ　サラ　キュ　キュ\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002は\xfffeきれい　さっぱりした！！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffeさあ　きれいに　なりましょうね\xf000븁\x0000\xfffeパタッ　パタッ　パタッ　パタッ　\xfffeパタッ　パタッ　パタッ　パタッ\xf000븁\x0000\xfffeサラ　サラ　キュ　キュ\xfffeサラ　サラ　キュ　キュ\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002は\xfffeきれい　さっぱりした！！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffeさあ　きれいに　なりましょうね\xf000븁\x0000\xfffeサラ　サラ　シャ　シャ\xfffeサラ　サラ　シャ　シャ\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002は\xfffeきれい　さっぱりした！！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffeさあ　きれいに　なりましょうね\xf000븁\x0000\xfffeサラ　サラ　シャ　シャ\xfffeサラ　サラ　シャ　シャ\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002は\xfffeきれい　さっぱりした！！\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeBeh, abbelliamolo, allora!\xf000븁\x0000\xfffeZac zac zac zac!\xfffeZac zac zac zac!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffeOra \xf000Ă\x0001\x0002 è\xfffemolto più bello!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeBeh, abbelliamolo, allora!\xf000븁\x0000\xfffeZac zac zac zac!\xfffeZac zac zac zac!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffeOra \xf000Ă\x0001\x0002 è\xfffemolto più bello!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeBeh, abbelliamolo, allora!\xf000븁\x0000\xfffeFruush frushh fruush\xfffefrushh frussh fruuush!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffeOra \xf000Ă\x0001\x0002 è\xfffemolto più bello!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeBeh, abbelliamolo, allora!\xf000븁\x0000\xfffeFruush frushh fruush\xfffefrushh frussh fruuush!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffeOra \xf000Ă\x0001\x0002 è\xfffemolto più bello!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeBeh, abbelliamolo, allora!\xf000븁\x0000\xfffePaf Paff Paff\xfffespash spash spash\xf000븁\x0000\xfffeShhhaka shaka shaka\xfffeshaka shaka shaka\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffeOra \xf000Ă\x0001\x0002 è\xfffemolto più bello!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeBeh, abbelliamolo, allora!\xf000븁\x0000\xfffePaf Paff Paff\xfffespash spash spash\xf000븁\x0000\xfffeShhhaka shaka shaka\xfffeshaka shaka shaka\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffeOra \xf000Ă\x0001\x0002 è\xfffemolto più bello!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeBeh, abbelliamolo, allora!\xf000븁\x0000\xfffeShaaaf shaf shaf\xfffewooo wooo wooo\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffeOra \xf000Ă\x0001\x0002 è\xfffemolto più bello!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeBeh, abbelliamolo, allora!\xf000븁\x0000\xfffeShaaaf shaf shaf\xfffewooo wooo wooo\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffeOra \xf000Ă\x0001\x0002 è\xfffemolto più bello!!\xf000븁\x0000
 
 
 \xf000Ā\x0001\x0001『\xf000ķ\x0001\x0000\xfffeとくに　ないです！\xf000븁\x0000
@@ -1412,66 +1412,66 @@ Scatola che contiene qualcosa.\xfffeSi sposta con un soffio. Si capisce cosa\xff
 \xf000Ā\x0001\x0000『……！！\xfffe\xf000ĸ\x0001\x0001……！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0002って\xfffeそこそこの　ひとが　いる\xf000븀\x0000\xfffeそこそこの　ところ　だね\xf000븁\x0000
 \xf000Ā\x0001\x0000『……！！\xfffe\xf000ĸ\x0001\x0001……！\xf000븁\x0000\xfffeまさに　ここです！\xfffeいきたかった　ところは！！\xf000븁\x0000
 \xf000Ā\x0001\x0000『……！！\xfffe\xf000ĸ\x0001\x0001……！\xf000븁\x0000\xfffeまさに　ここです！\xfffeいきたかった　ところは！！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeステキな　ところ　だね\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xfffe\xf000ĸ\x0001\x0001……！\xf000븀\x0000\xfffeなんだか　とっても　ステキ！\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto stupendo!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xfffe\xf000ĸ\x0001\x0001...!\xf000븀\x0000\xfffeE' un posto super stupendo!\xf000븁\x0000
 \xf000Ā\x0001\x0000『……！！\xfffe\xf000ĸ\x0001\x0001……！\xf000븁\x0000\xfffeおすすめ　された　とおり\xfffeとっても　ステキ！\xf000븁\x0000
 \xf000Ā\x0001\x0000『……！！\xfffe\xf000ĸ\x0001\x0001……！\xf000븁\x0000\xfffeおすすめ　された　とおり\xfffeとっても　ステキ！\xf000븁\x0000
 さいきん　とある　ジムリーダーが\xfffeあそびに　きてるらしいよ\xf000븁\x0000
@@ -1502,65 +1502,65 @@ GTS
 \xf000ĺ\x0001\x0000！\xf000븁\x0000\xfffeはなしを　するのが　すき？\xfffeはなしを　きくのが　すき？
 \xf000ĺ\x0001\x0000！\xf000븁\x0000\xfffeきみは　だいじな\xfffeひみつを　しったら　どうする？
 
-いる
-いない
-たくさん
-きょうみがない
-じぶんからいう
-あいてをまつ
-かっこよさ
-うつくしさ
-かわいさ
-かしこさ
-たくましさ
-いいひと
-ふつうのひと
-へんなひと
-いちばんうえ
-まんなか
-すえっこ
-ひとりっこ
-おとこのこ
-おんなのこ
-おとこのひと
-おんなのひと
-おじさん
-おばさん
-おじいちゃん
-おばあちゃん
-きれい
-ごちゃごちゃしている
-かなえるもの
-あきらめるもの
-まもるもの
-つくるもの
-こわすもの
-どりょく
-さいのう
-ポケウッド
-ハイリンクフェス
-ＰＷＴ
-ジョインアベニュー
-ブラックシティ
-ホワイトフォレスト
-メダルラリー
-ライブキャスター
-かくしあな
-カントー
-ジョウト
-ホウエン
-シンオウ
-イッシュ
-すぐわすれる
-ひきずる
-こまかい
-おおざっぱ
-せっかち
-のんびり
-はなすこと
-きくこと
-ぜったい　いわない
-いっちゃう
+Essere 
+Non essere
+Tanti
+Disinteressato
+Parlo per me
+Aspetto un amico
+Forte
+Bellezza
+Carino
+Intelligenza
+Forza
+Buona persona
+Persona Ordinaria
+Persona Strana
+Il Top
+Al centro
+Neonato
+Figlio uico
+Ragazzo
+Ragazza
+Uomo
+Donna
+Anziano
+Anziana
+Nonno
+Nonna
+Bello
+Confuso
+Oggetto Desiderato
+Oggetto Abbandonato
+Oggetto Conservato
+Oggetto Prodotto
+Oggetto Rotto
+Talento
+Abilità
+Pokéwood
+Intramondo
+PWT
+Galleria Solidarietà
+Città Nera
+Foresta Bianca
+Corsa alle Medaglie
+Interpoké
+Tana Nascosta
+Kanto
+Johto
+Hoenn
+Sinnoh
+Unima
+Si dimentica subito
+Trascinare
+Minuto
+Ruvido
+Impaziente
+Prudente
+Raccontare
+Ascoltare
+Da non dire mai
+Detto per sbaglio
 きいて　きいて！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000さんって……\xfffeすきなひと　いる　らしいわよーー！！\xf000븁\x0000\xfffeどんなひと　なのかしら！\xfffeきょうみしんしん　ね！\xf000븁\x0000
 きいて　きいて！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000さんって……\xfffeすきなひとが　いない　らしいわ\xf000븁\x0000\xfffeういた　うわさが　ないひと　よね\xf000븁\x0000
 きいて　きいて！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000さんって……\xf000븁\x0000\xfffeすきなひとが\xfffeたくさんいる　らしいわよーーー！！！\xf000븁\x0000\xfffeこんど　あったら\xfffeこくはく　されるかも？\xf000븁\x0000
@@ -1741,97 +1741,97 @@ GTS
 \xf000Ā\x0001\x0000の\xfffeれきしの　つづきを　かたりましょう\xf000븁\x0000
 またね
 \xf000Ā\x0001\x0000
-できたてのアベニュー
-かけだしのアベニュー
-ふつうのアベニュー
-あなばのアベニュー
-そこそこのアベニュー
-なのしれたアベニュー
-すごいアベニュー
-みんなのアベニュー
-あこがれのアベニュー
-ものすごいアベニュー
-セレブのアベニュー
-イッシュいちのアベニュー
-でんどういりアベニュー
-せかいいちのアベニュー
-いだいなるアベニュー
-せかいいちのアベニュー
-いだいなるアベニュー
-ナニー！
-なんだってー！
-デスヨネ！
-ポウー！
-ヘイヘイ！
-チャオ！
-コンニャロー①
-カッカッカッカッ
-ウヒヒヒ
-これはこれは
-えへえへー
-こっ　これは！
-オーライオーライ
-いいかんじです！
-うっすうっす
-うんうん♪
-あー　まあねー
-ちゅうもーく！
-アーハン？
-わくわくわく！
-かたじけない！
-あらあらまあまあ
-だいすきー
-べつに　そんな…
-めりめりめりっ
-ぴゅーんぴゅーん
-うっふっふ
-ハッピーです！
-きてるよー！
-てへっ
-これしってるー
-こりゃこりゃ！
-キャーーー！
-やだやだやだ
-きらいじゃない！
-クスクス
-ぐわははははっ
-はあはあはあ…
-うわーーん
-おげんきー？
-ちょっとまって！
-フフフフフッ
-ハァーーイ♥
-ヘルプミー♥
-はて…？
-らららららら♪
-えーーーっ
-ツンツン①
-ぐびぐびぐび
-あわわわわ……
-コラー！②
-ヒュー♪ヒュー♪
-ワナワナワ…
-ポケモンすき？
-なんですか？
-ぶんぶんぶん
-プンプンッ②
-ちょっと！
-おわりかな？
-ばぶばぶする？
-ゴー！ゴー！
-ひー
-ドモドモ
-とつげきします！
-ドキドキ！
-わくわく！
-ハーイ♥
-ルックルック
-イタイのイヤイヤ
-カタカタカタカタ
-ワーオ！
-ぎゃくにね！
+Nuova Galleria
+Galleria Principiante
+Galleria Normale
+Buona Galleria
+Galleria Decente
+Galleria Conosciuta
+Galleria Stupenda
+Galleria di tutti
+Galleria Desiderosa
+Super Galleria
+Galleria Famosa
+Galleria Regionale
+Galleria Onorevole
+Galleria Mondiale
+Galleria Grandiosa
+Galleria Mondiale
+Galleria Grandiosa
+Cosa?!
+Perché?
+Ahh!
+Buu!
+Oohh!
+Ciao!
+Konyaro①
+Sisisisi
+Uhihihi
+Questoquesto
+Ohhoohh!!
+Q-Questo!
+Bene, bene!
+Bella sensazione！
+Oh issa!
+Sisi♪
+Ah, ehm...
+Attento!
+Ah-ha?
+Che nervoso!
+Ti ringrazio!
+Ah ah oh oh!
+Mi piace!
+Quello...
+Merry, merry, merry!
+Carino, carino!
+Uff uff
+Sono felice!
+Arrivo!
+Eh eh
+Sai questo!
+Ehi lì!
+Yaaa!
+Bla bla bla
+Non mi piace!
+Ihihih
+Ahhhhh!
+Hahaha...
+Uaaau!
+Stai bene?
+Aspetta!
+Uhuhuhuh!
+Siiii♥
+Aiutatemi♥
+Beh...?
+Lalalalala♪
+Coosaaa?
+Uhmuhmuhm①
+Gubigubigubi
+Ahuahuahua!
+Eehi!②
+Uuh♪Uuh♪
+Tackle, tackle...
+Ami i Pokémon?
+Che c'è?
+Uhm...
+Grrrrr②
+Un po'!
+E' la fine^
+Bau bau?
+Vaai! Vaai!
+Hiiii
+Domodomo
+Aggressione!
+Bum bum!
+Che nervoso!
+Sii♥
+Guardaguarda
+Ahia ahia
+Clang clang
+Uaaao!
+Al contrario!
 バッチコイ
-ヤッホー！
+Yahoo
 ヒーハー！
 ウフフフフ♥
 わっはははっー
@@ -1916,7 +1916,7 @@ GTS
 ちーっす♪
 あー　どうも
 けいれい！
-ヘーイ！
+Ohh!
 どきどき……
 よろしゅう！
 あらやだー
@@ -1929,23 +1929,23 @@ GTS
 よっしゃこい！
 ぺこり！
 おれおれ！
-へへぇーっ！
-さようならー
+Ooohh!
+Ciao ciao!
 グッドナイト
 これは…なんと？
-おめでとう！
+Auguri!
 いいですねー
 やばいよ…
-やくそく　して…
-よろしくー
-へー
-なるほどねー
+Promesso...
+Piacere
+Ahh
+Capito!
 まさか　あなたが
-ほっほっほっ
+Oh oh oh!
 さすが　ですね
-ベリーグッド
-おおおおおお！
-わあああああ！
+Molto bene!
+Ooooo!
+Uaaaaa!
 カンパーイ
 なんですってー
 およ？
@@ -1954,84 +1954,84 @@ GTS
 ステキ♥
 ファンなんです
 フッ①
-いただきまーす
-おいしいね
+Buon appetito!
+Buono!
 オールライト！
 ドンマイ！
 しあわせだなー
-しかし…
-がんばってー
+Però...
+Forza!
 ぜっこうちょう！
-ようこそー
+Benvenuto!
 いらっしゃいませ
-よろしくー
-ありがとう
+Piacere
+Grazie
 おまちしてます
-バイバイー
+Ciao ciao!
 ハジメ
 ツギコ
 イチミ
 ミライ
 チユ
 パソキチ
-アートス
-アリョーナ
-アッツォ
-アントニナ
-アルヒッパ
-アリビーナ
-アントン
-アスタ
-アンセルミ
-アンネリ
-アルピ
-アネルマ
-アッラン
-アイニッキ
-アーポ
-アーム
-アクセル
-アッスンタ
-アッサール
-アラベッラ
-アティリオ
-アンネッタ
-アマンド
-アガタ
-ジャコブ
-ジャサント
-ジェローム
-ジョゼ
-ジュスタン
-ジャンヌ
-ジュール
-ジュリー
-ジャスパー
-ジェーン
-ジェヒュー
-ジャニス
-ジョナス
-ジェナ
-ジャレッド
-ジョアン
-ジャン
-ジョイス
-ジョエル
-ジョスリン
-ジョシュア
-ジェシー
-ジェリー
-ジュディス
-チェレン
-ホミカ
-アーティ
-カミツレ
-ヤーコン
-フウロ
-シャガ
-シズイ
-トウヤ
-トウコ
+Artus
+Aryona
+Atsuo
+Antonia
+Alippa
+Albina
+Antonio
+Asuta
+Anselmi
+Anneri
+Aldi
+Aneruma
+Alan
+Ainikki
+Apo
+Amu
+Axel
+Assuta
+Assaru
+Alberta
+Attilio
+Annette
+Armando
+Agata
+Giacomo
+Jasanto
+Geronimo
+José
+Giustino
+Giovanna
+Giulio
+Gerry
+Jasper
+John
+Jehyu
+Janice
+Jonas
+Jena
+Jared
+Giovanna
+Giovanni
+Joyce
+Gioele
+Joslin
+Giosué
+Jesse
+Gerry
+Giuditta
+Komor
+Velia
+Artemisio
+Camelia
+Rafan
+Anemone
+Aristide
+Ciprian
+Toya
+Toko
 チェレン『\xf000Ĺ\x0001\x0001の\xfffeうわさを　きいて　あしをはこんだよ\xf000븁\x0000
 ホミカ『よっ！　ここが\xfffe\xf000Ĺ\x0001\x0001だろ\xf000븁\x0000
 アーティ『へええ\xfffeここ　どこ？\xf000븁\x0000\xfffeふうん　そっか　ここが\xfffe\xf000Ĺ\x0001\x0001\xf000븁\x0000
