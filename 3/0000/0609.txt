@@ -128,50 +128,50 @@ Sorridendo, i denti davanti di\xfffe\xf000Ā\x0001\x0000 scintillano!!!\xf000븁
 \xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001！\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0002に\xfffeぴったり　おにあいの\xf000븀\x0000\xfffeおみせを　おおしえしましょう！\xf000븁\x0000
 \xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001！\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0002！\xfffeポケモンを　かいふく　します\xf000븁\x0000
 \xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001！\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0002！\xfffeごようけんは　ありますか？
-かしこまりました\xfffe\xf000ĺ\x0001\x0000！
-ひきつづき　がんばってください\xfffe\xf000ĺ\x0001\x0000！
-ひきつづき　がんばってください\xfffe\xf000ĺ\x0001\x0000！
-ひきつづき　がんばってください\xfffe\xf000ĺ\x0001\x0000！
-かしこまりました\xfffe\xf000ĺ\x0001\x0000！
-ひきつづき　がんばってください\xfffe\xf000ĺ\x0001\x0000！
-ひきつづき　がんばってください\xfffe\xf000ĺ\x0001\x0000！
-ひきつづき　がんばってください\xfffe\xf000ĺ\x0001\x0000！
-げんざい　ランク　\xf000ȁ\x0001\x0000\xfffe\xf000ł\x0001\x0002　です\xf000븁\x0000\xfffeつぎの　ランクまで\xfffeにんきは　あと　\xf000ȃ\x0001\x0001　ひつようです\xf000븁\x0000
-……ズバリ！\xfffe\xf000Ł\x0001\x0000です\xf000븁\x0000\xfffe\xf000Ł\x0001\x0000を\xfffe\xf000Ĺ\x0001\x0001に　ひらいたら\xf000븁\x0000\xfffeきっと　おきゃくさまが　おしよせる\xfffeにんきの　おみせに　なるでしょう！\xf000븁\x0000
-……\xf000Ł\x0001\x0000！\xfffeすばらしい！\xf000븁\x0000\xfffe\xf000Ł\x0001\x0000を\xfffe\xf000Ĺ\x0001\x0001に　ひらいたら\xf000븁\x0000\xfffeきっと　おきゃくさまが　おしよせる\xfffeにんきの　おみせに　なるでしょう\xf000븁\x0000
-……すばらしい　みらいが\xfffeたくさん　みえます\xf000븁\x0000\xfffeこの　なかで　ズバリ！\xfffeなにを　えらびますか？
-では　ひしょの　やくわりを\xfffeこうたい　します\xf000븁\x0000
-では　おみせを\xfffeならびかえます\xf000븁\x0000
-どの　ネオンに　しますか？
-やねの　ネオンを　へんこう　しました\xf000븁\x0000
-どの　ランキングを　みたいですか
-\xf000Ĺ\x0001\x0003は\xfffeげんざい　サービスきかんちゅう　です\xf000븀\x0000\xfffeあと　\xf000ȁ\x0001\x0004にち　おみのがしなく！\xf000븁\x0000
-げんざい　ランク　\xf000ȁ\x0001\x0000\xfffe\xf000ł\x0001\x0002　です\xf000븁\x0000
-『★スター・オレンジ』に\xfffeへんこう　しますか？
-『◆オーロラ・パープル』に\xfffeへんこう　しますか？
-『☁クラウド・ライトブルー』に\xfffeへんこう　しますか？
-『■ストーン・グリーン』に\xfffeへんこう　しますか？
-みんなに\xfffeあいさつを　おこないますか？
-おみせが　１けん　しか　ないので\xfffeならびかえ　できません\xf000븁\x0000
-げんざい　ランク　\xf000ȁ\x0001\x0000\xfffe\xf000ł\x0001\x0002　です\xf000븁\x0000\xfffeつぎの　ランクまで\xfffeにんきは　あと　\xf000ȃ\x0001\x0001　ひつようです\xf000븁\x0000
-……ズバリ！！\xfffe\xf000Ł\x0001\x0000です！\xf000븁\x0000\xfffe\xf000Ł\x0001\x0000を\xfffe\xf000Ĺ\x0001\x0001に　ひらいたら\xf000븁\x0000\xfffeこの　おみせを　おめあてに\xfffeおきゃくさまが　やってくるでしょう\xf000븁\x0000
-……\xf000Ł\x0001\x0000！\xfffeすばらしい　です！\xf000븁\x0000\xfffe\xf000Ł\x0001\x0000を\xfffe\xf000Ĺ\x0001\x0001に　ひらいたら\xf000븁\x0000\xfffeこの　おみせを　おめあてに\xfffeおきゃくさまが　やってくるでしょう\xf000븁\x0000
-……すばらしい　みらいが\xfffeたくさん　みえます\xf000븁\x0000\xfffeこの　なかで　ズバリ！\xfffeなにが　したいですか？
-では　ひしょの　やくわりを\xfffeこうたい　します\xf000븁\x0000
-では　おみせを\xfffeならびかえます\xf000븁\x0000
-どの　ネオンに　しますか？
-ネオンを　へんこう　します\xf000븁\x0000
-どの　ランキングを　みますか
-\xf000Ĺ\x0001\x0003は\xfffeげんざい　サービスきかんちゅう　です\xf000븀\x0000\xfffeあと　\xf000ȁ\x0001\x0004にち　おみのがしなく！\xf000븁\x0000
-げんざい　ランク　\xf000ȁ\x0001\x0000\xfffe\xf000ł\x0001\x0002　です\xf000븁\x0000
-『★スター・オレンジ』に\xfffeへんこう　しますか？
-『◆オーロラ・パープル』に\xfffeへんこう　しますか？
-『☁クラウド・ライトブルー』に\xfffeへんこう　しますか？
-『■ストーン・グリーン』に\xfffeへんこう　しますか？
-みんなに\xfffeあいさつを　おこないますか？
-おみせが　１けん　しか　ないので\xfffeならびかえ　できません\xf000븁\x0000
-しちょう
-\xf000Ā\x0001\x0000さんが　やってきました！\xf000븁\x0000
+Certamente!\xfffe\xf000ĺ\x0001\x0000!
+Continua sempre ad impegnarti!\xfffe\xf000ĺ\x0001\x0000!
+Continua sempre ad impegnarti!\xfffe\xf000ĺ\x0001\x0000!
+Continua sempre ad impegnarti!\xfffe\xf000ĺ\x0001\x0000!
+Certamente!\xfffe\xf000ĺ\x0001\x0000!
+Continua sempre ad impegnarti!\xfffe\xf000ĺ\x0001\x0000!
+Continua sempre ad impegnarti!\xfffe\xf000ĺ\x0001\x0000!
+Continua sempre ad impegnarti!\xfffe\xf000ĺ\x0001\x0000!
+L'attuale Livello　\xf000ȁ\x0001\x0000\xfffeè \xf000ł\x0001\x0002!\xf000븁\x0000\xfffeIl prossimo Livello sarà raggiunto\xfffequando si saranno accumulati\xf000\xbe00\x0000\xfffe\xf000ȃ\x0001\x0001　punti Popolarità.\xf000븁\x0000
+...!\xfffeE' \xf000Ł\x0001\x0000.\xf000븁\x0000\xfffeSe aprirai \xf000Ĺ\x0001\x0001\xfffe\xf000Ł\x0001\x0000,\xf000븁\x0000\xfffeverranno altri visitatori!\xfffeAumenterà la Popolarità!\xf000븁\x0000
+...! \xf000Ł\x0001\x0000!\xfffeFantastico!\xf000븁\x0000\xfffeSe aprirai \xf000Ĺ\x0001\x0001\xfffe\xf000Ł\x0001\x0000,\xf000븁\x0000\xfffeverranno altri visitatori!\xfffeAumenterà la Popolarità!\xf000븁\x0000
+... Riesco a vedere uno splendido\xfffefuturo!\xf000븁\x0000\xfffeDecisamente!\xfffeCosa scegli?
+Allora cambiamo l'ordine\xfffedei segretari!\xf000븁\x0000
+Allora riordiniamo i negozi.\xf000븁\x0000
+Quale luce vuoi?
+Le luci sono state cambiate.\xf000븁\x0000
+Che classifica vuoi vedere?
+\xf000Ĺ\x0001\x0003 è l'attuale\xfffedurata del servizio.\xf000븀\x0000\xfffeNon dimenticarti che chiude\xf000\xbe00\x0000\xfffetra \xf000ȁ\x0001\x0004 giorni!\xf000븁\x0000
+L'attuale Livello \xf000ȁ\x0001\x0000\xfffeè \xf000ł\x0001\x0002.\xf000븁\x0000
+Vuoi cambiare con\xfffe"★Stella・Arancio"?
+Vuoi cambiare con\xfffe"◆Aurora・Viola"?
+Vuoi cambiare con\xfffe"☁Nuvole・Azzurre"?
+Vuoi cambiare con\xfffe"■Pietra・Verde"?
+Vuoi salutare tutti?
+Dato che c'è solo 1 negozio\xfffenon puoi riordinarli.\xf000븁\x0000
+L'attuale Livello　\xf000ȁ\x0001\x0000\xfffeè \xf000ł\x0001\x0002!\xf000븁\x0000\xfffeIl prossimo Livello sarà raggiunto\xfffequando si saranno accumulati\xf000\xbe00\x0000\xfffe\xf000ȃ\x0001\x0001　punti Popolarità.\xf000븁\x0000
+...!\xfffeE' \xf000Ł\x0001\x0000.\xf000븁\x0000\xfffeSe aprirai \xf000Ĺ\x0001\x0001\xfffe\xf000Ł\x0001\x0000,\xf000븁\x0000\xfffeverranno altri visitatori!\xfffeAumenterà la Popolarità!\xf000븁\x0000
+...! \xf000Ł\x0001\x0000!\xfffeFantastico!\xf000븁\x0000\xfffeSe aprirai \xf000Ĺ\x0001\x0001\xfffe\xf000Ł\x0001\x0000,\xf000븁\x0000\xfffeverranno altri visitatori!\xfffeAumenterà la Popolarità!\xf000븁\x0000
+... Riesco a vedere uno splendido\xfffefuturo!\xf000븁\x0000\xfffeDecisamente!\xfffeCosa scegli?
+Allora cambiamo l'ordine\xfffedei segretari!\xf000븁\x0000
+Allora riordiniamo i negozi.\xf000븁\x0000
+Quale luce vuoi?
+Le luci sono state cambiate.\xf000븁\x0000
+Che classifica vuoi vedere?
+\xf000Ĺ\x0001\x0003 è l'attuale\xfffedurata del servizio.\xf000븀\x0000\xfffeNon dimenticarti che chiude\xf000\xbe00\x0000\xfffetra \xf000ȁ\x0001\x0004 giorni!\xf000븁\x0000
+L'attuale Livello \xf000ȁ\x0001\x0000\xfffeè \xf000ł\x0001\x0002.\xf000븁\x0000
+Vuoi cambiare con\xfffe"★Stella・Arancio"?
+Vuoi cambiare con\xfffe"◆Aurora・Viola"?
+Vuoi cambiare con\xfffe"☁Nuvole・Azzurre"?
+Vuoi cambiare con\xfffe"■Pietra・Verde"?
+Vuoi salutare tutti?
+Dato che c'è solo 1 negozio\xfffenon puoi riordinarli.\xf000븁\x0000
+Ufficio
+E' arrivato \xf000Ā\x0001\x0000!\xf000븁\x0000
 Invita a stabilirsi qui
 Scopri
 Informa
@@ -233,13 +233,13 @@ N. Lotte in Link
 N. Pokémon catturati
 N. Uova schiuse
 N. Medaglie
-アベニューに　しょうたい　します\xfffeゆめの　おみせを　ひらきます
-じぶんの　ひしょとして　スカウトします\xfffeいまいる　ひしょと　いれかわります
-おすすめの　おみせを　おしえて\xfffeあそびに　きてもらいます
-さいきんの　できごとを　ききます
-やりたい　ゆめの　おみせに　ついて\xfffeはなして　もらいます
-ゲストルームから　かえらないように　\xfffeしばらく　まってて　もらいます
-さようならを　すると\xfffeゲストルームから　かえっていきます
+Invitandomi a stabilirmi qui,\xfffeaprirei il negozio che sognavo.
+Scoprendo una nuova segretaria,\xffferiordinerai quelle già presenti.
+Informandomi sui negozi,\xfffeverrò qui a giocare.
+Ascolta gli ultimi fatti
+Ti parlerò del negozio che vorrei
+Dato che non tornerò alla Guest Room,\xfffeaspetta un attimo.
+Salutandomi, tornerò\xfffealla Guest Room.
 \xf000ĸ\x0001\x0000
 Sei in difficoltà?
 Termina conversazione
