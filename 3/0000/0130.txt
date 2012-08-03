@@ -9,16 +9,16 @@ Belle: Puff... Puff...\xf000븁\x0000\xfffeAspetta... Aspettatemi...\xfffeVoglio
 Aralia: Oh cielo! Belle,\xfffesembri proprio una ricercatrice!\xf000븁\x0000\xfffeDunque, andiamo tutti\xfffeinsieme alla Città di Yamaji!!\xf000븁\x0000
 Anemone: Eh eh!\xfffeSiete pronti!?\xf000븁\x0000\xfffeBeh allora...\xfffeVoliamo!!\xf000븁\x0000
 Ciao!\xf000븁\x0000\xfffeSpedizioni ultrarapide！\xfffeServizio Cargo di Ponentopoli!\xf000븁\x0000\xfffeFaremmo volare anche le persone se la\xfffeCapopalestra che lo permettesse...
-We deliver things quickly!\xfffeThis is Mistralton Cargo Service.\xf000\xbe01\x0000\xfffeWant to head to\xfffeYamaji Town by plane?
-I understand! それでは\xfffeフウロさんに れんらく しますので\xf000\xbe00\x0000\xfffeひこうきに のって おまちください\xf000\xbe01\x0000
-Yes!\xfffePlease come again anytime!
-We deliver things quickly!\xfffeThis is Mistralton Cargo Service.\xf000\xbe01\x0000
-Ahh..!\xfffeIt is permitted!\xf000\xbe01\x0000\xfffeイッシュちほう から\xfffeとおくとおく はなれた\xf000\xbe00\x0000\xfffeしぜんほごくへ いくための もの!\xf000\xbe01\x0000\xfffeそれでは\xfffeしぜんほごくに いかれますか?
-We deliver things quickly!\xfffeThis is Mistralton Cargo Service.\xf000\xbe01\x0000\xfffeWhat will you send?
+Consegniamo le cose velocemente!\xfffeQuesto è Mistralton Cargo Service.\xf000\xbe01\x0000\xfffeVuoi andare alla\xfffeCittà di Yamaji in aereo?
+Capisco! それでは\xfffeフウロさんに れんらく しますので\xf000\xbe00\x0000\xfffeひこうきに のって おまちください\xf000\xbe01\x0000
+Si!\xfffeTorna pure quando vuoi!
+Consegnamo le cose velocemente!\xfffeQuesto è Mistralton Cargo Service.\xf000\xbe01\x0000
+Ahh..!\xfffeÈ consentito!\xf000\xbe01\x0000\xfffeイッシュちほう から\xfffeとおくとおく はなれた\xf000\xbe00\x0000\xfffeしぜんほごくへ いくための もの!\xf000\xbe01\x0000\xfffeそれでは\xfffeしぜんほごくに いかれますか?
+Consegnamo le cose velocemente!\xfffeQuesto è Mistralton Cargo Service.\xf000\xbe01\x0000\xfffeCosa vorresti mandare?
 Città di Yamaji
 Culla della Natura
 Indietro
-HM-Fly sends you to any\xfffevisited Poké Center.
+MN-VOLO ti manda in qualsiasi\xfffeCentro Pokémon visitato.
 ひこうきの こうぞうを しらないと\xfffeせいびは できないだろ?\xf000\xbe01\x0000\xfffeポケモンしょうぶも おなじさ\xfffeポケモンに くわしいほど かてるだろ
 Ehi, tu!\xf000븁\x0000\xfffeHai qualche Pokémon di tipo\xfffeVolante o Psico con te?\xf000븁\x0000
 Ah!\xfffeHai un \xf000ā\x0001\x0000, eh?\xf000븁\x0000\xfffePOtresti aiutarmi con il\xfffemio bagaglio? E' bloccato!\xf000븁\x0000
@@ -32,11 +32,11 @@ Tu... Tu!\xf000븁\x0000\xfffeLa medaglia da: "Bravo Pilota"!\xfffeCe l'hai, non
 『エースパイロット』……\xfffeあまい　ひびき　だ……\xf000븁\x0000\xfffeそらを　じゆうに　とびまわった\xfffeキミの　ポケモンに　カンパイ！\xf000븁\x0000\xfffeぼくも　ひこうきの\xfffeそうじゅう　がんばるぞー！
 Benvenuto a Ponentopoli, città celeste!\xfffePrendi questo come ricordo!\xf000븁\x0000
 するどいくちばし という どうぐを\xfffeポケモンに もたせてあげると\xf000\xbe01\x0000\xfffeひこうタイプの わざの\xfffeいりょくが アップ するのよ!
-Sweets, lovely Heart Sweets! ♪\xfffeCheck your feelings together...\xf000\xbe01\x0000If they're super-affectionate,\xfffeyou'll get so many sweets! ♪\xf000\xbe00\x0000So sweet and enchanting... ♪\xf000\xbe01\x0000
+Sweets, lovely Heart Sweets! ♪\xfffeCheck your feelings together...\xf000\xbe01\x0000If they're super-affectionate,\xfffeyou'll get so many sweets! ♪\xf000\xbe00\x0000Così dolce e incantevole... ♪\xf000\xbe01\x0000
 Oh? You have\xfffesome Heart Sweets!\xf000\xbe01\x0000Will you trade ten Heart Sweets\xfffefor one of my Heart Scales?
 I'm in a special\xfffemood today!\xf000\xbe01\x0000\xfffeあなたの ハートスイーツ 5まいと\xfffeハートのウロコを こうかんしない?
 Bring me a lot of Heart Sweets,\xfffeand I'll trade you some good stuff!
 Yeeee!\xfffeHo catturato il tuo cuore!\xf000븁\x0000
-Ah? What a shame,\xfffewhat a shame indeed!\xf000\xbe01\x0000\xfffeあなたの ハートのウロコ\xfffeもう いっぱい なのね
+Ah? Che peccato,\xfffeChe peccato davvero!\xf000\xbe01\x0000\xfffeあなたの ハートのウロコ\xfffeもう いっぱい なのね
 OK...\xfffeAww...Che peccato.
 ハートスイーツを　わたして\xfffeかわりに　ハートのウロコを　もらった\xf000븁\x0000
