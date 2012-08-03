@@ -10,5 +10,5 @@ A skateboard is resting on\xfffea pile of wheels.
 A halfpipe for skateboards...\xf000\xbe01\x0000\xfffeIt has Pokémon scratch marks\xfffeon it here and there...
 Un pannello\xfffepdecorato con forme geometriche.
 This panel has a dart stuck in it.
-E' u nset di trenini e rotaie.\xfffeÈ stato usato recentemente?
+E' un set di trenini e rotaie.\xfffeÈ stato usato recentemente?
 Questa scatola contiene\xfffedei pezzi di un set di trenini.
