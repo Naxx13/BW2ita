@@ -1017,25 +1017,25 @@ Test
 \xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeBene, sta per nascere!\xf000븁\x0000\xfffeCrick crock crick crock\xfffecrick crock crick crock!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: ... Forse ancora un pochino?\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffeCrick crock crick crock\xfffecrick crock crick crock!\xf000븁\x0000\xfffe... !!!!!!!\xf000븁\x0000
 \xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeBene, sta per nascere!\xf000븁\x0000\xfffeCrick crock crick crock\xfffecrick crock crick crock!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe... !!!!!!!\xf000븁\x0000
 \xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeBene, sta per nascere!\xf000븁\x0000\xfffeCrick crock crick crock\xfffecrick crock crick crock!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe... !!!!!!!\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002！\xf000븀\x0000\xfffeがんばろう！！！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeがんばれー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeがんばれー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeもっと　がんばって！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeもっと　もっと　がんばって！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『もっと　もっと　もっと\xfffeがんばってーーー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『がーんーばっーてーー！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001！\xfffeがんばった！！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002！\xf000븀\x0000\xfffeがんばろう！！！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeがんばれー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeがんばれー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeもっと　がんばって！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeもっと　もっと　がんばって！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『もっと　もっと　もっと\xfffeがんばってーーー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『がーんーばっーてーー！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001！\xfffeがんばった！！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002！\xf000븀\x0000\xfffeがんばろう！！！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeがんばれー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeがんばれー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeもっと　がんばって！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeもっと　もっと　がんばって！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『もっと　もっと　もっと\xfffeがんばってーーー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『がーんーばっーてーー！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001！\xfffeがんばった！！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002！\xf000븀\x0000\xfffeがんばろう！！！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeがんばれー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeがんばれー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeもっと　がんばって！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeもっと　もっと　がんばって！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『もっと　もっと　もっと\xfffeがんばってーーー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『がーんーばっーてーー！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001！\xfffeがんばった！！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002！\xf000븀\x0000\xfffeがんばろう！！！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeがんばれー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeがんばれー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeもっと　がんばって！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeもっと　もっと　がんばって！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『もっと　もっと　もっと\xfffeがんばってーーー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『がーんーばっーてーー！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001！\xfffeがんばった！！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002！\xf000븀\x0000\xfffeがんばろう！！！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeがんばれー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeがんばれー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeもっと　がんばって！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeもっと　もっと　がんばって！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『もっと　もっと　もっと\xfffeがんばってーーー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『がーんーばっーてーー！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001！\xfffeがんばった！！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002！\xf000븀\x0000\xfffeがんばろう！！！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeがんばれー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeがんばれー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeもっと　がんばって！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeもっと　もっと　がんばって！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『もっと　もっと　もっと\xfffeがんばってーーー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『がーんーばっーてーー！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001！\xfffeがんばった！！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002！\xf000븀\x0000\xfffeがんばろう！！！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeがんばれー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeがんばれー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeもっと　がんばって！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeもっと　もっと　がんばって！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『もっと　もっと　もっと\xfffeがんばってーーー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『がーんーばっーてーー！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001！\xfffeがんばった！！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002！\xf000븀\x0000\xfffeがんばろう！！！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeがんばれー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeがんばれー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeもっと　がんばって！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeもっと　もっと　がんばって！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『もっと　もっと　もっと\xfffeがんばってーーー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『がーんーばっーてーー！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001！\xfffeがんばった！！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002！\xf000븀\x0000\xfffeがんばろう！！！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeがんばれー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeがんばれー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeもっと　がんばって！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeもっと　もっと　がんばって！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『もっと　もっと　もっと\xfffeがんばってーーー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『がーんーばっーてーー！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001！\xfffeがんばった！！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002！\xf000븀\x0000\xfffeがんばろう！！！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeがんばれー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeがんばれー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeもっと　がんばって！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeもっと　もっと　がんばって！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『もっと　もっと　もっと\xfffeがんばってーーー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『がーんーばっーてーー！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001！\xfffeがんばった！！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002！\xf000븀\x0000\xfffeがんばろう！！！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeがんばれー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeがんばれー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeもっと　がんばって！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000Ă\x0001\x0002！\xfffeもっと　もっと　がんばって！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『もっと　もっと　もっと\xfffeがんばってーーー！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『がーんーばっーてーー！\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001！\xfffeがんばった！！\xf000븁\x0000
-\xf000\xff00\x0001\x0002（スクリプトによる\xfffe　えんしゅつとテキストをいれます）\xf000븁\x0000\xf000\xff00\x0001\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffeさあ　めしあがれ\xf000븁\x0000\xfffeパクパク　ゴックン\xfffeパクパク　ゴックン\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002は\xfffeおいしく　たべた！！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffeさあ　めしあがれ\xf000븁\x0000\xfffeパクパク　ゴックン\xfffeパクパク　ゴックン\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002は\xfffeおいしく　たべた！！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffeさあ　めしあがれ\xf000븁\x0000\xfffeゴクゴク　ゴックン\xfffeゴクゴク　ゴックン\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002は\xfffeおいしく　のんだ！！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffeさあ　めしあがれ\xf000븁\x0000\xfffeゴクゴク　ゴックン\xfffeゴクゴク　ゴックン\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002は\xfffeおいしく　のんだ！！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffeさあ　めしあがれ\xf000븁\x0000\xfffeパクパク　ゴックン\xfffeゴクゴク　ゴックン\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002は\xfffeおいしく　たべて　のんだ！！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001\xfffeさあ　めしあがれ\xf000븁\x0000\xfffeパクパク　ゴックン\xfffeゴクゴク　ゴックン\xf000븁\x0000\xfffe……　……　……　\xfffe……　……　……\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002は\xfffeおいしく　たべて　のんだ！！\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeMetticela tutta!!!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForzaaa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForzaaa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForza, ancora di più!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeAncora ancora di più!!!！\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Ancora ancora ancora\xfffedi piùùù!!!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Foooorzaaaa!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001!\xfffeCe l'hai fatta!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeMetticela tutta!!!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForzaaa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForzaaa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForza, ancora di più!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeAncora ancora di più!!!！\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Ancora ancora ancora\xfffedi piùùù!!!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Foooorzaaaa!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001!\xfffeCe l'hai fatta!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeMetticela tutta!!!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForzaaa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForzaaa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForza, ancora di più!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeAncora ancora di più!!!！\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Ancora ancora ancora\xfffedi piùùù!!!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Foooorzaaaa!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001!\xfffeCe l'hai fatta!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeMetticela tutta!!!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForzaaa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForzaaa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForza, ancora di più!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeAncora ancora di più!!!！\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Ancora ancora ancora\xfffedi piùùù!!!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Foooorzaaaa!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001!\xfffeCe l'hai fatta!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeMetticela tutta!!!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForzaaa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForzaaa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForza, ancora di più!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeAncora ancora di più!!!！\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Ancora ancora ancora\xfffedi piùùù!!!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Foooorzaaaa!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001!\xfffeCe l'hai fatta!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeMetticela tutta!!!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForzaaa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForzaaa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForza, ancora di più!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeAncora ancora di più!!!！\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Ancora ancora ancora\xfffedi piùùù!!!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Foooorzaaaa!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001!\xfffeCe l'hai fatta!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeMetticela tutta!!!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForzaaa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForzaaa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForza, ancora di più!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeAncora ancora di più!!!！\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Ancora ancora ancora\xfffedi piùùù!!!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Foooorzaaaa!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001!\xfffeCe l'hai fatta!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeMetticela tutta!!!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForzaaa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForzaaa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForza, ancora di più!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeAncora ancora di più!!!！\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Ancora ancora ancora\xfffedi piùùù!!!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Foooorzaaaa!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001!\xfffeCe l'hai fatta!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeMetticela tutta!!!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForzaaa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForzaaa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForza, ancora di più!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeAncora ancora di più!!!！\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Ancora ancora ancora\xfffedi piùùù!!!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Foooorzaaaa!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001!\xfffeCe l'hai fatta!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeMetticela tutta!!!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForzaaa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForzaaa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForza, ancora di più!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeAncora ancora di più!!!！\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Ancora ancora ancora\xfffedi piùùù!!!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Foooorzaaaa!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001!\xfffeCe l'hai fatta!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeMetticela tutta!!!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForzaaa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForzaaa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForza, ancora di più!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeAncora ancora di più!!!！\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Ancora ancora ancora\xfffedi piùùù!!!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Foooorzaaaa!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001!\xfffeCe l'hai fatta!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeMetticela tutta!!!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForzaaa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForzaaa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeForza, ancora di più!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeAncora ancora di più!!!！\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Ancora ancora ancora\xfffedi piùùù!!!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Foooorzaaaa!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001!\xfffeCe l'hai fatta!!\xf000븁\x0000
+\xf000\xff00\x0001\x0002(Script\xfffe　Inserire il testo)\xf000븁\x0000\xf000\xff00\x0001\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeBene, mangiamo!\xf000븁\x0000\xfffeGnam gnam gnam\xfffegnam gnam gnam\xf000븁\x0000\xfffe... ... . ..\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002 ha mangiato!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeBene, mangiamo!\xf000븁\x0000\xfffeGnam gnam gnam\xfffegnam gnam gnam\xf000븁\x0000\xfffe... ... . ..\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002 ha mangiato!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeBene, mangiamo!\xf000븁\x0000\xfffeGlug glug glug\xfffeglug glug glug\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002 ha mangiato e\xfffebevuto!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeBene, mangiamo!\xf000븁\x0000\xfffeGlug glug glug\xfffeglug glug glug\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002 ha mangiato e\xfffebevuto!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeBene, mangiamo!\xf000븁\x0000\xfffeGnam gnam gnam\xfffeglug glug glug\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002 ha mangiato e\xfffebevuto!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeBene, mangiamo!\xf000븁\x0000\xfffeGnam gnam gnam\xfffeglug glug glug\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002 ha mangiato e\xfffebevuto!!\xf000븁\x0000
 \xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeBeh, abbelliamolo, allora!\xf000븁\x0000\xfffeZac zac zac zac!\xfffeZac zac zac zac!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffeOra \xf000Ă\x0001\x0002 è\xfffemolto più bello!!\xf000븁\x0000
 \xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeBeh, abbelliamolo, allora!\xf000븁\x0000\xfffeZac zac zac zac!\xfffeZac zac zac zac!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffeOra \xf000Ă\x0001\x0002 è\xfffemolto più bello!!\xf000븁\x0000
 \xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeBeh, abbelliamolo, allora!\xf000븁\x0000\xfffeFruush frushh fruush\xfffefrushh frussh fruuush!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffeOra \xf000Ă\x0001\x0002 è\xfffemolto più bello!!\xf000븁\x0000
@@ -1046,224 +1046,224 @@ Test
 \xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeBeh, abbelliamolo, allora!\xf000븁\x0000\xfffeShaaaf shaf shaf\xfffewooo wooo wooo\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffeOra \xf000Ă\x0001\x0002 è\xfffemolto più bello!!\xf000븁\x0000
 
 
-\xf000Ā\x0001\x0001『\xf000ķ\x0001\x0000\xfffeとくに　ないです！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeチャンピオンに　しょうりして\xf000븀\x0000\xfffeでんどういり　してきました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeバトルサブウェイに　じょうしゃして\xf000븀\x0000\xfffeたいせん　してきました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeポケウッドで　えいがを\xf000븀\x0000\xfffeさつえい　してきました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeトライアルハウスで\xf000븀\x0000\xfffeバトルけんてい　してきました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeポケモンミュージカルで　えんもくを\xf000븀\x0000\xfffeひろう　してきました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeハイリンクで　あいての　せかいへ\xf000븀\x0000\xfffeしんにゅう　してきました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeハイリンクフェスの　ミッションに\xf000븀\x0000\xfffeちょうせん　してました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeポケモンの　タマゴを\xf000븀\x0000\xfffeふか　させてました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeポケモンの　レベルを\xf000븀\x0000\xfffeあげていました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeテレビを　みていました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeゴミばこの　なかみを\xf000븀\x0000\xfffeしらべていました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeポケモンの　ニックネームを\xf000븀\x0000\xfffeつけていました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeすごいつりざおで　ポケモンを\xf000븀\x0000\xfffeつりあげました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeみえない　どうぐを\xf000븀\x0000\xfffeさがしていました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeポケモンの　カセキを\xf000븀\x0000\xfffeふくげん　していました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeユニオンルームで\xf000븀\x0000\xfffeみんなと　つうしん　していました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeＧＴＳで\xf000븀\x0000\xfffeポケモンこうかん　していました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeＧＴＳネゴシエーションで\xf000븀\x0000\xfffeポケモンこうかん　していました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeみんなの　バトルビデオを\xf000븀\x0000\xfffeみていました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeランダムマッチで\xf000븀\x0000\xfffeポケモンたいせんを　していました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeしりあいと　ゆうえんちで\xf000븀\x0000\xfffeかんらんしゃに　のっていました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeくろのまてんろうに\xf000븀\x0000\xfffeちょうせん　していました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeポケモンワールドトーナメントに\xf000븀\x0000\xfffeちょうせん　していました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeジョインアベニューで\xf000븀\x0000\xfffeまちの　にんきを　あげていました\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeライブキャスターで\xf000븀\x0000\xfffeみんなと　ゲーム　していました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeＷｉ－Ｆｉクラブで\xf000븀\x0000\xfffeみんなと　つうしん　していました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeかくしあなを　さがしていました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeゲームシンクで\xf000븀\x0000\xfffeゆめのせかいへ　つなげてました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeふしぎなおくりものを\xf000븀\x0000\xfffeはいたついんから　もらってました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeせきがいせんを　つかって\xf000븀\x0000\xfffeつうしん　していました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeやせいの　ポケモンを\xf000븀\x0000\xfffeつかまえて　いました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeしろのじゅどうに\xf000븀\x0000\xfffeちょうせん　していました！\xf000븁\x0000
-\xf000Ā\x0001\x0001『\xf000ķ\x0001\x0000\xfffeとくに　ないです！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeチャンピオンに　しょうりして\xf000븀\x0000\xfffeでんどういり　してきました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeバトルサブウェイに　じょうしゃして\xf000븀\x0000\xfffeたいせん　してきました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeポケウッドで　えいがを\xf000븀\x0000\xfffeさつえい　してきました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeトライアルハウスで\xf000븀\x0000\xfffeバトルけんてい　してきました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeポケモンミュージカルで　えんもくを\xf000븀\x0000\xfffeひろう　してきました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeハイリンクで　あいての　せかいへ\xf000븀\x0000\xfffeしんにゅう　してきました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeハイリンクフェスの　ミッションに\xf000븀\x0000\xfffeちょうせん　してました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeポケモンの　タマゴを\xf000븀\x0000\xfffeふか　させてました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeポケモンの　レベルを\xf000븀\x0000\xfffeあげていました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeテレビを　みていました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeゴミばこの　なかみを\xf000븀\x0000\xfffeしらべていました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeポケモンの　ニックネームを\xf000븀\x0000\xfffeつけていました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeすごいつりざおで　ポケモンを\xf000븀\x0000\xfffeつりあげました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeみえない　どうぐを\xf000븀\x0000\xfffeさがしていました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeポケモンの　カセキを\xf000븀\x0000\xfffeふくげん　していました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeユニオンルームで\xf000븀\x0000\xfffeみんなと　つうしん　していました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeＧＴＳで\xf000븀\x0000\xfffeポケモンこうかん　していました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeＧＴＳネゴシエーションで\xf000븀\x0000\xfffeポケモンこうかん　していました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeみんなの　バトルビデオを\xf000븀\x0000\xfffeみていました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeランダムマッチで\xf000븀\x0000\xfffeポケモンたいせんを　していました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeしりあいと　ゆうえんちで\xf000븀\x0000\xfffeかんらんしゃに　のっていました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeくろのまてんろうに\xf000븀\x0000\xfffeちょうせん　していました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeポケモンワールドトーナメントに\xf000븀\x0000\xfffeちょうせん　していました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeジョインアベニューで\xf000븀\x0000\xfffeまちの　にんきを　あげていました\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeライブキャスターで\xf000븀\x0000\xfffeみんなと　ゲーム　していました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeＷｉ－Ｆｉクラブで\xf000븀\x0000\xfffeみんなと　つうしん　していました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeかくしあなを　さがしていました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeゲームシンクで\xf000븀\x0000\xfffeゆめのせかいへ　つなげてました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeふしぎなおくりものを\xf000븀\x0000\xfffeはいたついんから　もらってました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeせきがいせんを　つかって\xf000븀\x0000\xfffeつうしん　していました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeやせいの　ポケモンを\xf000븀\x0000\xfffeつかまえて　いました！\xf000븁\x0000
-２０\xf000ȁ\x0001\x0000ねん\xf000ȁ\x0001\x0002がつ\xf000ȁ\x0001\x0003にち　に\xfffeしろのじゅどうに\xf000븀\x0000\xfffeちょうせん　していました！\xf000븁\x0000
-……まだまだ　あります\xf000븁\x0000
-……まだまだ　ありますよ\xf000븁\x0000
-ごらんください！\xf000븁\x0000
-ごらんください！\xf000븁\x0000
-じまんできる\xfffeメダルが　ないんです\xf000븁\x0000
-じまんできる\xfffeメダルが　ないですね\xf000븁\x0000
-もしも　この　まちで\xfffeゆめを　かなえるなら……\xf000븁\x0000\xfffeみんなを\xfffeドキドキ　ワクワクさせたいな
-もしも　この　まちで\xfffeゆめを　かなえるなら……\xf000븁\x0000\xfffeいろいろな　ポケモンを\xfffeきれいに　したいな
-もしも　この　まちで\xfffeゆめを　かなえるなら……\xf000븁\x0000\xfffeいいものを　いっぱい　あつめて\xfffeみんなを　おどろかせたいな
-もしも　この　まちで\xfffeゆめを　かなえるなら……\xf000븁\x0000\xfffeきれいな　はなで\xfffeみんなを　いやしたいな
-もしも　この　まちで\xfffeゆめを　かなえるなら……\xf000븁\x0000\xfffeいろんな　ポケモンを　きたえて\xfffeつよく　したいな
-もしも　この　まちで\xfffeゆめを　かなえるなら……\xf000븁\x0000\xfffeポケモンの　タマゴを\xfffeかえす　しごとが　したいな
-もしも　この　まちで\xfffeゆめを　かなえるなら……\xf000븁\x0000\xfffeこだわりの　どうぐを　そろえて\xfffeみんなを　おどろかせたいな！
-もしも　この　まちで\xfffeゆめを　かなえるなら……\xf000븁\x0000\xfffeポケモンの　ために\xfffeおいしい　ごはんを　つくって\xf000븀\x0000\xfffeポケモンを　しあわせにしたいな
-もしも　この　まちで\xfffeゆめを　かなえるなら……\xf000븁\x0000\xfffeみんなを\xfffeドキドキ　ワクワクさせたいな
-もしも　この　まちで\xfffeゆめを　かなえるなら……\xf000븁\x0000\xfffeいろいろな　ポケモンを\xfffeきれいに　したいな
-もしも　この　まちで\xfffeゆめを　かなえるなら……\xf000븁\x0000\xfffeいいものを　いっぱい　あつめて\xfffeみんなを　おどろかせたいな
-もしも　この　まちで\xfffeゆめを　かなえるなら……\xf000븁\x0000\xfffeきれいな　はなで\xfffeみんなを　いやしたいな
-もしも　この　まちで\xfffeゆめを　かなえるなら……\xf000븁\x0000\xfffeいろんな　ポケモンを　きたえて\xfffeつよく　したいな
-もしも　この　まちで\xfffeゆめを　かなえるなら……\xf000븁\x0000\xfffeポケモンの　タマゴを\xfffeかえす　しごとが　したいな
-もしも　この　まちで\xfffeゆめを　かなえるなら……\xf000븁\x0000\xfffeこだわりの　どうぐを　そろえて\xfffeみんなを　おどろかせたいな！
-もしも　この　まちで\xfffeゆめを　かなえるなら……\xf000븁\x0000\xfffeポケモンの　ために\xfffeおいしい　ごはんを　つくって\xf000븀\x0000\xfffeポケモンを　しあわせにしたいな
+\xf000Ā\x0001\x0001: \xf000ķ\x0001\x0000\xfffeNiente di speciale!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeBattuto il campione ed entrato\xf000븀\x0000\xfffenella Sala d'Onore!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffePreso un treno nel Metrò Lotta e\xf000븀\x0000\xfffelottato!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeProdotto un film nel Pokéwood!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeOttenuto riconoscimento\xf000븀\x0000\xfffeall'Esame di Lotta!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffePartecipato ad un Musical\xf000븀\x0000\xfffenel Pokémon Musical!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeNell'Intramondo entrato nel mondo\xf000븀\x0000\xfffedi un amico!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeAffrontata Missione Fes dell'Intramondo!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeFatto schiudere un uovo!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeFatto salire un Pokémon di Livello!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeGuardato la televisione!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeFrugato in un cestino!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeCambiato Soprannome ad un Pokémon!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffePescato un Pokémon con il Super Amo!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeTrovato uno strumento nascosto!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeResuscitato fossile!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeConnesso tramite la Sala Contatto!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeScambiato tramite GTS!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeScambiato tramite le Trattative GTS!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeGuardato Video Lotta di altre persone!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeLottato tramite Abbinamento a Caso!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeSalito sulla Ruota Panoramica\xf000븀\x0000\xfffedi un Parco Divertimenti!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeLottato nel Grattacielo Nero!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeLottato nel Pokémon World Tournament!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeSalita Popolarità della Galleria\xf000븀\x0000\xfffeSolidarietà!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeGiocato tramite Interpoké!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeConnesso tramite Club Wi-Fi!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeTrovata una Tana Nascosta!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeEntrato nel Dream World tramite\xf000븀\x0000\xfffeSincrogioco!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeOttenuto Dono Segreto tramite\xf000븀\x0000\xfffeuna distribuzione!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeConnesso tramite infrarossi!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeCatturato Pokémon selvatico!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeLottato nel Grande Albero Bianco!\xf000븁\x0000
+\xf000Ā\x0001\x0001: \xf000ķ\x0001\x0000\xfffeNiente di speciale!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeBattuto il campione ed entrato\xf000븀\x0000\xfffenella Sala d'Onore!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffePreso un treno nel Metrò Lotta e\xf000븀\x0000\xfffelottato!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeProdotto un film nel Pokéwood!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeOttenuto riconoscimento\xf000븀\x0000\xfffeall'Esame di Lotta!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffePartecipato ad un Musical\xf000븀\x0000\xfffenel Pokémon Musical!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeNell'Intramondo entrato nel mondo\xf000븀\x0000\xfffedi un amico!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeAffrontata Missione Fes dell'Intramondo!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeFatto schiudere un uovo!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeFatto salire un Pokémon di Livello!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeGuardato la televisione!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeFrugato in un cestino!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeCambiato Soprannome ad un Pokémon!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffePescato un Pokémon con il Super Amo!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeTrovato uno strumento nascosto!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeResuscitato fossile!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeConnesso tramite la Sala Contatto!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeScambiato tramite GTS!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeScambiato tramite le Trattative GTS!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeGuardato Video Lotta di altre persone!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeLottato tramite Abbinamento a Caso!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeSalito sulla Ruota Panoramica\xf000븀\x0000\xfffedi un Parco Divertimenti!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeLottato nel Grattacielo Nero!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeLottato nel Pokémon World Tournament!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeSalita Popolarità della Galleria\xf000븀\x0000\xfffeSolidarietà!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeGiocato tramite Interpoké!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeConnesso tramite Club Wi-Fi!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeTrovata una Tana Nascosta!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeEntrato nel Dream World tramite\xf000븀\x0000\xfffeSincrogioco!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeOttenuto Dono Segreto tramite\xf000븀\x0000\xfffeuna distribuzione!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeConnesso tramite infrarossi!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeCatturato Pokémon selvatico!\xf000븁\x0000
+Il \xf000ȁ\x0001\x0003/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000\xfffeLottato nel Grande Albero Bianco!\xf000븁\x0000
+... Non c'è ancora.\xf000븁\x0000
+... Non c'è ancora!\xf000븁\x0000
+Dacci un'occhiata per favore!\xf000븁\x0000
+Dacci un'occhiata per favore!\xf000븁\x0000
+Non hai una Medaglia Scelta.\xf000븁\x0000
+Non hai una Medaglia Scelta!\xf000븁\x0000
+Se mi trasferissi qui,\xfffeil mio sogno sarebbe...\xf000븁\x0000\xfffeFar entusiasmare tutti!
+Se mi trasferissi qui,\xfffeil mio sogno sarebbe...\xf000븁\x0000\xfffeAbbellire molti Pokémon!
+Se mi trasferissi qui,\xfffeil mio sogno sarebbe...\xf000븁\x0000\xfffeStupire tutti collezionando molte\xfffecose!
+Se mi trasferissi qui,\xfffeil mio sogno sarebbe...\xf000븁\x0000\xfffeCurare tutti con stupende\xfffebacche!
+Se mi trasferissi qui,\xfffeil mio sogno sarebbe...\xf000븁\x0000\xfffeAllenare molti Pokémon!
+Se mi trasferissi qui,\xfffeil mio sogno sarebbe...\xf000븁\x0000\xfffeFar schiudere uova!
+Se mi trasferissi qui,\xfffeil mio sogno sarebbe...\xf000븁\x0000\xfffeStupire tutti riordinando\xfffemolti strumenti fantastici!
+Se mi trasferissi qui,\xfffeil mio sogno sarebbe...\xf000븁\x0000\xfffeFar felici i Pokémon facendoli\xfffemangiare bene!
+Se mi trasferissi qui,\xfffeil mio sogno sarebbe...\xf000븁\x0000\xfffeFar entusiasmare tutti!
+Se mi trasferissi qui,\xfffeil mio sogno sarebbe...\xf000븁\x0000\xfffeAbbellire molti Pokémon!
+Se mi trasferissi qui,\xfffeil mio sogno sarebbe...\xf000븁\x0000\xfffeStupire tutti collezionando molte\xfffecose!
+Se mi trasferissi qui,\xfffeil mio sogno sarebbe...\xf000븁\x0000\xfffeCurare tutti con stupende\xfffebacche!
+Se mi trasferissi qui,\xfffeil mio sogno sarebbe...\xf000븁\x0000\xfffeAllenare molti Pokémon!
+Se mi trasferissi qui,\xfffeil mio sogno sarebbe...\xf000븁\x0000\xfffeFar schiudere uova!
+Se mi trasferissi qui,\xfffeil mio sogno sarebbe...\xf000븁\x0000\xfffeStupire tutti riordinando\xfffemolti strumenti fantastici!
+Se mi trasferissi qui,\xfffeil mio sogno sarebbe...\xf000븁\x0000\xfffeFar felici i Pokémon facendoli\xfffemangiare bene!
 　
-ドキドキ　ワクワク　したいな\xf000븁\x0000
-ドキドキ　ワクワク　したいな\xf000븁\x0000
-ポケモンを　きれいにしたいな\xf000븁\x0000
-ポケモンを　きれいにしたいな\xf000븁\x0000
-トレーナーにしか　あつかえない\xfffeどうぐを　たくさん　かいたい！\xf000븁\x0000
-トレーナーにしか　あつかえない\xfffeどうぐを　たくさん　かいたい！\xf000븁\x0000
-きのみが　ほしいです\xf000븁\x0000
-きのみが　ほしいです\xf000븁\x0000
-ポケモンを　きたえて\xfffeつよく　したいんです\xf000븁\x0000
-ポケモンを　きたえて\xfffeつよく　したいんです\xf000븁\x0000
-タマゴを　ふかさせたいな\xf000븁\x0000
-タマゴを　ふかさせたいな\xf000븁\x0000
-ほりだしものを　みつけたい\xf000븁\x0000
-ほりだしものを　みつけたい\xf000븁\x0000
-ポケモンに　おいしい　りょうりを\xfffeたべさせたいな\xf000븁\x0000
-ポケモンに　おいしい　りょうりを\xfffeたべさせたいな\xf000븁\x0000
-ドキドキ　ワクワク　したいな\xf000븁\x0000
-ドキドキ　ワクワク　したいな\xf000븁\x0000
-ポケモンを　きれいにしたいな\xf000븁\x0000
-ポケモンを　きれいにしたいな\xf000븁\x0000
-トレーナーにしか　あつかえない\xfffeどうぐを　たくさん　かいたい！\xf000븁\x0000
-トレーナーにしか　あつかえない\xfffeどうぐを　たくさん　かいたい！\xf000븁\x0000
-きのみが　ほしいです\xf000븁\x0000
-きのみが　ほしいです\xf000븁\x0000
-ポケモンを　きたえて\xfffeつよく　したいんです\xf000븁\x0000
-ポケモンを　きたえて\xfffeつよく　したいんです\xf000븁\x0000
-タマゴを　ふかさせたいな\xf000븁\x0000
-タマゴを　ふかさせたいな\xf000븁\x0000
-ほりだしものを　みつけたい\xf000븁\x0000
-ほりだしものを　みつけたい\xf000븁\x0000
-ポケモンに　おいしい　りょうりを\xfffeたべさせたいな\xf000븁\x0000
-ポケモンに　おいしい　りょうりを\xfffeたべさせたいな\xf000븁\x0000
-まちを　ぶらぶら　したい\xf000븁\x0000\xfffeおとこのひとが　てんいんを　している\xfffeおみせが　あれば　いきたいな\xf000븁\x0000
-まちを　ぶらぶら　したい\xf000븁\x0000\xfffeおとこのひとが　てんいんを　している\xfffeおみせが　あれば　いきたいな\xf000븁\x0000
-まちを　ぶらぶら　したい\xf000븁\x0000\xfffeおんなのひとが　てんいんを　している\xfffeおみせが　あれば　いきたいな\xf000븁\x0000
-まちを　ぶらぶら　したい\xf000븁\x0000\xfffeおんなのひとが　てんいんを　している\xfffeおみせが　あれば　いきたいな\xf000븁\x0000
-ショッピングが　したい！\xf000븁\x0000
-ショッピングが　したい！\xf000븁\x0000
-ポケモンを　すごく　する\xfffeサービスを　うけたい！\xf000븁\x0000
-ポケモンを　すごく　する\xfffeサービスを　うけたい！\xf000븁\x0000
-レコードのことを　ききたい\xf000븁\x0000\xfffe『つうしんこうかんを　した　かず』が\xfffeいちばんの　ひとに　あいたいな\xf000븁\x0000
-レコードのことを　ききたい\xf000븁\x0000\xfffe『つうしんこうかんを　した　かず』が\xfffeいちばんの　ひとに　あいたいな\xf000븁\x0000
-レコードのことを　ききたい\xf000븁\x0000\xfffe『ニックネームを　つけた　かず』が\xfffeいちばんの　ひとに　あいたいな\xf000븁\x0000
-レコードのことを　ききたい\xf000븁\x0000\xfffe『ニックネームを　つけた　かず』が\xfffeいちばんの　ひとに　あいたいな\xf000븁\x0000
-レコードのことを　ききたい\xf000븁\x0000\xfffe『まちで　おきゃくに　であった　かず』が\xfffeいちばんの　ひとに　あいたいな\xf000븁\x0000
-レコードのことを　ききたい\xf000븁\x0000\xfffe『まちで　おきゃくに　であった　かず』が\xfffeいちばんの　ひとに　あいたいな\xf000븁\x0000
-レコードのことを　ききたい\xf000븁\x0000\xfffe『かいもので　つかった　きんがく』　が\xfffeいちばんの　ひとに　あいたいな\xf000븁\x0000
-レコードのことを　ききたい\xf000븁\x0000\xfffe『かいもので　つかった　きんがく』　が\xfffeいちばんの　ひとに　あいたいな\xf000븁\x0000
-レコードのことを　ききたい\xf000븁\x0000\xfffe『すれちがった　ひとの　かず』が\xfffeいちばんの　ひとに　あいたいな\xf000븁\x0000
-レコードのことを　ききたい\xf000븁\x0000\xfffe『すれちがった　ひとの　かず』が\xfffeいちばんの　ひとに　あいたいな\xf000븁\x0000
-レコードのことを　ききたい\xf000븁\x0000\xfffe『つうしんたいせんを　した　かず』が\xfffeいちばんの　ひとに　あいたいな\xf000븁\x0000
-レコードのことを　ききたい\xf000븁\x0000\xfffe『つうしんたいせんを　した　かず』が\xfffeいちばんの　ひとに　あいたいな\xf000븁\x0000
-レコードのことを　ききたい\xf000븁\x0000\xfffe『ポケモンを　つかまえた　かず』が\xfffeいちばんの　ひとに　あいたいな\xf000븁\x0000
-レコードのことを　ききたい\xf000븁\x0000\xfffe『ポケモンを　つかまえた　かず』が\xfffeいちばんの　ひとに　あいたいな\xf000븁\x0000
-レコードのことを　ききたい\xf000븁\x0000\xfffe『タマゴを　ふかさせた　かず』が\xfffeいちばんの　ひとに　あいたいな\xf000븁\x0000
-レコードのことを　ききたい\xf000븁\x0000\xfffe『タマゴを　ふかさせた　かず』が\xfffeいちばんの　ひとに　あいたいな\xf000븁\x0000
-レコードのことを　ききたい\xf000븁\x0000\xfffe『もっている　メダルの　かず』が\xfffeいちばんの　ひとに　あいたいな\xf000븁\x0000
-レコードのことを　ききたい\xf000븁\x0000\xfffe『もっている　メダルの　かず』が\xfffeいちばんの　ひとに　あいたいな\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『つうしんこうかんを　した　かず』が\xfffe１０　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『つうしんこうかんを　した　かず』が\xfffe１０　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『ニックネームを　つけた　かず』が\xfffe５　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『ニックネームを　つけた　かず』が\xfffe５　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『まちで　おきゃくに　であった　かず』が\xfffe１０　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『まちで　おきゃくに　であった　かず』が\xfffe１０　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『かいもので　つかった　きんがく』　が\xfffe２０００００　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『かいもので　つかった　きんがく』　が\xfffe２０００００　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『すれちがった　ひとの　かず』が\xfffe２５　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『すれちがった　ひとの　かず』が\xfffe２５　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『つうしんたいせんを　した　かず』が\xfffe１０　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『つうしんたいせんを　した　かず』が\xfffe１０　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『ポケモンを　つかまえた　かず』が\xfffe２５　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『ポケモンを　つかまえた　かず』が\xfffe２５　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『タマゴを　ふかさせた　かず』が\xfffe２５　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『タマゴを　ふかさせた　かず』が\xfffe２５　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『もっている　メダルの　かず』が\xfffe１０　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『もっている　メダルの　かず』が\xfffe１０　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『つうしんこうかんを　した　かず』が\xfffe２５　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『つうしんこうかんを　した　かず』が\xfffe２５　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『ニックネームを　つけた　かず』が\xfffe１５　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『ニックネームを　つけた　かず』が\xfffe１５　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『まちで　おきゃくに　であった　かず』が\xfffe３５　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『まちで　おきゃくに　であった　かず』が\xfffe３５　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『かいもので　つかった　きんがく』　が\xfffe４０００００　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『かいもので　つかった　きんがく』　が\xfffe４０００００　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『すれちがった　ひとの　かず』が\xfffe５０　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『すれちがった　ひとの　かず』が\xfffe５０　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『つうしんたいせんを　した　かず』が\xfffe２５　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『つうしんたいせんを　した　かず』が\xfffe２５　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『ポケモンを　つかまえた　かず』が\xfffe５０　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『ポケモンを　つかまえた　かず』が\xfffe５０　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『タマゴを　ふかさせた　かず』が\xfffe６０　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『タマゴを　ふかさせた　かず』が\xfffe６０　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『もっている　メダルの　かず』が\xfffe２５　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『もっている　メダルの　かず』が\xfffe２５　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『つうしんこうかんを　した　かず』が\xfffe５０　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『つうしんこうかんを　した　かず』が\xfffe５０　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『ニックネームを　つけた　かず』が\xfffe３０　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『ニックネームを　つけた　かず』が\xfffe３０　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『まちで　おきゃくに　であった　かず』が\xfffe７０　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『まちで　おきゃくに　であった　かず』が\xfffe７０　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『かいもので　つかった　きんがく』　が\xfffe１００００００　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『かいもので　つかった　きんがく』　が\xfffe１００００００　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『すれちがった　ひとの　かず』が\xfffe１００　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『すれちがった　ひとの　かず』が\xfffe１００　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『つうしんたいせんを　した　かず』が\xfffe５０　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『つうしんたいせんを　した　かず』が\xfffe５０　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『ポケモンを　つかまえた　かず』が\xfffe１００　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『ポケモンを　つかまえた　かず』が\xfffe１００　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『タマゴを　ふかさせた　かず』が\xfffe１２５　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『タマゴを　ふかさせた　かず』が\xfffe１２５　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『もっている　メダルの　かず』が\xfffe５０　いじょうの　ひと　いる？\xf000븁\x0000
-レコードしょうぶが　したい\xf000븁\x0000\xfffe『もっている　メダルの　かず』が\xfffe５０　いじょうの　ひと　いる？\xf000븁\x0000
-あたらしく　できた\xfffeすてきな　おみせ　ありませんか？\xf000븁\x0000
-まちを　ぶらぶら　したい！\xf000븁\x0000\xfffeすきなひとが　ひとりだけ　いる……\xfffeこんな　きもち　わかるひと　いない？\xf000븁\x0000
-まちを　ぶらぶら　したい！\xf000븁\x0000\xfffeすきなひとが　ひとりだけ　いる……\xfffeこんな　きもち　わかるひと　いない？\xf000븁\x0000
-まちを　ぶらぶら　したい！\xf000븁\x0000\xfffeすきなひとが　いない……\xfffeこんな　きもち　わかるひと　いない？\xf000븁\x0000
-まちを　ぶらぶら　したい！\xf000븁\x0000\xfffeすきなひとが　いない……\xfffeこんな　きもち　わかるひと　いない？\xf000븁\x0000
-まちを　ぶらぶら　したい！\xf000븁\x0000\xfffeすきなひとが　たくさん　いる……\xfffeこんな　きもち　わかるひと　いない？\xf000븁\x0000
-まちを　ぶらぶら　したい！\xf000븁\x0000\xfffeすきなひとが　たくさん　いる……\xfffeこんな　きもち　わかるひと　いない？\xf000븁\x0000
-まちを　ぶらぶら　したい！\xf000븁\x0000\xfffeすきなひとに　きょうみが　ない……\xfffeこんな　きもち　わかるひと　いない？\xf000븁\x0000
-まちを　ぶらぶら　したい！\xf000븁\x0000\xfffeすきなひとに　きょうみが　ない……\xfffeこんな　きもち　わかるひと　いない？\xf000븁\x0000
-しっかりものの\xfffeおにいさん　おねえさんが\xf000븀\x0000\xfffeてんいんの　おみせへ　いきたい\xf000븁\x0000
-しっかりものの\xfffeおにいさん　おねえさんが\xf000븀\x0000\xfffeてんいんの　おみせへ　いきたい\xf000븁\x0000
-なんでも　やってくれそうな\xfffeまんなかの　おにいさん　おねえさんが\xf000븀\x0000\xfffeてんいんの　おみせへ　いきたい\xf000븁\x0000
-なんでも　やってくれそうな\xfffeまんなかの　おにいさん　おねえさんが\xf000븀\x0000\xfffeてんいんの　おみせへ　いきたい\xf000븁\x0000
-あまえんぼうの　すえっこが\xfffeてんいんの　おみせへ　いきたい\xf000븁\x0000
-あまえんぼうの　すえっこが\xfffeてんいんの　おみせへ　いきたい\xf000븁\x0000
-ひとりっこが　てんいんの\xfffeおみせへ　いきたい\xf000븁\x0000
-ひとりっこが　てんいんの\xfffeおみせへ　いきたい\xf000븁\x0000
+Vorrei entusiasmare!\xf000븁\x0000
+Vorrei entusiasmare!\xf000븁\x0000
+Vorrei abbellire i Pokémon!\xf000븁\x0000
+Vorrei abbellire i Pokémon!\xf000븁\x0000
+Vorrei vendere molti strumenti\xfffeagli Allenatori!\xf000븁\x0000
+Vorrei vendere molti strumenti\xfffeagli Allenatori!\xf000븁\x0000
+Vorrei vendere bacche!\xf000븁\x0000
+Vorrei vendere bacche!\xf000븁\x0000
+Vorrei allenare i Pokémon!\xf000븁\x0000
+Vorrei allenare i Pokémon!\xf000븁\x0000
+Vorrei far schiudere uova!\xf000븁\x0000
+Vorrei far schiudere uova!\xf000븁\x0000
+Vorrei trovare dei tesori!\xf000븁\x0000
+Vorrei trovare dei tesori!\xf000븁\x0000
+Vorrei dar da mangiare ai Pokémon\xfffedelizioso cibo!\xf000븁\x0000
+Vorrei dar da mangiare ai Pokémon\xfffedelizioso cibo!\xf000븁\x0000
+Vorrei entusiasmare!\xf000븁\x0000
+Vorrei entusiasmare!\xf000븁\x0000
+Vorrei abbellire i Pokémon!\xf000븁\x0000
+Vorrei abbellire i Pokémon!\xf000븁\x0000
+Vorrei vendere molti strumenti\xfffeagli Allenatori!\xf000븁\x0000
+Vorrei vendere molti strumenti\xfffeagli Allenatori!\xf000븁\x0000
+Vorrei vendere bacche!\xf000븁\x0000
+Vorrei vendere bacche!\xf000븁\x0000
+Vorrei allenare i Pokémon!\xf000븁\x0000
+Vorrei allenare i Pokémon!\xf000븁\x0000
+Vorrei far schiudere uova!\xf000븁\x0000
+Vorrei far schiudere uova!\xf000븁\x0000
+Vorrei trovare dei tesori!\xf000븁\x0000
+Vorrei trovare dei tesori!\xf000븁\x0000
+Vorrei dar da mangiare ai Pokémon\xfffedelizioso cibo!\xf000븁\x0000
+Vorrei dar da mangiare ai Pokémon\xfffedelizioso cibo!\xf000븁\x0000
+Vorrei girovagare per la Galleria!\xf000븁\x0000\xfffeSe ci fossero negozi con degli\xfffeimpiegati andrei a vederli!\xf000븁\x0000
+Vorrei girovagare per la Galleria!\xf000븁\x0000\xfffeSe ci fossero negozi con degli\xfffeimpiegati andrei a vederli!\xf000븁\x0000
+Vorrei girovagare per la Galleria!\xf000븁\x0000\xfffeSe ci fossero negozi con degli\xfffeimpiegati andrei a vederli!\xf000븁\x0000
+Vorrei girovagare per la Galleria!\xf000븁\x0000\xfffeSe ci fossero negozi con degli\xfffeimpiegati andrei a vederli!\xf000븁\x0000
+Voglio fare spese!\xf000븁\x0000
+Voglio fare spese!\xf000븁\x0000
+Vorrei ricevere fantastici\xfffetrattamenti per i miei Pokémon!\xf000븁\x0000
+Vorrei ricevere fantastici\xfffetrattamenti per i miei Pokémon!\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeVorrei incontrare qualcuno che abbia\xfffealmeno uno Scambio in Link!\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeVorrei incontrare qualcuno che abbia\xfffealmeno uno Scambio in Link!\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeVorrei incontrare qualcuno che abbia\xfffealmeno un Soprannome!\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeVorrei incontrare qualcuno che abbia\xfffealmeno un Soprannome!\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeVorrei incontrare qualcuno che abbia\xfffealmeno un Visitatore!\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeVorrei incontrare qualcuno che abbia\xfffealmeno un Visitatore!\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeVorrei incontrare qualcuno che abbia\xfffealmeno un Soldo speso!\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeVorrei incontrare qualcuno che abbia\xfffealmeno un Soldo speso!\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeVorrei incontrare qualcuno che abbia\xfffealmeno una Persona incontrata!\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeVorrei incontrare qualcuno che abbia\xfffealmeno una Persona incontrata!\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeVorrei incontrare qualcuno che abbia\xfffealmeno una Lotta in Link!\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeVorrei incontrare qualcuno che abbia\xfffealmeno una Lotta in Link!\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeVorrei incontrare qualcuno che abbia\xfffealmeno un Pokémon catturato!\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeVorrei incontrare qualcuno che abbia\xfffealmeno un Pokémon catturato!\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeVorrei incontrare qualcuno che abbia\xfffealmeno un'uovo schiuso!\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeVorrei incontrare qualcuno che abbia\xfffealmeno un'uovo schiuso!\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeVorrei incontrare qualcuno che abbia\xfffealmeno una Medaglia!\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeVorrei incontrare qualcuno che abbia\xfffealmeno una Medaglia!\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Scambi in Link\xfffesono più di 10?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Scambi in Link\xfffesono più di 10?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Soprannomi\xfffesono più di 5?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Soprannomi\xfffesono più di 5?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Visitatori\xfffesono più di 10?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Visitatori\xfffesono più di 10?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Soldi spesi\xfffesono più di 200000?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Soldi spesi\xfffesono più di 200000?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Persone incontrate\xfffesono più di 25?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Persone incontrate\xfffesono più di 25?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Lotte in Link\xfffesono più di 10?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Lotte in Link\xfffesono più di 10?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Pokémon catturati\xfffesono più di 25?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Pokémon catturati\xfffesono più di 25?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Uova schiuse\xfffesono più di 25?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Uova schiuse\xfffesono più di 25?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Medaglie\xfffesono più di 10?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Medaglie\xfffesono più di 10?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Scambi in Link\xfffesono più di 25?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Scambi in Link\xfffesono più di 25?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Soprannomi\xfffesono più di 15?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Soprannomi\xfffesono più di 15?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Visitatori\xfffesono più di 35?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Visitatori\xfffesono più di 35?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Soldi spesi\xfffesono più di 400000?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Soldi spesi\xfffesono più di 400000?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Persone incontrate\xfffesono più di 50?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Persone incontrate\xfffesono più di 50?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Lotte in Link\xfffesono più di 25?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Lotte in Link\xfffesono più di 25?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Pokémon catturati\xfffesono più di 50?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Pokémon catturati\xfffesono più di 50?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Uova schiuse\xfffesono più di 60\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Uova schiuse\xfffesono più di 60?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Medaglie\xfffesono più di 25?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Medaglie\xfffesono più di 25?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Scambi in Link\xfffesono più di 50?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Scambi in Link\xfffesono più di 50?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Soprannomi\xfffesono più di 30?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Soprannomi\xfffesono più di 30?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Visitatori\xfffesono più di 70?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Visitatori\xfffesono più di 70?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Soldi spesi\xfffesono più di 1000000?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Soldi spesi\xfffesono più di 1000000?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Persone incontrate\xfffesono più di 100?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Persone incontrate\xfffesono più di 100?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Lotte in Link\xfffesono più di 50?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Lotte in Link\xfffesono più di 50?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Pokémon catturati\xfffesono più di 100?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Pokémon catturati\xfffesono più di 100?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Uova schiuse\xfffesono più di 125\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Uova schiuse\xfffesono più di 125?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Medaglie\xfffesono più di 50?\xf000븁\x0000
+Vorrei sentire dei Record!\xf000븁\x0000\xfffeIl N. di Medaglie\xfffesono più di 50?\xf000븁\x0000
+Non ci sono dei nuovi, stupendi\xfffenegozi?\xf000븁\x0000
+Vorrei girovagare per la Galleria!\xf000븁\x0000\xfffeC'è solo una persona che mi piace...\xfffeNon c'è nessuno che mi capisce?\xf000븁\x0000
+Vorrei girovagare per la Galleria!\xf000븁\x0000\xfffeC'è solo una persona che mi piace...\xfffeNon c'è nessuno che mi capisce?\xf000븁\x0000
+Vorrei girovagare per la Galleria!\xf000븁\x0000\xfffeNon c'è nessuno che mi piace...\xfffeNon c'è nessuno che mi capisce?\xf000븁\x0000
+Vorrei girovagare per la Galleria!\xf000븁\x0000\xfffeNon c'è nessuno che mi piace...\xfffeNon c'è nessuno che mi capisce?\xf000븁\x0000
+Vorrei girovagare per la Galleria!\xf000븁\x0000\xfffeCi sono molte persone che mi piacciono...\xfffeNon c'è nessuno che mi capisce?\xf000븁\x0000
+Vorrei girovagare per la Galleria!\xf000븁\x0000\xfffeCi sono molte persone che mi piacciono...\xfffeNon c'è nessuno che mi capisce?\xf000븁\x0000
+Vorrei girovagare per la Galleria!\xf000븁\x0000\xfffeNon mi interessa quali persone ci siano...\xfffeNon c'è nessuno che mi capisce?\xf000븁\x0000
+Vorrei girovagare per la Galleria!\xf000븁\x0000\xfffeNon mi interessa quali persone ci siano...\xfffeNon c'è nessuno che mi capisce?\xf000븁\x0000
+Il mio fratellone e la mia\xfffesorellona vorrebbero diventare\xf000븀\x0000\xfffeimpiegati!\xf000븁\x0000
+Il mio fratellone e la mia\xfffesorellona vorrebbero diventare\xf000븀\x0000\xfffeimpiegati!\xf000븁\x0000
+Sembra che niente possa farlo!\xfffeIl mio fratellone e la mia\xf000븀\x0000\xfffesorellona vorrebbero diventare\xf000븀\x0000\xfffeimpiegati!\xf000븁\x0000
+Sembra che niente possa farlo!\xfffeIl mio fratellone e la mia\xf000븀\x0000\xfffesorellona vorrebbero diventare\xf000븀\x0000\xfffeimpiegati!\xf000븁\x0000
+I bambini viziati vogliono\xfffediventare impiegati!\xf000븁\x0000
+I bambini viziati vogliono\xfffediventare impiegati!\xf000븁\x0000
+I figli unici vogliono diventare\xfffeimpiegati!\xf000븁\x0000
+I figli unici vogliono diventare\xfffeimpiegati!\xf000븁\x0000
 ともだちを　つくりたい\xf000븁\x0000\xfffeおとこのこの　ともだちが\xfffeおおい　ひと　いない？\xf000븁\x0000
 ともだちを　つくりたい\xf000븁\x0000\xfffeおとこのこの　ともだちが\xfffeおおい　ひと　いない？\xf000븁\x0000
 ともだちを　つくりたい\xf000븁\x0000\xfffeおんなのこの　ともだちが\xfffeおおい　ひと　いない？\xf000븁\x0000
