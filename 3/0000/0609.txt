@@ -101,33 +101,33 @@ Sorridendo, i denti davanti di\xfffe\xf000Ā\x0001\x0000 scintillano!!!\xf000븁
 \xf000Ā\x0001\x0000 mostra\xfffeun sorriso a 32 denti!\xf000븁\x0000
 \xf000Ā\x0001\x0000 sta\xfffesorridendo.\xf000븁\x0000
 Sorridendo, i denti davanti di\xfffe\xf000Ā\x0001\x0000 scintillano!!!\xf000븁\x0000
-……きいてきいて！\xf000븁\x0000\xfffeぼく　このまちで\xfffeつうしんこうかんを　した　かずが\xf000븀\x0000\xfffeいちばん　おおいんだ！\xf000븁\x0000\xfffeもう　\xf000ķ\x0001\x0000\xfffeって　かんじだよ\xf000븁\x0000
-……きいてきいて！\xf000븁\x0000\xfffeぼく　このまちで\xfffeニックネームを　つけた　かずが\xf000븀\x0000\xfffeいちばん　おおいんだ！\xf000븁\x0000\xfffeもう　\xf000ķ\x0001\x0000\xfffeって　かんじだよ\xf000븁\x0000
-……きいてきいて！\xf000븁\x0000\xfffeぼく　このまちで\xfffeまちで　おきゃくに　であった　かずが\xf000븀\x0000\xfffeいちばん　おおいんだ！\xf000븁\x0000\xfffeもう　\xf000ķ\x0001\x0000\xfffeって　かんじだよ\xf000븁\x0000
-……きいてきいて！\xf000븁\x0000\xfffeぼく　このまちで\xfffeかいもので　つかった　きんがくが\xf000븀\x0000\xfffeいちばん　おおいんだ！\xf000븁\x0000\xfffeもう　\xf000ķ\x0001\x0000\xfffeって　かんじだよ\xf000븁\x0000
-……きいてきいて！\xf000븁\x0000\xfffeぼく　このまちで\xfffeすれちがった　ひとの　かずが\xf000븀\x0000\xfffeいちばん　おおいんだ！\xf000븁\x0000\xfffeもう　\xf000ķ\x0001\x0000\xfffeって　かんじだよ\xf000븁\x0000
-……きいてきいて！\xf000븁\x0000\xfffeぼく　このまちで\xfffeつうしんたいせんを　した　かずが\xf000븀\x0000\xfffeいちばん　おおいんだ！\xf000븁\x0000\xfffeもう　\xf000ķ\x0001\x0000\xfffeって　かんじだよ\xf000븁\x0000
-……きいてきいて！\xf000븁\x0000\xfffeぼく　このまちで\xfffeポケモンを　つかまえた　かずが\xf000븀\x0000\xfffeいちばん　おおいんだ！\xf000븁\x0000\xfffeもう　\xf000ķ\x0001\x0000\xfffeって　かんじだよ\xf000븁\x0000
-……きいてきいて！\xf000븁\x0000\xfffeぼく　このまちで\xfffeタマゴを　ふかさせた　かずが\xf000븀\x0000\xfffeいちばん　おおいんだ！\xf000븁\x0000\xfffeもう　\xf000ķ\x0001\x0000\xfffeって　かんじだよ\xf000븁\x0000
-……きいてきいて！\xf000븁\x0000\xfffeぼく　このまちで\xfffeもっている　メダルの　かずが\xf000븀\x0000\xfffeいちばん　おおいんだ！\xf000븁\x0000\xfffeもう　\xf000ķ\x0001\x0000\xfffeって　かんじだよ\xf000븁\x0000
-……きいてきいて！\xf000븁\x0000\xfffeわたし　このまちで\xfffeつうしんこうかんを　した　かずが\xf000븀\x0000\xfffeいちばん　おおいの！\xf000븁\x0000\xfffeもう　\xf000ķ\x0001\x0000\xfffeって　かんじなの\xf000븁\x0000
-……きいてきいて！\xf000븁\x0000\xfffeわたし　このまちで\xfffeニックネームを　つけた　かずが\xf000븀\x0000\xfffeいちばん　おおいの！\xf000븁\x0000\xfffeもう　\xf000ķ\x0001\x0000\xfffeって　かんじなの\xf000븁\x0000
-……きいてきいて！\xf000븁\x0000\xfffeわたし　このまちで\xfffeまちで　おきゃくに　であった　かずが\xf000븀\x0000\xfffeいちばん　おおいの！\xf000븁\x0000\xfffeもう　\xf000ķ\x0001\x0000\xfffeって　かんじなの\xf000븁\x0000
-……きいてきいて！\xf000븁\x0000\xfffeわたし　このまちで\xfffeかいもので　つかった　きんがくが\xf000븀\x0000\xfffeいちばん　おおいの！\xf000븁\x0000\xfffeもう　\xf000ķ\x0001\x0000\xfffeって　かんじなの\xf000븁\x0000
-……きいてきいて！\xf000븁\x0000\xfffeわたし　このまちで\xfffeすれちがった　ひとの　かずが\xf000븀\x0000\xfffeいちばん　おおいの！\xf000븁\x0000\xfffeもう　\xf000ķ\x0001\x0000\xfffeって　かんじなの\xf000븁\x0000
-……きいてきいて！\xf000븁\x0000\xfffeわたし　このまちで\xfffeつうしんたいせんを　した　かずが\xf000븀\x0000\xfffeいちばん　おおいの！\xf000븁\x0000\xfffeもう　\xf000ķ\x0001\x0000\xfffeって　かんじなの\xf000븁\x0000
-……きいてきいて！\xf000븁\x0000\xfffeわたし　このまちで\xfffeポケモンを　つかまえた　かずが\xf000븀\x0000\xfffeいちばん　おおいの！\xf000븁\x0000\xfffeもう　\xf000ķ\x0001\x0000\xfffeって　かんじなの\xf000븁\x0000
-……きいてきいて！\xf000븁\x0000\xfffeわたし　このまちで\xfffeタマゴを　ふかさせた　かずが\xf000븀\x0000\xfffeいちばん　おおいの！\xf000븁\x0000\xfffeもう　\xf000ķ\x0001\x0000\xfffeって　かんじなの\xf000븁\x0000
-……きいてきいて！\xf000븁\x0000\xfffeわたし　このまちで\xfffeもっている　メダルの　かずが\xf000븀\x0000\xfffeいちばん　おおいの！\xf000븁\x0000\xfffeもう　\xf000ķ\x0001\x0000\xfffeって　かんじなの\xf000븁\x0000
-\xf000Ā\x0001\x0000『……そうだ\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001さんが　やっている\xfffe\xf000ĸ\x0001\x0002も\xf000븀\x0000\xfffeおもしろいよ\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001！\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0002！\xfffeごようけんは　ありますか？
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001！\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0002に\xfffeぴったり　おにあいの\xf000븀\x0000\xfffeおみせを　おおしえしましょう！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001！\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0002！\xfffeポケモンを　かいふく　します\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001！\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0002！\xfffeごようけんは　ありますか？
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001！\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0002！\xfffeごようけんは　ありますか？
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001！\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0002に\xfffeぴったり　おにあいの\xf000븀\x0000\xfffeおみせを　おおしえしましょう！\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001！\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0002！\xfffeポケモンを　かいふく　します\xf000븁\x0000
-\xf000Ā\x0001\x0000『\xf000ķ\x0001\x0001！\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0002！\xfffeごようけんは　ありますか？
+...Senti senti!\xf000븁\x0000\xfffeIl numero degli Scambi in Link,\xfffequi è già il più alto!\xf000븁\x0000\xfffeMi sento già \xf000ķ\x0001\x0000\!\xf000븁\x0000
+...Senti senti!\xf000븁\x0000\xfffeIl numero dei Soprannomi,\xfffequi è già il più alto!\xf000븁\x0000\xfffeMi sento già \xf000ķ\x0001\x0000\!\xf000븁\x0000
+...Senti senti!\xf000븁\x0000\xfffeIl numero dei visitatori,\xfffequi è già il più alto!\xf000븁\x0000\xfffeMi sento già \xf000ķ\x0001\x0000\!\xf000븁\x0000
+...Senti senti!\xf000븁\x0000\xfffeI soldi spesi,\xfffequi sono già i più alti!\xf000븁\x0000\xfffeMi sento già \xf000ķ\x0001\x0000\!\xf000븁\x0000
+...Senti senti!\xf000븁\x0000\xfffeIl numero delle persone incontrate,\xfffequi è già il più alto!\xf000븁\x0000\xfffeMi sento già \xf000ķ\x0001\x0000\!\xf000븁\x0000
+...Senti senti!\xf000븁\x0000\xfffeIl numero delle Lotte in Link,\xfffequi è già il più alto!\xf000븁\x0000\xfffeMi sento già \xf000ķ\x0001\x0000\!\xf000븁\x0000
+...Senti senti!\xf000븁\x0000\xfffeIl numero dei Pokémon catturati,\xfffequi è già il più alto!\xf000븁\x0000\xfffeMi sento già \xf000ķ\x0001\x0000\!\xf000븁\x0000
+...Senti senti!\xf000븁\x0000\xfffeIl numero delle uova schiuse,\xfffequi è già il più alto!\xf000븁\x0000\xfffeMi sento già \xf000ķ\x0001\x0000\!\xf000븁\x0000
+...Senti senti!\xf000븁\x0000\xfffeIl numero delle Medaglie,\xfffequi è già il più alto!\xf000븁\x0000\xfffeMi sento già \xf000ķ\x0001\x0000\!\xf000븁\x0000
+...Senti senti!\xf000븁\x0000\xfffeIl numero degli Scambi in Link,\xfffequi è già il più alto!\xf000븁\x0000\xfffeMi sento già \xf000ķ\x0001\x0000\!\xf000븁\x0000
+...Senti senti!\xf000븁\x0000\xfffeIl numero dei Soprannomi,\xfffequi è già il più alto!\xf000븁\x0000\xfffeMi sento già \xf000ķ\x0001\x0000\!\xf000븁\x0000
+...Senti senti!\xf000븁\x0000\xfffeIl numero dei visitatori,\xfffequi è già il più alto!\xf000븁\x0000\xfffeMi sento già \xf000ķ\x0001\x0000\!\xf000븁\x0000
+...Senti senti!\xf000븁\x0000\xfffeI soldi spesi,\xfffequi sono già i più alti!\xf000븁\x0000\xfffeMi sento già \xf000ķ\x0001\x0000\!\xf000븁\x0000
+...Senti senti!\xf000븁\x0000\xfffeIl numero delle persone incontrate,\xfffequi è già il più alto!\xf000븁\x0000\xfffeMi sento già \xf000ķ\x0001\x0000\!\xf000븁\x0000
+...Senti senti!\xf000븁\x0000\xfffeIl numero delle Lotte in Link,\xfffequi è già il più alto!\xf000븁\x0000\xfffeMi sento già \xf000ķ\x0001\x0000\!\xf000븁\x0000
+...Senti senti!\xf000븁\x0000\xfffeIl numero dei Pokémon catturati,\xfffequi è già il più alto!\xf000븁\x0000\xfffeMi sento già \xf000ķ\x0001\x0000\!\xf000븁\x0000
+...Senti senti!\xf000븁\x0000\xfffeIl numero delle uova schiuse,\xfffequi è già il più alto!\xf000븁\x0000\xfffeMi sento già \xf000ķ\x0001\x0000\!\xf000븁\x0000
+...Senti senti!\xf000븁\x0000\xfffeIl numero delle Medaglie,\xfffequi è già il più alto!\xf000븁\x0000\xfffeMi sento già \xf000ķ\x0001\x0000\!\xf000븁\x0000
+\xf000Ā\x0001\x0000: ...E' così!\xf000븁\x0000\xfffeAnche il \xf000ĸ\x0001\x0002 che\xfffe\xf000Ā\x0001\x0001 ha già fatto è\xf000븀\x0000\xfffeinteressante.\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001!\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0002!\xfffeHai delle richieste?
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001!\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffeVorrei che scegliessi un negozio\xfffepresente in \xf000ĺ\x0001\x0002!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001!\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0002!\xfffeVuoi far riposare i tuoi Pokémon?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001!\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0002!\xfffeHai delle richieste?
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001！\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0002!\xfffeHai delle richieste?
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001!\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffeVorrei che scegliessi un negozio\xfffepresente in \xf000ĺ\x0001\x0002!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001!\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0002!\xfffeVuoi far riposare i tuoi Pokémon?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001!\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0002!\xfffeHai delle richieste?
 Certamente!\xfffe\xf000ĺ\x0001\x0000!
 Continua sempre ad impegnarti!\xfffe\xf000ĺ\x0001\x0000!
 Continua sempre ad impegnarti!\xfffe\xf000ĺ\x0001\x0000!
@@ -286,38 +286,38 @@ Sport
 Asilo Pokémon
 Negozio dell'usato
 Café
-alla Lotteria★ "Da \xf000Ā\x0001\x0000"
-alla Lotteria★ "Da \xf000Ā\x0001\x0000"
-alla Lotteria★ "Da \xf000Ā\x0001\x0000"
-alla Lotteria★  "\xf000Ā\x0001\x0000"
-a "Fatti bello di \xf000Ā\x0001\x0000"
-al Parrucchiere "Da \xf000Ā\x0001\x0000"
-al Salone "Da \xf000Ā\x0001\x0000"
-allo Studio "Da \xf000Ā\x0001\x0000"
-al Mercato "Da \xf000Ā\x0001\x0000"
-al Mercato "Da \xf000Ā\x0001\x0000" 
-al Supermercato "Da \xf000Ā\x0001\x0000"
-al Supermercato "Da \xf000Ā\x0001\x0000" 
-al Fiorista "Da \xf000Ā\x0001\x0000"
-al Fiorista "Da \xf000Ā\x0001\x0000"
-al Parco di \xf000Ā\x0001\x0000
-al Giardino di \xf000Ā\x0001\x0000
-al Simpatico di \xf000Ā\x0001\x0000
-al Campo di \xf000Ā\x0001\x0000
-al Ring di \xf000Ā\x0001\x0000
+Lotteria★ "Da \xf000Ā\x0001\x0000"
+Lotteria★ "Da \xf000Ā\x0001\x0000"
+Lotteria★ "Da \xf000Ā\x0001\x0000"
+Lotteria★  "\xf000Ā\x0001\x0000"
+"Fatti bello di \xf000Ā\x0001\x0000"
+Parrucchiere "Da \xf000Ā\x0001\x0000"
+Salone "Da \xf000Ā\x0001\x0000"
+Studio "Da \xf000Ā\x0001\x0000"
+Mercato "Da \xf000Ā\x0001\x0000"
+Mercato "Da \xf000Ā\x0001\x0000" 
+Supermercato "Da \xf000Ā\x0001\x0000"
+Supermercato "Da \xf000Ā\x0001\x0000" 
+Fiorista "Da \xf000Ā\x0001\x0000"
+Fiorista "Da \xf000Ā\x0001\x0000"
+Parco di \xf000Ā\x0001\x0000
+Giardino di \xf000Ā\x0001\x0000
+Simpatico di \xf000Ā\x0001\x0000
+Campo di \xf000Ā\x0001\x0000
+Ring di \xf000Ā\x0001\x0000
 \xf000Ā\x0001\x0000
 \xf000Ā\x0001\x0000 House
 \xf000Ā\x0001\x0000 House
-al Club "Da \xf000Ā\x0001\x0000"
+Club "Da \xf000Ā\x0001\x0000"
 \xf000Ā\x0001\x0000 Land
-all'Antiquariato "Da \xf000Ā\x0001\x0000"
-all'Antiquariato "Da \xf000Ā\x0001\x0000"
+Antiquariato "Da \xf000Ā\x0001\x0000"
+Antiquariato "Da \xf000Ā\x0001\x0000"
 Selezione \xf000Ā\x0001\x0000
-al Museo "Da \xf000Ā\x0001\x0000"
-al Ristorante "Da \xf000Ā\x0001\x0000"
-al Bar★ "Da \xf000Ā\x0001\x0000"
-alla Cucina "Da \xf000Ā\x0001\x0000"
-al Ristorante "Da \xf000Ā\x0001\x0000"
+Museo "Da \xf000Ā\x0001\x0000"
+Ristorante "Da \xf000Ā\x0001\x0000"
+Bar★ "Da \xf000Ā\x0001\x0000"
+Cucina "Da \xf000Ā\x0001\x0000"
+Ristorante "Da \xf000Ā\x0001\x0000"
 Pesca
 Abbellisci!
 Compra
@@ -326,22 +326,22 @@ Allena
 Lascia
 Compra
 Mangia
-Primo premio, Masterball!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
-I tuoi Pokémon sono i più belli!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
-Abbiamo qualsiasi cosa desideri!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
-Vendiamo qualsiasi tipo di bacche!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
-Alleniamo dappertutto i Pokémon!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
-Ci prendiamo cura delle tue uova!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
-Abbiamo qualsiasi tesoro!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
-Assaggerai ogni sapore!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
-Primo premio, Masterball!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
-I tuoi Pokémon sono i più belli!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
-Abbiamo qualsiasi cosa desideri!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
-Vendiamo qualsiasi tipo di bacche!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
-Alleniamo dappertutto i Pokémon!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
-Ci prendiamo cura delle tue uova!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
-Abbiamo qualsiasi tesoro!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
-Assaggerai ogni sapore!\xfffeBenvenuto \xf000ĸ\x0001\x0000!
+Primo premio, Masterball!\xfffeBenvenuto alla \xf000ĸ\x0001\x0000!
+I tuoi Pokémon sono i più belli!\xfffeBenvenuto al \xf000ĸ\x0001\x0000!
+Abbiamo qualsiasi cosa desideri!\xfffeBenvenuto al \xf000ĸ\x0001\x0000!
+Vendiamo qualsiasi tipo di bacche!\xfffeBenvenuto al \xf000ĸ\x0001\x0000!
+Alleniamo dappertutto i Pokémon!\xfffeBenvenuto a \xf000ĸ\x0001\x0000!
+Ci prendiamo cura delle tue uova!\xfffeBenvenuto al \xf000ĸ\x0001\x0000!
+Abbiamo qualsiasi tesoro!\xfffeBenvenuto al \xf000ĸ\x0001\x0000!
+Assaggerai ogni sapore!\xfffeBenvenuto al \xf000ĸ\x0001\x0000!
+Primo premio, Masterball!\xfffeBenvenuto alla \xf000ĸ\x0001\x0000!
+I tuoi Pokémon sono i più belli!\xfffeBenvenuto al \xf000ĸ\x0001\x0000!
+Abbiamo qualsiasi cosa desideri!\xfffeBenvenuto al \xf000ĸ\x0001\x0000!
+Vendiamo qualsiasi tipo di bacche!\xfffeBenvenuto al \xf000ĸ\x0001\x0000!
+Alleniamo dappertutto i Pokémon!\xfffeBenvenuto a \xf000ĸ\x0001\x0000!
+Ci prendiamo cura delle tue uova!\xfffeBenvenuto al \xf000ĸ\x0001\x0000!
+Abbiamo qualsiasi tesoro!\xfffeBenvenuto al \xf000ĸ\x0001\x0000!
+Assaggerai ogni sapore!\xfffeBenvenuto al \xf000ĸ\x0001\x0000!
 Allora mille grazie!\xf000븁\x0000
 Allora mille grazie!\xf000븁\x0000
 Le uova sono vietate!\xf000븁\x0000
@@ -2163,11 +2163,11 @@ Oh, scusa il disturbo!
 Ciao, alla prossima!
 Alla prossima!
 Alla prossima!
+Benvenuto allla \xf000ĸ\x0001\x0000!
 Benvenuto al \xf000ĸ\x0001\x0000!
 Benvenuto al \xf000ĸ\x0001\x0000!
 Benvenuto al \xf000ĸ\x0001\x0000!
-Benvenuto al \xf000ĸ\x0001\x0000!
-Benvenuto al \xf000ĸ\x0001\x0000!
+Benvenuto a \xf000ĸ\x0001\x0000!
 Benvenuto al \xf000ĸ\x0001\x0000!
 Benvenuto al \xf000ĸ\x0001\x0000!
 Benvenuto al \xf000ĸ\x0001\x0000!
