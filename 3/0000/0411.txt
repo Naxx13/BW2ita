@@ -9,8 +9,8 @@ Hai riavvolto troppo presto!\xf000븁\x0000
 Hai riavvolto troppo presto!\xf000븁\x0000
 \xf000Ā\x0001\x0000 è entrato\xfffenell'Intramondo!\xf000븁\x0000
 Non puoi entrare nell'Intramondo\xfffeda qui!
-You can't warp because there is a\xfffemission going on at the Entralink.
-You can't warp to the Entralink because\xfffeyou are connecting with someone.
-Participating in an ongoing mission\xfffeat the Entralink!\xf000븀\x0000\xfffeYou'll return here after the mission.\xf000븁\x0000\xfffeYou will warp to another person's \xfffeEntralink to participate in the mission!\xf000븁\x0000
+Non puoi entrare perchè c'è una\xfffemissione in corso nell'Intramondo.
+Non puoi entrare nell'Intramondo perchè\xfffesei connesso con qualcuno.
+Stai per partecipare in una missione in corso\xfffenell'Intramondo!\xf000븀\x0000\xfffeRitornerai qui dopo la missione.\xf000븁\x0000\xfffeEntrerai nell'Intramondo di un'altra persona\xfffeper partecipare alla missione!\xf000븁\x0000
 La comunicazione è svanita.
-Two people cannot warp\xfffeto the Entralink.
+Due personse non possono entrare\xfffenell'Intramondo.
