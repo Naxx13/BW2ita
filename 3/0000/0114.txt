@@ -1,6 +1,6 @@
-Benvenuto ad un Hotel\xfffe"Grande Libecciopoli!\xf000븁\x0000\xfffeあいにく　まんしつで　ございますが\xfffeごゆるりと　くつろいで　くださいませ
+Benvenuto all' Hotel\xfffe"Grande Libecciopoli!\xf000븁\x0000\xfffeMa purtroppo non c'è posto\xfffeSi prega quindi di sedersi
 Oh! Posso dare un'occhiata al\xfffetuo Pokédex?\xf000븁\x0000\xfffeQuanti Pokèmon hai incontrato?\xf000븁\x0000\xfffeOh, nemmeno 70!
-Oh! Posso dare un'occhiata al\xfffetuo Pokédex?\xf000븁\x0000\xfffeQuanti Pokèmon hai incontrato?\xf000븁\x0000\xfffeほう！　７０ひき　いじょうか！\xfffeでは　これを　やろうでは　ないか！\xf000븁\x0000
-Quando un Pokémon tiene\xfffeConchinella e riceve dei danni...\xf000븁\x0000Esso recupererà qualche HP!\xf000븁\x0000Ma più importante adesso, non dovresti\xfffemostrare il tuo Pokèdex alla profesoressa?
-じぶんより　つよい　ポケモンと\xfffeたたかうほうが　いつもより\xf000븀\x0000\xfffeたくさんの　けいけんを　えられるよ！
-これって　しってた？\xfffe「ポケモンのとも」の　きじだけど\xf000븁\x0000\xfffe「ポケモンしょうぶの　とき\xfffe　Ｌボタンを　おしながら\xf000븁\x0000\xfffe　わざを　えらぶと\xfffe　くわしい　せつめいが　よめる！」
+Oh! Posso dare un'occhiata al\xfffetuo Pokédex?\xf000븁\x0000\xfffeQuanti Pokèmon hai incontrato?\xf000븁\x0000\xfffeOh! Ne hai incontrati 70!\xfffeMa ci sono ancora molti Pokémon da catturare!\xf000븁\x0000
+Quando un Pokémon tiene\xfffeConchinella e riceve dei danni...\xf000븁\x0000Esso recupererà qualche PS!\xf000븁\x0000Ma più importante adesso, non dovresti\xfffemostrare il tuo Pokèdex alla profesoressa?
+Per esempio si può ottenere\fffemolta esperienza facendo lottare i propri Pokémon\xf000븀\x0000\xfffecon quelli più forti!
+Lo sapevi?\xfffe「ポケモンのとも」の　きじだけど\xf000븁\x0000\xfffe「ポケモンしょうぶの　とき\xfffe　Ｌボタンを　おしながら\xf000븁\x0000\xfffe　わざを　えらぶと\xfffe　くわしい　せつめいが　よめる！」
