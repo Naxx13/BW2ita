@@ -1,113 +1,57 @@
-ライブたいかいに　さんかするため\xfffeデジタルせんしゅしょうを\xf000븀\x0000\xfffeこうしん　します\xf000븁\x0000\xfffeデジタルせんしゅしょうを\xfffeうわがきしても　よろしいですか？
-ライブたいかいに　さんかするため\xfffeデジタルせんしゅしょうを\xf000븀\x0000\xfffeこうしん　します\xf000븁\x0000\xfffeぜんかいの　たいかいで　おこなった\xfffeバトルボックスの　とうろくは\xf000븀\x0000\xfffeかいじょ　されます\xf000븁\x0000\xfffeデジタルせんしゅしょうを\xfffeうわがきしても　よろしいですか？
-せきがいせんつうしんで\xfffeせんしゅしょうを　じゅしんします\xf000븁\x0000\xfffeじぶんと　あいての\xfffeＤＳカードを　むきあわせて\xf000븀\x0000\xfffeＡボタンを　おしてください\xf000븁\x0000
-いちど　たいかいに　とうろくして\xfffeかいじょ　しています\xf000븁\x0000\xfffeこんかいの　たいかいは\xfffeとうろく　できません\xf000븁\x0000
-この　たいかいに　さんかして\xfffeたいせんを　おえています\xf000븁\x0000\xfffeいちど　さんかした　たいかいは\xfffeとうろく　できません\xf000븁\x0000
-バトルボックスの　ポケモンを\xfffeたいかいに　とうろくします\xf000븁\x0000\xfffeちゅうい！\xfffeいちど　とうろくすると\xf000븀\x0000\xfffeさんかを　かいじょ　するまで\xf000븀\x0000\xfffeバトルボックスへ　ポケモンを\xf000븀\x0000\xfffeだしいれ　できなくなります\xf000븁\x0000\xfffeバトルボックスの　ポケモンを\xfffeとうろく　しても　よろしいですか？
-SI
+To participate in the Live Competition,\xfffeyou need to update your Digital Player ID.\xf000\xbe01\x0000\xfffeIs it OK to update it?
+To participate in the Live Competition,\xfffethe Digital Player ID will be updated.\xf000\xbe01\x0000\xfffeThe Battle Box from the previous\xfffetournament will be unregistered.\xf000\xbe01\x0000\xfffeIs it OK to update your Digital Player ID?
+A Digital Player ID will be received\xfffevia Infrared Connection.\xf000\xbe01\x0000\xfffePlease point your Nintendo Game Card\xfffeat the sending Game Card\xf000\xbe00\x0000\xfffeand press the A Button.\xf000\xbe01\x0000
+You have registered and unregistered\xfffefrom this tournament already.\xf000\xbe01\x0000\xfffeYou cannot reregister\xfffefor this tournament.\xf000\xbe01\x0000
+You have registered and participated\xfffein this tournament already.\xf000\xbe01\x0000\xfffeYou cannot reregister for a tournament\xfffeyou've already participated in.\xf000\xbe01\x0000
+Your Battle Box will be registered\xfffefor the tournament.\xf000\xbe01\x0000\xfffeCaution!\xfffeOnce registered,\xf000\xbe00\x0000\xfffeyou will not be able to\xf000\xbe00\x0000\xfffemove your Pokémon to or from\xf000\xbe00\x0000\xfffeyour Battle Box.\xf000\xbe01\x0000\xfffeWill you still register the Pokémon\xfffein your Battle Box?
+YES
 NO
-さんか　ポケモンの\xfffeとうろくを　やめますか？
-たいかいの　じPer partecipare alla competizione online,\xfffedevi aggiornare il tuo Digital Player ID.\xf000?\x0000\xfffeVuoi aggiornarlo?
-Per partecipare alla competizione online,\xfffeil Digital Player ID verrà aggiornato.\xf000?\x0000\xfffeVerrà registrato il Box Lotta usato\xfffenel precedente torneo.\xf000?\x0000\xfffeVuoi aggiornare il tuo Digital Player ID?
-Riceverai il Digital Player ID \xfffevia connessione Infrarossi.\xf000?\x0000\xfffePlease point your Nintendo Game Card\xfffeat the sending Game Card\xf000?\x0000\xfffee premi il pulsante A.\xf000?\x0000
-Ti sei registrato ed eliminato\xfffegià da questo torneo.\xf000?\x0000\xfffeNon puoi ri-registrati\xfffein questo torneo.\xf000?\x0000
-Ti sei registrato e hai partecipato\xfffegià a questo torneo.\xf000?\x0000\xfffeNon puoi ri-registrarti a questo torneo.\xfffeHai già partecipato.\xf000?\x0000
-Il tuo Box Lotta sarà registrato\xfffeper il torneo.\xf000?\x0000\xfffeAttenzione!\xfffeUna volta registrato,\xf000?\x0000\xfffenon potrai più\xf000?\x0000\xfffecambiare i Pokémon che hai scelto nel\xf000?\x0000\xfffenel tuo Box Lotta.\xf000?\x0000\xfffeVuoi registrare davvero i Pokémon\xfffedel tuo Box Lotta?
-Si
-No
-Vuoi cancellare la registrazione\xfffedei Pokémon che parteciperanno?
-Le condizioni per partecipare al torneo\xfffenon sono state rispettate.\xf000?\x0000\xfffePer piacere scegli un Pokémon\xfffenel tuo Box Lotta.\xf000?\x0000
-Sto salvando...\xfffeNon spegnere.
-Il tuo Box Lotta è stato registrato\xfffeper il torneo.\xf000?\x0000\xfffeNon potrai più spostare i\xfffetuoi Pokémon dentro o fuori il\xf000?\x0000\xfffetuo Box Lotta.\xf000?\x0000
-Pokémon Battle Competition!\xfffeCosa vuoi fare?
-Lotta
-Torna indietro
-Cancellati dal torneo
-L'ultima lotta\xfffesarà riprodotta.\xf000?\x0000
-Una volta registrato, tu non potrai più\xffferipartecipare allo stesso torneo.\xf000?\x0000\xfffeVuoi registrarti?
-Sarai registrato.\xfffeSei sicuro di volerti registrare?
-Il tuo Box Lotta è\xfffestato registrato.\xf000?\x0000
-Comunicherai col tuo avversario\xfffevia Infrarossi.\xf000?\x0000\xfffeFai in modo che la schedina di gioco\xfffesia di fronte a quella del tuo avvervario.\xf000?\x0000\xfffeE premi il pulsante A.\xf000?\x0000
-Vuoi annulare la connessione a Infrarossi?
-I tornei selezionati non corrispondono.\xf000?\x0000\xfffeGuarda il tuo Digital Player ID\xfffee leggi le istruzioni\xf000?\x0000\xfffedate dallo staff del torneo.\xf000?\x0000
-Un avversario è stato trovato!
-Leggi le condizioni date\xfffedallo staff del torneo e premi il pulsante A.\xf000?\x0000
-La lotta è finita.\xfffeI Pokémon del tuo Box Lotta\xf000?\x0000\xfffeadesso sono registrati.\xf000?\x0000
-Ricezione del DIGITAL PLAYER ID\xfffefallita.\xf000?\x0000
-Ricezione del DIGITAL PLAYER ID\xfffefallita.\xf000?\x0000
-Connessione\xfffefallita.\xf000?\x0000
-La competizione online sarà chiusa.\xf000?\x0000
-FATTO
-La competizione online è chiusa.\xfffeGrazie per la tua partecipazione.\xf000?\x0000
-Ricezione dei dati...\xfffeAspetta un momento.
-Cercando un avversario...\xfffeAspetta un momento.
-C'è un problema\xfffecon l'ultima lotta.\xf000?\x0000\xfffeNon può essere riprodotta.\xf000?\x0000
-Comunicazione in corso. Please stand by...
-Hai già fatto una lotta\xfffecon questa persona.\xf000?\x0000\xfffeNon puoi combattere con\xfffelo stesso avversario.\xf000?\x0000
-Non ci sono Pokémon nel\xfffetuo Box Lotta.\xf000?\x0000\xfffePer piacere leggi le regole\xfffedel torneo per scegliere i Pokémon\xf000?\x0000\xfffenel tuo Box Lotta.\xf000?\x0000
-Per piacere scegli i tuoi Pokémon.
-Si è verificato un errore, e\xfffela lotta è stata interrotta.\xf000?\x0000\xfffePer piacere segui le istruzioni\xfffeimposte dallo staff del torneo.\xf000?\x0000
-Risultati della ricerca.
-Non rispetta le\xffferegole del torneo.\xf000?\x0000
-Il numero dei Pokémon\xfffenon soddisfa i requisiti.\xf000?\x0000
-Il livello dei Pokémon\xfffenon rispetta i requisiti\xf000?\x0000
-Questo Pokémon non\xfffepuò partecipare.\xf000?\x0000
-Il tipo del Pokémon\xfffeè lo stesso.\xf000?\x0000
-Lo strumento del Pokémon\xfffeè lo stesso.\xf000?\x0000
-Questo è un uovo.\xf000?\x0000
-Non hai gli\xfffestrumenti adeguati.\xf000?\x0000
-Non hai i Pokémon\xfffenecessari per partecipare.
-Il livello totale dei partecipanti\xfffenon rispetta i requisiti.\xf000?\x0000
-Conferma le regole del torneo,\xfffeprego ora scegli i Pokémon\xf000?\x0000\xfffedal Box Lotta.\xf000?\x0000
-\xf000Ā\x0001\x0000 Remain \xf000Ȁ\x0001\x0002Pkm\xfffe\xf000Ā\x0001\x0001 Remain \xf000Ȁ\x0001\x0003Pkm\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000 has won!\xf000븁\x0000
-\xf000Ā\x0001\x0000 Remain \xf000Ȁ\x0001\x0002Pkm\xfffe\xf000Ā\x0001\x0001 Remain \xf000Ȁ\x0001\x0003Pkm\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000 has lost!\xf000븁\x0000
-\xf000Ā\x0001\x0000 Remain \xf000Ȁ\x0001\x0002Pkm\xfffe\xf000Ā\x0001\x0001 Remain \xf000Ȁ\x0001\x0003Pkm\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000 have tied!\xf000븁\x0000
-\xf000Ā\x0001\x0000 Remain \xf000Ȁ\x0001\x0002Pkm\xfffe\xf000Ā\x0001\x0001 Remain \xf000Ȁ\x0001\x0003Pkm\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000 has given up!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000 has lost!\xf000븁\x0000
-\xf000Ā\x0001\x0000 Remain \xf000Ȁ\x0001\x0002Pkm\xfffe\xf000Ā\x0001\x0001 Remain \xf000Ȁ\x0001\x0003Pkm\xf000븀\x0000\xfffe\xf000Ā\x0001\x0001 has given up!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000 has won!\xf000븁\x0000ょうけんを\xfffeみたしていません\xf000븁\x0000\xfffeたいかいの　ルールを　かくにんして\xfffeバトルボックスに　ポケモンを\xf000븀\x0000\xfffeセット　してください\xf000븁\x0000
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-バトルボックスの　ポケモンを\xfffeとうろく　しました\xf000븁\x0000\xfffeたいかいの　さんかを\xfffeかいじょするまで\xf000븀\x0000\xfffeバトルボックスの　ポケモンは\xf000븀\x0000\xfffeかえられなく　なります\xf000븁\x0000
-ポケモンバトルたいかい！\xfffeなにを　しますか？
-たいせんする
-ふりかえる
-さんかを　かいじょする
-さいごの　たいせんの　きろくを\xfffeさいせい　します\xf000븁\x0000
-さんかを　かいじょすると\xfffeおなじ　たいかいに　さんかできません\xf000븁\x0000\xfffeかいじょしても　よろしいですか？
-たいかいの　さんかを　かいじょします\xfffeほんとうに　よろしいですか？
-バトルボックスの　とうろくを\xfffeかいじょ　しました\xf000븁\x0000
-たいせんする　あいてと\xfffeせきがいせんつうしん　します\xf000븁\x0000\xfffeじぶんと　あいての\xfffeＤＳカードを　むきあわせて\xf000븀\x0000\xfffeＡボタンを　おしてください\xf000븁\x0000
-せきがいせんつうしんを\xfffeやめますか？
-おたがいの　えらんでいる\xfffeたいかいが　ちがいます\xf000븁\x0000\xfffeデジタルせんしゅしょうを\xfffeかくにんして\xf000븁\x0000\xfffeかかりいんの　しじに\xfffeしたがって　ください\xf000븁\x0000
-たいせん　あいてが\xfffeみつかりました！
-かかりいんの　しじに　したがい\xfffeAボタンを　おしてください\xf000븁\x0000
-たいせんが　おわりましたので\xfffeバトルボックスの　とうろくを\xf000븀\x0000\xfffeかいじょ　しました\xf000븁\x0000
-せんしゅしょうの　じゅしんに　\xfffeしっぱい　しました\xf000븁\x0000
-せんしゅしょうの　じゅしんに　\xfffeしっぱい　しました\xf000븁\x0000
-つうしんに　\xfffeしっぱい　しました\xf000븁\x0000
-ライブたいかいを　しゅうりょうします\xf000븁\x0000
-おわる
-たいかいを　しゅうりょうします\xfffeおつかれさまでした\xf000븁\x0000
-データを　うけとっています……\xfffeしばらく　おまちください
-たいせん　あいてを　さがしています……\xfffeしばらく　おまちください
-さいごの　たいせんの　きろくには\xfffeもんだいが　あるため\xf000븀\x0000\xfffeさいせい　できませんでした\xf000븁\x0000
-つうしん　たいきちゅう　です……\xfffeしばらく　おまちください
-つうしんした　あいてとは\xfffeいちど　たいせん　しています\xf000븁\x0000\xfffeおなじ　あいてとは\xfffeたいせん　できません\xf000븁\x0000
-バトルボックスに\xfffeポケモンが　１ひきも　いません\xf000븁\x0000\xfffeたいかいの　ルールを　かくにんして\xfffeバトルボックスに　ポケモンを\xf000븀\x0000\xfffeセット　してください\xf000븁\x0000
-ポケモンを\xfffeえらんで　ください
-エラーが　はっせいしたため\xfffeたいせんを　しゅうりょうしました\xf000븀\x0000\xfffeかかりいんの　しじに　したがってください\xf000븁\x0000
-けっかを　かくにん
-たいかいの　じょうけんを\xfffeみたしていません\xf000븁\x0000
-ポケモンの　かずが\xfffeじょうけんを　みたしていません\xf000븁\x0000
-ポケモンの　レベルが\xfffeじょうけんを　みたしていません\xf000븁\x0000
-さんかが　できない\xfffeポケモンが　います\xf000븁\x0000
-おなじ　しゅるいの\xfffeポケモンが　います\xf000븁\x0000
-おなじ　どうぐを　もった\xfffeポケモンが　います\xf000븁\x0000
-タマゴが　います\xf000븁\x0000
-もたせられない　どうぐを\xfffeもっています\xf000븁\x0000
-さんかが　ひつような\xfffeポケモンが　いません\xf000븁\x0000
-さんか　できる　レベルの　ごうけいが\xfffeじょうけんを　みたしていません\xf000븁\x0000
-たいかいの　ルールを　かくにんして\xfffeバトルボックスに　ポケモンを\xf000븀\x0000\xfffeセット　してください\xf000븁\x0000
-\xf000Ā\x0001\x0000　のこり　\xf000Ȁ\x0001\x0002ひき\xfffe\xf000Ā\x0001\x0001　のこり　\xf000Ȁ\x0001\x0003ひき\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000　は　かちました\xf000븁\x0000
-\xf000Ā\x0001\x0000　のこり　\xf000Ȁ\x0001\x0002ひき\xfffe\xf000Ā\x0001\x0001　のこり　\xf000Ȁ\x0001\x0003ひき\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000　は　まけました\xf000븁\x0000
-\xf000Ā\x0001\x0000　のこり　\xf000Ȁ\x0001\x0002ひき\xfffe\xf000Ā\x0001\x0001　のこり　\xf000Ȁ\x0001\x0003ひき\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000　は　ひきわけました\xf000븁\x0000
-\xf000Ā\x0001\x0000　のこり　\xf000Ȁ\x0001\x0002ひき\xfffe\xf000Ā\x0001\x0001　のこり　\xf000Ȁ\x0001\x0003ひき\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000　は　こうさんしたので\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000　は　まけました\xf000븁\x0000
-\xf000Ā\x0001\x0000　のこり　\xf000Ȁ\x0001\x0002ひき\xfffe\xf000Ā\x0001\x0001　のこり　\xf000Ȁ\x0001\x0003ひき\xf000븀\x0000\xfffe\xf000Ā\x0001\x0001　が　こうさんしたので\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000　は　かちました\xf000븁\x0000
+Will you cancel registering\xfffethe Pokémon to participate?
+The conditions for the tournament\xfffehave not been met.\xf000\xbe01\x0000\xfffePlease place your Pokémon\xfffein the Battle Box.\xf000\xbe01\x0000
+Saving...\xfffeDon't turn off the power.
+Your Battle Box has been registered\xfffefor the tournament.\xf000\xbe01\x0000\xfffeYou will not be able to\xfffemove your Pokémon to or from\xf000\xbe00\x0000\xfffeyour Battle Box.\xf000\xbe01\x0000
+Pokémon Battle Competition!\xfffeWhat would you like to do?
+Battle
+Look back
+Cancel participation
+The last battle will be\xfffeplayed back.\xf000\xbe01\x0000
+Once unregistered, you will not be able to\xfffeparticipate in the same tournament.\xf000\xbe01\x0000\xfffeIs it OK to unregister?
+You will be unregistered.\xfffeAre you sure about this?
+Your Battle Box has been\xfffeunregistered.\xf000\xbe01\x0000
+You will communicate with your opponent\xfffevia Infrared Connection.\xf000\xbe01\x0000\xfffePlease face your Nintendo Game Card\xfffeat your opponent's Game Card\xf000\xbe00\x0000\xfffeand press the A Button.\xf000\xbe01\x0000
+Will you cancel the Infrared Connection?
+The selected tournaments do not match.\xf000\xbe01\x0000\xfffePlease check the Digital Player ID\xfffeand follow the instructions\xf000\xbe00\x0000\xfffegiven by tournament staff.\xf000\xbe01\x0000
+An opponent has been found!
+Follow the instructions given by \xfffetournament staff and press the A Button.\xf000\xbe01\x0000
+The battle has ended.\xfffeThe Pokémon in your Battle Box\xf000\xbe00\x0000\xfffeare now unregistered.\xf000\xbe01\x0000
+Failed to receive\xfffeyour Digital Player ID.\xf000\xbe01\x0000
+Failed to receive\xfffeyour Digital Player ID.\xf000\xbe01\x0000
+The connection\xfffefailed.\xf000\xbe01\x0000
+Live Competition will be ended.\xf000\xbe01\x0000
+DONE
+Live Competition is ended.\xfffeThank you for participating.\xf000\xbe01\x0000
+Receiving data...\xfffePlease wait a moment.
+Searching for your opponent...\xfffePlease wait a moment.
+There was a problem\xfffewith the last battle.\xf000\xbe00\x0000\xfffeIt cannot be played back.\xf000\xbe01\x0000
+Communicating. Please stand by...
+You have already had a battle\xfffewith this person.\xf000\xbe01\x0000\xfffeYou cannot battle\xfffethe same opponent again.\xf000\xbe01\x0000
+There are no Pokémon in\xfffeyour Battle Box.\xf000\xbe01\x0000\xfffePlease check the tournament\xffferules to place Pokémon\xf000\xbe00\x0000\xfffein your Battle Box.\xf000\xbe01\x0000
+Please choose your Pokémon.
+An error occurred, and\xfffethe battle has been disrupted.\xf000\xbe01\x0000\xfffePlease follow the instructions\xfffegiven by tournament staff.\xf000\xbe01\x0000
+Check Results
+Does not meet the\xfffetournament requirements.\xf000\xbe01\x0000
+The amount of Pokémon does\xfffenot meet the requirements.\xf000\xbe01\x0000
+The level of the Pokémon do\xfffenot meet the requirements.\xf000\xbe01\x0000
+This Pokémon cannot\xfffeparticipate.\xf000\xbe01\x0000
+The Pokémon's type\xfffeis the same.\xf000\xbe01\x0000
+The Pokémon's held item\xfffeis the same.\xf000\xbe01\x0000
+It's an egg.\xf000\xbe01\x0000
+You do not have\xfffethe proper tools.\xf000\xbe01\x0000
+You do not have Pokémon\xfffeneeded to participate.\xf000\xbe01\x0000
+The total level of participants\xfffedoes not meet the requirements.\xf000\xbe01\x0000
+Confirm rules of tournament,\xfffeplease set Pokémon to\xf000\xbe00\x0000\xfffethe Battle Box\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0000 Remain \xf000\x0200\x0001\x0002Pkm\xfffe\xf000\x0100\x0001\x0001 Remain \xf000\x0200\x0001\x0003Pkm\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000 has won!\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0000 Remain \xf000\x0200\x0001\x0002Pkm\xfffe\xf000\x0100\x0001\x0001 Remain \xf000\x0200\x0001\x0003Pkm\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000 has lost!\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0000 Remain \xf000\x0200\x0001\x0002Pkm\xfffe\xf000\x0100\x0001\x0001 Remain \xf000\x0200\x0001\x0003Pkm\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000 have tied!\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0000 Remain \xf000\x0200\x0001\x0002Pkm\xfffe\xf000\x0100\x0001\x0001 Remain \xf000\x0200\x0001\x0003Pkm\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000 has given up!\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000 has lost!\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0000 Remain \xf000\x0200\x0001\x0002Pkm\xfffe\xf000\x0100\x0001\x0001 Remain \xf000\x0200\x0001\x0003Pkm\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0001 has given up!\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000 has won!\xf000\xbe01\x0000
