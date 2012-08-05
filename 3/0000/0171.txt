@@ -3,13 +3,13 @@ Benvenuto alla Palestra\xfffedi Alisopoli!\xf000븁\x0000\xfffeSono Komor,\xfffe
 Accetto la sfida!\xfffePrima vai a battere quei due!\xf000븁\x0000
 Dopo che hai battuto quei due,\xfffeio sarò pronto a lottare!
 Vorresti battermi, eh!\xfffeMa prima lotta con quei due!
-Questa lotta sarà\xfffeuna prima sfida per te\xf000븁\x0000\xfffema lo sarà anche per me, in quanto\xfffenuovo Capopalestra!\xf000븁\x0000\xfffePerciò, fa' del tuo meglio!\xfffeFatti sotto!\xf000븁\x0000
-Questa era la lotta\xfffedel mio inizio come Capopalestra!\xf000븀\x0000\xfffeE ti è andata bene...\xf000븁\x0000\xfffeOnestamente, se così è realmente,\xfffetu e i tuoi Pokémon siete formidabili!\xf000븁\x0000\xfffeE per mostrarlo anche agli altri,\xfffelascia che ti conferisca questa medaglia!\xf000븁\x0000
+Per te è la prima sfida in una Palestra\xfffee per me è la prima come Capopalestra!\xf000븁\x0000\xfffeFacciamo del nostro meglio!\xfffeFatti sotto!\xf000븁\x0000
+Questa era la lotta che segnava l'inizio\xfffedel mio compito di Capopalestra!\xf000븀\x0000\xfffeE ti è andata bene...\xf000븁\x0000\xfffeSe è davvero così come sembra, tu e\xfffei tuoi Pokémon siete formidabili!\xf000븁\x0000\xfffeE per dimostrarlo anche agli altri,\xfffelascia che ti conferisca questa medaglia!\xf000븁\x0000
 \xf000Ā\x0001\x0000 ha ricevuto da Komor\xfffela Medaglia Base!\xf000븁\x0000
 Per commemorare questa lotta,\xfffeeccoti la prima Medaglia, la Medaglia Base!\xf000븁\x0000\xfffeCon questa medaglia, i Pokémon\xfffescambiati fino al L. 20\xf000븀\x0000\xfffeti obbediranno senza problemi!\xf000븀\x0000\xfffeInoltre, per via della forza dei\xf000븁\x0000\xfffetuoi Pokémon, eccoti anche questa!\xf000븁\x0000
 Insegnando a un Pokémon Cuordileone,\xfffepuoi infodere a quel Pokémon\xf000븀\x0000\xfffeil coraggio di lottare!\xf000븁\x0000\xfffePerciò, se durante una sfida\xfffeusi Cuordileone,\xf000븀\x0000\xfffel'Attacco del Pokémon aumenterà!\xf000븁\x0000\xfffeAh, ricordati che puoi usare una\xfffeMT tutte le volte che ti serve.\xf000븁\x0000
-In questa regione di Unima\xfffevi sono 8 Palestre Pokémon\xf000븀\x0000\xfffee quindi ci sono 8 medaglie.\xf000븁\x0000\xfffeE anche tu, in quanto allenatore,\xfffehai il compito di collezionare\xf000븁\x0000\xfffetutte le medaglie! Così potrai\xfffeanche riempire le pagine del Pokédex!\xf000븁\x0000\xfffeGià! Anche io, più o meno due anni fa,\xfffeavevo un Pokédex e insieme\xf000븀\x0000\xfffea Belle viaggiavo per Unima!
-Komor: Da questo momento,\xfffequalsiasi cosa tu decida andrà bene!\xf000븁\x0000\xfffeAndrà bene anche se perderai,\xfffeperchè i Pokémon sono al tuo fianco!
+In questa regione di Unima\xfffeci sono 8 Palestre Pokémon,\xf000븀\x0000\xfffee quindi ci sono 8 medaglie.\xf000븁\x0000\xfffeAnche tu, in quanto Allenatore, hai\xfffeil compito di collezionarle tutte!\xf000\xbe01\x0000\xfffeCosì, mano a mano, potrai riempire le\xfffepagine del tuo Pokédex!\xf000븁\x0000\xfffeAnche io, più o meno due anni fa,\xfffeavevo un Pokédex e insieme\xf000븀\x0000\xfffea Belle viaggiavo per Unima!
+Komor: Da questo momento,\xfffequalsiasi cosa tu decida andrà bene!\xf000븁\x0000\xfffeAndrà bene anche se perderai,\xfffeperchè i Pokémon saranno al tuo fianco!
 Io stimo molto Komor!\xfffE' diventato Capopalestra in poco tempo!\xf000븁\x0000
 Se batti anche la ragazza,\xfffepotrai sfidare il Capopalestra!
 Incredibile! Ora puoi\xfffesfidare il Capopalestra!
@@ -18,7 +18,7 @@ Ti mostrerò ciò che ho imparato da\xfffeKomor un attimo fa!\xf000븁\x0000
 Eh?! Aspetta un attimo...!\xfffeHai già vinto?!
 Mi hai battuto!! Ma riuscirai a\xfffebattere anche Komor?
 Voglio conoscere i miei Pokémon\xfffepiù approfonditamente!
-Ciao! Io sono\xfffela guida per gli allenatori\xf000븀\x0000\xfffeche vogliono sfidare il\xf000븀\x0000\xfffecapopalestra Komor!\xf000븁\x0000\xfffeGrazie per voler lottare\xfffein questa Palestra!\xf000븀\x0000\xfffePer ricordo, tieni questo!\xf000븁\x0000
-Il compito di un Capopalestra\xfffeè quello di valutare la\xf000븀\x0000\xfffebravura di un allenatore!\xf000븁\x0000\xfffeE' facile valutare\xfffel'allenatore se\xf000븀\x0000\xfffevince il Capopalestra!\xf000븁\x0000
+Ciao!\xf000\xbe01\x0000\xfffeIo sono la guida per gli Allenatori\xfffeche vogliono sfidare il Capopalestra,\xf000븀\x0000\xfffeKomor!\xf000븁\x0000\xfffeTi ringrazio di essere venuto a lottare\xfffeanche in questa piccola palestra!\xf000븀\x0000\xfffeCome ricordo, tieni questo!\xf000븁\x0000
+Il compito di un Capopalestra è quello di\xfffevalutare la bravura di un allenatore!\xf000븁\x0000\E' ovvio che se l'Allenatore\xfffeperde, è più facile giudicarlo!\xf000븁\x0000
 Se in una lotta Pokémon non si hanno\xfffepiù Pokémon in forma, si perde!\xf000븁\x0000\xfffePerciò, più Pokémon si hanno,\xfffepiù si è avvantaggiati!
-Hai ricevuto la Medaglia!\xfffeSpero che tu ricorda sempre\xf000븀\x0000\xfffequest'attimo meraviglioso!
+Sei riuscito ad ottenere la Medaglia!\xf000\xbe01\x0000\xfffeSpero che tu ricorda sempre\xfffequest'attimo meraviglioso!
