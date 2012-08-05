@@ -19,11 +19,11 @@ Scena 17
 Scena 18
 Scena 19
 Scena 20
-Snatch the foe's item!\xfffeChoose your lines wisely!
-Change the foe's ability!
-Choose a reliable move!
-Choose a reliable move!
-Choose a reliable move!
+Togli l'item al nemico!\xfffeScegli le tue linee saggiamente!
+Modifica le capacità del nemico!
+Scegli una mossa affidabile!
+Scegli una mossa affidabile!
+Scegli una mossa affidabile!
 No
 No
 No
