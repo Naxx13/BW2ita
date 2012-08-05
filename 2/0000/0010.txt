@@ -1,6 +1,6 @@
 Nome:
 Lavoro:
-HOBBY:
+Hobby:
 Tempo:
 \xf000ļ\x0001\x0000
 \xf000ļ\x0001\x0000
@@ -9,10 +9,10 @@ Da:
 \xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
 Quante volte hai ringraziato :\xfffeNumero di persone:
 \xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000かい\xfffe\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0001にん
-\xf000Ȅ\x0001\x0001にん
+\xf000Ȅ\x0001\x0001Persone
 \xf000Ȃ\x0001\x0002:\xf000ȁ\x0001\x0003
-Tempo Passato:　ＡＭ\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
-Tempo Passato:　ＰＭ\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
+Tempo Passato: AM\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
+Tempo Passato: PM\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
 Battaglie 　\xf000ā\x0001\x0000a\xfffe selvatiche
 Battaglie con\xfffePokemon Speciali
 Battling \xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001
