@@ -2,19 +2,19 @@
 ID\xf000Ȅ\x0001\x0000
 Quando il gruppo è pronto:\xfffePulsante A: Procedi   Pulsante B: Annulla
 Il gruppo è OK?
-Cancel the Spin Trade?
-The Spin Trade will be canceled.
-A member has dropped out.
-There are no members.\xfffeThe Spin Trade will be canceled.
-Please wait.\xfffeB Button: Cancel
-A member dropped out.\xfffeThe Spin Trade will be canceled.
-Cancel the Spin Trade?
-The Spin Trade will be canceled.
-Exchanging records.\xfffePlease don't turn off the power!
-The Spin Trade is done!\xfffeYou will be returned to the Union Room.
+Cancellare il Spin Trade?
+The Spin Trade verrà cancellato.
+Un membro ha abbandonato.
+Non ci sono membri.\xfffeThe Spin Trade verrà cancellato.
+Attendere Prego.\xfffePulsante B: Cancella
+Un membro ha abbandonato.\xfffeThe Spin Trade verrà cancellato.
+Cancellare il Spin Trade?
+The Spin Trade verrà cancellato.
+Scambio dei record.\xfffeNon spegnere la console!
+The Spin Trade è fatto!\xfffeVerrai riportato alla Stanza Unione.
 If the leader drops out, the group will\xfffebe disbanded. Is that OK?
-\xf000Ā\x0001\x0000 has left.
-\xf000Ā\x0001\x0000, the leader, has left.\xfffeThe group will be disbanded.
+\xf000Ā\x0001\x0000 è uscito.
+\xf000Ā\x0001\x0000, Il capogruppo, è uscito.\xfffeIl gruppo verrà sciolto.
 Seeking a Spin Trade!
 Spin Trade in progress!
 Si
