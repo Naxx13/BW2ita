@@ -6,7 +6,7 @@ Recluta: Ehi!\xf000븁\x0000\xfffeRubare Pokémon della gente è\xfffedivertente
 Recluta: Zitto, tu sei un po' troppo\xfffein ritardo per pretendere di essere\xf000\xbe00\x0000\xfffenel giusto!\xf000븁\x0000
 Recluta:Beh, basta comprendere la\xfffenostra forma di giustizia.\xf000븁\x0000\xfffeCredi che siamo solo cattivi in cerca\xfffedi conquistare il mondo?\xf000븁\x0000\xfffeIl Team Plasma è stato fermato e perciò\xfffela gente è divenuta insensibile e fredda.\xf000븁\x0000\xfffePer questo motivo, prendiamo Pokémon\xfffecon la forza in modo da ricreare\xf000븀\x0000\xfffequesto mondo nuovo sotto la nostra mano!\xf000븁\x0000\xfffeImmaginate quanto grande sarà quando\xfffetutte queste persone fredde dovranno\xf000\xbe00\x0000\xfffeinchinarsi a noi!\xf000븁\x0000
 Recluta Orig.: ... Senza speranza.\xf000븁\x0000\xfffeSiete pieni di rammarico...\xfffeNon si può fare...!xf000븁\x0000
-Recluta: N! AH!\xf000븁\x0000\xfffeSolo un traditore del re del\xfffeTeam Plasma direi!\xf000븁\x0000\xfffeIl problema è che è sparito da\xfffequalche parte e non riusciamo a\xf000\xbe00\x0000\xfffecapire dove si trovi!\xf000븁\x0000
+Recluta: N! Ah!\xf000븁\x0000\xfffeSolo un traditore del re del\xfffeTeam Plasma direi!\xf000븁\x0000\xfffeIl problema è che è sparito da\xfffequalche parte e non riusciamo a\xf000\xbe00\x0000\xfffecapire dove si trovi!\xf000븁\x0000
 Ehi!!\xf000븁\x0000
 Recluta: Rendiamo il discorso\xfffepiù convincente!\xf000븁\x0000
 Recluta: Su dai!\xf000븁\x0000\xfffeMuovetevi!!\xf000븁\x0000\xfffeSe vi rifiutate di andarvente,\xfffeallora dovrete affrontarmi!\xf000븁\x0000
@@ -26,12 +26,12 @@ Ross: Mi dispiace!\xfffeHo sbagliato a non fidarmi di te.\xf000븁\x0000\xfffeIl
 Ross: Chi è là?\xf000븁\x0000\xfffe... ... ...xfffe... ... ...\xf000븁\x0000\xfffeE' un tuo amico?\xfffeIn quel caso, prego.\xf000븁\x0000
 \xf000Ā\x0001\x0001: Una sfida?\xfffeVa bene! Mi renderà più forte!\xf000븁\x0000\xfffePerò attento!\xfffeRafan è molto forte!\xf000븁\x0000\xfffeBeh, contro i tipi Terra, è bene\xfffeusare mosse di tipo Acqua!
 \xf000Ā\x0001\x0001: Cosa?! Anche tu hai\xfffela Medaglia! Come mi aspettavo!\xf000븁\x0000\xfffeHai ottenuto quella Medaglia grazie\xfffealla forza dei tuoi amici!\xf000븁\x0000\xfffeAllora, vuoi parlare con questi?\xfffeNon credo però che sappiano\xf000\xbe00\x0000\xfffedove si trova il mio Purrloin...\xf000븀\x0000\xfffeAh, non lo riavrò mai indietro...\xf000븁\x0000
-Clay『なんだ　おまえら\xfffeしりあい　だったのか？\xf000븁\x0000\xfffeふたりとも　なかなか　だったからな\xfffeいいところへ　つれて　いってやるぞ！\xf000븁\x0000
-\xf000Ā\x0001\x0001『そうだッ　おもいだした！\xfffeClay　あんた……\xf000븁\x0000\xfffeなんで！　なんでッ！\xfffeTeam Plasmaを　ゆるしてるんだよ！？\xf000븁\x0000
-Clay『なんにだって\xfffeうけざらは　ひつよう　よ\xf000븁\x0000\xfffeそれに　ただしさ　ばかりを　もとめると\xfffeじぶんたち　いがいの　すべての\xf000븀\x0000\xfffeいけん　かんがえを　ひていしかねない\xf000븀\x0000\xfffeそれが　どんなに　あぶないことか\xf000븁\x0000
-\xf000Ā\x0001\x0001『フウン\xfffeそれが　おとなの　はんだん　てやつ？\xf000븁\x0000\xfffeまあ　いいよ！　オレは\xfffeTeam Plasmaと　たたかうからッ！\xf000븁\x0000\xfffeで　さっき　いってた\xfffeいい　ところ　って？\xf000븁\x0000
-Clay『きいたこと　ないか？\xfffeTorneo Mondiale Pokémon\xf000븁\x0000\xfffeかくちの　Trainerを　あつめ\xfffeつよいのは　だれか　きめるのよ！\xf000븁\x0000\xfffeじゃ　おまえら\xfffeまちの　みなみで　まってるぞ！\xf000븁\x0000
-\xf000Ā\x0001\x0001『つよい　ヤツを　きめる\xfffeTournamentか……\xf000븁\x0000\xfffeよーし！\xfffeとっくんだ！　とっくんに　いくぞッ！\xf000븁\x0000
+Rafan: なんだ　おまえら\xfffeしりあい　だったのか?\xf000븁\x0000\xfffeふたりとも　なかなか　だったからな\xfffeいいところへ　つれて　いってやるぞ!\xf000븁\x0000
+\xf000Ā\x0001\x0001:そうだッ　おもいだした!\xfffeClay　あんた……\xf000븁\x0000\xfffeなんで!　なんでッ!\xfffeTeam Plasmaを　ゆるしてるんだよ!?\xf000븁\x0000
+Rafan: なんにだって\xfffeうけざらは　ひつよう　よ\xf000븁\x0000\xfffeそれに　ただしさ　ばかりを　もとめると\xfffeじぶんたち　いがいの　すべての\xf000븀\x0000\xfffeいけん　かんがえを　ひていしかねない\xf000븀\x0000\xfffeそれが　どんなに　あぶないことか\xf000븁\x0000
+\xf000Ā\x0001\x0001:フウン\xfffeそれが　おとなの　はんだん　てやつ？\xf000븁\x0000\xfffeまあ　いいよ!　オレは\xfffeTeam Plasmaと　たたかうからッ!\xf000븁\x0000\xfffeで　さっき　いってた\xfffeいい　ところ　って?\xf000븁\x0000
+Rafan: きいたこと　ないか?\xfffeTorneo Mondiale Pokémon\xf000븁\x0000\xfffeかくちの　Allenatoreを　あつめ\xfffeつよいのは　だれか　きめるのよ!\xf000븁\x0000\xfffeじゃ　おまえら\xfffeまちの　みなみで　まってるぞ!\xf000븁\x0000
+\xf000Ā\x0001\x0001:つよい　ヤツを　きめる\xfffeTournamentか……\xf000븁\x0000\xfffeよーし!\xfffeとっくんだ!　とっくんに　いくぞッ！\xf000븁\x0000
 Così come il Ponte Libecciopoli è l'orgoglio\xfffedella nostra città, anche la vecchia\xf000\xbe00\x0000\xfffestatua di Charizard lo era! Quanto\xf000\xbe00\x0000\xfffevorrei che fosse ripristinata!
 Nella Lega Pokémon ci sono i Superquattro!\xfffeSono incredibilmente forti, e\xf000\xbe00\x0000\xfffebisogna avere 8 Medaglie per poter\xf000\xbe00\x0000\xfffelottare contro di loro!
 "Per spostare gli strumenti nella borsa,\xfffebasta premere Select!"♪\xf000븁\x0000\xfffeE' uno spot pubblicitario!
