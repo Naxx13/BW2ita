@@ -3,7 +3,7 @@ La mia casa è avanti.\xf000븁\x0000\xfffeVai al Centro Pokémon, per favore.\x
 Nardo: Per di qua!\xfffeDunque, ci alleniamo?\xf000븁\x0000
 Per curiosità...\xfffePerchè hai 2 Mappe Città?\xf000븁\x0000\xfffe...... ...... ......\xfffe...... ...... ......\xf000븁\x0000
 Oh!\xfffeE' quella del tuo amico?\xf000븁\x0000
-\xf000ā\x0001\x0000 è il compagno del\xfffetuo amico, vero?\xf000븁\x0000\xfffeUhm...\xf000\xbe01\x0000\xfffeVai subito a consegnarli la Mappa Città!\xf000\xbe01\x0000\xfffeAvrai l'occasione di allenare i tuoi\xfffePokémon sul Percorso 20!\xf000븁\x0000
+\xf000ā\x0001\x0000 è il compagno del\xfffetuo amico, vero?\xf000븁\x0000\xfffeUhm...\xf000\xbe01\x0000\xfffeVai subito a consegnargli la Mappa Città!\xf000\xbe01\x0000\xfffeAvrai l'occasione di allenare\xfffei tuoi Pokémon sul Percorso 20!\xf000븁\x0000
 Dovresti subito andare \xfffeal Percorso 20!\xf000븁\x0000
 Dovresti subito andare \xfffeal Percorso 20!\xf000븁\x0000\xfffeDato che devi consegnare la\xfffeMappà Città, aspetterò qui!
 Nardo: Oh! Hai consegnato\xfffela Mappa Città al tuo amico!\xf000븁\x0000\xfffeMmhh...!\xf000븁\x0000\xfffeI tuoi Pokémon sembrano forti,\xfffema senza un adeguato Allenamento,\xf000\xbe00\x0000\xfffenon potranno certo cavarsela!\xf000\xbe01\x0000\xfffeVieni ad allenarti con me!\xfffeSeguimi!\xf000븁\x0000
