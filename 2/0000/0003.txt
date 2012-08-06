@@ -41,16 +41,16 @@ Colosseo Multi,\xfffeFlat, Launcher On
 Battaglia Metro,\xfffeSingolo
 Battaglia Metro,\xfffeDoppio
 Battaglia Metro,\xfffeMulti
-Match Casuale, Free\xfffeSingolo
-Match Casuale, Free\xfffeDoppio
-Match Casuale, Free\xfffeTriplo
-Match Casuale, Free\xfffeRotazione
-Match Casuale, Free\xfffeLauncher Battle
-Match Casuale, Valutazione\xfffeSingolo
-Match Casuale, Valutazione\xfffeDoppio
-Match Casuale, Valutazione\xfffeTriplo
-Match Casuale, Valutazione\xfffeRotazione
-Match Casuale, Valutazione\xfffeInizia battaglia 
+Abbinamento a Caso, Libero\xfffeSingolo
+Abbinamento a Caso, Libero\xfffeDoppio
+Abbinamento a Caso, Libero\xfffeTriplo
+Abbinamento a Caso, Libero\xfffeRotazione
+Abbinamento a Caso, Libero\xfffeLauncher Battle
+Abbinamento a Caso, Valutazione\xfffeSingolo
+Abbinamento a Caso, Valutazione\xfffeDoppio
+Abbinamento a Caso, Valutazione\xfffeTriplo
+Abbinamento a Caso, Valutazione\xfffeRotazione
+Abbinamento a Caso, Valutazione\xfffeInizia battaglia 
 Torneo Singolo\xfffecon lancio
 Torneo Singolo\xfffesenza lancio
 Torneo Doppio\xfffecon lancio
