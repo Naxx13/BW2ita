@@ -10,9 +10,9 @@ Dettagli
 \xf000Ȃ\x0001\x0000
 Altezza:
 Peso:
-『Modalità Ricerca』
+"Modalità Ricerca"
 Per favore inserisci i criteri.
-『Risultati Ricerca』
+"Risultati Ricerca"
 RISULTATI　\xf000Ȃ\x0001\x0000
 Seleziona il tipo di ordine.
 Ordina per la prima lettera del nome.
@@ -27,8 +27,8 @@ Ricerca in corso...
 Ordine
 Nome
 Tipo
-Altezza:
-Peso:
+Altezza
+Peso
 Zona
 Forma
 Kanto
@@ -67,20 +67,19 @@ Johto
 Kanto
 Sconosciuto
 ーーーー
-ア
-イ
-ウ
-エ
-オ
-カ
-キ
-ク
-ケ
-コ
-サ
-シ
-ス
-セ
+A
+I
+U
+E
+O
+Ka
+Ki
+Ku
+Ko
+Sa
+Shi
+Su
+Se
 ソ
 タ
 チ
@@ -173,10 +172,10 @@ Scambia
 Annulla
 Annulla
 Return to list
-Dare un soprannome al \xf000ā\x0001\x0000 \xfffecatturato?
-Dare un soprannome al \xf000ā\x0001\x0000 \xfffecatturato?
+Dare un soprannome all'esemplare di\xfffe\xf000ā\x0001\x0000 catturato?
+Dare un soprannome all'esemplare di\xfffe\xf000ā\x0001\x0000 catturato?
 \xf000Ă\x0001\x0000 è stato trasferito nel\xfffe\xf000ċ\x0001\x0001 nel PC del Team Phoenix!
-\xf000Ă\x0001\x0000 wè stato trasferito nel\xfffe\xf000ċ\x0001\x0001 nel PC del Team Phoenix!
+\xf000Ă\x0001\x0000 è stato trasferito nel\xfffe\xf000ċ\x0001\x0001 nel PC del Team Phoenix!
 Informazioni
 Mappa/Area
 Verso/Grido
