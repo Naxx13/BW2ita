@@ -1,165 +1,164 @@
-OFFRIRE
+OFFERTA
 ESCI
 MOSTRA
-RIEPILOGO
-COMMERCIA
+SOMMARIO
+SCAMBIO
 CANCELLA
-Comunicazione. Si prega di stare a...
-パ-トナ-となる あいてに\xfffeせきがいせんを むけてください
-Diventato il capo!
-たいせん あいての リ-ダ-に\xfffeせきがいせんを むけてください
-Prego attendere un momento.
+Communicazione. Attendere prego...
+パートナーとなる　あいてに\xfffeせきがいせんを　むけてください
+Diventa il Leader!
+たいせん　あいての　リーダーに\xfffeせきがいせんを　むけてください
+Attendere un momento.
 Codici Amici
-Feeling di Controlli:
-Vuoi annullare?
-こうかんする あいてに\xfffeせきがいせんを むけてください
-Pokémon Trades
-IN SQUADRA
-Scambio \xf000Ă\x0001\x0000 in cambio di\xfffe\xf000Ă\x0001\x0001?
-Lv. \xf000Ȃ\x0001\x0000
+Feeling Checks:
+Vuoi Annullare?
+こうかんする　あいてに\xfffeせきがいせんを　むけてください
+SCAMBI POKÉMON
+NEL PARTY
+Scambiare \xf000\x0102\x0001\x0000 in cambio di\xfffe\xf000\x0102\x0001\x0001?
+Lv. \xf000\x0202\x0001\x0000
 Chiudere il link?
-Scambiati.
-Prego attendere un momento.
-Tu e il tuo amico (a) non avete selezionato la stessa cosa. Ritorno al menu precedente.
+Scambiato.
+Attendere un momento.
+Tu e il tuo amico(i) non avete selezionato\xfffela stessa cosa. Ritorno al menù precedente.
 Vuoi salvare il gioco?
 SI
 NO
-Salvataggio...\xfffeNon Togliere l'alimentazione.
-No.\xf000Ȃ\x0001\x0001
-\xf000ā\x0001\x0000
-\xf000Ă\x0001\x0000
-HP
+Salvataggio...\xfffeNon spegnere la console.
+No.\xf000\x0202\x0001\x0001
+\xf000\x0101\x0001\x0000
+\xf000\x0102\x0001\x0000
+PS
 Attacco
 Difesa
-Attacco Sp.
-Difesa Sp.
+Att. Spec.
+Dif. Spec.
 Velocità
 Natura
 Abilità
-Elemento
-\xf000Ȃ\x0001\x0000/\xf000Ȃ\x0001\x0001
-\xf000Ȃ\x0001\x0000
-\xf000Ĉ\x0001\x0000
-\xf000Ć\x0001\x0000
-\xf000ĉ\x0001\x0000
+Oggetto
+\xf000\x0202\x0001\x0000/\xf000\x0202\x0001\x0001
+\xf000\x0202\x0001\x0000
+\xf000\x0108\x0001\x0000
+\xf000\x0106\x0001\x0000
+\xf000\x0109\x0001\x0000
 MOSSE APPRESE
-\xf000ć\x0001\x0000
+\xf000\x0107\x0001\x0000
 ♂
 ♀
-\xf000Ā\x0001\x0000 sent over\xfffe\xf000Ă\x0001\x0001.
-Abbiate cura di \xf000Ă\x0001\x0001!
-comunicazioni in arresto...\xfffeSi prega di attendere.
-Selezionare la prima lettera del nome dei\xfffePokémon che si desidera trovare.
-Nessun Pokémon con selezionata\xfffela lettera è stato trovato.
-\xf000봂\x0000ア
-\xf000봂\x0000イ
-\xf000봂\x0000ウ
-\xf000봂\x0000エ
-\xf000봂\x0000オ
-\xf000봂\x0000カ
-\xf000봂\x0000キ
-\xf000봂\x0000ク
-\xf000봂\x0000ケ
-\xf000봂\x0000コ
-\xf000봂\x0000サ
-\xf000봂\x0000シ
-\xf000봂\x0000ス
-\xf000봂\x0000セ
-\xf000봂\x0000ソ
-\xf000봂\x0000タ
-\xf000봂\x0000チ
-\xf000봂\x0000ツ
-\xf000봂\x0000テ
-\xf000봂\x0000ト
-\xf000봂\x0000ナ
-\xf000봂\x0000ニ
-\xf000봂\x0000ヌ
-\xf000봂\x0000ネ
-\xf000봂\x0000ノ
-\xf000봂\x0000ハ
-\xf000봂\x0000ヒ
-\xf000봂\x0000フ
-\xf000봂\x0000へ
-\xf000봂\x0000ホ
-\xf000봂\x0000マ
-\xf000봂\x0000ミ
-\xf000봂\x0000ム
-\xf000봂\x0000メ
-\xf000봂\x0000モ
-\xf000봂\x0000ヤ
-\xf000봂\x0000ユ
-\xf000봂\x0000ヨ
-\xf000봂\x0000ラ
-\xf000봂\x0000リ
-\xf000봂\x0000ル
-\xf000봂\x0000レ
-\xf000봂\x0000ロ
-\xf000봂\x0000ワ
-Lo scambio è stato\xfffeannullato.
-Il commercio è stato annullato.
-È necessario tale Pokémon da ottenere\xfffeattraverso la vostra avventura!
-Vi è un Pokémon che non può essere\xfffescambiato nella dell' altro allenatore.
-Vi è un Pokémon che non può essere\xfffescambiato nella vostra squadra.
-E ha imparato una mossa HM.\xfffeNon può lasciare la tua squadra.
-L'altro allenatore vuole apparentemente\xfffescambiare Pokémon con voi.
-Annulla Scambio?
-In attesa del giocatore fino al termine della...
+\xf000\x0100\x0001\x0000 mandato attraverso\xfffe\xf000\x0102\x0001\x0001.
+Abbiate cura di \xf000\x0102\x0001\x0001!
+Stop comunicazione...\xfffeAttendere prego.
+Seleziona la prima lettera del nome\xfffePokémon che vuoi trovare.
+Nessun Pokémoncon la lettera\xfffeselezionata è stato trovato.
+\xf000\xbd02\x0000ア
+\xf000\xbd02\x0000イ
+\xf000\xbd02\x0000ウ
+\xf000\xbd02\x0000エ
+\xf000\xbd02\x0000オ
+\xf000\xbd02\x0000カ
+\xf000\xbd02\x0000キ
+\xf000\xbd02\x0000ク
+\xf000\xbd02\x0000ケ
+\xf000\xbd02\x0000コ
+\xf000\xbd02\x0000サ
+\xf000\xbd02\x0000シ
+\xf000\xbd02\x0000ス
+\xf000\xbd02\x0000セ
+\xf000\xbd02\x0000ソ
+\xf000\xbd02\x0000タ
+\xf000\xbd02\x0000チ
+\xf000\xbd02\x0000ツ
+\xf000\xbd02\x0000テ
+\xf000\xbd02\x0000ト
+\xf000\xbd02\x0000ナ
+\xf000\xbd02\x0000ニ
+\xf000\xbd02\x0000ヌ
+\xf000\xbd02\x0000ネ
+\xf000\xbd02\x0000ノ
+\xf000\xbd02\x0000ハ
+\xf000\xbd02\x0000ヒ
+\xf000\xbd02\x0000フ
+\xf000\xbd02\x0000へ
+\xf000\xbd02\x0000ホ
+\xf000\xbd02\x0000マ
+\xf000\xbd02\x0000ミ
+\xf000\xbd02\x0000ム
+\xf000\xbd02\x0000メ
+\xf000\xbd02\x0000モ
+\xf000\xbd02\x0000ヤ
+\xf000\xbd02\x0000ユ
+\xf000\xbd02\x0000ヨ
+\xf000\xbd02\x0000ラ
+\xf000\xbd02\x0000リ
+\xf000\xbd02\x0000ル
+\xf000\xbd02\x0000レ
+\xf000\xbd02\x0000ロ
+\xf000\xbd02\x0000ワ
+Lo scambio è stato annullato.
+Hai bisogno di questo Pokémon per\xfffeproseguire l'avventura!
+C'è un Pokémon che non può essere\xfffescambiato all' altro allenatore.
+C'è un Pokémon che non può essere\xfffescambiato nel tuo party.
+Ha imparato una mossa MN.\xfffeNon puoi uscire da quaesto party.
+Questo Pokémon non può\xfffeessere sostituito in questo momento.
+L'altro allenatore sembra che\xfffevoglia scambiare Pokèmon con te.
+Cancellare lo scambio?
+Attendi che l'altro giocatore finisca...
 Uovo
-La posta in possesso del Pokémon\xfffeè stato inviata al tuo PC
-メ-ルを すてますが\xfffeよろしいですか?
-メ-ルボックスが いっぱいです\xfffeせいりしますか?
-メ-ルを すてました
-とった メ-ルを\xfffeパソコンに てんそう しました
-L' altro allenatore non può\xfffericevere la posta. L'operazione verrà annullata.
-\xf000ā\x0001\x0000
-Si prega di scegliere i vostri Pokémon da offrire.\xfffeÈ possibile selezionare fino a tre Pokémon.
-\xf000봃\x0001\x0000Selezione...
-\xf000봃\x0001\x0000Selezionato
-\xf000봃\x0001\x0000In attesa...
-Il Pokémon che\xfffe\xf000Ā\x0001\x0000 vuole
-Ogni Pokémon
-Pokémon Freddo
-Pokémon Carino
-Pokémon Spaventoso
-Pokémon Strano
-Qualsiasi
-Lv. 1 a 49
+La mail presa dal Pokémon\xfffeè stata mandata al tuo PC.
+メールを　すてますが\xfffeよろしいですか？
+メールボックスが　いっぱいです\xfffeせいりしますか？
+メールを　すてました
+とった　メールを\xfffeパソコンに　てんそう　しました
+L'altro allenatore non può\xfffericevere Mail. Lo scambio verrà annullato.
+\xf000\x0101\x0001\x0000
+Scegli il Pokèmon da offrire.\xfffePuoi selezionare tre Pokémon.
+\xf000\xbd03\x0001\x0000sta scegliendo...
+\xf000\xbd03\x0001\x0000Scelto
+\xf000\xbd03\x0001\x0000Attendi...
+Il Pokémon che\xfffe\xf000\x0100\x0001\x0000 vuole
+Qualsiasi Pokémon
+Pokémon Freddi
+Pokémon Carini
+Pokémon Spaventosi
+Pokémon Strani
+Quasiasi
+Lv. 1 fino a 49
 Lv. 50
-Lv. 51 a 100
+Lv. 51 fino a 100
 Conferma
-\xf000Ā\x0001\x0000
-Invio \xf000Ă\x0001\x0000 a \xf000Ā\x0001\x0001.\xfffeArrivederci, \xf000Ă\x0001\x0000!
-Ritorno \xf000Ă\x0001\x0000 a \xf000Ā\x0001\x0001.\xfffeArrivederci, \xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0001 è tornato\xfffeda \xf000Ā\x0001\x0000!
-Bentornato, \xf000Ă\x0001\x0001!
-RICERCA SCAMBI
-Si prega di scegliere i vostri Pokémon da offrire.\xfffeÈ possibile selezionare fino a tre Pokémon.
-Sei sicuro della selezione fatta?
-In attesa della decisione del tuo amico.\xfffeAttendere Prego...
-Premere OK per selezionare uno ciascuno\xfffeper selezionare ciascuno dei Pokémon scelto?
-L' altro allenatore ha annullato lo scambio.
-Altri Trainer apparentemente\xfffevogliono scambiare Pokémon.
-L'operazione verrà conclusa.\xfffeVa bene?
-Lo scambio è finito.
-Non è possibile scegliere che Pokémon.
-Ci sono uno o più Pokémon nella squadra\xfffeche non possono essere scambiati. Selezionare di nuovo.
-L'altro allenatore ha un Pokémon\xfffeche non può essere scambiato. Selezionare di nuovo.
-Si prega di selezionare un Pokémon di\xfffeil Pokémon offerto per lo scambio.
-È OK per il commercio \xf000Ă\x0001\x0000\xfffeper il vostro \xf000Ă\x0001\x0001?
-Altri allenatori hanno annullato\xfffelo scambio. Si prega di selezionare nuovamente.
-Si riseleziona il Pokémon che si desidera\xfffeoffrire?
-Lo scambio è stato annullato.\xfffeSi prega di selezionare nuovamente.
-Lo scambio e Stato annullato.\xfffeRiseleziona un' altro Pokémon.
-Altri allenatori hanno annullato il commercio.\xfffeSi prega di selezionare un Pokémon nuovamente.
-\xf000Ă\x0001\x0000 sarà offerto.
-\xf000Ă\x0001\x0001 è stata tolta.
-ESCI
-\xf000Ă\x0001\x0000 sarà\xfffeinviato a \xf000Ā\x0001\x0001.
-\xf000Ā\x0001\x0000 inviati tramite\xfffe\xf000Ă\x0001\x0001.
-
-Comunicazione non riuscita.
-Errore di comunicazione.\xfffe(Errore Codice: 13280)
-Errore di comunicazione.\xfffe(Errore Codice: 13281)
-Errore di comunicazione.\xfffe(Errore Codice: 13282)
-Errore di comunicazione.\xfffe(Errore Codice: 13283)
+\xf000\x0100\x0001\x0000
+Invio \xf000\x0102\x0001\x0000 da \xf000\x0100\x0001\x0001.\xfffeArrivederci, \xf000\x0102\x0001\x0000!
+Ricevo \xf000\x0102\x0001\x0000 da \xf000\x0100\x0001\x0001.\xfffeArrivederci, \xf000\x0102\x0001\x0000!
+\xf000\x0102\x0001\x0001 tornato\xfffeda \xf000\x0100\x0001\x0000!
+Bentornato, \xf000\x0102\x0001\x0001!
+TRADE WANTED
+Scegli i Pokémon da offrire.\xfffepuoi selezionare fino a tre Pokémon.
+Sei sicuro della selezione?
+Attendi la decisione del tuo amico.\xfffeAttendere prego...
+Is it OK to select one each\xfffefrom the chosen Pokémon?
+The other Trainer canceled the trade.
+The other Trainer apparently\xfffewants to trade Pokémon.
+The trade will be ended.\xfffeIs that OK?
+Lo scambio è terminato.
+Non puoi scegliere quel Pokémon.
+There is one or more party Pokémon\xfffethat cannot be traded. Select again.
+The other Trainer has a Pokémon\xfffethat cannot be traded. Select again.
+Please select a Pokémon out of\xfffethe Pokémon offered for trade.
+Is it OK to trade \xf000\x0102\x0001\x0000\xfffefor your \xf000\x0102\x0001\x0001?
+The other Trainer canceled\xfffethe trade. Please select again.
+Will you reselect the Pokémon you want\xfffeto offer?
+The trade was canceled.\xfffePlease select again.
+The trade was canceled.\xfffePlease reselect one Pokémon again.
+The other Trainer canceled the trade.\xfffePlease select a Pokémon again.
+\xf000\x0102\x0001\x0000 will be offered.
+\xf000\x0102\x0001\x0001 was taken out.
+LOG OUT
+\xf000\x0102\x0001\x0000 will be\xfffesent to \xf000\x0100\x0001\x0001.
+\xf000\x0100\x0001\x0000 sent over\xfffe\xf000\x0102\x0001\x0001.
+Comunicazione fallita.
+Communication error.\xfffe(Error Code: 13280)
+Communication error.\xfffe(Error Code: 13281)
+Communication error.\xfffe(Error Code: 13282)
+Communication error.\xfffe(Error Code: 13283)
 ???
