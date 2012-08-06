@@ -3,15 +3,15 @@ La mia casa è avanti.\xf000븁\x0000\xfffeVai al Centro Pokémon, per favore.\x
 Nardo: Per di qua!\xfffeDunque, ci alleniamo?\xf000븁\x0000
 Per curiosità...\xfffePerchè hai 2 Mappe Città?\xf000븁\x0000\xfffe...... ...... ......\xfffe...... ...... ......\xf000븁\x0000
 Oh!\xfffeE' quella del tuo amico?\xf000븁\x0000
-\xf000ā\x0001\x0000 è il compagno del\xfffetuo amico, vero?\xf000븁\x0000\xfffeSi! Tempo fa, quando avevo 20 anni,\xfffeho allenato Pokémon a Kanto...\xf000븁\x0000\xfffeEcco! Se possibile, dagli la\xfffeMappa Città, più avanti!\xf000븁\x0000
+\xf000ā\x0001\x0000 è il compagno del\xfffetuo amico, vero?\xf000븁\x0000\xfffeUhm...\xf000\xbe01\x0000\xfffeVai subito a consegnarli la Mappa Città!\xf000\xbe01\x0000\xfffeAvrai l'occasione di allenare i tuoi\xfffePokémon sul Percorso 20!\xf000븁\x0000
 Dovresti subito andare \xfffeal Percorso 20!\xf000븁\x0000
-Dovresti subito andare \xfffeal Percorso 20!\xf000븁\x0000\xfffeBeh! Dato che devi consegnare la\xfffeMappà Città, aspetterò qui!
-Nardo: Ooh! Hai consegnato\xfffela Mappa Città al tuo amico!\xf000븁\x0000\xfffeMmhh...!\xf000븁\x0000\xfffeI tuoi Pokémon sembrano\xfffeforti, ma senza\xf000븁\x0000\xfffeallenamento\xf000븁\x0000\xfffeperderanno la loro forza!\xfffeMhhh... Seguimi!\xf000븁\x0000
-Nardo: \xf000Ā\x0001\x0000！\xf000븁\x0000\xfffeAppena torni a Alisopoli\xfffevai alla Scuola per Allenatori\xf000븀\x0000\xfffeche è anche la Palestra!\xf000븁\x0000\xfffeMi hanno detto che il capo-\xfffepalestra è tornato!\xf000븁\x0000\xfffeE' un avviso!\xf000븁\x0000\xfffeLa lotta in Palestra è un buon modo\xfffeper accertare il legame fra\xf000븀\x0000\xfffete e i tuoi Pokémon!\xf000븁\x0000
-Al mattino i Pokémon sono\xfffeaffamati.\xf000븁\x0000\xfffeAlla sera, i Pokémon sono stanchi\xfffee ronfano nel letto.\xf000븁\x0000\xfffeAh! Sono soddisfatto.
+Dovresti subito andare \xfffeal Percorso 20!\xf000븁\x0000\xfffeDato che devi consegnare la\xfffeMappà Città, aspetterò qui!
+Nardo: Oh! Hai consegnato\xfffela Mappa Città al tuo amico!\xf000븁\x0000\xfffeMmhh...!\xf000븁\x0000\xfffeI tuoi Pokémon sembrano forti,\xfffema senza un adeguato Allenamento,\xf000\xbe00\x0000\xfffenon potranno certo cavarsela!\xf000\xbe01\x0000\xfffeVieni ad allenarti con me!\xfffeSeguimi!\xf000븁\x0000
+Nardo: \xf000Ā\x0001\x0000！\xf000븁\x0000\xfffeAppena torni ad Alisopoli,\xfffevai alla Scuola per Allenatori!\xf000븀\x0000\xfffeLo sapevi? E' anche la Palestra!\xf000븁\x0000\xfffeComunque sia, mi hanno detto che\xfffeil Capopalestra è tornato!\xf000븁\x0000\xfffeLa lotta in Palestra è un buon modo\xfffeper accertare il legame fra\xf000븀\x0000\xfffete e i tuoi Pokémon!\xf000븁\x0000
+Al mattino i Pokémon sono\xfffeaffamati.\xf000븁\x0000\xfffeAlla sera, i Pokémon sono stanchi\xfffee ronfano nel letto.\xf000븁\x0000\xfffeAh! Che soddisfazione!
 La Fattoria di Sangi ha\xfffealcuni Pokémon selvatici molto forti.\xf000븁\x0000\xfffeAnche se tu puoi già\xfffecontare sui tuoi!
-Non dimenticarti di salvare\xfffeil gioco ogni volta\xf000븀\x0000\xfffeche progredisci!
-Dal passato al futuro, io penso\xfffeche sia una gran cosa\xf000븁\x0000\xfffegiocare sempre con i tuoi Pokémon!
+Non dimenticarti di salvare il gioco\xfffeogni volta che progredisci!
+Dal passato al futuro, io penso\xfffeche sia una gran cosa giocare\xf000븁\x0000\xfffesempre con i tuoi Pokémon!
 Vuoi sapere che cosa\xfffeci ha insegnato Nardo?
 Durante una lotta, il Pokémon\xfffeche combatte è quello in alto a sinistra\xf000븀\x0000\xfffenella lista della tua squadra!\xf000븁\x0000\xfffeEcco perchè ci metto i Pokémon\xfffeche voglio fare diventare più forti！
 Non posso più evitarlo..\xfffeFinalmente - *rullo di tamburi* - è completo!
