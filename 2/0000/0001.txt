@@ -8,17 +8,17 @@ Strumenti lotta
 Pokéball
 Ultimo oggetto usato
 \xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
+x \xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
+x \xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
+x \xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
+x \xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
+x \xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
+x \xf000Ȃ\x0001\x0000
 Avanti
 PS/PP
 Terapie
@@ -31,7 +31,7 @@ Strumenti lotta
 \xf000Ȁ\x0001\x0000
 Usa
 \xf000ĉ\x0001\x0000
-×\xf000Ȃ\x0001\x0000
+x \xf000Ȃ\x0001\x0000
 Non avrà alcun effetto!
 E' avvolto dalla nebbia！\xfffe
 \xf000Ă\x0001\x0000 \xfffeè sempre carico!
