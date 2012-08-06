@@ -1,42 +1,42 @@
-\xf000Ā\x0001\x0001: Oh, bene!\xfffeTi sei allenato!\xf000븁\x0000\xfffeE allora vediamo i tuoi progressi!\xfffeFatti sotto!\xf000븁\x0000
-\xf000Ā\x0001\x0001: Tu e i tuoi Pokémon...\xf000븁\x0000\xfffeSiete divenuti molto più\xfffeforti dall'ultima lotta,\xf000븁\x0000\xfffevedo.\xfffeOh!?!\xf000븁\x0000\xfffeHai qualcosa per me?\xf000븁\x0000\xfffeEh...\xfffeUna Mappa Città!?!\xf000븁\x0000
-\xf000Ā\x0001\x0000\xfffeha dato la Mappa Città!\xf000븁\x0000
-\xf000Ā\x0001\x0001: Immagino che me\xfffel'abbia data la mia sorellina...\xf000븁\x0000\xfffeDevo ringraziarti\xfffeper la fatica che avrai fatto!\xf000븁\x0000
-???: Sembrate andare\xfffemolto d'accordo coi Pokémon!\xf000븀\x0000\xfffeBene! Molto bene!\xf000븁\x0000
+\xf000Ā\x0001\x0001: Oh, ti sei allenato!\xf000븁\x0000\xfffeE allora vediamo i tuoi progressi!\xfffeFatti sotto!\xf000븁\x0000
+\xf000Ā\x0001\x0001: Tu e i tuoi Pokémon...\xf000븁\x0000\xfffeSiete diventati molto più\xfffeforti dall'ultima lotta!\xfffeOh!?!\xf000븁\x0000\xfffeHai qualcosa per me?\xf000븁\x0000\xfffeCosa...?\xfffeUna Mappa Città!?!\xf000븁\x0000
+\xf000Ā\x0001\x0000 consegna la Mappa Città!\xf000븁\x0000
+\xf000Ā\x0001\x0001: Immagino che me l'abbia\xfffedata la mia sorellina...\xf000븁\x0000\xfffeTi ringrazio! Chissà che fatica\xfffeche avrai fatto per portarmela!\xf000븁\x0000
+???: Sembrate andare\xfffemolto d'accordo con i Pokémon!\xf000\xbe01\x0000\xfffeBene! Molto bene!\xf000븁\x0000
 \xf000Ā\x0001\x0001: Chi sei?\xf000븁\x0000
 ???: Chi sono io...?\xf000븁\x0000\xfffeSono il proprietario di questa\xfffefattoria, e questa è mia moglie!\xf000븁\x0000
-Moglie: Sono qui per curare\xfffei tuoi Pokémon!\xf000븀\x0000\xfffeE dunque per darti questo!\xf000븁\x0000
+Moglie: Sono qui per curare\xfffei tuoi Pokémon!\xf000\xbe01\x0000\xfffeE dunque per darti questo!\xf000븁\x0000
 Anche a te!\xf000븁\x0000
 Una Pozione a volte può essere\xfffepiù comoda di un Centro Pokémon!\xf000븁\x0000
 Fattore: Voi due non è che\xfffeavete visto il suo Herdier\xf000븀\x0000\xfffequi in giro, per caso?\xf000븁\x0000\xfffeSono un po' preoccupato quando ho visto\xf000븁\x0000\xfffeche mancava uno dei due...\xfffeMi serverà aiuto\xf000븀\x0000\xfffenelle ricerche!\xf000븁\x0000
 \xf000Ā\x0001\x0001: Cosa!?!\xfffeSei solo "un po'" preoccupato!?!\xf000븁\x0000\xfffeMa il Pokémon potrebbe\xfffeessere già molto lontano!\xf000븁\x0000\xfffeBah! Andrò io a cercarlo!\xfffe\xf000Ā\x0001\x0000! Vieni pure tu!\xf000븁\x0000
 Fattore: Perchè è arrabbiato?\xf000븁\x0000\xfffeComunque, secondo me sta solo\xfffegiocando da qualche parte nei pascoli...\xf000븁\x0000
-Moglie: Oh...\xf000븁\x0000\xfffeBeh, se i tuoi Pokèmon\xfffeavessero bisogno di riposo\xf000븀\x0000\xfffeio sarò qui per farli riposare!
+Moglie: Oh...\xf000븁\x0000\xfffeBeh, se i tuoi Pokèmon\xfffeavessero bisogno di riposo,\xf000븀\x0000\xfffeio sarò qui per farli riposare!
 Dove potrebbe essere\xfffeandato Herdier...?
 \xf000Ā\x0001\x0001: Herdier...\xfffeDove sei finito?\xf000븁\x0000\xfffeSono qui io ora!\xf000븁\x0000
 Il pascolo è sempre stato sicuro!
 Non posso smettere di\xfffepreoccuparmi per Herdier...
-Lo so! Credo proprio di\xfffestare facendo qualcosa di buono!\xf000븁\x0000
+Lo so, sto facendo\xfffeuna buona azione!\xf000븁\x0000
 Eccoti! Lo uso con Pokémon\xfffeparalizzati!\xf000븁\x0000
-... Non è un po' impossibile che\xfffeHerdier sia sparito da solo?\xf000븁\x0000\xfffeSecondo me, è\xfffesuccesso qualcosa di più grave.
-...kyuugh
+... Non è un po' impossibile che\xfffeHerdier sia sparito da solo?\xf000븁\x0000\xfffeSecondo me, è successo\xfffequalcosa di più grave.
+... Kyuugh
 Ehi, sta abbaiando...!\xf000븁\x0000
 Cercherò per di qua!\xf000븁\x0000\xfffeTi terrò d'occhio\xfffeda dietro!!\xf000븁\x0000
 Continuiamo a cercare!
 Herdier: ...kyuugh
 \xf000Ā\x0001\x0001: Abbaia ancora!!\xfffeMa non riesco a trovarlo!!\xf000븁\x0000\xfffeAhhhh!!\xf000븁\x0000\xfffeSarà meglio che vada\xfffea chiamare il proprietario!\xf000븁\x0000
-???: Guh!\xfffeChe disfatta!\xf000븁\x0000\xfffeMa non dire a nessuno che un\xfffemembro del Team Plasma è stato qui!\xf000븁\x0000\xfffeTu...\xfffeTu sai cosa fa il Team Plasma?
-Giusto! Due anni fa era\xfffeun gruppo che controllava Unima\xf000븁\x0000\xfffeaffinchè i Pokémon venissero\xfffeliberati!\xf000븁\x0000
-Cosa hai detto?! Due anni fa era\xfffeun gruppo che controllava Unima\xf000븁\x0000\xfffeaffinchè i Pokémon venissero\xfffeliberati!\xf000븁\x0000
-Tu, devi dire...\xf000븁\x0000\xfffeDevi dire che non riesci a capire\xfffeperchè Herdier\xf000븁\x0000\xfffese ne sia andato senza avvertire\xf000븁\x0000\xfffee perchè si sia perso\xfffeproprio qui...\xf000븀\x0000\xfffeE anche come tu abbia fatto\xf000븁\x0000\xfffea trovarlo... E' solo colpa tua!\xfffeMi hai scoperto! Bah! Prendi questo!\xf000븁\x0000
-Beh! Per il momento, lasciamo\xfffeperdere questo Pokémon！\xf000븁\x0000
+???: Accidenti!\xfffeChe disfatta!\xf000븁\x0000\xfffeMa non dire a nessuno che un\xfffemembro del Team Plasma è stato qui!\xf000븁\x0000\xfffeTu...\xfffeTu sai cosa fa il Team Plasma?
+Bene!\xf000\xbe01\x0000\xfffeBeh, due anni fa era un gruppo\xfffeche controllava Unima affinchè\xf000\xbe00\x0000\xfffei Pokémon venissero liberati!\xf000븁\x0000
+Bah!\xf000\xbe01\x0000\xfffeBeh, due anni fa era un gruppo\xfffeche controllava Unima affinchè\xf000\xbe00\x0000\xfffei Pokémon venissero liberati!\xf000븁\x0000
+Tu, devi dire che non riesci a capire\xfffeperchè Herdier se ne sia andato\xf000\xbe00\x0000\xfffesenza preavviso e che non sai il motivo\xf000\xbe00\x0000\xfffeper cui si sia perso proprio qui...\xf000\xbe01\x0000\xfffePer colpa tua, la mia missione è fallita!\xfffeBah! Prendi questa!\xf000븁\x0000
+Per il momento, lasciamo\xfffeperdere questo Pokémon！\xf000븁\x0000
 Gyuugh! Baouf!
-Fattore: Ehi! Herdier!\xf000븁\x0000\xfffeCome ho fatto a non venire\xfffesubito a cercarti?\xf000븁\x0000\xfffeComunque sia,\xfffeti ringrazio moltissimo!\xf000븁\x0000
-\xf000Ā\x0001\x0001: Che stupido...\xf000븁\x0000\xfffeNon avrei mai abbandonato\xfffedavvero il Pokémon!\xf000븁\x0000\xfffeAvrei dovuto trovarlo io però!\xf000븁\x0000
-Fattore: Hmmm...\xfffeCosa gli è successo?\xf000븁\x0000\xfffeSembra che sia deluso dal\xfffefatto che tu abbia trovato Herdier...\xf000븁\x0000\xfffeBeh, amico mio,\xfffeci aspettano tutti! Andiamo a casa!\xf000븁\x0000
-Fattore: Grazie! Sono in debito\xfffecon te e i tuoi Pokémon!\xf000븁\x0000\xfffeSplendido, giusto?\xfffeNon devi allenarti con Nardo...?
-In origine questa fattoria\xfffefu costruita per\xf000븁\x0000\xfffeproteggere i Pokémon!
-Fattore: Certo che è strano\xfffeche Herdier si sia allontanato...\xf000븁\x0000\xfffeSebbene giochi sempre con due Pokémon,\xfffema sa anche lavorare bene.
+Fattore: Ehi! Herdier!\xf000븁\x0000\xfffeCome ho fatto a non venire\xfffesubito a cercarti?\xf000븁\x0000\xfffeGrazie di cuore per\xfffeaverlo ritrovato!\xf000븁\x0000
+\xf000Ā\x0001\x0001: Che sciocco sono stato...\xf000븁\x0000\xfffeHo avuto paura e me ne sono\xfffeandato come un codardo!\xf000븁\x0000\xfffeSarei dovuto rimanere!!\xf000븁\x0000
+Fattore: Uhm...\xfffeCosa gli è successo?\xf000븁\x0000\xfffeSembra che sia deluso dal\xfffefatto che tu abbia trovato Herdier...\xf000븁\x0000\xfffeBeh, amico mio,\xfffeci aspettano tutti! Andiamo a casa!\xf000븁\x0000
+Fattore: Grazie! Sono in debito\xfffecon te e i tuoi Pokémon!\xf000븁\x0000\xfffeNon devi allenarti con Nardo...?
+In origine questa fattoria fu\xfffecostruita per proteggere i Pokémon!
+Fattore: Certo che è strano\xfffeche Herdier si sia allontanato...\xf000븁\x0000\xfffeAnche se è un mattacchione,\xfffesa come comportarsi!
 Ecco! I tuoi Pokémon sono\xfffein perfetta forma!
 I tuoi Pokémon...\xfffeSembrano stanchi...\xf000븁\x0000\xfffeSe non si riposano un po'\xfffenon andranno da nessuna parte!\xf000븁\x0000
 Tu e i tuoi Pokémon\xfffemi avete ritrovato Herdier!
