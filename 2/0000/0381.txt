@@ -581,7 +581,7 @@ You haven't won yet! I won't let\xfffesuch a fun battle end so easily!
 みぎ　よし！　ひだり　よし！\xf000븁\x0000\xfffeそれでは　しょうぶの　フライト\xfffeテイク　アウト！\xf000븁\x0000\xfffeじゃなかった　テイク　オフ！！\xf000븁\x0000
 ざんねん　ながら\xfffeちゃくりく……　セットダウンです
 きょうふうに　むかって\xfffeどれだけ　とべるか……？\xf000븁\x0000\xfffeひこうきなら　せいのうが　だいじだが\xfffeひとと　ポケモンは　きもちかな？
-Hai scelto quella mossa...\xfffeUh! Sei un temibile avversario!
+Hai scelto quella mossa...\xfffeNon è il caso di sottovalutarti!
 Come Capopalestra devo riuscire a\xfffesfondare la tua difesa!
 ...! Così questa è una Lotta!
 Sento la tua grande voglia\xfffedi vincere!
@@ -590,21 +590,21 @@ Aaaah!\xfffeSono ancora arrugginita!!
 Ora si fa sul serio! Ti mostrerò la\xfffeserietà dei miei Pokémon Coleottero!
 Ho un brutto presentimento! E' perchè\xfffemi hai serrato in una morsa?
 E' già finita...?\xfffeSei fantastico!!
-その　たちふるまい……\xfffeかがやいているわね　あなたたち！
-ピンチを　のりこえる！\xfffeファンの　きたいに　こたえないと
-しびれた……\xfffeハートが　とろけるほどに
-……ほう！\xfffeそれなりの　うでまえ　だな
-わるいがな　オレさま\xfffeとにかく　しつこいんでな！
-やれやれ……　ほんきで　たたかって\xfffeまけると　すがすがしいな！
-アナタが　どう　せめてくるのか\xfffeすごく　ドキドキしちゃうよね！
-ネバーギブアップ　です！\xfffeたたかう　ポケモンに　しつれいだもの
-いまの　たたかい　わすれないよ！\xfffeアナタと　たたかえて　よかった！
-どんな　わざを　えらぼうとも\xfffeあつい　おもいを　かんじるぞ！
-おいてなお　ぜんしんの　ちがたぎる！\xfffeまだまだ　たたかおうぞ！！
-やぶれて　わきあがる　くやしさ……\xf000븁\x0000\xfffeその　おもいに　くっせぬ　こころこそ\xfffeいきる　エネルギー　というもの！！
-おはん……\xfffeやりおるな！！
-まいったのう……　あとがないのに\xfffeワクワクして　たまらんわい！
-たいした　もんじゃ！\xfffeええ　ポケモン　そだてとるな！\xf000븀\x0000\xfffeおはん　やりおる！
+I vostri movimenti sono così leggiadri ed\xfffeleganti... Siete davvero brillanti!
+Accidenti, sono in difficoltà!\xfffeMa non deluderò i miei Fan!
+Mi hai colpito... Abbastanza da\xfffefar sciogliere il mio cuore!
+Uhm... Riconosco che hai talento!
+Me la sto vedendo brutta, ma\xfffelotterò fino alla fine!
+Hai dimostrato una grande serietà!\xfffeMi ha fatto bene perdere!
+Caspita! Sei forte! Mi hai\xfffespaventata!
+Non mollerò mai! Non\xfffedeluderò i miei Pokémon!
+Non dimenticherò mai questa lotta!\xfffeMi è piaciuto lottare contro di te!
+Qualsiasi decisione in una\xfffelotta è molto importante!
+Sento il tuo spirito battagliero,\xfffema la lotta non finisce certo qui!
+Mi hai sconfitto...\xf000븁\x0000\xfffeMa la tua vittoria era destino! La si\xfffeleggeva nell'energia con cui lottavi!!
+Finalmente la lotta è davvero iniziata!\xfffeForza, miei Pokémon!!
+Mi stai sconfiggendo...\xfffeMa non cederò!
+Hai allenato in un modo incredibilmente\xfffeeccezionale i tuoi Pokémon!\xf000븀\x0000\xfffeDavvero complimenti!
 Il mio amico soffre!\xfffeNon lo dimenticheremo mai!
 Io credo nel mio amico!\xfffeDevo solo scegliere la giusta mossa!
 Ho perso... Questo mi\xfffeferisce nel profondo del mio cuore!！
@@ -646,7 +646,7 @@ Ehh?! Anche se sono amica del mio\xfffePokémon ho perso?!
 Ehh?! Anche se sono amica del mio\xfffePokémon ho perso?!
 Sei forte! Oppure sono i\xfffePokémon ad essere forti?
 Non esiste solo lo studio,\xfffebisogna anche sperimentare!
-Io, alla Scuola per Infermiere\xfffedi Zondopoli, ero la prima!\xf000븁\x00000
+Io, alla Scuola per Infermiere\xfffedi Zondopoli, ero la prima!\xf000븁\x0000
 Io non conoscevo il mondo...!
 Ho deciso! Torno a dormire!\xfffeCosì potrò crescere!
 Ti mostrerò i miei meravigliosi\xfffePokémon!\xf000븁\x0000
@@ -681,20 +681,20 @@ Alleno intensamente i miei Pokémon\xfffenell'erba scura!
 Sono diventato forte e\xfffemostrerò la mia forza a Velia!\xf000븁\x0000
 Ah ah ah... No...\xfffeE' impossibile...
 Sono diventato forte e\xfffemostrerò la mia forza a Velia!
-Benvenuto alla Palestra di\xfffeSciroccopoli! Qui, gli allenatori si\xf000븁\x0000\xfffeuniscono ai Pokémon! Iniziamo una\xfffelotta e una scintillante sfilata di moda!\xf000븁\x0000
+Benvenuto alla Palestra di\xfffeSciroccopoli! Qui, gli allenatori si\xf000\xbe00\x0000\xfffeuniscono ai Pokémon! Iniziamo una\xf000\xbe00\x0000\xfffelotta e una splendente sfilata di moda!\xf000븁\x0000
 Da adesso, la sfilata è...\xf000븁\x0000\xfffe... Cosa?!\xfffeE' già finita?
 Con i tuoi Pokémon, sei stato\xfffesplendente!
-うつくしいでは　ダメ！\xfffeトレーナーとして　つよくなければ！\xf000븁\x0000\xfffeわたしたちの　ビューティな\xfffeたたかいぶりに　みとれないでよ！\xf000븁\x0000
-……つよくて　ビューティ！\xfffeわたしが　みとれちゃったわ
-うつくしさ　っていうのは\xfffeルックス　だけじゃないの\xf000븁\x0000\xfffeあなたも　カミツレさまも\xfffeつよさが　うつくしさの　いちぶね
-ショーも　おおづめ　だけど\xfffeカミツレさまと　おなじ　ステージに\xf000븀\x0000\xfffeたてるか　チェックしてあげる！\xf000븁\x0000
-その　つよさと　うつくしさ……！\xf000븁\x0000\xfffeカミツレさまの　ステージに\xfffeたっても　いいんじゃない？
+Non puoi essere così elegante!\xfffeLa forza dovrebbe essere il tuo\xf000\xbe00\x0000\xfffepunto di forza!\xf000븁\x0000\xfffeTe lo farò capire mostrandoti la\xfffebellezza del mio stile di lotta!\xf000븁\x0000
+... Elegante e molto forte...!\xfffeMi hai affascinata!
+Non esiste solamente l'eleganza,\xfffec'è anche la forza, in una lotta!\xf000븁\x0000\xfffeSia tu che Camelia avete\xfffesia l'una che l'altra!
+Anche se la sfilata è quasi terminata,\xfffeprima che tu possa fronteggiare Camelia,\xf000븀\x0000\xfffeho il dovere di controllarti!\xf000븁\x0000
+Che forza, che eleganza...!\xf000븁\x0000\xfffeSei sicuramente degno di\xfffeaffrontare Camelia!
 あなたと　カミツレさまで　みせた\xfffeきらびやかな　ポケモンしょうぶ\xf000븁\x0000\xfffeおもわず　みとれちゃったじゃない！\xfffeとても　ステキな　ショーだったわよ！
-わたしという　みりょくてきな\xfffeつりばりに　ひっかかったな！\xf000븁\x0000\xfffeつりたて　ピチピチの　ポケモンで\xfffeしょうぶ　してあげよう！\xf000븁\x0000
+I'm a fascinating fishing hook,\xfffeand I've got you hook, line, and sinker!\xf000\xbe01\x0000Lemme battle you with\xfffethe lively Pokémon I've caught!\xf000\xbe01\x0000
 おもわず　ピチピチ　はねちゃう！\xfffeピチピチ　ピチピチッ　ピチピチッ！
 ポケモンは　つられているのでは　なく\xfffeわたしに　しょうぶを　いどむため\xf000븀\x0000\xfffeつりバリに　くいついて　いるのかも？
-おっし！\xfffeたいりょう　たいりょう！\xf000븁\x0000\xfffeつぎは　しょうり　という\xfffeえものを　つってみるか\xf000븁\x0000
-The victory that got away\xfffewas thiiiiiiiiiis big!
+Yeahhh!\xfffeI reeled in a biggun!\xf000\xbe01\x0000Next I'll try to reel in\xfffethat trophy known as victory!\xf000\xbe01\x0000
+Man, I let a huge\xfffevictory get away...
 つりは　じんせいと　おなじ\xf000븁\x0000\xfffeねらわないと　つれないし\xfffeねらっても　つれないんだよ……
 はやく　つよく　そだてるには\xfffeたたかうのが　いちばん　ですよね！\xf000븁\x0000
 きみの　ポケモンの　そだてかた\xfffeわたしの　もくひょう　だわ！
