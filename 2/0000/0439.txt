@@ -16,7 +16,7 @@ Errore di comunicazione...
 Nintendo Wi-Fi Connection non può essere\xfffeusato perchè si è verificato un errore.\xfffeSpegni la console e riprova.\xfffeCodice Errore: \xf000Ȅ\x0001\x0000
 Le tue Informazioni Utente Wi-Fi potrebbero essere state\xfffecancellate.\xfffe\xfffeControlla le tue impostazioni di connessione con\xfffele impostazioni Nintendo Wi-Fi Connection.\xfffe\xfffePer supporto, visita support.nintendo.com.
 Connettersi al Nintendo Wi-Fi Connection?
-Nintendo Wi-Fi Connection treats your\xfffeNintendo DS Game Card and the system\xfffeas a set.\xfffe\xfffeSave this system's Wi-Fi User Information\xfffeto this Game Card and connect\xfffeto Nintendo Wi-Fi Connection?
+La Nintendo Wi-Fi Connection tratta la tua\xfffescheda di gioco per Nintendo DS ed il sistema\xfffecome una cosa sola.\xfffe\xfffeSalvare le informazioni dell'utente Wi-Fi di questo sistema\xfffesu questa scheda di gioco e connettere\xfffealla Nintendo Wi-Fi Connection?
 Le Informazioni Utente Wi-Fi per questo\xfffesistema sono state salvate nella Scheda di Gioco.\xfffe\xfffeD'ora in poi, usa questa console\xfffeper connetterti al Nintendo Wi-Fi Connection.
 Impossibile connettere al\xfffeNintendo Wi-Fi Connection\xfffeperchè le Informazioni Wi-Fi Utente\xfffedal sistema \xfffee la Scheda Gioco non corrispondono.
 Aggiornare le Informazioni Utente Wi-Fi\xfffesalvate nel salvataggio?\xfffeQuando aggiorni le tue\xfffeInformazioni Utente Wi-Fi, tu\xfffe perderai tutti i dati usati per\xfffeconnettersi al Nintendo Wi-Fi Connection.
@@ -30,7 +30,7 @@ Si
 No
 Salvataggio in corso...\xfffeNon spegnere la console.
 
-Configura le imposazioni di connessione\xfffenelle impostazioni Internet\xfffenelle Impostazioni di Sistema.\xfffe\xfffeFor help, visit support.nintendo.com.
+Configura le imposazioni di connessione\xfffenelle impostazioni Internet\xfffenelle Impostazioni di Sistema.\xfffe\xfffePer aiuto, visita support.nintendo.com.
 
 Per usare questa funzione, devi accettare\xfffei termini Nintendo DSi\xfffeNetwork Services Agreement\xfffenelle Impostazioni di Sistema.\xfffe\xfffeCodice Errore: 50599
 \xf000봂\x0000Connettersi al Nintendo WFC
