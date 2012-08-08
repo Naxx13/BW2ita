@@ -1,26 +1,25 @@
-
 Ci sono erbe medicinale che rendono\xfffei Pokémon sani.\xf000븁\x0000
-Queste erbe medicinali  importate da\xfffeun altra regione funzionano perfettamente!\xf000\xbe01\x0000\xfffeMa ai Pokémon non sembrano piacergli,\xfffeperchè hanno un lieve sapore amaro.
-Benvenuto! Questo arriva dritto dalla fattoria!\xf000븁\x0000\xfffeLatte Mumu--una bottiglia per $500.\xfffeNe vuoi qualcuna per il tuo viaggio?
-Ecco qui! Il tuo Latte Mumu!\xf000븁\x0000
+Queste erbe medicinali  importate da\xfffeun altra regione funzionano perfettamente!\xf000\xbe01\x0000\xfffeMa ai Pokémon non sembrano piacere,\xfffeperchè hanno un lieve sapore amaro.
+Benvenuto! Questo arriva dritto dalla fattoria!\xf000븁\x0000\xfffeLatte Mumu, una bottiglia per $500.\xfffeNe vuoi qualcuna per il tuo viaggio?
+Ecco qui il tuo Latte Mumu!\xf000븁\x0000
 Oh!\xfffeIl tuo Zaino è pieno!
 Oh!\xfffeNon hai abbastanza soldi!
-Per piacere acquistalo la prossima volta!\xf000\xbe01\x0000\xfffeSolo per informarti, il nostro Latte Mumu\xfffeè la dritta della fattoria.\xf000\xbe01\x0000\xfffeÈ super fresco!
-Una dozzina! È da 12 bottiglie.\xfffeEcco qui, il tuo Latte Mumu!\xf000븁\x0000
+Torna a trovarci!\xf000\xbe01\x0000\xfffeSolo per informarti, il nostro Latte Mumu\xfffeviene diritto dalla fattoria.\xf000\xbe01\x0000\xfffeÈ super fresco!
+Una dozzina! Ecco le 12 bottiglie.\xfffeEcco qui, il tuo Latte Mumu!\xf000븁\x0000
 Una bottiglia
 Una dozzina
 No grazie!
-Oh, mi dispiace.È tutto esaurito.\xf000\xbe01\x0000\xfffeCharles ha acquistato\xfffetutto quello che avevo.¶
-Tu! Sono contento che tu sia venuto!\xfffeVuoi qualcosa di buono?
-Dopo, mostrami un Pokémon al Lv. 30 o superiore!\xf000븁\x0000
+Oh, mi dispiace. È tutto esaurito.\xf000\xbe01\x0000\xfffeCharles ha acquistato\xfffetutto quello che avevo.
+Ehi tu! Sono contento che tu sia venuto!\xfffeVuoi qualcosa di buono?
+Dopo, mostrami un Pokémon al L. 30 o superiore!\xf000븁\x0000
 Oh! Forte!\xf000\xbe01\x0000\xfffeGrande!\xfffePrendi questo!\xf000\xbe01\x0000
-Oh! Non è ancora al Lv. 30 o superiore!\xf000\xbe01\x0000\xfffeDopo aver allenato i Pokémon,\xffferitorna qui!
-Tu, modesto!\xfffeDovresti solo volere qualcosa di buono!
-Tu! Sono contento che tu sia venuto!\xfffeGet good at Abilcintura! \xf000\xbe01\x0000\xfffeIf a Pokémon ha Abilcintura, il\xfffepotenza delle sue mosse è leggermente incrementato\xf000\xbe00\x0000\xfffequando sono superefficaci!
-Ci deve essere una città conveniente dove\xfffetutto è importato ed\xf000\xbe00\x0000\xfffeè disponibile.
-Da qualche parte, there's a laid-back town\xfffedove le persone value le stagioni dell'anno.\xf000\xbe01\x0000\xfffeHo sentito che we've importato un sacco di merci\xfffeda quella città!
-Vedere le verdure di stagione è divertente.\xf000븁\x0000\xfffePerchè quando le stagioni cambiano,\xfffeLe verdure disponibili cambiano!
-Ogni volta che veniamo al negozio,\xfffele verdure di tutte le stagioni sono disponibili.\xf000븀\x0000\xfffeNon è una meraviglia?
-Le merci trasportate via da Libeciopoli arrivano\xfffein una città da qualche altra parte...\xf000븁\x0000\xfffeSì. il mondo è connesso.
-Le merci trasportate via da una città\xfffeda qualche parte arrivano a Libecciopoli...\xf000븁\x0000\xfffeSì. Il mondo è connesso.
-L'ho usato per far parte del Team Plasma.\xfffeHo differenti tipi di Incenso.\xf000븁\x0000
+Oh! Non hai ancora alcun Pokémon\xfffeal L. 30 o superiore!\xf000\xbe01\x0000\xfffeDopo averli allenati,\xffferitorna qui!
+Sei troppo modesto!\xfffeHai sicuramente bisogno di qualcosa!
+Ehi tu! Sono contento che tu sia venuto!\xfffeImpara ad usare Abilcintura! \xf000\xbe01\x0000\xfffeSe un Pokémon tiene Abilcintura, la\xfffepotenza delle sue mosse verrà\xf000\xbe00\x000\xfffeleggermente incrementata quando\xf000\xbe00\x0000\xfffeesse saranno superefficaci!
+Chissa se esiste una citta\xfffedove tutto è importato ed\xf000\xbe00\x0000\xfffeè disponibile.
+Da qualche parte, c'è un Laboratorio\xfffedove le persone studiano le stagioni.\xf000\xbe01\x0000\xfffeHo sentito che lì vicino, c'è una\xfffecittà che esporta molte merci!
+Vendere verdure di stagione è divertente,\xfffeperchè quando le stagioni cambiano,\xf000\xbe00\x0000\xfffeanche le verdure disponibili cambiano!
+Ogni volta che veniamo qui, è\xfffedisponibile ogni tipo di verdura.\xf000븀\x0000\xfffeNon è una meraviglia?
+Le merci esportate da Libeciopoli arrivano\xfffein un'altra città...\xf000븁\x0000\xfffeSì! Il mondo è connesso!
+Le merci esportate da una città \xfffearrivano a Libecciopoli...\xf000븁\x0000\xfffeSì! Il mondo è connesso!
+Quando facevo parte del Team Plasma,\xfffeusavo diversi tipi di Incenso.\xf000븁\x0000
