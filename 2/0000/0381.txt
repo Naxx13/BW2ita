@@ -555,23 +555,23 @@ Oh! Strong as usual.\xfffeThat makes my heart dance!
 あいかわらず……\xf000븁\x0000\xfffeいえ　いぜんよりも\xfffeエレガントで　エクセレントな\xf000븀\x0000\xfffeトレーナーと　ポケモンね　アナタたち\xf000븁\x0000\xfffeそんな　きらびやかな　かたと\xfffeきそいあうことで\xf000븁\x0000\xfffeアタクシも　ポケモンも　みがかれます\xfffeかんしゃ　いたします\xf000븀\x0000\xfffeまた　おあいて　してくださいね
 When was the last time\xfffeI was driven into a corner like this?
 You haven't won yet! I won't let\xfffesuch a fun battle end so easily!
-こんなに　もえあがる\xfffeいっせんを　まじえることが　できて\xf000븀\x0000\xfffeこころが　たかなっちゃう……！\xf000븁\x0000\xfffeあなたって　ほんとうに\xfffeすごい　トレーナー　なのね！！
-どうだい？　この　ポケモンジム\xf000븁\x0000\xfffeなんというか　ちょっと　ありえない\xfffeあやしげな　みりょく　たっぷりだろ\xf000븁\x0000
-ポケモンジムに　まけずおとらず\xfffeきみも　みりょく　たっぷり　だな！
-マユから　いとが　どっちに\xfffeのびているのか　よく　みてごらん\xf000븁\x0000\xfffeいとが　つながっている　さき……\xfffeそれこそが　すすむ　ほうこうなのさ！
-……そうなんだよ\xfffeマユに　くるまれ　ねていたんだよ　
-いきどまり……\xf000븁\x0000\xfffeと　みせかけて\xfffeとおせんぼ　やー！\xf000븁\x0000
-ありゃりゃりゃ\xfffeあんさん　つよすぎやない？
-ここだけの　ヒミツ……\xf000븁\x0000\xfffeマユに　はいる　むきによって\xfffeどこに　すすむのか　ちがうんよ
-あと　いっぽで！\xfffeアーティさんと　しょうぶ　できる！\xf000븁\x0000\xfffeだーけーどー　そのまえに\xfffeミーが　たちはだかっちゃうのよー！\xf000븁\x0000
-その　たたかいかた……\xfffeアーティさんぐらい　げいじゅつてき！
-アーティさんは　マユに　くるまる\xfffeポケモンの　きもちを　しるために\xf000븀\x0000\xfffeポケモンジムを　かいぞう　したのさ\xf000븁\x0000\xfffe……そのせいで　ミーたち\xfffeいっつも　まよっちゃうんだけどね
-すごい　かぜ……　だろ？\xf000븁\x0000\xfffeこれは　ジムリーダーを　はじめ\xfffeオレたちの　つよさの　しょうちょう！\xf000븁\x0000\xfffeさて　ここは　ポケモンジムだ！\xfffeポケモンしょうぶと　いこう！\xf000븁\x0000
-キミと　キミの　ポケモンから\xfffeすさまじい　あつりょくを　かんじたよ！
-オレから　アドバイスだよ\xf000븁\x0000\xfffeまわりを　かべに　かこまれて\xfffeゆかのいろが　ちがうところ　なら\xf000븀\x0000\xfffeかぜに　とばされないだろう！
-つよい　かぜにも　まけない\xfffeじまんの　ポケモンだぜ！\xf000븁\x0000
-きみの　ポケモンには\xfffeまけてしまった……！
-そらをとぶ　ポケモンと　おおぞらを\xfffeまうため　パイロットに　なったんだ
+Il tuo stile è così divampante!\xfffeIl mio cuore è a mille!\xf000븁\x0000\xfffeSei un Allenatore davvero fenomenale!!
+Ti diverti in questa Palestra?\xf000\xbe00\x0000\xfffeUn po' impossibile, data la sua\xfffeatmosfera molto inquietante!\xf000븁\x0000
+Anche tu sei inquietante!\xfffeChe forza incredibile!
+Controlla bene in che direzione\xfffevorresti andare ed entra\xf000\xbe00\x0000\xfffenel bozzolo giusto!
+... La prossima volta cercherò\xfffedi rimanere sveglio, nel bozzolo.
+Vicolo cieco...!\xf000븁\x0000\xfffeNon ti farò passare!\xf000븁\x0000
+Ahia ahia ahia!!\xfffeSei troppo forte!
+Eccoti un piccolo segreto...\xf000븁\x0000\xfffeEntrando in questo bozzolo,\xfffepotresti sbagliare strada...
+Al piano superiore potrai\xfffelottare contro Artemisio!\xf000븁\x0000\xfffeMa prima, dovrai\xfffelottare contro di me!\xf000븁\x0000
+Il tuo stile di lotta...\xfffeE' degno di Artemisio!
+Artemisio ha scoperto che in un\xfffebozzolo si possono capire meglio i\xf000\xbe00\x0000\xfffesentimenti dei Pokémon Coleottero e\xf000븀\x0000\xfffeper questo ha rimodellato la sua Palestra.\xf000븁\x0000\xfffe... Però così mi perdo sempre!
+Che bella brezza... ?\xf000븁\x0000\xfffeE' il vento della mia forza!\xf000븁\x0000\xfffeQuesta è una Palestra!\xfffeLottiamo!\xf000븁\x0000
+Tu e i tuoi Pokémon mi avete schiacciato\xfffegrazie all'intensità del vostro uragano!
+Eccoti un consiglio.\xf000븁\x0000\xfffeCercando di arrivare da Anemone, se\xfffesbagli il colore del pavimento,\xf000븀\x0000\xfffenon potrai volare con il vento!
+Anche sferzati dal vento impetuoso,\xfffeio e i miei Pokémon non perderemo!\xf000븁\x0000
+Ho perso contro i tuoi Pokémon...!
+Sono un pilota e danzo nel cielo\xfffegrazie ai miei Pokémon Volanti!
 ときには　むぼうなほど　だいたんに\xfffeときには　おびえすぎて　せんさいに\xf000븁\x0000\xfffeそうしないと　ジムの　しかけが\xfffeきみの　ゆくてを　はばんじゃうぜ\xf000븁\x0000
 ゆくてを　はばめなかった……\xfffeきみは　たいした　トレーナーだぜ！
 まわりにある　ふうりょくけいの\xfffeかいてんが　はやくなってきたら\xf000븀\x0000\xfffeむりせず　どこかに　かくれることだね
