@@ -1,10 +1,10 @@
-いらっしゃいませ\xfffeホテル リッチホドモエ です\xf000\xbe01\x0000\xfffeあいにく まんしつで ございますが\xfffeごゆるりと くつろいで くださいませ
-Sono grato che tu hai fatto tutta questa strada!\xfffeSei un allenatore?\xf000\xbe01\x0000\xfffeOoh, hai un Pokédex!\xfffeÈ meraviglioso!\xf000\xbe01\x0000\xfffeI wonder if you'd please do me a favor.
-あら Trainerさん\xfffeわざわざ きてくださるなんて!\xf000\xbe01\x0000\xfffeほんじつも わたくしの おねがい\xfffeきいて くださる かしら?
-Mi piacerebbe vedere un Pokémon che abbia\xfffeimparato una mossa chiamata \xf000\x0107\x0001\x0000.\xf000\xbe01\x0000\xfffePer intenderci, è \xf000\x0107\x0001\x0000.\xfffePer piacere mostramela oggi.
-Mi piacerebbe vedere un Pokémon che abbia\xfffeimparato una mossa chiamata \xf000\x0107\x0001\x0000.\xf000\xbe01\x0000\xfffePer intenderci, è \xf000\x0107\x0001\x0000.\xfffePer piacere mostramela oggi.\xf000\xbe01\x0000\xfffeOh, mio, mio, mio!\xf000\xbe01\x0000\xfffeIl tuo \xf000\x0101\x0001\x0001 può\xfffeusare \xf000\x0107\x0001\x0000!\xf000\xbe01\x0000\xfffeHai avuto difficolta per insegnarlo\xfffeal tuo Pokémon? Meraviglioso!\xf000\xbe01\x0000\xfffeQuesto è un mio piccolo segno del mio apprezzamento.\xfffePer piacere non esitare a prenderlo.\xf000\xbe01\x0000
-I'm touched that you came all the way\xfffehere, yet you are being so unkind.
-わたくしが みたいのは\xfffe「\xf000\x0107\x0001\x0000」を おぼえた\xf000\xbe00\x0000\xfffeポケモン! よろしくね
-Oh, mamma mia. Il tuo \xf000\x0101\x0001\x0001 può\xfffeusare \xf000\x0107\x0001\x0000!\xf000\xbe01\x0000\xfffeYou went to all the trouble of teaching\xfffeit to your Pokémon? That's so touching!\xf000\xbe01\x0000\xfffeThis is a small token of my appreciation.\xfffePlease don't hesitate to accept this.\xf000\xbe01\x0000
-Mi chiedo a cosa \xf000\x0107\x0001\x0000 assomiglia\xfffequando viene effettivamente utilizzato.\xf000\xbe01\x0000\xfffeSono sicuro che lo potrai usare abilmente!
-ポケモンによって おぼえられる わざ\xfffeおぼえられない わざが あるんだな
+Benvenuto ad un Hotel\xfffe"Ricca Libecciopoli".\xf000\xbe01\x0000\xfffeSebbene siamo pieni di prenotazioni,\xfffefai come se fossi a casa tua.
+Sono grato che tu abbia fatto\xfffetutta questa strada! Sei un allenatore?\xf000\xbe01\x0000\xfffeOoh, hai un Pokédex!\xfffeÈ meraviglioso!\xf000\xbe01\x0000\xfffeMi chiedo se tu possa\xfffefarmi un favore..
+Allenatore! Sono stupito che tu sia\xfffevenuto qui!\xf000\xbe01\x0000\xfffeAllora, vuoi accogliere una mia\xffferichiesta anche oggi?
+Mi piacerebbe vedere un Pokémon che abbia\xfffeimparato una mossa chiamata "\xf000\x0107\x0001\x0000".\xf000\xbe01\x0000\xfffePer intenderci, è "\xf000\x0107\x0001\x0000".\xfffeSe riesci, mostramelo oggi.
+Mi piacerebbe vedere un Pokémon che abbia\xfffeimparato una mossa chiamata "\xf000\x0107\x0001\x0000".\xf000\xbe01\x0000\xfffePer intenderci, è "\xf000\x0107\x0001\x0000".\xfffeSe riesci, mostramelo oggi.\xf000\xbe01\x0000\xfffeOh, caspiterina!!\xf000\xbe01\x0000\xfffeIl tuo \xf000\x0101\x0001\x0001 può\xfffeusare "\xf000\x0107\x0001\x0000"!\xf000\xbe01\x0000\xfffeE' stato impegnativo insegnare quella\xfffemossa al tuo Pokémon? Meraviglioso!\xf000\xbe01\x0000\xfffeQuesto è un mio piccolo segno \xfffeche mostra la mia gratitudine.\xf000\xbe00\x0000\xfffeNon esitare a prenderlo!\xf000\xbe01\x0000
+Sono commosso che tu abbia fatto\xfffetutta questa strada per venire qui!
+Cerco un Pokémon che conosca la mossa\xfffe"\xf000\x0107\x0001\x0000"!
+Oh, caspiterina!!\xf000\xbe01\x0000\xfffeIl tuo \xf000\x0101\x0001\x0001 può\xfffeusare "\xf000\x0107\x0001\x0000"!\xf000\xbe01\x0000\xfffeE' stato impegnativo insegnare quella\xfffemossa al tuo Pokémon? Meraviglioso!\xf000\xbe01\x0000\xfffeQuesto è un mio piccolo segno \xfffeche mostra la mia gratitudine.\xf000\xbe00\x0000\xfffeNon esitare a prenderlo!\xf000\xbe01\x0000
+Mi chiedo a cosa "\xf000\x0107\x0001\x0000" assomigli\xfffequando viene effettivamente utilizzata.\xf000\xbe01\x0000\xfffeSono sicuro che la sai usare\xfffeusare abilmente!
+A seconda del Pokémon, una mossa può\xfffeo non può essere imparata.
