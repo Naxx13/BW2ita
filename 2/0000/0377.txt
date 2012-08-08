@@ -1,5 +1,5 @@
 Volare per dove?
-ダミー
+DUMMY
 Una cittadina rurale la cui brezza da\xfffel'idea di qualcosa che sta per avvenire.
 Lab. Prof.ssa Aralia
 Questa città offre panorami mozzafiato\xfffeper la presenza di numerose alture.
@@ -99,12 +99,12 @@ Molti che hanno visitato Sciroccpoli\xffferimangono li per prendersi una pausa.
 Una forte corrente crea\xfffedifficoltà per usare surf.
 Alcuni ricercatori credevano che\xfffeuna volta fosse collegato al Castello Sepolto.
 Il più grande, lungo ponte in Unima\xfffeha quattro torri di supporto.
-A drawbridge raises and lowers,\xfffedepending on the ship schedules.
+Un ponte levatoio si alza e si abbassa,\xfffea seconda gli orari delle navi.
 Un duro ponte d'acciaio che non\xfffesi muove d'un dito se ci passa un treno.
 Un vecchio ponte che i coloni di\xfffeUnima costruirono e abitano.
 Il più avanzato ponte di Unima,\xfffeprogettato per resistere a tutto.
 Nel mezzo della regione di Unima,\xfffeè un luogo pieno di mistero.
-Trainers seeking further strength\xfffeenter the cavern despite the risks.
+Allenatori in cerca di nuova forza\xfffeentrano nelle grotte nonostante i rischi.
 Cittadella ai piedi di una montagna\xfffedove si può osservare tutta Unima.
 Palestra
 Scuola per Allenatori
@@ -131,7 +131,7 @@ Antiche rovine con una storia gloriosa,\xfffesepolto dalla sabbia col passare de
 おおむかしに　おおきな　ふんかをした\xfffeきろくが　のこっている　かざん
 さいきんも　ふんかを　くりかえし\xfffeニュースに　なっている　かざん
 かなしい　じけんが　あったといわれ\xfffeだれも　よせつけない　とされる　いえ
-わかれみちで　トレーナーを　はばむ\xfffeポケモンリーグ　さいごの　かんもん
+Questi pendii ripidi sono gli ultimi\xfffeostacoli prima della Lega Pokémon!
 イッシュちほうの　かくちで　みられる\xfffeなぞの　くろい　はんせん
 さいきん　はっけん　された\xfffeこだいのしろの　ぬけみち
 さいくつを　つづけた　ヤーコンにより\xfffeかいつうした　ネジやま　までの　みち
