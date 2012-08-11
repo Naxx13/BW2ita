@@ -54,7 +54,7 @@ Salvataggio dei dati in corso...\xfffeNON SPEGNERE.
 > Il tuo amico ha la CHIAVE FERRO!\xf000?\x0001
 > Il tuo amico ha la CHIAVE ICEBERG!\xf000?\x0001
 > Chiave(i) trasferite!\xf000\xbe02\x0001\x003c
-> Una o più chiavi sono state trasferite con successo!\xf000?\x0000
+> Una o più chiavi sono state\xfffetrasferite con successo!\xf000?\x0000
 > Queste chiavi non possono essere trasferite.\xf000?\x0001
 > Queste chiavi non possono essere ricevute.\xf000?\x0001
 Comunicazione in corso...\xfffeAttendi.
@@ -98,9 +98,7 @@ CHIAVE ACCIAIO non sbloccate.
 CHIAVE ICEBERG non sbloccata
 CHIAVI PORTE
 PORTA MONTAGNA
-PORTA ACCIAIO
-PORTA ICEBERG
-CHIAVE ACCIAIO ottenuta! Ora puoi usare la CHIAVE ACCIAIO.
+PORTA ROCCIAPORTA ACCIAIOPORTA ICEBERG Ora puoi usare la CHIAVE ACCIAIO.
 CHIAVE ICEBERG ottenuta! Ora puoi usare la CHIAVE ICEBERG.
 CHIAVE ACCIAIO
 CHIAVE ICEBERG
@@ -133,14 +131,14 @@ Ripristina la MEMORY LINK?
 La MEMORY LINK è stata cancellata.
 Trying to synch with either\xfffePOCKET MONSTERS BLACK or\xfffePOCKET MONSTERS WHITE.\xf000?\x0000
 Wrong game synch ID.
-Attempted to synch to a busy game.\xfffePlease wait a few moments and try again.
-MEMORY LINK reports being read...
-MEMORY LINK completato!
-MEMORY LINK
-Wireless service needs to do more tasks.
+Tentativo di sincronizzare a una partita occupata.\xfffeSi prega di attendere qualche istante e riprovare.
+Rapporti LINK DI MEMORIA da leggere...
+MEMORIA LINK Completato!
+MEMORIA LINK
+Servizio wireless ha bisogno di effettuare più attività.
 Comunicazione in corso...\xfffeAspetta un momento.
 Il gioco richiesto è occupato.\xfffeAttendi un attimo e riprova.
-Can't find synch ID.
+Impossibile trovare ID synch.
 TRE AUTO
 EACH OF BONE AND DREAM
 CERCA
