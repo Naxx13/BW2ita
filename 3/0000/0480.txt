@@ -1,6 +1,6 @@
-This is a remnant of your\xfffePokémon's dream.\xf000\xbe00\x0000\xfffeHere, take it.\xf000\xbe01\x0000
-I've given you all the Dream Remnants.\xf000\xbe01\x0000\xfffeNext time your Pokémon dreams, come\xfffeback and see me again.
-When your Pokémon has another dream,\xfffecome back and see me again.
-\xf000\x0100\x0001\x0000 received\xfffethe item(s)!
-You have no more room in your Bag\xfffefor \xf000\x0109\x0001\x0000. If you remove some,\xf000\xbe00\x0000\xfffeI'll give you the rest.\xf000\xbe01\x0000
+Questo è un frammento del\xfffesogno del tuo Pokèmon.\xf000\xbe00\x0000\xfffeTieni, prendilo.\xf000\xbe01\x0000
+Ti ho dato tutti i frammenti di sogno.\xf000\xbe01\x0000\xfffeLa prossima volta che il tuo Pokèmon sogna,\xfffetorna di nuovo da me.
+Quando il tuo Pokèmon ha un altro sogno,\xfffetorna di nuovo da me.
+\xf000\x0100\x0001\x0000 ha ricevuto\xfffel'oggetto(i)!
+Non hai altro spazio nella tua Borsa\xfffeper \xf000\x0109\x0001\x0000. Se rimuovi qualcosa,\xf000\xbe00\x0000\xfffeti darò il resto.\xf000\xbe01\x0000
  x \xf000\x0200\x0001\x0000
