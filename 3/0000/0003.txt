@@ -6,9 +6,9 @@ no data
 no data
 no data
 no data
-Takurou: Those who are decisive \xfffeare sure to get what they want.\xf000\xbe01\x0000\xfffeIf there's a pokemon you want, \xfffethen don't give up till you get it!\xf000\xbe01\x0000\xfffeGive in to your pure and true desires \xfffeand see it through decisively to the end!
-Takurou: We're the most decisive ones here \xfffe and this is our favorite shop. \xf000\xbe01\x0000\xfffeIt looks like the latest items \xfffehave been stocked!
-Takurou: In the past, \xfffesome punks who were after money used to hang around here. \xf000\xbe01\x0000\xfffeBut I wiped most of them out! \xf000\xbe01\x0000\xfffeHeh! I'm the one who will\xfffedecide the peace in Black City!
+Takurou: Chi ha un carattere deciso,\xfffeè sicuro di ciò che desidera.\xf000\xbe01\x0000\xfffeSe c'è c'è un Pokémon che vuoi\xfffecatturare, ma non riesci, continua\xf000\xbe00\x0000\xfffeincessantemente a riprovare.\xf000\xbe01\x0000\xfffeGuarda in ciò che davvero desideri e\xfffeprova a trovarci il traguardo!
+Takurou: Noi siamo le persone più decise\xfffee questo è il nostro negozio preferito.\xf000\xbe01\x0000\xfffeSembra che gli strumenti\xfffesi siano esauriti!
+Takurou: In passato, c'erano dei punk che\xfffesiccome erano ricchi, gioronzolavano\xf000\xbe00\x0000\xfffequi in giro inutilmente. \xf000\xbe01\x0000\xfffeMa ne ho spazzati via la maggior parte! \xf000\xbe01\x0000\xfffeEh! Sono colui che stabilisce\xfffela pace qui nella Città Nera!
 no data
 no data
 no data
@@ -26,9 +26,9 @@ no data
 no data
 no data
 no data
-Karen: I heard there was a \xfffetraining ground where the soldiers come, \xf000\xbe00\x0000\xfffeso I brought my pokemon!\xf000\xbe01\x0000\xfffeYou're a trainer too, right?\xfffeLet's work hard together!
-Karen: You're　\xf000Ā\x0001\x0000, right?\xf000\xbe01\x0000\xfffeIt looks like you've cleared \xfffea lot of the Black Tower, \xf000\xbe00\x0000\xfffebut I'm not going to lose!
-Karen: Congratulations \xfffeon clearing the Black Tower!　\xf000Ā\x0001\x0000!!\xf000\xbe00\x0000\xfffeYou're the talk of the town!\xf000\xbe01\x0000\xfffeThe shop even has new items\xfffeto commemorate you clearing the tower!
+Karen: Ho sentito che c'era un posto\xfffedove i grandi allenatori potevano\xf000\xbe00\x0000\xfffeallenarsi, perciò ho portato i miei Pokemon!\xf000\xbe01\x0000\xfffeAnche tu sei un allenatore, vero?\xfffeImpegnamoci insieme!
+Karen: Sei \xf000Ā\x0001\x0000, giusto?\xf000\xbe01\x0000\xfffeSembra che ti sia allenato\xfffemolto nel Grattacielo Nero, \xf000\xbe00\x0000\xfffema non ho intenzione di perdere!
+Karen: Complimenti per aver terminato\xfffel'allenamento nel Grattacielo Nero!\xf000\xbe00\x0000\xfffe\xf000Ā\x0001\x0000!!\xf000\xbe00\x0000\xfffeTutti parlano di te!\xf000\xbe01\x0000\xfffeAnche il negozio ora ha nuovi\xfffestrumenti per celebrare questo evento!
 no data
 no data
 no data
@@ -38,8 +38,8 @@ no data
 no data
 no data
 no data
-Kazuho: I came to Black City \xfffeto write my thesis.\xf000\xbe01\x0000\xfffeMy theme is "City Life and Pokemon"!\xf000\xbe01\x0000\xfffeI've been giving the tired and worn out people pokemon\xfffeポケモンが　与える\xf000\xbe00\x0000\xfffeto investigate their healing effects!
-Kazuho: The research I've been pursuing \xfffehere in Black City \xf000\xbe00\x0000\xfffehas finally been completed!\xf000\xbe01\x0000\xfffeAs I expected, \xfffethe best way to relieve stress in the city \xf000\xbe00\x0000\xfffeis to interact with pokemon!
+Kazuho: Sono venuto nella Città Nera\xfffeper scrivere le mie tesi.\xf000\xbe01\x0000\xfffeL'argomento è "Vita di città e Pokemon"!\xf000\xbe01\x0000\xfffeSono venuto qui per indagare sui\xfffePokémon e le persone stressate\xf000\xbe00\x0000\xfffeche vivono in città!
+Kazuho: La ricerca che ho iniziato\xfffequi nella Città Nera è \xf000\xbe00\x0000\xfffefinalmente completa!\xf000\xbe01\x0000\xfffeCome mi aspettavo, il miglior modo per\xffferiprendersi dallo stress cittadino,\xf000\xbe00\x0000\xfffeè interagire con i Pokemon!
 no data
 no data
 no data
@@ -70,9 +70,9 @@ no data
 no data
 no data
 no data
-Yumiko: Here in Black City\xfffelots of famous companies have set up shop.\xf000\xbe00\x0000\xfffeI even found a job with a really well-to-do company.\xf000\xbe01\x0000\xfffeI'm going to work really hard\xfffeto earn a promotion!
-Yumiko: I can't take it anymore!　It's over!\xfffeWaaaaaaaaaaaaaaaaah!\xf000\xbe01\x0000\xfffe*sob*　If I fail at my job, \xfffeI'll never get a boyfriend!\xf000\xbe01\x0000\xfffeI want to run off and hide in the White Forest.\xfffeI want to be healed by the forest and pokemon!
-Yumiko: Just the other day,\xfffeI cleared up a big problem at my company.\xf000\xbe00\x0000\xfffeEveryone complimented me!♪\xf000\xbe01\x0000\xfffeA lot of things happened,\xfffebut I'm glad I didn't quit and run away!\xf000\xbe01\x0000\xfffeFrom now on, I'll work hard\xfffeand earn money here in Black City.
+Yumiko: Qui nella Città Nera molte famose\xfffeaziende hanno costruito un negozio.\xf000\xbe00\x0000\xfffeHo persino trovato un lavoro con\xf000\xbe00\x0000\xfffeun'azienda molto molto florida!\xf000\xbe01\x0000\xfffeSto lavorando molto duramente\xfffeper ricevere una promozione!
+Yumiko: Non posso andare avanti così!\xfffeE' finita! Uaaaaaaaaa!\xf000\xbe01\x0000\xfffeSob, se fallisco nel mio lavoro,\xfffenon troverò mai un ragazzo!\xf000\xbe01\x0000\xfffeVoglio andare a nascondermi\xfffenella Foresta Bianca. Voglio essere\xf000\xbe00\x0000\xfffecullata dalla foresta e dai Pokemon!
+Yumiko: Proprio l'altro giorno, ho risolto\xfffeun grande problema nella mia azienda.\xf000\xbe00\x0000\xfffeTutti mi hanno applaudito!♪\xf000\xbe01\x0000\xfffeSono successe molte cose, ma sono\xfffeorgogliosa di non essermene andata!\xf000\xbe01\x0000\xfffeD'ora in avanti, lavorerò ancora di più\xfffeper ricevere qulalche soldo in più!
 no data
 no data
 no data
@@ -86,13 +86,13 @@ no data
 no data
 no data
 no data
-Eliza: I came to the city in the persuit\xfffeof fame and fortune! \xf000\xbe01\x0000\xfffeI'll start by clearing Black Tower\xfffe faster than anyone else!\xf000\xbe00\x0000\xfffeI'm going to be famous!\xf000\xbe01\x0000\xfffeWhat?! No way! \xfffeYou cleared it?!\xf000\xbe00\x0000\xfffeWhat?! My plans...!
+Elisa: Sono venuta in città per\xfffeinseguire fama e fortuna!\xf000\xbe01\x0000\xfffeInizierò con l'allenarmi nel\xfffeGrattacielo Nero prima di tutti!\xf000\xbe00\x0000\xfffeDiventerò famosa!\xf000\xbe01\x0000\xfffeCosa?! Impossibile!! \xfffeTi sei già allenato?!\xf000\xbe00\x0000\xfffeE ora?! I miei progetti...!
 no data
 no data
 no data
-Hironori: There's somethin' I want, \xfffebut it seems the shop's\xf000\xbe00\x0000\xfffe currently outta stock!\xf000\xbe01\x0000\xfffeThe shopkeeper told me\xfffeit would take a while to get in,\xf000\xbe00\x0000\xfffebut I jus' can't wait!
-Hironori: Have I gone to the shop?\xfffeThey got new items in stock?!\xf000\xbe01\x0000\xfffeBut they still don'\xfffehave what I want!!\xf000\xbe01\x0000\xfffeIf they don' hurry up an' get it in,\xfffeI'll really be in a jam!
-Hironori: They finally\xfffegot my item in stock!\xf000\xbe00\x0000\xfffeI've waited for soooooo long!\xf000\xbe01\x0000\xfffeHuh? What is it?\xf000\xbe01\x0000\xfffeHey! Tha's private!\xfffeI ain't gonna tell you!
+Hironori: C'è una cosa che vorrei,\xfffema sembra che il negozio l'abbia\xf000\xbe00\x0000\xfffeesaurita, al momento!\xf000\xbe01\x0000\xfffeIl commesso mi ha detto che ci\xfffeimpiegherà poco ad arrivare ma io\xf000\xbe00\x0000\xfffenon sto più nella pelle!
+Hironori: Sei andato al negozio?\xfffeHanno dei nuovi strumenti?!\xf000\xbe01\x0000\xfffeMa non hanno ancora\xfffequello che voglio!!\xf000\xbe01\x0000\xfffeSe non si sbrigano a ordinarlo,\xfffemi arrabbierò moltissimo!!
+Hironori: Finalmente!\xfffeE' arrivato!\xf000\xbe00\x0000\xfffeHo aspettato coooosì a lungo!\xf000\xbe01\x0000\xfffeEh? Cosa c'è?\xf000\xbe01\x0000\xfffeEhi! E' privato!\xfffeNon ti dirò che cos'è!
 no data
 Ken: The Unova Barrier,\xfffeThe Black Tower...\xf000\xbe00\x0000\xfffeMany trainers from\xf000\xbe00\x0000\xfffearound the world come to take it on.\xf000\xbe01\x0000\xfffe\xf000Ā\x0001\x0000You're going to try it?\xf000\xbe01\x0000\xfffeYou'll face lots of hard battles there.\xfffeYou'd better take some really good pokemon.
 Ken: The Unova Barrier,\xfffeThe Black Tower...\xf000\xbe00\x0000\xfffe\xf000Ā\x0001\x0000there's been lots of activity there.\xf000\xbe01\x0000\xfffeBut don't let your guard down!\xfffeThe higher you go up,\xf000\xbe00\x0000\xfffethe more trainers you'll run into.\xf000\xbe01\x0000\xfffeWell, that's what I've heard from a veteran.\xfffeGood luck getting to the top!
@@ -118,4 +118,4 @@ no data
 no data
 no data
 no data
-Questa è la Città Nera.\xfffeMa si potrebbe chiamare Toshi Kuroi.\xf000븀\x0000Oppure Negro de la Ciudad. Oppure...yeah.
+Questa è la Città Nera.\xfffeMa si potrebbe chiamare Toshi Kuroi.\xf000븀\x0000Oppure Negro de la Ciudad. Oppure...
