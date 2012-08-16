@@ -94,9 +94,9 @@ Hironori: C'è una cosa che vorrei,\xfffema sembra che il negozio l'abbia\xf000\
 Hironori: Sei andato al negozio?\xfffeHanno dei nuovi strumenti?!\xf000\xbe01\x0000\xfffeMa non hanno ancora\xfffequello che voglio!!\xf000\xbe01\x0000\xfffeSe non si sbrigano a ordinarlo,\xfffemi arrabbierò moltissimo!!
 Hironori: Finalmente!\xfffeE' arrivato!\xf000\xbe00\x0000\xfffeHo aspettato coooosì a lungo!\xf000\xbe01\x0000\xfffeEh? Cosa c'è?\xf000\xbe01\x0000\xfffeEhi! E' privato!\xfffeNon ti dirò che cos'è!
 no data
-Ken: The Unova Barrier,\xfffeThe Black Tower...\xf000\xbe00\x0000\xfffeMany trainers from\xf000\xbe00\x0000\xfffearound the world come to take it on.\xf000\xbe01\x0000\xfffe\xf000Ā\x0001\x0000You're going to try it?\xf000\xbe01\x0000\xfffeYou'll face lots of hard battles there.\xfffeYou'd better take some really good pokemon.
-Ken: The Unova Barrier,\xfffeThe Black Tower...\xf000\xbe00\x0000\xfffe\xf000Ā\x0001\x0000there's been lots of activity there.\xf000\xbe01\x0000\xfffeBut don't let your guard down!\xfffeThe higher you go up,\xf000\xbe00\x0000\xfffethe more trainers you'll run into.\xf000\xbe01\x0000\xfffeWell, that's what I've heard from a veteran.\xfffeGood luck getting to the top!
-Ken: The Unova Barrier,\xfffeThe Black Tower...\xf000\xbe00\x0000\xfffeyou've finally conquered it!\xf000\xbe01\x0000\xfffe\xf000Ā\x0001\x0000……\xfffeThat's great!\xf000\xbe01\x0000\xfffeI've tried to clear it many times,\xfffebut I failed every one of them.\xf000\xbe00\x0000\xfffeBefore I knew it, I just gave up.\xf000\xbe01\x0000\xfffeYou believed in yourself and your pokemon.\xfffeFor that, you have my respect!
+Ken: La Torre di Unima,\xfffeil Grattacielo Nero...\xf000\xbe00\x0000\xfffeMolti allenatori sono venuti da tutto\xf000\xbe00\x0000\xfffeil mondo per allenarsi al suo interno.\xf000\xbe01\x0000\xfffe\xf000Ā\x0001\x0000... Stai andandoci anche tu?\xf000\xbe01\x0000\xfffeAffronterai lotte molto difficili.\xfffeTi converrà portarti dietro dei\xf000\xbe00\x0000\xfffePokémon molto ben allenati.
+Ken: La Torre di Unima,\xfffeil Grattacielo Nero...\xf000\xbe00\x0000\xfffe\xf000Ā\x0001\x0000... Hai fatto progressi!\xf000\xbe01\x0000\xfffeMa non abbassare la guardia!\xfffePiù andrai in alto, più aumenteranno\xf000\xbe00\x0000\xfffegli allenatori che incontrerai.\xf000\xbe01\x0000\xfffeQuesto è ciò che mi ha detto un anziano.\xfffeTi auguro di arrivare in cima!
+Ken: La Torre di Unima,\xfffeil Grattacielo Nero...\xf000\xbe00\x0000\xfffeSei arrivato in cima!\xf000\xbe01\x0000\xfffe\xf000Ā\x0001\x0000...\xfffeE' formidabile!\xf000\xbe01\x0000\xfffeAnche io ci ho provato molte volte,\xfffema non ci sono mai riuscito.\xf000\xbe00\x0000\xfffeHo rinunciato senza impegnarmi a fondo.\xf000\xbe01\x0000\xfffeAl contrario, tu hai creduto\xfffein te stesso e nei tuoi Pokemon.\xf000\xbe00\x0000\xfffeOra hai il mio rispetto!
 no data
 no data
 no data
@@ -110,12 +110,12 @@ no data
 no data
 no data
 no data
-Emi: Whenever I'm not working, \xfffeI go to Black Tower\xf000\xbe00\x0000\xfffeand rake in the battle reward money!\xf000\xbe01\x0000\xfffeI'm so glad I came here.\xfffeI much prefer calm, peaceful places though!\xf000\xbe01\x0000\xfffeYou just can't earn anything\xfffein White Forest.
-Emi: \xf000Ā\x0001\x0000, you say you've gotten\xfffequite high in Black Tower?\xf000\xbe01\x0000\xfffeThat's incredible!\xfffeThe entry area is my limit!\xf000\xbe01\x0000\xfffeBut even just that area\xfffeis enough to really boost my allowance!
-Emi: This is the first time\xfffeI've been in the same city for so long\xf000\xbe00\x0000\xfffelet alone been out to earn money.\xf000\xbe01\x0000\xfffeI've met a lot of different people,\xfffe and I even have my favorite stores now.……\xf000\xbe01\x0000\xfffeBut I've got to travel again soon.\xfffeNext, I'll probably take it easy\xf000\xbe00\x0000\xfffein White Forest!
+Emi: Quando ho del tempo libero,\xfffevado al Grattacielo Nero e cerco\xf000\xbe00\x0000\xfffedi raggranellare qualche soldo lottando!\xf000\xbe01\x0000\xfffeSono così felice di essere venuta qui.\xfffeAnche se preferirei un posto più tranquillo.\xf000\xbe01\x0000\xfffeMa nella Foresta Bianca non puoi\xfffeottenere tutto ciò che desideri.
+Emi: \xf000Ā\x0001\x0000, ho saputo che sei riuscito\xfffea salire molto in alto nel\xf000\xbe00\x0000\xfffeGrattacielo Nero!\xf000\xbe01\x0000\xfffeE' incredibile!\xfffeIo non sono nemmeno riuscita a\xf000\xbe00\x0000\xfffesuperare i primi piani!\xf000\xbe01\x0000\xfffeBut even just that area\xfffeis enough to really boost my allowance!
+Emi: Questa è la prima volta che\xfffesono stata nella stessa città per\xf000\xbe00\x0000\xfffecosì tanto tempo e con così pochi soldi.\xf000\xbe01\x0000\xfffeHo incontrato un sacco di gente,\xfffee ho trovato ciò che volevo...\xf000\xbe01\x0000\xfffeMa ora è tempo che ricominci a\xfffeviaggiare. Probabilmente andrò\xf000\xbe00\x0000\xfffea rilassarmi nella Foresta Bianca!
 no data
 no data
 no data
 no data
 no data
-Questa è la Città Nera.\xfffeMa si potrebbe chiamare Toshi Kuroi.\xf000븀\x0000Oppure Negro de la Ciudad. Oppure...
+Questa è la Città Nera.\xfffeMa si potrebbe chiamare Kuroi Toshi.\xf000븀\x0000Oppure Negro de la Ciudad. Oppure...
