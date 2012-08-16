@@ -17,7 +17,8 @@ Prescolaro
 Gemelli
 Alleva ⒆⒇
 Alleva ⒆⒇
-Lenora
+Wallace
+Aloé
 nessun dato
 nessun dato
 nessun dato
@@ -46,7 +47,7 @@ Lavoratore
 Cestista
 Scienziato
 nessun dato
-ＯＬ
+OL
 Fantallenatore
 Fantallenatore
 Cintura Nera
@@ -125,24 +126,24 @@ Erika
 Sabrina
 Blaine
 Giovanni
-Falkner
-Bugsy
-Whitney
-Morty
-Chuck
+Valerio
+Raffaello
+Chiara
+Angelo
+Furio
 Jasmine
-Pryce
+Alfredo
 Clair
-Janine
-Roxanne
-Brawly
-Wattson
-Flannery
+Nina
+Petra
+Rudi
+Walter
+Fiammetta
 Norman
-Winona
-Tate
-Liza
-Juan
+Alice
+Tall
+Pat
+Rodolfo
 Allenatore
 Chitarrista
 Allenatore
@@ -165,18 +166,18 @@ Allenatore
 Allenatore
 Boss Metro
 nessun dato
-Roark
+Pedro
 Gardenia
-Fantina
-Maylene
-Wake
-Byron
-Candice
-Volkner
-Blue
+Fannnie
+Marzia
+Omar
+Ferruccio
+Bianca
+Corrado
+Blu
 Lance
-Steven
-Wallace
+Rocco
+Adriano
 Beauty
 Allenatore
 Allenatore
