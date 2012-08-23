@@ -7,7 +7,7 @@ Comunicazione in corso. Attendere prego...
 Un membro è caduto.\xfffeLo scambio è stato annullato.
 Il leader ha abbandonato.\xfffeLo scambio è stato annullato.
 Errore di comunicazione...\xfffeLo scambio è stato annullato.
-Il tempo è scaduto.\xfffeLo scambio è satto annullato.
+Il tempo è scaduto.\xfffeLo scambio è stato annullato.
 Comunicazione in corso.\xfffeAttendere prego...
 Salvataggio...\xfffeNon spegnere la console.
 Un uovo non può essere scambiato.\xfffeLo scambio è stato annullato.
