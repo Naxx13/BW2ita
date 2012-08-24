@@ -1,4 +1,4 @@
-Per partecipare alla Competizione Live,\xfffedevi aggirnare il tuo ID.\xf000\xbe01\x0000\xfffeVuoi aggiornarlo?
+Per partecipare alla Competizione Live,\xfffedevi aggiornare il tuo ID.\xf000\xbe01\x0000\xfffeVuoi aggiornarlo?
 Per partecipare alla Competizione Live,\xfffel'ID dovrà essere aggiornato.\xf000\xbe01\x0000\xfffeIl Box Lotta non registrerà\xfffeil precedente torneo.\xf000\xbe01\x0000\xfffeVuoi aggiornare il tuo ID?
 L'ID del giocatore sarà ricevuto\xfffevia Infrarossi.\xf000\xbe01\x0000\xfffeSi prega di puntare la tua schedina di gioco Nintendo\xfffea quella che deve ricevere\xf000\xbe00\x0000\xfffee premere il pulsante A.\xf000\xbe01\x0000
 Ti sei già registrato\xfffea questo torneo.\xf000\xbe01\x0000\xfffeNon puoi registrarti\xfffea questo torneo.\xf000\xbe01\x0000
@@ -8,14 +8,14 @@ SI
 NO
 Vuoi annullare la partecipazione\xfffedei Pokémon?
 Le condizioni per il torneo\xfffenon sono state soddisfatte.\xf000\xbe01\x0000\xfffeSi prega di inserire i tuoi Pokémon\xfffenel Box Lotta.\xf000\xbe01\x0000
-Salvattaggio in corso...\xfffeNon premere il pulsante power.
+Salvataggio in corso...\xfffeNon spegnere la console.
 Il tuo Box Lotta è già registrato\xfffeper il torneo.\xf000\xbe01\x0000\xfffeNon puoi\xfffespostare i tuoi Pokémon da o verso\xf000\xbe00\x0000\xfffeil tuo Box Lotta.\xf000\xbe01\x0000
 Pokémon Competizione Lotta!\xfffeCosa vuoi fare?
 Lotta
 Look back
-Annula la partecipazione
+Annulla la partecipazione
 L'ultima lotta verrà\xffferiprodotta.\xf000\xbe01\x0000
-Una volta annulato, non sarai in grado di\xfffeparticipare allo stesso torneo.\xf000\xbe01\x0000\xfffeVuoi annullare la partecipazione?
+Una volta annullato, non sarai in grado di\xfffeparticipare allo stesso torneo.\xf000\xbe01\x0000\xfffeVuoi annullare la partecipazione?
 Annullare.\xfffeSei sicuro di questo?
 Il tuo Box Lotta non è stato\xffferegistrato.\xf000\xbe01\x0000
 Potrai comunicare con il tuo avversario\xfffetramite Infrarossi.\xf000\xbe01\x0000\xfffeSi prega di mettere la tua schedina Nintendo\xfffea quella avversaria\xf000\xbe00\x0000\xfffee premere il pulsante A.\xf000\xbe01\x0000
@@ -26,14 +26,14 @@ Segui le istruzioni impartite dal\xfffepersonale del torneo e premi il pulsante 
 La lotta è finita.\xfffeI Pokémon nel tuo Box Lotta\xf000\xbe00\x0000\xfffeora sono registrati.\xf000\xbe01\x0000
 Impossibile ricevere\xfffeil tuo ID.\xf000\xbe01\x0000
 Impossibile ricevere\xfffeil tuo ID.\xf000\xbe01\x0000
-La conessione\xfffeè falita.\xf000\xbe01\x0000
+La connessione\xfffeè falita.\xf000\xbe01\x0000
 La Competizione Live è finita.\xf000\xbe01\x0000
 FATTO
 La Competizione Live è finita.\xfffeGrazie per aver partecipato.\xf000\xbe01\x0000
 Ricezione dati...\xfffeAttendere prego.
 Ricerca avversari...\xfffeAttendere prego.
 C'è stato un problema\xfffecon l'ultima lotta.\xf000\xbe00\x0000\xfffeNon può essere riprodotto.\xf000\xbe01\x0000
-Communicazione in corso. Si prega di mettere in stand by...
+Comunicazione in corso. Si prega di attendere...
 Hai avuto già una lotta\xfffecon questa persona.\xf000\xbe01\x0000\xfffeNon puoi combattere nuovamente\xfffelo stesso avversario.\xf000\xbe01\x0000
 Non ci sono Pokémon nel\xfffetuo Box Lotta.\xf000\xbe01\x0000\xfffeSi prega di controllare le regole del torneo\xfffee mettere i Pokémon\xf000\xbe00\x0000\xfffenel tuo Box Lotta.\xf000\xbe01\x0000
 Si prega di scegliere i vostri Pokémon.
