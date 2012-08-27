@@ -19,11 +19,11 @@ Scena 17
 Scena 18
 Scena 19
 Scena 20
-Exploit the weakness!\xfffeChoose your lines wisely!
-Exploit the weakness!\xfffe
-Exploit the weakness!\xfffe
-Lose instantly!
-Lose instantly!
+Approfitta delle debolezze!\xfffeScegli il tuo attacco saggiamente!
+Approfitta delle debolezze!\xfffe
+Approfitta delle debolezze!\xfffe
+Fai perdere immediatamente!
+Fai perdere immediatamente!
 No
 No
 No
