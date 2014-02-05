@@ -1,260 +1,261 @@
-ディレクター
-うんの　たかお
-プランニング　ディレクター
-さいとう　まさふみ
-プログラム　ディレクター
-たまだ　そうすけ
-アート　ディレクター
-うんの　たかお
-シナリオ
-まつみや　としのぶ
-プログラム
-リーダー
-もり　あきと
-いわさわ　みゆき
-なぎはし　とおる
-いちらく　かつひこ
-おのうえ　まさゆき
-たなか　りょうた
-ポケモンＢＷ　プログラム
-わたなべ　てつや
-そがべ　ひさし
-おおの　かつみ
-たや　まさお
-なかむら　ひろゆき
-さいとう　のぞむ
-たかはし　ともや
-ほさか　げんや
-ありいずみ　のぶひこ
-おばた　としひろ
-かわだ　こうじ
-まつだ　よしのり
-かがや　けいた
-ポケモン　キャラクター　ディレクター
-すぎもり　けん
-ポケモン　デザイン
-すぎもり　けん
-うんの　たかお
-ふじわら　もとふみ
-よしだ　ひろのぶ
-とやま　けんきち
-ふちの　ひろき
-おおむら　ゆうすけ
-つるた　さや
-リ　ヒョンジョン
-いべ　まな
-たのうえ　れいこ
-ふじわら　まいこ
-みずたに　めぐみ
-おおくぼ　ともひこ
-ジェイムス　ターナー
-にしだ　あつこ
-もりつぐ　けいこ
-きたかぜ　ともひろ
-２Ｄ　グラフィック　デザイン
-リーダー
-よしだ　ひろのぶ
-とやま　けんきち
-つるた　さや
-みずたに　めぐみ
-おおむら　ゆうすけ
-３Ｄ　グラフィック　デザイン
-リーダー
-おおくぼ　ともひこ
-ふちの　ひろき
-いべ　まな
-おおたに　まよ
-かわもと　ゆき
-ふじわら　もとふみ
-まつざき　つばさ
-しいやま　ゆきこ
-たかお　ゆういちろう
-わたなべ　あつし
-トレーナー　メイン　デザイン
-おおむら　ゆうすけ
-トレーナー　デザイン
-いべ　まな
-みずたに　めぐみ
-バトル　グラフィック　デザイン
-よしだ　ひろのぶ
-バトル　エフェクト　デザイン
-ふじわら　もとふみ
-ＵＩ　グラフィック　メイン　デザイン
-とやま　けんきち
-デモ　ムービー　デザイン
-うんの　たかお
-ポケモンＢＷ　グラフィック　デザイン
-リ　ヒョンジョン
-たのうえ　れいこ
-ふじわら　まいこ
-ジェイムス　ターナー
-もりつぐ　けいこ
-きたかぜ　ともひろ
-ポケモン　せってい　＆　ずかん　テキスト
-まつみや　としのぶ
-おんがく
-いちのせ　ごう
-さとう　ひとみ
-ポケモン　ボイス
-いちのせ　ごう
-サウンド　エフェクト
-さとう　ひとみ
-たにぐち　てるお
-セイガイハシティ
-１９ばんどうろ
-２３ばんどうろなど
-ジョインアベニューなど
-さっきょく　＆　へんきょく
-さっきょく　＆　へんきょく
-いちのせ　ごう
-さとう　ひとみ
-ポケモンＢＷ　おんがく
-ますだ　じゅんいち
-かげやま　しょうた
-あだち　みなこ
-ゲームデザイン
-リーダー
-しもやまだ　てるゆき
-リーダー
-なかつい　すぐる
-リーダー
-まつみや　としのぶ
-にしの　こうじ
-みずぐち　まい
-すぎなか　かつのり
-なかむら　あきら
-いとう　ひろと
-むらかみ　なおと
-テキスト
-まつみや　としのぶ
-なかつい　すぐる
-いとう　ひろと
-よしかわ　ひかる
-スクリプトせってい
-みずぐち　まい
-すぎなか　かつのり
-ふじむら　そういちろう
-マップデザイン
-なかつい　すぐる
-すぎなか　かつのり
-なかむら　あきら
-にしの　こうじ
-あさおか　ようへい
-むろい　かずき
-パラメーターせっけい
-にしの　こうじ
-いとう　ひろと
-ポケウッド　せっけい
-なかつい　すぐる
-ポケモンワールドトーナメント　せっけい
-すぎなか　かつのり
-まつみや　としのぶ
-ハイリンクフェス　せっけい
-さいとう　まさふみ
-ジョインアベニュー　せっけい
-しもやまだ　てるゆき
-ポケモンＢＷ　ゲームデザイン
-もりもと　しげき
-まつしま　けんじ
-おおた　てつじ
-おおもり　しげる
-ひろ　なかむら
-いわお　かずまさ
-ほずみ　ゆきこ
-かわちまる　たけし
-たかはし　ただし
-３ＤＳれんどう　せっけい
-うんの　たかお
-さいとう　まさふみ
-３ＤＳれんどう　プログラム
-いさり　やすのり
-ポケモンＢＷ　Wi-Fi　サーバー　かいはつ
-やまぐち　たかひろ
-やまぐち　りょう
-にわ　かずとも
-たけうち　たかあき
-いしかわ　みきひろ
-ポケモングローバルリンク　せっけい
-たかはし　まきこ
-よしかわ　けいいち
-うわい　しん
-ベースメントファクトリープロダクション
-デバッグマネージメント
-たにかわ　ゆうき
-なかじま もとき
-おおはし　あきこ
-たむら　たけし
-デバッグ
-マリオクラブ
-Ｂ　＆　Ｗ　こうそう
-ますだ　じゅんいち
-スペシャルサンクス
-とみなが　けんじ
-もり　ゆういちろう
-たじり　よしお
-ささき　ていこ
-えんどう　えみ
-さとう　あさみ
-ふかせ　ながあき
-はまの　さちこ
-すなが　はるか
-たかだ　けいすけ
-つる　ひろあき 
-いとう　けんじろう 
-おおはし　みきこ
-こむら　ともたか 
-すぎもと　あつし
-ふくなが　すすむ 
-うつのみや　たかと
-みやはら　としお 
-かわもと　たく
-のもと　がくじ 
-むらた　かなこ
-たきざわ　みちこ
-まつなが　みつよ
-ふるたに　しょう
-おおにし　たかひろ
-つみた　ゆういちろう
-ふじた　おさむ 
-そが　まさゆき 
-なかやま　ようこ
-なかた　かよ
-むらかわ　てるき
-あんどう　かおり
-ひろまつ　こうたろう
-あくね　ひろし
-こまい　だいすけ
-むかい　としお
-たかはら　ちあき
-アートワーク
-いたに　きよみ
-なかみち　さちこ
-グローバライズ
-なかお　のりこ
-いちばやし　ひろのり
-ふるかわ　しゅうへい
-にのみや　けい
-まつしま　けんじ
-じょうほうかんり
-よねだ　とうや
-はらぐち　しほ
-なかい　ゆうた
-さくらい　ゆうり
-コーディネーター
-こほり　しゅんすけ
-かじわら　あやこ
-きなし　あきら
-あらき　ひであき
-おかだ　ゆうき
-プロデューサー
-ますだ　じゅんいち
-やまがみ　ひとし
-えがみ　しゅうさく
-エグゼクティブ　プロデューサー
-たじり　さとし
-いわた　さとる
-いしはら　つねかず
-かいはつ
-ゲームフリーク
-ポケットモンスターブラック２
-ポケットモンスターホワイト２
+Team Phoenix
+Naxx
+Aravs
+Acquetto
+Abc9
+Blackout e White
+pkmnbw2
+ThePokémonCompany®
+marco fax
+Felix
+Beppe
+WonderIbra
+Leader
+Akito Mori
+Miyuki Iwasawa
+Nikki Bridge e Nagi
+Katsuhiko Ichiraku
+Masayuki Onoe
+Ryota Tanaka
+Pokemon BW programma
+Tetsuya Watanabe
+Hisashi Sogabe
+Katsumi Ohno
+Taya Masao
+Hiroyuki Nakamura
+Saito, N.
+Tomoya Takahashi
+Hosaka deserto
+Nobuhiko Ariizumi
+Toshihiro Obata
+Koji Kawada
+Yoshinori Matsuda
+Kagaya Keita
+Pokemon carattere regista
+Ken Sugimori
+Pokemon progettazione
+Ken Sugimori
+Takao Unno
+Fumi originale Fujiwara
+Hironobu Yoshida
+Toyama Kenkichi
+Hiroki sull'orlo
+Omura, Yusuke
+Saya Tsuruta
+Re-Hyun
+Non dovreste avere
+Reiko Tagami
+Maiko Fujiwara
+Mizutani, Megumi
+Okubo, Tomohiko
+James Turner
+Atsuko Nishida
+Keiko Mori scorrimento
+Tomohiro North Wind
+2D Graphic Design
+Leader
+Hironobu Yoshida
+Toyama Kenkichi
+Saya Tsuruta
+Mizutani, Megumi
+Omura, Yusuke
+3D Graphic Design
+Leader
+Okubo, Tomohiko
+Hiroki sull'orlo
+Non dovreste avere
+Otani Mayo
+Kawamoto neve
+Fumi originale Fujiwara
+Matsuzaki ali
+Yukiko e il nuovo
+Y. Takao
+Atsushi Watanabe
+Trainer il disegno principale
+Omura, Yusuke
+Trainer di progettazione
+Non dovreste avere
+Mizutani, Megumi
+Battaglia di progettazione grafica
+Hironobu Yoshida
+Battaglia realizzazione di effetti
+Fumi originale Fujiwara
+Interfaccia utente grafica principale
+Toyama Kenkichi
+Design demo movie
+Takao Unno
+Pokemon BW graphic design
+Re-Hyun
+Reiko Tagami
+Maiko Fujiwara
+James Turner
+Keiko Mori scorrimento
+Tomohiro North Wind
+Pokemon libro di testo immagini e regolazione
+Toshinobu Matsumiya
+Musica
+Tsuyoshi Ichinose
+Hitomi Sato
+Pokemon voce
+Tsuyoshi Ichinose
+Effetti sonori
+Hitomi Sato
+Taniguchi, Akio
+Seigaihashiti
+Bando filtrato 19
+Bando 23 come un forno
+Avenue, come ad esempio partecipare
+Arrangiatore e compositore
+Arrangiatore e compositore
+Tsuyoshi Ichinose
+Hitomi Sato
+Pokemon musica BW
+Junichi Masuda
+Shota Kageyama
+Minako Adachi
+Game design
+Leader
+Teruyuki Shimoyamada
+Leader
+Alcuni anziani con
+Leader
+Toshinobu Matsumiya
+Koji Nishino
+Il mio Mizuguchi
+Katsunori Sugi-chu
+Akira Nakamura
+Hiroto Ito
+Murakami Naoto
+Testo
+Toshinobu Matsumiya
+Alcuni anziani con
+Hiroto Ito
+Hikaru Yoshikawa
+Script di configurazione
+Il mio Mizuguchi
+Katsunori Sugi-chu
+Soichiro Fujimura
+Map Design
+Alcuni anziani con
+Katsunori Sugi-chu
+Akira Nakamura
+Koji Nishino
+Yohei Asaoka
+Kazuki Muroi
+Parametro di dosaggio
+Koji Nishino
+Hiroto Ito
+Pokeuddo dosaggio
+Alcuni anziani con
+Dosaggio Pokemon Tournament Mondo
+Katsunori Sugi-chu
+Toshinobu Matsumiya
+Proporzionamento dei collegamenti ad alta Fes
+Masafumi Saito
+Iscriviti dosaggio Viale
+Teruyuki Shimoyamada
+BW Pokemon game design
+Shigeki Morimoto
+Kenji Matsushima
+Tetsuji Ota
+Shigeru Omori
+Hiro Nakamura
+Kazumasa Iwao
+Yukiko Hidemi
+Takeshi Kawachi Maru
+Tuttavia, Takahashi
+3DS dosaggio interblocco
+Takao Unno
+Masafumi Saito
+Programma in 3DS congiunzione
+Yasunori frugò
+Pokemon BW Wi-Fi server di sviluppo
+Takahiro Yamaguchi
+Ryo Yamaguchi
+Niwa Kazutomo
+Takeuchi, Takaaki
+Ishikawa Mikihiro
+Dosaggio Pokemon Global Link
+Makiko Takahashi
+Keiichi Yoshikawa
+Shin farà impallidire
+Basement fabbrica Productions
+Gestione di debug
+Yuki Tanigawa
+Motoki Nakajima
+Akiko Ohashi
+Takeshi Tamura
+Debug
+Mario Club
+B & W piano
+Junichi Masuda
+Ringraziamenti speciali
+Kenji Tominaga
+Yuichiro Mori
+Yoshio Tajiri
+Sasaki teichoic
+Endo Emi
+Asami Sato
+Naka Aki Fukase
+Sachiko Hamano
+Haruka Sunaga
+Keisuke Takada
+Hiroaki Tsuru
+Kenjiro Ito
+Mikiko Ohashi
+Tomotaka borgo
+Atsushi Sugimoto
+Susumu Fukunaga
+Altezza e Utsunomiya
+Miyahara, Toshio
+Kawamoto vogliono
+Lotteria è sotto la
+Kanako Murata
+Michiko Takizawa
+Mitsuyo Matsunaga
+Furuya Sho
+Takahiro Onishi
+Yuichiro Tsumita
+Osamu Fujita
+Soga, Masayuki
+Nakayama Yoko
+Nakata, Kayo
+Murakawa Teruki
+Kaori Ando
+Kotaro Hiromatsu
+Hiroshi Akune
+Daisuke Komai
+Toshio Mukai
+Chiaki plateau
+Artwork
+Itani, Kiyomi
+Sachiko Nakamichi
+Globalize
+Noriko Nakao
+Yusuke Ichi Bayashi
+Shuhei Furukawa
+Kei Ninomiya
+Kenji Matsushima
+Gestione delle informazioni
+Toya Yoneda
+Shiho blastoporo
+Yuta Nakai
+Yuri Sakurai
+Coordinatore
+Shunsuke Kohori
+Kajiwara, Ayako
+Akira Kinashi
+Hideaki Araki
+Yuki Okada
+Produttore
+Junichi Masuda
+Hitoshi Yamagami
+Shusaku Egami
+Produttore esecutivo
+Satoshi Tajiri
+Satoru Iwata
+Koichi Ishihara
+Sviluppo
+Team phoenix
+Pokemon Nero 2
+Pokemon Bianco 2
