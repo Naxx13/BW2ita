@@ -6,7 +6,7 @@ Gastro Acid
 いえす
 Intimidate
 いかさま
-Rage
+Ira
 Rage Powder
 いかりのつほ
 いかりのまえは
@@ -21,7 +21,7 @@ Pain Split
 いちはん
 いちやもん
 いとまる
-String Shot
+Millebave
 いのちかけ
 いのむー
 いはる
