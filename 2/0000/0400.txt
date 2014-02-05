@@ -1,7 +1,7 @@
 Tocca l'icona battaglia\xfffese desideri lottare！
-こうかん　したいひとは\xfffeマークを　タッチして！
-おえかき　したいひとは\xfffeマークを　タッチして！
-ぐるぐるこうかん　したいひとは\xfffeマークを　タッチして！
-Amici
-Giocatori
-ユニオンルームに　はいりました！
+Tocca l'icona di scambio\xfffese desideri scambiare!
+Tocca l'icona di disegno\xfffese desideri disegnare!
+Tocca l'icona del girauovo\xfffese desideri girare l'uovo!
+AMICI
+GIOCATORI
+I've entered the Union Room！
