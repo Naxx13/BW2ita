@@ -195,7 +195,7 @@ I due movimenti si uniscono!\xfffe E' un movimento combinato!
 \xf000Č\x0001\x0000 ignora\xfffegli ordini mentre dorme!
 Centro Automatico!
 Ma non è il luogo dove questo strumento \xfffepuò essere usato!
-Sky Drop won't let \xf000Č\x0001\x0000 go!
+Cadutalibera non lascia andare \xf000Č\x0001\x0000!
 Il Match è stato annullato
 (\xf000Ȁ\x0001\x0000)'s Metronome \xf000Ȃ\x0001\x0001:\xf000ć\x0001\x0002
 あっ！　やせい？の\xfffe\xf000ā\x0001\x0000が　あらわれた！
