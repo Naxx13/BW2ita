@@ -1,4 +1,4 @@
-Per partecipare alla Competizione Live,\xfffedevi aggirnare il tuo ID.\xf000\xbe01\x0000\xfffeVuoi aggiornarlo?
+Per partecipare alla Competizione Live,\xfffedevi aggiornare il tuo ID.\xf000\xbe01\x0000\xfffeVuoi aggiornarlo?
 Per partecipare alla Competizione Live,\xfffel'ID dovrà essere aggiornato.\xf000\xbe01\x0000\xfffeIl Box Lotta non registrerà\xfffeil precedente torneo.\xf000\xbe01\x0000\xfffeVuoi aggiornare il tuo ID?
 L'ID del giocatore sarà ricevuto\xfffevia Infrarossi.\xf000\xbe01\x0000\xfffeSi prega di puntare la tua schedina di gioco Nintendo\xfffea quella che deve ricevere\xf000\xbe00\x0000\xfffee premere il pulsante A.\xf000\xbe01\x0000
 Ti sei già registrato\xfffea questo torneo.\xf000\xbe01\x0000\xfffeNon puoi registrarti\xfffea questo torneo.\xf000\xbe01\x0000
@@ -8,11 +8,11 @@ SI
 NO
 Vuoi annullare la partecipazione\xfffedei Pokémon?
 Le condizioni per il torneo\xfffenon sono state soddisfatte.\xf000\xbe01\x0000\xfffeSi prega di inserire i tuoi Pokémon\xfffenel Box Lotta.\xf000\xbe01\x0000
-Salvattaggio in corso...\xfffeNon premere il pulsante power.
+Salvataggio in corso...\xfffeNon premere il pulsante power.
 Il tuo Box Lotta è già registrato\xfffeper il torneo.\xf000\xbe01\x0000\xfffeNon puoi\xfffespostare i tuoi Pokémon da o verso\xf000\xbe00\x0000\xfffeil tuo Box Lotta.\xf000\xbe01\x0000
 Pokémon Competizione Lotta!\xfffeCosa vuoi fare?
 Lotta
-Look back
+Guarda dietro
 Annula la partecipazione
 L'ultima lotta verrà\xffferiprodotta.\xf000\xbe01\x0000
 Una volta annulato, non sarai in grado di\xfffeparticipare allo stesso torneo.\xf000\xbe01\x0000\xfffeVuoi annullare la partecipazione?
@@ -33,7 +33,7 @@ La Competizione Live è finita.\xfffeGrazie per aver partecipato.\xf000\xbe01\x0
 Ricezione dati...\xfffeAttendere prego.
 Ricerca avversari...\xfffeAttendere prego.
 C'è stato un problema\xfffecon l'ultima lotta.\xf000\xbe00\x0000\xfffeNon può essere riprodotto.\xf000\xbe01\x0000
-Communicazione in corso. Si prega di mettere in stand by...
+Communicazione in corso. Si prega di attendere...
 Hai avuto già una lotta\xfffecon questa persona.\xf000\xbe01\x0000\xfffeNon puoi combattere nuovamente\xfffelo stesso avversario.\xf000\xbe01\x0000
 Non ci sono Pokémon nel\xfffetuo Box Lotta.\xf000\xbe01\x0000\xfffeSi prega di controllare le regole del torneo\xfffee mettere i Pokémon\xf000\xbe00\x0000\xfffenel tuo Box Lotta.\xf000\xbe01\x0000
 Si prega di scegliere i vostri Pokémon.
@@ -53,5 +53,5 @@ Confermate le regole del torneo,\xfffesi prega di mettere i Pokémon nel\xf000\x
 \xf000\x0100\x0001\x0000 Rimangono \xf000\x0200\x0001\x0002Pkm\xfffe\xf000\x0100\x0001\x0001 Rimangono \xf000\x0200\x0001\x0003Pkm\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000 hai vinto!\xf000\xbe01\x0000
 \xf000\x0100\x0001\x0000 Rimangono \xf000\x0200\x0001\x0002Pkm\xfffe\xf000\x0100\x0001\x0001 Rimangono \xf000\x0200\x0001\x0003Pkm\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000 hai perso!\xf000\xbe01\x0000
 \xf000\x0100\x0001\x0000 Rimangono \xf000\x0200\x0001\x0002Pkm\xfffe\xf000\x0100\x0001\x0001 Rimangono \xf000\x0200\x0001\x0003Pkm\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000 avete pareggiato!\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0000 Rimangono \xf000\x0200\x0001\x0002Pkm\xfffe\xf000\x0100\x0001\x0001 Rimangono \xf000\x0200\x0001\x0003Pkm\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000 ha rinunciato!\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000 has lost!\xf000\xbe01\x0000
-\xf000\x0100\x0001\x0000 Rimangono \xf000\x0200\x0001\x0002Pkm\xfffe\xf000\x0100\x0001\x0001 Rimangono \xf000\x0200\x0001\x0003Pkm\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0001 ha rinunciato!\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000 has won!\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0000 Rimangono \xf000\x0200\x0001\x0002Pkm\xfffe\xf000\x0100\x0001\x0001 Rimangono \xf000\x0200\x0001\x0003Pkm\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000 ha rinunciato!\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000 ha perso!\xf000\xbe01\x0000
+\xf000\x0100\x0001\x0000 Rimangono \xf000\x0200\x0001\x0002Pkm\xfffe\xf000\x0100\x0001\x0001 Rimangono \xf000\x0200\x0001\x0003Pkm\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0001 ha rinunciato!\xf000\xbe00\x0000\xfffe\xf000\x0100\x0001\x0000 ha vinto!\xf000\xbe01\x0000
