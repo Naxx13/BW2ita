@@ -3,4 +3,4 @@ Fine
 Complimenti per aver\xfffefinito il gioco!
 Salvataggio in corso...\xfffeNon spegnere la console.
 \xf000Ā\x0001\x0000 ha salvato il gioco!
-Non si ha potuto salvare il gioco.
+Non si è potuto salvare il gioco.
