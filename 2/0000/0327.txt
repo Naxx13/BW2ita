@@ -1,42 +1,42 @@
-きゃくほん
-カット　０１
-カット　０２
-カット　０３
-カット　０４
-カット　０５
-カット　０６
-カット　０７
-カット　０８
-カット　０９
-カット　１０
-カット　１１
-カット　１２
-カット　１３
-カット　１４
-カット　１５
-カット　１６
-カット　１７
-カット　１８
-カット　１９
-カット　２０
-まもりを　かためろ！\xfffeセリフのせんたくが　じゅうよう！
-あいてタイプの　じゃくてんを　つけ！
-てんこうを　りようしろ！
-あいてタイプの　じゃくてんを　つけ！
-あいてタイプの　じゃくてんを　つけ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-いっきに　きめろ！
-なし
-なし
-なし
-なし
-なし
-なし
+Sceneggiatura
+Scena 01
+Scena 02
+Scena 03
+Scena 04
+Scena 05
+Scena 06
+Scena 07
+Scena 08
+Scena 09
+Scena 10
+Scena 11
+Scena 12
+Scena 13
+Scena 14
+Scena 15
+Scena 16
+Scena 17
+Scena 18
+Scena 19
+Scena 20
+Reinforce your defense!\xfffeChoose your lines wisely!
+Exploit the foe's weakness!
+Make use of the weather!
+Exploit the foe's weakness!
+Exploit the foe's weakness!
+Finish it immediately!
+Finish it immediately!
+Finish it immediately!
+Finish it immediately!
+Finish it immediately!
+Finish it immediately!
+Finish it immediately!
+Finish it immediately!
+Finish it immediately!
+Finish it immediately!
+No
+No
+No
+No
+No
+No
