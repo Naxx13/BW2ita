@@ -29,7 +29,7 @@ Sembra che ci sia un problema.\xfffeIl MetroLotta sarà cancellato.\xf000븂\x00
 Scegli il Musical in cui\xfffevuoi entrare.
 Scegli il Metro lotta in cui\xfffevuoi entrare.
 I membri si sono riuniti.\xfffeEntra nella stanza.
-\xf000Ā\x0001\x0000 refused...\xf000븂\x0001<
+\xf000Ā\x0001\x0000 rifiutata...\xf000븂\x0001<
 Aspettando la risposta di \xf000Ā\x0001\x0000...\xfffeBottone B: Cancella
 \xf000Ā\x0001\x0000 risponde, “OK."
 Attendere prego.\xfffeBottone B: Cancella
