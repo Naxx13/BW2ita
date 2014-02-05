@@ -1,13 +1,13 @@
-バッグの なか...\xfffeダークストーンが うごめいている!?\xf000\xbe01\x0000\xfffeダークストーンを とりだしますか?
-The aura-wrapped Dark Stone\xffferadiated an immense power!\xf000\xbe01\x0000And now...\xf000\xbe01\x0000It's releasing...!!
-\xf000\x0100\x0001\x0000は\xfffeふしぎな ちからで おしもどされた...!
+All'interno della borsa...\xfffela Pietra scura si muove!?\xf000\xbe01\x0000\xfffeUsare la Pietra scura?
+Un'aura avvolge la Pietra\xfffeche irradia un immenso potere!\xf000\xbe01\x0000E ora...\xf000\xbe01\x0000è libera...!!
+\xf000\x0100\x0001\x0000は\xfffeSpinto indietro da una forza misteriosa...!
 Bazzazzazzash!
-Zekrom went flying off somewhere...
-バッグの なか...\xfffeライトストーンが うごめいている!?\xf000\xbe01\x0000\xfffeライトストーンを とりだしますか?
-The aura-wrapped Light Stone\xffferadiated an immense power!\xf000\xbe01\x0000And now...\xf000\xbe01\x0000It's releasing...!!
-\xf000\x0100\x0001\x0000は\xfffeふしぎな ちからで おしもどされた...!
+Zekrom vola via da qualche parte...
+All'interno della borsa...\xfffela Pietra luce si muove!?\xf000\xbe01\x0000\xfffeUsare la Pietra luce?
+Un'aura avvolge la Pietra\xfffeche irradia un immenso potere!\xf000\xbe01\x0000E ora...\xf000\xbe01\x0000è libera...!!
+\xf000\x0100\x0001\x0000は\xfffeSpinto indietro da una forza misteriosa...!
 Preeeeaah!
-Reshiram went flying off somewhere...
+Reshiram vola via da qualche parte...
 N: \xf000\xbe09\x0001\x0001キミは ゼクロムに\xfffeあたらしい えいゆうと みとめられた\xf000\xbe01\x0000\xfffeそう! せかいを かえるほどの\xfffeおもいを もつ Trainerとして!\xf000\xbe09\x0001\x0000\xf000\xbe01\x0000
 N: \xf000\xbe09\x0001\x0001ゼクロムに キミの ポケモンの\xfffeつよさを しめしてみせたんだね\xf000\xbe09\x0001\x0000\xf000\xbe01\x0000
 N: \xf000\xbe09\x0001\x0001ゼクロムとの\xfffeけっちゃくを さけるだなんて\xf000\xbe00\x0000\xfffeキミは おもしろい Trainerだ\xf000\xbe09\x0001\x0000\xf000\xbe01\x0000
