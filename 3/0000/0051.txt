@@ -344,37 +344,37 @@ Oh, hai perso una Poké Ball.\xfffeEccola, prendi.\xf000븁\x0000
 ...\xf000븁\x0000\xfffeEhi, non mi dici neanche grazie?!\xf000븁\x0000\xfffeBisogna sempre ringraziare le persone\xfffeche ci fanno un favore, no?\xf000븁\x0000\xfffeAllora, mi diresti con quali parole\xffferingrazi di solito?
 Se ti va, mi dici come esprimi di solito\xfffela tua gratitudine?
 
-それじゃ またこんどね\xf000븁\x0000\xfffeかんしゃの きもちは\xfffeわすれちゃ ダメよ
-すてきな ことばね\xfffeこころが あたたかくなるわ\xf000븁\x0000\xfffeだれかが あなたを\xfffeたすけてくれた ときは\xf000븀\x0000\xfffeかんしゃの きもちを つたえてあげて\xf000븁\x0000\xfffeその きもちは きっと\xfffeあいてに つたわるはずよ
-What a wonderful way of putting it!\xfffeIt warms the heart!\xf000븁\x0000Whenever anyone helps you,\xfffetell them your gratitude!\xf000븁\x0000You should always\xfffelet them know!
-Do you know about Surveyer Ranks?\xf000븁\x0000Fulfill a lot of requests,\xfffeand your rank goes up!\xf000븁\x0000A higher rank will make\xfffeeveryone respect you.\xf000븁\x0000And you might get requests\xfffethat net you good stuff!
-たいいんランクって しってる?\xf000븁\x0000\xfffeあ Aランクの\xfffe\xf000Ā\x0001\x0001たいいん\xf000븁\x0000\xfffeもう Aランクたいいん なんだね\xfffeすごいな...\xf000븁\x0000\xfffeオレも がんばって\xfffeちょうさしないと!\xf000븁\x0000\xfffeAランクの いらいは\xfffeむずかしい らしいから\xf000븀\x0000\xfffeがんばって ちょうさしてね!
-Do you know about Surveyer Ranks?\xf000븁\x0000Ah, you're A Rank\xfffeSurveyer \xf000Ā\x0001\x0001!\xf000븁\x0000A Rank Surveyer already?\xfffeAmazing...\xf000븀\x0000I'll try hard, too!\xf000븀\x0000Gotta survey!\xf000븁\x0000A Rank requests\xfffeare pretty difficult,\xf000븀\x0000so good luck conducting!
-Do you know about Surveyer Ranks?\xf000븁\x0000...S Rank\xfffeSurveyer \xf000Ā\x0001\x0001!\xf000븁\x0000Just a little more, and you'll be\xfffeat the max rank of SS!\xf000븁\x0000I support you!\xfffeGood luck!!
-じぶんの じょうほうを\xfffeしりたいときは\xf000븁\x0000\xfffeおくの かべにある\xfffeえんグラフを しらべてごらん\xf000븁\x0000\xfffeあそこには たいいんじょうほうが\xfffeかかれているんだ\xf000븁\x0000\xfffeもちろん キミのことも\xfffeちょうさずみさ!
-When you want to know\xfffeyour own surveying progress,\xf000븀\x0000check the pie chart on the wall.\xf000븁\x0000All your info as a surveyer\xfffeis displayed there.\xf000븁\x0000Of course, we keep track of\xfffenot just surveys, but you!
-アンケ-トには もうこたえた?\xf000븁\x0000じぶんが どんな ひとなのか\xfffeこれぐらいは こたえたほうが いいよ
-ちょうさレ-ダ-の\xfffeちょうさこうもくが ふえなくて\xf000븀\x0000こまってないかな?\xf000븁\x0000ちょうさこうもくを ふやしたいなら\xfffeほんぶで たくさん アンケ-トに\xf000븀\x0000こたえると いいよ
-Sランクたいいんなら ぜんぶの\xfffeアンケ-トに こたえているよね?\xf000븁\x0000キミの しりたいことは\xfffeみんなが しりたいこと!\xf000븁\x0000アンケ-トには せっきょくてきに\xfffeこたえてあげてね
-おつかれさまです!\xfffe\xf000Ā\x0001\x0001たいいん!\xf000븁\x0000たいいんも ふえて\xfffeにぎやかに なりましたね\xf000븁\x0000これなら ちょうさデ-タも\xfffeたくさん あつまりますね
-ちょうさって すればするほど\xfffeおもしろいわ\xf000븁\x0000もっと たくさんの ひとと\xfffeすれちがうわよ!\xf000븁\x0000ひとりより みんなで ちょうさを\xfffeするほうが だんぜん おもしろいわ
-もしかして ちょうさに\xfffeこまってない?\xf000븁\x0000ひとと たくさん すれちがうのが\xfffeむずかしいなら\xf000븀\x0000じかんちょうさが おすすめよ\xf000븁\x0000じかんは かかるけど\xfffeひとりでも すれちがえれば\xf000븀\x0000いらいを たっせい できるわ
-いいこと おしえますね\xf000븁\x0000ひとが たくさん いる\xfffeばしょに いくなら\xf000븀\x0000にんずうちょうさが おすすめですよ\xf000븁\x0000すぐに ちょうさデ-タが\xfffeあつまるから たんじかんで\xf000븀\x0000いらいを たっせい できますよ
-さっき アンケ-トに こたえたら\xfffeアンケ-トようしを もらえたわよ\xf000븁\x0000\xfffeぜんぶの アンケ-トに\xfffeこたえてみようかな...
-アンケ-トの つぎは ちょうさね\xf000븁\x0000\xfffeちょうさレ-ダ-で しらべたい\xfffeちょうさを セットして...\xf000븀\x0000\xfffeさあ でかけるわよ!
-あたらしい たいいんが\xfffeアンケ-トに こたえないのよ\xf000븁\x0000\xfffeアンケ-トに こたえれば\xfffeもっと いろいろな ちょうさが\xf000븀\x0000\xfffeできるのに... もったいないな...
-こんにちは!\xfffe\xf000Ā\x0001\x0001たいいん!\xf000븁\x0000\xfffeわたしも しんまいたいいんに\xfffeちょうさの やりかたを\xf000븀\x0000\xfffeおしえるように なったんですよ
-いま にんきがある\xfffeえいがって なんだろう?\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001たいいんは\xfffeしってますか?
-いま にんきがある\xfffeゲ-ムって なんだろう?\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001たいいんは\xfffeしってますか?
-いま にんきが...\xfffeあ \xf000Ā\x0001\x0001たいいん\xf000븁\x0000\xfffeやっぱり じぶんで\xfffeしらべないと ダメですよね...\xf000븁\x0000\xfffeう~ん めんどうなんだもんな...
-たいちょうの ちょうさいらいって\xfffeたいへん ですね\xf000븁\x0000\xfffeだんだん むずかしい\xfffeちょうさいらいが ふえてきたし...
-どうも! おつかれさまです\xfffe\xf000Ā\x0001\x0001たいいん\xf000븁\x0000\xfffeたいちょうの いらいは\xfffeぜんぶ たっせい しましたか?\xf000븁\x0000\xfffeいらいを ぜんぶ たっせいすると\xfffeいいものが もらえるらしいですよ!
-あ \xf000Ā\x0001\x0001たいいん!\xfffeおあいできて こうえいです!\xf000븁\x0000\xfffeどうしよう~\xfffe\xf000Ā\x0001\x0001たいいんに\xf000븀\x0000\xfffeはなしかけられちゃった!
-きみは うれしいとき\xfffeどんなカンジで よろこぶ?\xf000븁\x0000\xfffeぼくは: ヤッタ-!』なんだけど\xfffeもっと ステキな\xf000븀\x0000\xfffeよろこびかたを おしえてよ
+それじゃ またこんどね\xf000\xbe01\x0000\xfffeかんしゃの きもちは\xfffeわすれちゃ ダメよ
+すてきな ことばね\xfffeこころが あたたかくなるわ\xf000\xbe01\x0000\xfffeだれかが あなたを\xfffeたすけてくれた ときは\xf000\xbe00\x0000\xfffeかんしゃの きもちを つたえてあげて\xf000\xbe01\x0000\xfffeその きもちは きっと\xfffeあいてに つたわるはずよ
+What a wonderful way of putting it!\xfffeIt warms the heart!\xf000\xbe01\x0000Whenever anyone helps you,\xfffetell them your gratitude!\xf000\xbe01\x0000You should always\xfffelet them know!
+Do you know about Surveyer Ranks?\xf000\xbe01\x0000Fulfill a lot of requests,\xfffeand your rank goes up!\xf000\xbe01\x0000A higher rank will make\xfffeeveryone respect you.\xf000\xbe01\x0000And you might get requests\xfffethat net you good stuff!
+たいいんランクって しってる?\xf000\xbe01\x0000\xfffeあ Aランクの\xfffe\xf000\x0100\x0001\x0001たいいん\xf000\xbe01\x0000\xfffeもう Aランクたいいん なんだね\xfffeすごいな...\xf000\xbe01\x0000\xfffeオレも がんばって\xfffeちょうさしないと!\xf000\xbe01\x0000\xfffeAランクの いらいは\xfffeむずかしい らしいから\xf000\xbe00\x0000\xfffeがんばって ちょうさしてね!
+Do you know about Surveyer Ranks?\xf000\xbe01\x0000Ah, you're A Rank\xfffeSurveyer \xf000\x0100\x0001\x0001!\xf000\xbe01\x0000A Rank Surveyer already?\xfffeAmazing...\xf000\xbe00\x0000I'll try hard, too!\xf000\xbe00\x0000Gotta survey!\xf000\xbe01\x0000A Rank requests\xfffeare pretty difficult,\xf000\xbe00\x0000so good luck conducting!
+Do you know about Surveyer Ranks?\xf000\xbe01\x0000...S Rank\xfffeSurveyer \xf000\x0100\x0001\x0001!\xf000\xbe01\x0000Just a little more, and you'll be\xfffeat the max rank of SS!\xf000\xbe01\x0000I support you!\xfffeGood luck!!
+Do you know the ranks of statisticians?\xf000\xbe01\x0000\xfffeOh, you are \xf000\x0100\x0001\x0001.\xfffeYou are an S+ rank statistician!\xf000\xbe01\x0000\xfffeWow! I will also do my best to\xfffeadvance in rank as much as possible!
+When you want to know\xfffeyour own surveying progress,\xf000\xbe00\x0000check the pie chart on the wall.\xf000\xbe01\x0000All your info as a surveyer\xfffeis displayed there.\xf000\xbe01\x0000Of course, we keep track of\xfffenot just surveys, but you!
+Have you answered a questionnaire?\xf000\xbe01\x0000\xfffeYou should at least answer about\xfffewhat kind of person you are.
+Are you having a hard time getting new\xfffesurvey items in the Survey Radar?\xf000\xbe01\x0000\xfffeIf you want more survey items, answer\xfffequestionnaires in the headquarters.
+If you are an S-rank statistician, you\xfffemust have answered all the\xf000\xbe00\x0000\xfffequestionnaires.\xf000\xbe01\x0000\xfffeWhat you want to know is\xfffewhat everybody wants to know.\xf000\xbe01\x0000\xfffePlease volunteer to answer\xfffequestionnaires.
+Good work today,\xfffe\xf000\x0100\x0001\x0001!\xf000\xbe01\x0000\xfffeWe have more statisticians, and\xfffethis place has become quite lively.\xf000\xbe01\x0000\xfffeThe way things are going,\xfffewe can collect more survey data.
+The more I conduct surveys,\xfffethe more fun it will be.\xf000\xbe01\x0000\xfffeI'm determined to pass by more people!\xf000\xbe01\x0000\xfffeIt's way more fun to conduct surveys\xfffewith people than doing them by myself.
+By any chance, are you having trouble?\xf000\xbe01\x0000\xfffeIf it's difficult to pass by many people,\xfffeI recommend you try a timed survey.\xf000\xbe01\x0000\xfffeIt takes time, but if you pass by just\xfffeone person, you can complete the\xf000\xbe00\x0000\xffferequest.
+I'll give you a hint.\xf000\xbe01\x0000\xfffeIf you go to a place full of people,\xfffeI recommend a head-count survey.\xf000\xbe01\x0000\xfffeYou can collect survey data really fast,\xfffeso you can complete the request\xf000\xbe00\x0000\xfffein a short time.
+さっき アンケートに こたえたら\xfffeアンケートようしを もらえたわよ\xf000\xbe01\x0000\xfffeぜんぶの アンケートに\xfffeこたえてみようかな...
+When I answered a questionnaire earlier,\xfffeI got a questionnaire sheet.\xf000\xbe01\x0000\xfffeMaybe I will answer all the\xfffequestionnaires...
+あたらしい たいいんが\xfffeアンケートに こたえないのよ\xf000\xbe01\x0000\xfffeアンケートに こたえれば\xfffeもっと いろいろな ちょうさが\xf000\xbe00\x0000\xfffeできるのに... もったいないな...
+New statisticians are not\xfffeanswering questionnaires.\xf000\xbe01\x0000\xfffeIf they answered questionnaires,\xfffethey could conduct more surveys...\xf000\xbe00\x0000\xfffeWhat a shame!
+Hello, \xf000\x0100\x0001\x0001!\xf000\xbe01\x0000\xfffeI've also started teaching novice\xfffestatisticians how to conduct surveys.
+いま にんきがある\xfffeゲームって なんだろう?\xf000\xbe01\x0000\xfffe\xf000\x0100\x0001\x0001たいいんは\xfffeしってますか?
+What is the popular food now?\xfffe\xf000\x0100\x0001\x0001, do you have any idea?
+What is the popular...\xfffeOh, \xf000\x0100\x0001\x0001.\xf000\xbe01\x0000\xfffeI knew it.\xfffeI have to take a survey by myself...\xf000\xbe01\x0000\xfffeAh, it is a pain in the neck...
+The survey requests from the leader\xfffeare hard. Don't you agree?\xf000\xbe01\x0000\xfffeBesides, the number of more difficult\xfffesurveys are increasing...
+Hello! Good work today, \xf000\x0100\x0001\x0001.\xf000\xbe01\x0000\xfffeHave you finished all the\xfffesurvey requests from the leader?\xf000\xbe01\x0000\xfffeI heard if you finish all the requests,\xfffeyou can get something good!
+きみは うれしいとき\xfffeどんなカンジで よろこぶ?\xf000\xbe01\x0000\xfffeぼくは: ヤッター!』なんだけど\xfffeもっと ステキな\xf000\xbe00\x0000\xfffeよろこびかたを おしえてよ
 うれしいときに つい いってしまう!\xfffeそんな ことばを おしえてよ!
-やった-!
-それじゃ またこんどね\xf000븁\x0000\xfffeうれしい ときは\xfffeおもいっきり よろこばなきゃ ね!
-ステキな セリフ!!\xf000븁\x0000\xfffeすれちがいログの はつげんで\xfffeすばやく にゅうりょくできるように\xf000븀\x0000\xfffeとうろく しておいたからね!
+やったー!
+それじゃ またこんどね\xf000\xbe01\x0000\xfffeうれしい ときは\xfffeおもいっきり よろこばなきゃ ね!
+ステキな セリフ!!\xf000\xbe01\x0000\xfffeすれちがいログの はつげんで\xfffeすばやく にゅうりょくできるように\xf000\xbe00\x0000\xfffeとうろく しておいたからね!
 Cerchiamo nuovi assistenti!\xfffeRivolgiti al capo!
 \xf000Ā\x0001\x0000\xfffeRango C\xfffeContatti stabiliti: \xf000Ȅ\x0001\x0001\xfffeRingraziamenti ricevuti: \xf000Ȅ\x0001\x0002
 \xf000Ā\x0001\x0000\xfffeRango B\xfffeContatti stabiliti: \xf000Ȅ\x0001\x0001\xfffeRingraziamenti ricevuti: \xf000Ȅ\x0001\x0002
