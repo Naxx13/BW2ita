@@ -2,7 +2,7 @@ CONTINUA
 NUOVO GIOCO
 DONO SEGRETO
 IMPOSTAZIONI NINTENDO WFC
-SIFDA LOTTA
+SFIDA LOTTA
 IMPOSTAZIONI SINCROGIOCO
 POKÈTRASPORTO
 TEST MIC.
@@ -22,12 +22,12 @@ Modalità Aiuto
 Modalità Sfida
 Foresta bianca
 Città nera
-Roccia
-Acciaio
-Ghiaccio
-ほんたいの　せっていにより\xfffeむせんつうしんが　つかえません\xf000븁\x0000\xfffeむせんつうしんを　つかうには\xfffeほんたいせっていの　むせんつうしんを\xf000븀\x0000\xfffeオンにしてください　（５０６９９）
-ペアレンタルコントロールの\xfffeつうしんせいげん
-イッシュリンクの　キーシステム　で\xfffeモードへんこうの　キーが\xf000븀\x0000\xfffeそうしん　できるように　なりました\xf000븁\x0000
+Stanza Roccia
+Stanza Acciaio
+Stanza Ghiaccio
+Comunicazione wireless spenta.\xfffeAccendere la comunicazione wireless\xf000\xbe00\x0000\xfffenelle impostazioni di sistema.\xf000\xbe00\x0000\xfffeCodice Errore: 50699
+Restrizioni di comunicazione\xfffeusando il Parental Control
+Unova Link's Key System\xfffekey mode change\xf000\xbe00\x0000\xfffecan now be sent!\xf000\xbe01\x0000
 Attenzione!
 Puoi goderti questo gioco al massimo\xfffequando la comunicazione wireless è accesa.\xfffeDove è proibito usare comuni-\xfffecazioni wireless, come areoplani e\xfffeospedali, per favore spegni le comu-\xfffenicazioni wireless.\xfffePuoi cambiare questa impostazione\xfffeanche usando il C-Gear nel gioco.
 Attenzione!
@@ -36,14 +36,14 @@ Pulsante A: Inizia avventura
 Pulsante B: Torna al menu
 Accendere il C-Gear?
 Non potrai usare alcune\xfffefunzioni del C-Gear. Va bene?
-Il file di salvataggio è danneggiato\xfffedue o è stato eliminato.
-A Battle Video appears to have been\xfffeerased.
+Il file di salvataggio è danneggiato\xfffeo è stato eliminato.
+Una video battaglia è stata\xfffecancellata.
 Lo sfondo per il C-Gear\xfffe è stato eliminato.
 Il salvataggio per il Battle Test\xfffeè stato eliminato.
 Il salvataggio del musical\xfffeè stato eliminato.
 Lo sfondo per il Pokèdex\xfffeè stato eliminato.
 Il salvataggio per la Sala D'Onore\xfffeè stato eliminato.
 Il salvataggio per il Dono Segreto\xfffeè stato eliminato.
-きえてしまった　ポケウッドの\xfffeきろくが　あります！
-キーシステムと　おもいでリンクの\xfffeきろくが　きえてしまった！
-きえて　しまった　ＰＷＴの\xfffeきろくが　あります！
+Il salvataggio per il PokéStar\xfffeè stato eliminato.
+Il salvataggio del Sistema Chiavi\xfffeè stato eliminato.
+Il salvataggio del PWT\xfffeè stato eliminato.
