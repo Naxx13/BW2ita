@@ -1,12 +1,12 @@
-Remaining time:　\xf000ȁ\x0001\x0000mins.\xfffeAfter　\xf000ȁ\x0001\x0001Rounds
-Remaining time:　\xf000ȁ\x0001\x0000mins.\xfffeAfter　\xf000ȁ\x0001\x0001People
+Tempo rimasto:　\xf000ȁ\x0001\x0000mins.\xfffeDopo　\xf000ȁ\x0001\x0001Rounds
+Tempo rimasto:　\xf000ȁ\x0001\x0000mins.\xfffeDopo　\xf000ȁ\x0001\x0001Persone
 Let \xf000Ā\x0001\x0000 talk to you and\xfffegive “\xf000Đ\x0001\x0001" in return!
-Talk to \xf000Ā\x0001\x0000 and\xfffegive “\xf000Đ\x0001\x0001"!
-Challenge \xf000Ā\x0001\x0000 to a battle!\xfffeFlat Battle: Lv. \xf000Ȃ\x0001\x0001, two Pokémon
-Talk to \xf000Ā\x0001\x0000 in a battle\xfffeand give “HP Restoring Power."
-Talk to \xf000Ā\x0001\x0000 in a battle\xfffeand give “HP Restoring Power."
-Talk to \xf000Ā\x0001\x0000 in a battle\xfffeand give “HP Restoring Power."
-Talk to \xf000Ā\x0001\x0000 in a battle\xfffeand give “HP Restoring Power."
+Parla con \xf000Ā\x0001\x0000 e\xfffedai “\xf000Đ\x0001\x0001"!
+Sfida \xf000Ā\x0001\x0000 per una battaglia!\xfffeFlat Battle: Lv. \xf000Ȃ\x0001\x0001, two Pokémon
+Parla con \xf000Ā\x0001\x0000 in una battaglia\xfffee dai “Ripristina PS."
+Parla con \xf000Ā\x0001\x0000 in una battaglia\xfffee dai “Ripristina PS."
+Parla con \xf000Ā\x0001\x0000 in una battaglia\xfffee dai “Ripristina PS."
+Parla con \xf000Ā\x0001\x0000 in una battaglia\xfffee dai “Ripristina PS."
 Stash one \xf000ĉ\x0001\x0000 between\xfffetwo benches in Nimbasa City!
 Stash one \xf000ĉ\x0001\x0000 in front of the\xfffehouse behind the market in Driftveil City!
 Stash one \xf000ĉ\x0001\x0000 in front of the\xfffesecond airplane in Mistralton City!
