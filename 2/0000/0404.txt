@@ -1,4 +1,4 @@
-Scaricamento Torneo
+Scarica Torneo
 \xf000Ļ\x0001\x0000
 Regole Battaglia:
 Battaglia singola
@@ -11,29 +11,29 @@ Pokémon Proibiti
 Articoli Proibiti
 Attacchi Proibiti
 Nessuno
-Searching for tournament data.\xfffePer favore aspetta un secondo...
+Ricerca dei dati torneo.\xfffePer favore attendere...
 Per favore seleziona il torneo\xfffedesideri salvare.\xf000븁\x0000
-Vuoi disconnettere\xfffeda Nintendo WFC?
+Vuoi disconnetterti\xfffedalla Nintendo WFC?
 SI
 NO
-\xf000Ļ\x0001\x0000　を\xfffeほぞん　しますか？
+Vuoi salvare\xfffe\xf000\x013b\x0001\x0000?
 SI
 NO
-Questo torneo\xfffee` stato salvato.\xf000븁\x0000
+Questo torneo\xfffeeè stato salvato.\xf000븁\x0000
 Ricevuto salvataggio torneo!\xf000븁\x0000
-Salvataggio torneo...\xfffeDon't turn off the power.
-Il torneo e` stato salvato.\xf000븁\x0000
-Il salvataggio e` pieno.\xfffePlease delete a tournament.\xf000븁\x0000
+Salvataggio torneo...\xfffeNon spegnere.
+Il torneo è stato salvato.\xf000븁\x0000
+Il salvataggio del torneo è pieno.\xfffeCancellare un torneo.\xf000븁\x0000
 Fermare eliminazione torneo?
 SI
 NO
 \xf000Ļ\x0001\x0000\xfffeSaranno cancellati. Va bene?
 SI
 NO
-\xf000Ļ\x0001\x0000\xfffenon puo` essere recuperato una volta che si\xfffeesce.Continuare comunque?
+\xf000Ļ\x0001\x0000\xfffenon può essere recuperato una volta che si\xfffeesce.Continuare comunque?
 SI
 NO
-Il Salvataggio torneo\xfffee` stato cancellato.\xf000븁\x0000
+Il Salvataggio torneo\xfffeè stato cancellato.\xf000븁\x0000
 Salvataggio non trovato.\xf000븁\x0000
 Salvataggio non trovato.\xf000븁\x0000
 Salvataggio non trovato.\xf000븁\x0000
