@@ -8,5 +8,5 @@
 Allenatoreとの ポケモンしょうぶは\xfffeにげられない しんけんしょうぶ!\xf000\xbe01\x0000\xfffeなにより あいする ポケモンのまえで\xfffeTrainerみずから にげるのはねー
 Percorso 2
 Percorso 2
-Consigli Utili!\xf000\xbe01\x0000\xfffe\xfffeI Pokémon che partecipano alle battaglie\xfffericevono Punti Exp.\xf000\xbe01\x0000\xfffeHave your Pokémon battle often,\xfffeand make them stronger and stronger!
+Consigli Utili!\xf000\xbe01\x0000\xfffe\xfffeI Pokémon che partecipano alle battaglie\xfffericevono Punti Esp.\xf000\xbe01\x0000\xfffeCombatti con i Pokèmon spesso,\xfffee rendili sempre più forti!
 かんばんの うらに\xfffeらくがきが ある...\xf000\xbe01\x0000\xfffeじんかん\xfffeいたるところ せいざん あり\xf000\xbe01\x0000\xfffeおなじく \xfffeいたるところに メダルも あり
