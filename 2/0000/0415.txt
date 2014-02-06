@@ -35,13 +35,13 @@ Un uovo non può essere scelto\xfffeper uno scambio!\xf000븁\x0000
 てもちが　いっぱいで　ポケモンを\xfffeうけとることが　できません！\xf000븁\x0000
 Your Storage Boxes are full.\xfffenon puoi ricevere un Pokémon!\xf000븁\x0000
 E' stato trovato un partner per lo scambio!
-Ｗｉ－Ｆｉコネクションに　せつぞく
-Tocca 『SELECT』 per scegliere un partner di scambio.
-Please change your conditions.
+Connesso alla Nintendo Wi-Fi Connection.
+Premi 『SELECT』 per scegliere un partner di scambio.
+Cambia le tue condizioni.
 Aspetta un secondo.
 Il tuo gruppo è pieno. Non puoi ricevere\xfffea Pokémon that is holding Mail.\xf000븁\x0000
 Non ci sono stanze nel tuo party.
-It has a special Ribbon.\xfffeNon può essere offerto in uno scambio.\xf000븁\x0000
+Ha un fiocco speciale.\xfffeNon può essere offerto in uno scambio.\xf000븁\x0000
 GTS check failed.
 \xf000봂\x0000GLOBAL TRADE SYSTEM
 \xf000봂\x0000SUMMARY
@@ -152,7 +152,7 @@ Lv. 100
 ＧＴＳと　ポケモンを　\xfffeこうかん　しています！
 ポケモンの　こうかんが\xfffeせいりつ　しました！\xf000븁\x0000
 Unfortunately, it was traded to\xfffeanother Trainer.\xf000븁\x0000
-Saving...\xfffeDon't turn off the power.
+Salvataggio in corso ...\xfffeNon spegnere la console.
 ただいま　ＧＴＳと　つうしんを\xfffeおこなっています……
 Il GTS è attualmente\xfffein manutenzione.\xf000븁\x0000\xfffeRiprova più tardi.\xf000븁\x0000
 The GTS is very crowded now.\xfffeRiprova più tardi. (13261).\xf000븁\x0000
@@ -171,17 +171,17 @@ sei stato disconnesso dal GTS.\xfffeCodice di errore: 13262\xf000븁\x0000
 sei stato disconnesso dal GTS.\xfffeCodice di errore: 13274\xf000븁\x0000
 La connessione è stata persa.
 Returning to the reception counter.
-ANY
-Lv. 1 to 10
-Lv. 11 to 20
-Lv. 21 to 30
-Lv. 31 to 40
-Lv. 41 to 50
-Lv. 51 to 60
-Lv. 61 to 70
-Lv. 71 to 80
-Lv. 81 to 90
-Lv. 91 to 100
+Qualsiasi
+Liv. 1 a 10
+Liv. 11 a 20
+Liv. 21 a 30
+Liv. 31 a 40
+Liv. 41 a 50
+Liv. 51 a 60
+Liv. 61 a 70
+Liv. 71 a 80
+Liv. 81 a 90
+Liv. 91 a 100
 \xf000봂\x0000Back
 LOCATION
 \xf000Ĥ\x0001\x0000
@@ -193,9 +193,9 @@ This Pokémon cannot be traded in this\xfffeForme!\xf000븁\x0000
 Spiky-eared PICHU cannot be offered\xfffein trade. \xf000ȇ\x0000
 Questo Pokémon non può essere scambiato while\xfffecon quest'oggetto!\xf000븁\x0000
 O.T.
-There was an error while attempting to\xfffesend an authentication E-Mail.\xf000븁\x0000
-There was a communication error.\xf000븁\x0000
-The data was corrupted.\xfffeIt could not be sent.\xf000븁\x0000
+Si è verificato un errore durante il tentativo\xfffedi inviare una e-Mail di autenticazione.\xf000븁\x0000
+Si è verificato un errore di comunicazione.\xf000븁\x0000
+I dati dono stati danneggiati.\xfffeNon è stato possibile inviare.\xf000븁\x0000
 Il server è in manutenzione.\xfffeRiprova più tardi.\xf000븁\x0000
 There was a E-Mail\xfffeauthentication error.\xf000븁\x0000
 Disconnettendo da  Nintendo Wi-Fi\xfffeConnessione... Aspetta un momento.
@@ -242,10 +242,10 @@ Z
 
 
 ＧＴＳ
-ＧＴＳ\xfffeポケモンを　こうかんする
+ＧＴＳ\xfffeSostituire i Pokèmon
 ＧＴＳ\xfffeようすを　みる
 GTS\xfffeDEPOSITA POKÉMON
 GTS\xfffeRITIRAPOKÉMON
-CANCEL
+Cancella
 \xf000Ȁ\x0001\x0000
 /
